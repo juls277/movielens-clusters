@@ -1,4 +1,6 @@
 const { loadCleanMovies } = require("./preprocessing");
+const fs = require("fs");
+const path = require("path");
 
 
 
@@ -121,6 +123,44 @@ async function createClusters() {
   };
 }
 
+function saveClusters(singleClusters, pairClusters) {
+  const singleDir = path.join("data", "processed", "single");
+  const pairDir = path.join("data", "processed", "pairs");
+
+  // Make sure folders exist
+  fs.mkdirSync(singleDir, { recursive: true });
+  fs.mkdirSync(pairDir, { recursive: true });
+
+  // Save single-genre clusters
+  for (const [genre, movies] of Object.entries(singleClusters)) {
+    const filePath = path.join(
+      singleDir,
+      `${genre}.json`
+    );
+
+    fs.writeFileSync(
+      filePath,
+      JSON.stringify(movies, null, 2),
+      "utf8"
+    );
+  }
+
+  // Save pair clusters
+  for (const [pair, movies] of Object.entries(pairClusters)) {
+    const filePath = path.join(
+      pairDir,
+      `${pair}.json`
+    );
+
+    fs.writeFileSync(
+      filePath,
+      JSON.stringify(movies, null, 2),
+      "utf8"
+    );
+  }
+
+  console.log("\nClusters saved successfully.");
+}
 
 //main
 async function main() {
