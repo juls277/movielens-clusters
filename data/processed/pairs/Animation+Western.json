@@ -1,0 +1,93 @@
+[
+  {
+    "id": 9023,
+    "title": "Spirit: Stallion of the Cimarron",
+    "genres": [
+      "Western",
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "As a wild stallion travels across the frontiers of the Old West, he befriends a young human and finds true love with a mare.",
+    "releaseDate": "2002-05-24",
+    "runtime": 83
+  },
+  {
+    "id": 44896,
+    "title": "Rango",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Western",
+      "Adventure"
+    ],
+    "overview": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.",
+    "releaseDate": "2011-03-02",
+    "runtime": 107
+  },
+  {
+    "id": 51859,
+    "title": "Trigun: Badlands Rumble",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy",
+      "Animation",
+      "Western"
+    ],
+    "overview": "In a quicksand surrounded town called Makka, rumors spread of a legendary robber named Gasback is after the town. To protect it, Mayor Kepler has hired bounty hunters. These hunters have been following Gasback from town to town in hopes of getting the bounty. Vash the Stampede is in town, along with Meryl and Milly, along with the female bounty hunter Ameria and Nicholas D. Wolfwood.",
+    "releaseDate": "2010-04-02",
+    "runtime": 95
+  },
+  {
+    "id": 50166,
+    "title": "Lucky Luke: The Ballad of the Daltons",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "The story opens in a Western saloon, where a young musician with a banjo begins to tell a tale of Lucky Luke and his sworn enemies the Dalton brothers: Joe, William, Jack and Averell. Luke has, once again, as he has done many times before, thrown the four outlaws into jail. The prison is also the abode of a guard dog named Rin Tin Can (Rantanplan in the original French language version).",
+    "releaseDate": "1978-03-10",
+    "runtime": 82
+  },
+  {
+    "id": 52761,
+    "title": "Daisy Town",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "When the members of a caravan of pioneers find a daisy growing in the middle of the desert they decide to stop there and to build their town on this very spot. Houses soon spring up like mushrooms, immediately followed by a bank, a saloon, a prison, etc: Daisy Town is born. Unfortunately a city does not go without its bad boys and the peaceful place is soon turned into a lawless place. To restore law and order, a lawman is needed. Lucky Luke, the cowboy who shoots faster than his shadow, will be this man: all the villains had better watch out!.",
+    "releaseDate": "1971-11-01",
+    "runtime": 71
+  },
+  {
+    "id": 41988,
+    "title": "DC Showcase: Jonah Hex",
+    "genres": [
+      "Animation",
+      "Action",
+      "Western"
+    ],
+    "overview": "When a ruthless brothel madame murders Jonah Hex's current quarry, the disfigured bounty hunter plans to make her pay.",
+    "releaseDate": "2010-07-27",
+    "runtime": 12
+  },
+  {
+    "id": 421281,
+    "title": "Borrowed Time",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Western"
+    ],
+    "overview": "A weathered Sheriff returns to the remains of an accident he has spent a lifetime trying to forget. With each step forward, the memories come flooding back. Faced with his mistake once again, he must find the strength to carry on.",
+    "releaseDate": "2015-10-31",
+    "runtime": 7
+  }
+]

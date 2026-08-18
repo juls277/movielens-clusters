@@ -1,0 +1,130 @@
+[
+  {
+    "id": 8043,
+    "title": "Breakheart Pass",
+    "genres": [
+      "Thriller",
+      "Western",
+      "Mystery"
+    ],
+    "overview": "At the height of the frontier era, a train races through the Rocky Mountains on a classified mission to a remote army post. But one by one the passengers are being murdered, and their only hope is the mysterious John Deakin, who's being transported to face trial for murder.",
+    "releaseDate": "1975-12-25",
+    "runtime": 95
+  },
+  {
+    "id": 30718,
+    "title": "Last of the Dogmen",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A Montana bounty hunter is sent into the wilderness to track three escaped prisoners. Instead he sees something that puzzles him. Later with a female Native Indian history professor, he returns to find some answers.",
+    "releaseDate": "1995-09-08",
+    "runtime": 118
+  },
+  {
+    "id": 8053,
+    "title": "The Three Burials of Melquiades Estrada",
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Western"
+    ],
+    "overview": "When brash Texas border officer Mike Norton (Barry Pepper) wrongfully kills and buries the friend and ranch hand of Pete Perkins (Tommy Lee Jones), the latter is reminded of a promise he made to bury his friend, Melquiades Estrada (Julio Cesar Cedillo), in his Mexican home town. He kidnaps Norton and exhumes Estrada's corpse, and the odd caravan sets out on horseback for Mexico. As Estrada's body begins to rot, Norton begins to unravel, but Perkins remains determined to honor his vow.",
+    "releaseDate": "2005-11-17",
+    "runtime": 121
+  },
+  {
+    "id": 14241,
+    "title": "7 Faces of Dr. Lao",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Mystery",
+      "Western"
+    ],
+    "overview": "An old Chinese man rides into the town of Abalone, Arizona and changes it forever, as the citizens see themselves reflected in the mirror of Lao's mysterious circus of mythical beasts.",
+    "releaseDate": "1964-03-18",
+    "runtime": 100
+  },
+  {
+    "id": 43310,
+    "title": "The King and Four Queens",
+    "genres": [
+      "Adventure",
+      "Western",
+      "Mystery",
+      "Comedy"
+    ],
+    "overview": "Opportunistic con man Dan Kehoe ingratiates himself with the cantankerous mother of four outlaws and their beautiful widows in order to find their hidden gold.",
+    "releaseDate": "1956-12-21",
+    "runtime": 86
+  },
+  {
+    "id": 37294,
+    "title": "Station West",
+    "genres": [
+      "Romance",
+      "Western",
+      "Action",
+      "Mystery"
+    ],
+    "overview": "Dick Powell is a stranger in town battling Raymond Burr... with only Jane Greer on his side.",
+    "releaseDate": "1948-10-16",
+    "runtime": 87
+  },
+  {
+    "id": 64650,
+    "title": "Sartana the Gravedigger",
+    "genres": [
+      "Western",
+      "Mystery"
+    ],
+    "overview": "Sartana is falsely accused of robbing a bank, and must find the real robbers and clear his name.",
+    "releaseDate": "1969-11-20",
+    "runtime": 102
+  },
+  {
+    "id": 273248,
+    "title": "The Hateful Eight",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Western"
+    ],
+    "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+    "releaseDate": "2015-12-25",
+    "runtime": 167
+  },
+  {
+    "id": 77165,
+    "title": "And God Said to Cain",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Western",
+      "Action"
+    ],
+    "overview": "An innocent man sentenced to ten years in prison for a crime he did not commit, is released from jail, promising to seek revenge on the guilty.",
+    "releaseDate": "1970-02-05",
+    "runtime": 93
+  },
+  {
+    "id": 324560,
+    "title": "Brimstone",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "In the menacing inferno of the old American West, Liz is a genuine survivor who is hunted by a vengeful preacher for a crime she didn’t commit.",
+    "releaseDate": "2017-01-12",
+    "runtime": 148
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 37853,
+    "title": "Mister Roberts",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "War"
+    ],
+    "overview": "A hilarious and heartfelt military comedy-drama co-directed by John Ford and Mervyn LeRoy, Mister Roberts stars Henry Fonda as an officer who's yearning for battle but is stuck in the backwaters of World War II on a noncommissioned Navy ship run by the bullying Capt. Morton (James Cagney). Jack Lemmon enjoys a star-making turn as the freewheeling Ensign Pulver, and William Powell stars as the ship's doctor in his last screen role.  Based on the 1946 novel with the same name, by Thomas Heggen, and the 1948 Broadway play, written by Thomas Heggen and Joshua Logan. Henry Fonda also starred in the original Broadway production. Warner Bros. didn't want Fonda to star in the film, as they thought he was too old, and had been a stage player for so long (8 years), that he no longer was box office material. However, John Ford insisted on Fonda and the company eventually agreed.",
+    "releaseDate": "1955-07-13",
+    "runtime": 123
+  },
+  {
+    "id": 29937,
+    "title": "Divided We Fall",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "War"
+    ],
+    "overview": "In Nazi occupied Czechoslovakia, a childless couple agree to hide a Jewish friend at great personal risk of discovery and execution.",
+    "releaseDate": "2000-03-16",
+    "runtime": 120
+  },
+  {
+    "id": 43897,
+    "title": "The Littlest Rebel",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "War"
+    ],
+    "overview": "Virgie Cary's father, a rebel officer, sneaks back to his rundown plantation to see his dying wife and is arrested. A Yankee officer takes pity and sets up an escape. Everyone is captured and the officers are to be executed. Virgie and Uncle Billy beg President Lincoln to intercede.",
+    "releaseDate": "1935-11-22",
+    "runtime": 70
+  },
+  {
+    "id": 43752,
+    "title": "The Wackiest Ship in the Army",
+    "genres": [
+      "Comedy",
+      "Family",
+      "War"
+    ],
+    "overview": "Lieutenant Rip Crandall is hoodwinked into taking command of the \"Wackiest Ship in the Navy\" - a real garbage scow with a crew of misfits who don't know a jib from a jigger. What none of them knows, including Crandall, is that this ship has a very important top-secret mission to complete in waters patrolled by the Japanese fleet. Their mission will save hundreds of allied lives - if only they can get there in one piece.",
+    "releaseDate": "1960-12-29",
+    "runtime": 99
+  },
+  {
+    "id": 262475,
+    "title": "G.I. Joe: The Revenge of Cobra",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "Destro has created a Weather Dominator machine that can control the power of nature anywhere on earth. The G.I. Joe team stops Cobra Commander from using its destructive power, but during the battle, the machine is blown into three pieces and weather everywhere is thrown into chaos. G.I. Joe is in a race against time to recover the pieces first, so that they can stop the devastating weather and prevent Cobra from ruling the world!",
+    "releaseDate": "1984-09-10",
+    "runtime": 150
+  },
+  {
+    "id": 105945,
+    "title": "Memorial Day",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "History",
+      "War"
+    ],
+    "overview": "Memorial Day, 1993. When 13-year-old Kyle Vogel discovers the World War II footlocker belonging to his grandfather, Bud, everyone tells Kyle to put it back. Luckily, he ignores them. Although Bud has never talked about the war, he finds himself striking a deal with his grandson: Kyle can pick any three souvenirs, and Bud will tell him the stories behind each one. Memorial Day not only takes us on a journey into Bud's complicated wartime past, but also into Kyle's wartime future. As the two men share parallel experiences in combat, they come to realize how that magical day on the porch shaped both of their lives.",
+    "releaseDate": "2011-06-06",
+    "runtime": 108
+  },
+  {
+    "id": 279414,
+    "title": "Once My Mother",
+    "genres": [
+      "History",
+      "Documentary",
+      "War",
+      "Family"
+    ],
+    "overview": "Australian filmmaker Sophia Turkiewicz investigates why her Polish mother abandoned her and uncovers the truth behind her mother's wartime escape from a Siberian gulag, leaving Sophia to confront her own capacity for forgiveness.",
+    "releaseDate": "2014-07-24",
+    "runtime": 75
+  },
+  {
+    "id": 90358,
+    "title": "General Spanky",
+    "genres": [
+      "War",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "A small boy is instrumental in a famous Civil War victory in this Our Gang spinoff",
+    "releaseDate": "1936-12-11",
+    "runtime": 71
+  },
+  {
+    "id": 277190,
+    "title": "Secrets of War",
+    "genres": [
+      "War",
+      "Family",
+      "Drama"
+    ],
+    "overview": "Tuur and Lambert are best friends. But the war is closing in and is about to change their lives forever. Tuurs dad joined the resistance and even his big brother seems so be part of it. Lamberts family on the other hand choose to obey the Germans. Then a new girls from the city shows up, befriending the boys but telling her secret to only one of them. A choice that separates the boys and ultimately gets her in trouble.",
+    "releaseDate": "2014-07-03",
+    "runtime": 94
+  },
+  {
+    "id": 227998,
+    "title": "Tomorrow Was the War",
+    "genres": [
+      "Family",
+      "Drama",
+      "War"
+    ],
+    "overview": "A drama a life in a small Russian provincial town in 1940 - one year before Germany invaded the Soviet Union. Two school girls for the first time in their lives discover truth about Stalin repressions against innocent people. Based on a novel by Boris Vasiliev.",
+    "releaseDate": "1987-10-18",
+    "runtime": 0
+  }
+]

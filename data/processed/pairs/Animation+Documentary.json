@@ -1,0 +1,323 @@
+[
+  {
+    "id": 48329,
+    "title": "Ryan",
+    "genres": [
+      "Fantasy",
+      "Documentary",
+      "Animation",
+      "Drama"
+    ],
+    "overview": "Ryan is a 2004 animated documentary by Chris Landreth about the Canadian animator Ryan Larkin, who in later years lived on skid row in Montreal following a history of drug and alcohol abuse.",
+    "releaseDate": "2004-01-01",
+    "runtime": 13
+  },
+  {
+    "id": 48752,
+    "title": "2012: Time for Change",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "2012: Time For Change is a documentary feature that presents ways to transform our unsustainable society into a regenerative planetary culture. This can be achieved through a personal and global change of consciousness and the systemic implementation of ecological design.",
+    "releaseDate": "2010-10-08",
+    "runtime": 85
+  },
+  {
+    "id": 200157,
+    "title": "Walking with Beasts",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "A six-part BBC documentary miniseries that portrays prehistoric life in the Cenozoic using a combination of advanced computer-generated imagery and incredible life-like animatronics.",
+    "releaseDate": "2001-12-21",
+    "runtime": 180
+  },
+  {
+    "id": 28500,
+    "title": "Before The Dinosaurs - Walking With Monsters",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "Many people think of the dinosaurs as the first inhabitants of the earth, but this prequel to the acclaimed \"Walking with Dinosaurs\" puts viewers in the midst of a host of strange creatures that inhabited the earth millions of years before the dinosaurs ever existed.Starting from the Cambrian Period (530 MYA) and ending at the Early Triassic Period (248 MYA), Walking With Monsters shows the life and death struggles of the fantastic creatures that existed before the dinosaurs.",
+    "releaseDate": "2005-11-05",
+    "runtime": 87
+  },
+  {
+    "id": 110392,
+    "title": "A Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "John Cleese, Michael Palin, Terry Jones and Terry Gilliam pay tribute to their late Monty Python colleague Graham Chapman in this hilarious, 3-D animated adaptation of Chapman's brazenly fictionalized life story. (TIFF)",
+    "releaseDate": "2012-09-08",
+    "runtime": 85
+  },
+  {
+    "id": 167502,
+    "title": "Is the Man Who Is Tall Happy?",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "A series of interviews featuring linguist, philosopher and activist Noam Chomsky done in hand-drawn animation.",
+    "releaseDate": "2013-11-22",
+    "runtime": 88
+  },
+  {
+    "id": 21974,
+    "title": "Money as Debt",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "Paul Grignon's 47-minute animated presentation of \"Money as Debt\" tells in very simple and effective graphic terms what money is and how it is being created",
+    "releaseDate": "2006-01-01",
+    "runtime": 47
+  },
+  {
+    "id": 269100,
+    "title": "Video Games: The Movie",
+    "genres": [
+      "History",
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "From executive producer Zach Braff and director Jeremy Snead, \"Video Games: The Movie\" is an epic feature length documentary chronicling the meteoric rise of video games from nerd niche to multi-billion dollar industry. Narrated by Sean Astin and featuring in-depth interviews with the godfathers who started it all, the icons of game design, and the geek gurus who are leading us into the future, \"Video Games: The Movie\" is a celebration of gaming from Atari to Xbox and an eye-opening look at what lies ahead.",
+    "releaseDate": "2014-07-18",
+    "runtime": 101
+  },
+  {
+    "id": 252511,
+    "title": "The Kingdom of Dreams and Madness",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "Follows the behind-the-scenes work of Studio Ghibli, focusing on the notable figures Hayao Miyazaki, Isao Takahata, and Toshio Suzuki.",
+    "releaseDate": "2013-11-16",
+    "runtime": 118
+  },
+  {
+    "id": 214948,
+    "title": "New York Lightboard Record",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "New Yorkers watch as Norman McLaren's animated promotional film for Canadian tourism plays on the giant pixelboard overlooking Times Square. The caption below the board reads: \"Canada... Wonderful World At Your Doorstep\". McLaren himself is a member of the crowd.",
+    "releaseDate": "1961-01-01",
+    "runtime": 9
+  },
+  {
+    "id": 72585,
+    "title": "Why Man Creates",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "A 1968 animation/documentary that criticises the industrial system.",
+    "releaseDate": "1968-09-24",
+    "runtime": 29
+  },
+  {
+    "id": 303457,
+    "title": "Chaar Sahibzaade",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Documentary",
+      "Family",
+      "History"
+    ],
+    "overview": "Chaar Sahibzaade is the first photo realistic' 3D animation film in S-3D on Sikh history. It is the real story of the sacrifices of the four sons of Guru Gobind Singh ji (tenth guru of Sikhs)- Baba Ajit Singh ji, Baba Jujhar Singh ji, Baba Zorawar Singh ji and Baba Fateh Singh ji.",
+    "releaseDate": "2014-11-06",
+    "runtime": 134
+  },
+  {
+    "id": 264553,
+    "title": "The Life and Mind of Mark DeFriest",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "When a legendary escape artist comes up for parole after 30 years behind bars, a chance for freedom must be weighed against his infamous past.",
+    "releaseDate": "2014-04-30",
+    "runtime": 92
+  },
+  {
+    "id": 175518,
+    "title": "Tommy Tucker's Tooth",
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "The ten minute short Tommy Tucker’s Tooth from 1922, is a traditional black and white silent movie, with cards narrating the text and dialogue. It is an educational film, that combined live action and animation. I was surprised how little animation there was. But the scenes that blend live action and animation, though simple in our current day, were likely an interesting challenge for Iwerks.",
+    "releaseDate": "1922-12-06",
+    "runtime": 7
+  },
+  {
+    "id": 153153,
+    "title": "Pablo",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "Pablo blends documentary and animation elements to tell the saga of \"famous unknown\" Pablo Ferro, a man with a personal journey that spans from Havana, during the pre-Cuban revolution to his current home, in the garage behind his son's house.",
+    "releaseDate": "2012-10-17",
+    "runtime": 90
+  },
+  {
+    "id": 103194,
+    "title": "Dinotasia",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "Computer-generated animation about the daily lives of dinosaurs, narrated by Werner Herzog.",
+    "releaseDate": "2012-05-04",
+    "runtime": 83
+  },
+  {
+    "id": 96750,
+    "title": "The Crisis of Civilization",
+    "genres": [
+      "Documentary",
+      "Animation",
+      "History"
+    ],
+    "overview": "The Crisis Civilization is a documentary feature film investigating how global crises like ecological disaster, financial meltdown, dwindling oil reserves, terrorism and food shortages are converging symptoms of a single, failed global system. Proving that 'another world' is not merely possible, but on its way.",
+    "releaseDate": "2012-03-27",
+    "runtime": 82
+  },
+  {
+    "id": 205263,
+    "title": "A Is for Autism",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "An animated documentary short made by people with autism.",
+    "releaseDate": "1992-10-01",
+    "runtime": 11
+  },
+  {
+    "id": 369366,
+    "title": "Last Day of Freedom",
+    "genres": [
+      "Animation",
+      "Crime",
+      "Documentary"
+    ],
+    "overview": "When Bill Babbitt realizes his brother Manny has committed a crime he agonizes over his decision to call the police.",
+    "releaseDate": "2015-04-11",
+    "runtime": 32
+  },
+  {
+    "id": 147698,
+    "title": "Crulic - The Path to Beyond",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "The animated documentary feature-length Crulic The Path to Beyond tells the story of the life of Crulic, the 33 years old Romanian accused of having stolen a wallet from the important Polish Judge. Crulic is brought to the Krakow Detention Center Custody prison. He decided to start a hunger strike from the day he was arrested, asking for: a meeting with somebody from the Romanian Consulate",
+    "releaseDate": "2011-10-21",
+    "runtime": 73
+  },
+  {
+    "id": 97400,
+    "title": "The Sweatbox",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "Trudie Styler, a documentarian, had been allowed to film the production of Kingdom of the Sun/The Emperor's New Groove as part of the deal that originally brought her husband Sting to the project. As a result, Styler recorded on film much of the struggle, controversy, and troubles that went into making the picture (including the moment when producer Fullmer called Sting to inform the pop star that his songs were being deleted from the film). Styler's completed documentary, The Sweatbox, premiered at the Toronto Film Festival on September 13, 2002. Disney owns the rights to the documentary and has not released it on home video or DVD.",
+    "releaseDate": "2002-09-13",
+    "runtime": 86
+  },
+  {
+    "id": 376233,
+    "title": "Life, Animated",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "At three years old, a chatty, energetic little boy named Owen Suskind ceased to speak, disappearing into autism with apparently no way out. Almost four years passed and the only stimuli that engaged Owen were Disney films. Then one day, his father donned a puppet—Iago, the wisecracking parrot from Aladdin—and asked “what’s it like to be you?” And poof! Owen replied, with dialogue from the movie. Life, Animated tells the remarkable story of how Owen found in Disney animation a pathway to language and a framework for making sense of the world.",
+    "releaseDate": "2016-03-03",
+    "runtime": 91
+  },
+  {
+    "id": 253817,
+    "title": "Last Hijack",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "Documentary that follows the lives of two pirates and their community on the Somali coastline; what are the incentives of the pirates, why did they become pirates, how did they grow up in a country with political chaos, war and extreme poverty? The narrative structure is built around two interweaving story-lines; one depicting the \"present\", the daily lives of the pirates and their community, and the second in the \"past\", revealing through epic animation, the unfolding of a recent hijacking.",
+    "releaseDate": "2014-04-24",
+    "runtime": 83
+  },
+  {
+    "id": 381028,
+    "title": "Tower",
+    "genres": [
+      "Animation",
+      "Crime",
+      "Documentary"
+    ],
+    "overview": "Combining archival footage with rotoscopic animation, Tower reveals the action-packed untold stories of the witnesses, heroes and survivors of America’s first mass school shooting, when the worst in one man brought out the best in so many others.",
+    "releaseDate": "2016-03-13",
+    "runtime": 83
+  },
+  {
+    "id": 374460,
+    "title": "A Grand Night In: The Story of Aardman",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "Julie Walters tells the story of how Morph, Shaun the Sheep and that cheese-loving man Wallace and his dog Gromit first came to life.",
+    "releaseDate": "2015-12-26",
+    "runtime": 59
+  },
+  {
+    "id": 256421,
+    "title": "Superman 75",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "overview": "An animated short about the 75 years of Superman",
+    "releaseDate": "2013-10-15",
+    "runtime": 2
+  },
+  {
+    "id": 381096,
+    "title": "Yarn",
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "overview": "The traditional crafts of crochet and knitting have become one of the hottest movements in modern art. We follow a few International artists and knitters as they bring yarn to the streets and into our lives in new ways. Starting in Iceland, this quirky and thought-provoking film takes us on a colourful and global journey as we discover how yarn connects us all.",
+    "releaseDate": "2016-03-12",
+    "runtime": 76
+  },
+  {
+    "id": 68365,
+    "title": "The Life Of Buddha",
+    "genres": [
+      "History",
+      "Documentary",
+      "Animation",
+      "Drama"
+    ],
+    "overview": "A BBC/Discovery Channel co-production, this docu-narrative film describes the life of Siddharta Gautama, the process by which he arrived at the fundamentals of Buddhism and the archaeological findings confirming the traditional accounts of his life. In addition it also gives a glimpse of Buddhism today and features interviews by the Dalai Lama and other notable Buddhists.",
+    "releaseDate": "2007-12-05",
+    "runtime": 92
+  }
+]

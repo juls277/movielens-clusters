@@ -1,0 +1,3687 @@
+[
+  {
+    "id": 45325,
+    "title": "Tom and Huck",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "A mischievous young boy, Tom Sawyer, witnesses a murder by the deadly Injun Joe. Tom becomes friends with Huckleberry Finn, a boy with no future and no family. Tom has to choose between honoring a friendship or honoring an oath because the town alcoholic is accused of the murder. Tom and Huck go through several adventures trying to retrieve evidence.",
+    "releaseDate": "1995-12-22",
+    "runtime": 97
+  },
+  {
+    "id": 26441,
+    "title": "The Big Green",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "In a depressed Texas town, British foreign exchange teacher Anna attempts to inject some life into her hopeless kids by introducing them to soccer. They're terrible at first, but Anna and her football-hero assistant whip them into shape. As they work overtime, the pair help kids build their self-esteem and also get involved in solving family squabbles.",
+    "releaseDate": "1995-09-29",
+    "runtime": 100
+  },
+  {
+    "id": 10874,
+    "title": "Muppet Treasure Island",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Music",
+      "Family",
+      "Adventure"
+    ],
+    "overview": "After telling the story of Flint's last journey to young Jim Hawkins, Billy Bones has a heart attack and dies just as Jim and his friends are attacked by pirates. The gang escapes into the town where they hire out a boat and crew to find the hidden treasure, which was revealed by Bones before he died. On their voyage across the seas, they soon find out that not everyone on board can be trusted.",
+    "releaseDate": "1996-02-16",
+    "runtime": 100
+  },
+  {
+    "id": 55731,
+    "title": "Race the Sun",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "overview": "A bunch of high school misfits in Hawaii, introduced by their new teacher, attend a science fair in which they draw up inspiration to build their own solar car and win a trip to compete in the 1990 World Solar Challenge in Australia.",
+    "releaseDate": "1996-03-22",
+    "runtime": 100
+  },
+  {
+    "id": 30765,
+    "title": "The Amazing Panda Adventure",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Far from home in the lush bamboo forests of China, ten-year-old Ryan Tyler, with the help of a young girl, goes on a wonderful journey to rescue a baby panda taken by poachers.",
+    "releaseDate": "1995-08-25",
+    "runtime": 81
+  },
+  {
+    "id": 9070,
+    "title": "Mighty Morphin Power Rangers: The Movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "Power up with six incredible teens who out-maneuver and defeat evil everywhere as the Mighty Morphin Power Ranger, But this time the Power Rangers may have met their match, when they face off with the most sinister monster the galaxy has ever seen.",
+    "releaseDate": "1995-06-30",
+    "runtime": 92
+  },
+  {
+    "id": 26258,
+    "title": "Bushwhacked",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "overview": "A inept courier realises he has been used by criminals to deliver money. On the run from both the criminals and police, he poses as a Scout leader and leads a scout group on a hike through the mountains.",
+    "releaseDate": "1995-08-04",
+    "runtime": 90
+  },
+  {
+    "id": 27985,
+    "title": "Far from Home: The Adventures of Yellow Dog",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Teenager Angus adopts a stray dog and names him Yellow. Several days later, while travelling along the coast of British Columbia with Angus's father, John, the boy and dog become stranded when turbulent waters capsize their boat. Angus's parents relentlessly badger rescue teams. Angus, schooled by his father in wilderness survival skills, and assisted by the intelligent Yellow Dog, tries to attract rescuers.",
+    "releaseDate": "1995-01-13",
+    "runtime": 87
+  },
+  {
+    "id": 40490,
+    "title": "Man of the House",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Ben Archer is not happy. His mother, Sandy, has just met a man, and it looks like things are pretty serious. Driven by a fear of abandonment, Ben tries anything and everything to ruin the \"love bubble\" which surrounds his mom. However, after Ben and Jack's experiences in the Indian Guides, the two become much closer.",
+    "releaseDate": "1995-03-03",
+    "runtime": 96
+  },
+  {
+    "id": 14522,
+    "title": "Black Beauty",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "The fates of horses, and the people who own and command them, are revealed as Black Beauty narrates the circle of his life.",
+    "releaseDate": "1994-07-29",
+    "runtime": 88
+  },
+  {
+    "id": 26261,
+    "title": "Cops & Robbersons",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Hard-as-nails cop Jake Stone moves in with the Robbersons so he can watch a hitman who has moved in next door. The Hitman is one thing, but can you survive the Robberson family.",
+    "releaseDate": "1994-04-15",
+    "runtime": 93
+  },
+  {
+    "id": 29918,
+    "title": "Lassie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "An update of the Lassie legend stars Thomas Guiry as a troubled city kid whose family retreats to the country, where he befriends the famous collie and changes for the better. Conflict develops when a ruthless sheep rancher causes trouble for everyone.",
+    "releaseDate": "1994-07-22",
+    "runtime": 94
+  },
+  {
+    "id": 9593,
+    "title": "Last Action Hero",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Danny is obsessed with a fictional movie character action hero Jack Slater. When a magical ticket transports him into Jack's latest adventure, Danny finds himself in a world where movie magic and reality collide. Now it's up to Danny to save the life of his hero and new friend.",
+    "releaseDate": "1993-06-18",
+    "runtime": 130
+  },
+  {
+    "id": 27281,
+    "title": "Operation Dumbo Drop",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Five Green Berets stationed in Vietnam in 1968 grudgingly undertake the mission of a lifetime -- to secretly transport an 8,000-pound elephant through 200 miles of rough jungle terrain. High jinks prevail when Capt. Sam Cahill promises the Montagnard villagers of Dak Nhe that he'll replace their prized elephant in time for an important ritual. But for Capt. T.C. Doyle, the mission becomes a jumbo-sized headache!",
+    "releaseDate": "1995-07-28",
+    "runtime": 107
+  },
+  {
+    "id": 11076,
+    "title": "Fly Away Home",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Amy is only 13 years old when her mother is killed. She goes to Canada to live with her father, an eccentric inventor whom she barely knows. Amy is miserable in her new life... until she discovers a nest of goose eggs that were abandoned when a local forest is torn down. The eggs hatch and Amy becomes \"Mama Goose\". When Winter comes, Amy, and her dad must find a way to lead the birds South...",
+    "releaseDate": "1996-09-13",
+    "runtime": 107
+  },
+  {
+    "id": 10680,
+    "title": "D3: The Mighty Ducks",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "overview": "The Ducks are offered scholarships at Eden Hall Academy but struggle with their new coach's methods and come under pressure from the board to retain their scholarships before their big game against the Varsity team.",
+    "releaseDate": "1996-10-04",
+    "runtime": 104
+  },
+  {
+    "id": 35115,
+    "title": "Davy Crockett, King of the Wild Frontier",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Western"
+    ],
+    "overview": "Legends (and myths) from the life of famed American frontiersman Davey Crockett are depicted in this feature film edited from television episodes. Crockett and his friend George Russell fight in the Creek Indian War. Then Crockett is elected to Congress and brings his rough-hewn ways to the House of Representatives. Finally, Crockett and Russell journey to Texas and the last stand at the Alamo.",
+    "releaseDate": "1955-05-25",
+    "runtime": 93
+  },
+  {
+    "id": 42424,
+    "title": "Zeus & Roxanne",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "overview": "Mary Beth is a marine biologist that gets annoyed when a dog called Zeus stows aboard her research boat. Nevertheless she is intrigued when the intrusive canine makes best-friends with her captive dolphin, Roxanne. She falls in love with Zeus's owner, Terry, a musician who rides a bike.",
+    "releaseDate": "1997-01-24",
+    "runtime": 98
+  },
+  {
+    "id": 6499,
+    "title": "Turbo: A Power Rangers Movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "The legendary Power Rangers must stop the evil space pirate Divatox from releasing the powerful Maligore from his volcanic imprisonment on the island of Muranthias, where only the kindly wizard Lerigot has the key to release him. The hope of victory lies in the Ranger's incredible new Turbo powers and powerful Turbo Zords.",
+    "releaseDate": "1997-03-27",
+    "runtime": 99
+  },
+  {
+    "id": 49478,
+    "title": "Warriors of Virtue",
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Action"
+    ],
+    "overview": "A young man, Ryan, suffering from a disability, wishes to join the other kids from his schools football team. During an initiation rite, Ryan is swept away through a whirlpool to the land of Tao. There he is hunted by the evil Lord Komodo, who desires the boy as a key to enter the real world. Ryan is rescued by the protectors of Tao, five humanoid kangaroos, each embued with the five elements and virtues. Ryan learns his valuable lesson while saving the land of Tao.",
+    "releaseDate": "1997-05-02",
+    "runtime": 103
+  },
+  {
+    "id": 32302,
+    "title": "3 Ninjas: High Noon at Mega Mountain",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Three young boys, Rocky, Colt and Tum Tum together with their neighbor girl, computer whiz Amanda are visiting Mega Mountain amusement park when it is invaded by an army of ninjas led by evil Medusa, who wants to take over the park and hold the owners for ransom. Kids and retired TV star Dave Dragon, who made his farewell appearance at the park at the time the ninjas appeared, have to break Medusa's vicious plans.",
+    "releaseDate": "1998-04-10",
+    "runtime": 93
+  },
+  {
+    "id": 54007,
+    "title": "Star Kid",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "Shy seventh-grader Spencer Griffith's life changes when the meteor falls into local junkyard and he finds a Cybersuit - the wise and strong robot from another galaxy. Spencer puts Cybersuit on and becomes a different kind of guy",
+    "releaseDate": "1997-01-16",
+    "runtime": 101
+  },
+  {
+    "id": 9449,
+    "title": "The Borrowers",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "The four-inch-tall Clock family secretly share a house with the normal-sized Lender family, \"borrowing\" such items as thread, safety pins, batteries and scraps of food. However, their peaceful co-existence is disturbed when evil lawyer Ocious P. Potter steals the will granting title to the house, which he plans to demolish in order to build apartments. The Lenders are forced to move, and the Clocks face the risk of being exposed to the normal-sized world.",
+    "releaseDate": "1997-12-05",
+    "runtime": 86
+  },
+  {
+    "id": 9570,
+    "title": "The Black Hole",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Science Fiction",
+      "Action"
+    ],
+    "overview": "The explorer craft U.S.S. Palomino is returning to Earth after a fruitless 18-month search for extra-terrestrial life when the crew comes upon a supposedly lost ship, the magnificent U.S.S. Cygnus, hovering near a black hole. The ship is controlled by Dr. Hans Reinhardt and his monstrous robot companion, Maximillian. But the initial wonderment and awe the Palomino crew feel for the ship and its resistance to the power of the black hole turn to horror as they uncover Reinhardt's plans.",
+    "releaseDate": "1979-12-18",
+    "runtime": 98
+  },
+  {
+    "id": 11164,
+    "title": "D2: The Mighty Ducks",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "overview": "After Gordon Bombay's hockey comeback is cut short he is named coach of Team USA Hockey for the Junior Goodwill Games. Bombay reunites the Mighty Ducks and introduces a few new players, however, he finds himself distracted by his newfound fame and must regather if the Ducks are to defeat tournament favourites Iceland.",
+    "releaseDate": "1994-03-25",
+    "runtime": 106
+  },
+  {
+    "id": 14140,
+    "title": "Herbie Goes To Monte Carlo",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "Herbie, the Volkswagen Beetle with a mind of its own, is racing in the Monte Carlo Rally. But thieves have hidden a cache of stolen diamonds in Herbie's gas tank, and are now trying to get them back.",
+    "releaseDate": "1977-06-24",
+    "runtime": 105
+  },
+  {
+    "id": 28736,
+    "title": "Hot Lead & Cold Feet",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Western"
+    ],
+    "overview": "Twin brothers -- one rough and tough, the other a city-bred milquetoast -- compete for their father's fortune.",
+    "releaseDate": "1978-07-05",
+    "runtime": 90
+  },
+  {
+    "id": 34774,
+    "title": "In Search of the Castaways",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "In Search of the Castaways is a 1962 Walt Disney Productions feature film starring Hayley Mills and Maurice Chevalier in a tale about a worldwide search for a shipwrecked sea captain. The film was directed by Robert Stevenson from a screenplay by Lowell S, Hawley based upon Jules Verne's 1868 adventure novel Captain Grant's Children.",
+    "releaseDate": "1962-12-01",
+    "runtime": 98
+  },
+  {
+    "id": 43037,
+    "title": "Kidnapped",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Kidnapped and cheated out of his inheritance, young David Balfour falls in with a Jacobite adventurer, Alan Breck Stewart. Falsely accused of murder, they must flee across the Highlands, evading the redcoats.",
+    "releaseDate": "1960-01-01",
+    "runtime": 97
+  },
+  {
+    "id": 11335,
+    "title": "Popeye",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "overview": "Popeye is a super-strong, spinach-scarfing sailor man who's searching for his father. During a storm that wrecks his ship, Popeye washes ashore and winds up rooming at the Oyl household, where he meets Olive. Before he can win her heart, he must first contend with Olive's fiancé, Bluto.",
+    "releaseDate": "1980-12-12",
+    "runtime": 114
+  },
+  {
+    "id": 10249,
+    "title": "The Rocketeer",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "Straight from the pages of a pulp comic from a past era, the Rocketeer recreates 1930s Hollywood, complete with gangsters, Nazi spies, and the growth of the Age of Aviation. Young pilot Cliff Secord stumbles on a top secret rocket-pack and with the help of his mechanic/mentor, Peevy, he attempts to save his girl and stop the Nazis as The Rocketeer.",
+    "releaseDate": "1991-06-21",
+    "runtime": 108
+  },
+  {
+    "id": 11904,
+    "title": "Young Sherlock Holmes",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Family",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "Sherlock Holmes and Dr. Watson meet as boys in an English Boarding school. Holmes is known for his deductive ability even as a youth, amazing his classmates with his abilities. When they discover a plot to murder a series of British business men by an Egyptian cult, they move to stop it.",
+    "releaseDate": "1985-12-04",
+    "runtime": 109
+  },
+  {
+    "id": 8856,
+    "title": "The Karate Kid, Part II",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Romance",
+      "Family"
+    ],
+    "overview": "Mr. Miyagi and Daniel take a trip to Okinawa to visit Mr. Miyagi's dying father. After arriving Mr. Miyagi finds he still has feelings for an old love. This stirs up trouble with an old rival who he originally left Okinawa to avoid. In the mean time, Daniel encounters a new love and also makes some enemies.",
+    "releaseDate": "1986-06-18",
+    "runtime": 113
+  },
+  {
+    "id": 9822,
+    "title": "Mighty Joe Young",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "As a child living in Africa, Jill Young saw her mother killed while protecting wild gorillas from poachers led by Andrei Strasser. Now an adult, Jill cares for an orphaned gorilla named Joe -- who, due to a genetic anomaly, is 15 feet tall. When Gregg O'Hara arrives from California and sees the animal, he convinces Jill that Joe would be safest at his wildlife refuge. But Strasser follows them to the U.S., intent on capturing Joe for himself.",
+    "releaseDate": "1998-12-25",
+    "runtime": 114
+  },
+  {
+    "id": 332,
+    "title": "Inspector Gadget",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "John Brown is a bumbling but well-intentioned security guard who is badly injured in an explosion planned by an evil mastermind. He is taken to a laboratory, where Brenda, a leading robotics surgeon, replaces his damaged limbs with state-of-the-art gadgets and tools. Named \"Inspector Gadget\" by the press, John -- along with his niece, Penny, and her trusty dog, Brain -- uses his new powers to discover who was behind the explosion.",
+    "releaseDate": "1999-07-23",
+    "runtime": 78
+  },
+  {
+    "id": 42486,
+    "title": "Napoleon and Samantha",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Two young children, who, rather than part with an old pet lion who was once a circus performer, go on a perilous mountain trek to stay with a recluse friend.",
+    "releaseDate": "1972-07-05",
+    "runtime": 92
+  },
+  {
+    "id": 42518,
+    "title": "Gulliver's Travels",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Gulliver washes ashore on Lilliput and attempts to prevent war between that tiny kingdom and its equally-miniscule rival, Blefiscu, as well as smooth the way for the romance between the Princess and Prince of the opposing lands. In this he is alternately aided and hampered by the Lilliputian town crier and general fussbudget, Gabby. A life-threatening situation develops when the bumbling trio of Blefiscu spies, Sneak, Snoop, and Snitch, manage to steal Gulliver's pistol.",
+    "releaseDate": "1939-11-10",
+    "runtime": 76
+  },
+  {
+    "id": 15515,
+    "title": "The 7th Voyage of Sinbad",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "When a princess is shrunken by an evil wizard, Sinbad must undertake a quest to an island of monsters to cure her and prevent a war.",
+    "releaseDate": "1958-12-05",
+    "runtime": 88
+  },
+  {
+    "id": 14919,
+    "title": "Batman: Mask of the Phantasm",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "An old flame of Bruce Wayne's strolls into town, re-heating up the romance between the two. At the same time, a mass murderer with an axe for one hand begins systematically eliminating Gotham's crime bosses. Due to the person's dark appearance, he is mistaken for Batman. Now on the run, Batman must solve the mystery and deal with the romance between him and Andrea Beaumont.",
+    "releaseDate": "1993-12-25",
+    "runtime": 76
+  },
+  {
+    "id": 19736,
+    "title": "Baby: Secret of the Lost Legend",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "Paleontologist and her husband discover a mother and baby brontosaurus in Africa, try to protect them from hunters who want to capture them.",
+    "releaseDate": "1985-03-22",
+    "runtime": 95
+  },
+  {
+    "id": 1498,
+    "title": "Teenage Mutant Ninja Turtles",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "A quartet of mutated humanoid turtles clash with an uprising criminal gang of ninjas",
+    "releaseDate": "1990-03-30",
+    "runtime": 93
+  },
+  {
+    "id": 1497,
+    "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "The Turtles and the Shredder battle once again, this time for the last cannister of the ooze that created the Turtles, which Shredder wants to create an army of new mutants.",
+    "releaseDate": "1991-03-22",
+    "runtime": 88
+  },
+  {
+    "id": 1499,
+    "title": "Teenage Mutant Ninja Turtles III",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "The four turtles travel back in time to the days of the legendary and deadly samurai in ancient Japan, where they train to perfect the art of becoming one. The turtles also assist a small village in an uprising.",
+    "releaseDate": "1993-03-17",
+    "runtime": 96
+  },
+  {
+    "id": 37112,
+    "title": "The Great Locomotive Chase",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "During the Civil War, a Union spy, Andrews, is asked to lead a band of Union soldiers into the South so that they could destroy the railway system. However, things don't go as planned when the conductor of the train that they stole is on to them and is doing everything he can to stop them. Based on a true story.",
+    "releaseDate": "1956-06-08",
+    "runtime": 85
+  },
+  {
+    "id": 21299,
+    "title": "Benji the Hunted",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Benji has become stranded on a remote island after a boating accident. He finds himself struggling to survive in the wilderness, avoiding close encounters with a wolf, a bear, and a territorial female cougar with her cub.",
+    "releaseDate": "1987-06-17",
+    "runtime": 88
+  },
+  {
+    "id": 7450,
+    "title": "Titan A.E.",
+    "genres": [
+      "Animation",
+      "Action",
+      "Science Fiction",
+      "Family",
+      "Adventure"
+    ],
+    "overview": "A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Dredge are bent on mankind's destruction.",
+    "releaseDate": "2000-06-16",
+    "runtime": 94
+  },
+  {
+    "id": 17711,
+    "title": "The Adventures of Rocky & Bullwinkle",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Rocky and Bullwinkle have been living off the finances made from the reruns of their cartoon show. Boris and Natasha somehow manage to crossover into reality and team up with Fearless Leader, an evil criminal turned media mogul with some evil plans up his sleeve. Rocky and Bullwinkle must stop the three of them before they wreak havoc.",
+    "releaseDate": "2000-06-30",
+    "runtime": 88
+  },
+  {
+    "id": 11940,
+    "title": "Sinbad and the Eye of the Tiger",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Princess Farah refuses to marry Sinbad until Prince Kassim, her brother, is able to give his consent. However, the Prince's wicked stepmother, Queen Zenobia, has changed Kassim into a baboon in order to have her own son crowned as caliph. Sinbad, his crew, the Princess and the transformed Prince travel to a distant land, fighting every obstacle Zenobia places in their path, to seek the advice of a legendary wise man who can possibly tell how to end the spell.",
+    "releaseDate": "1977-07-15",
+    "runtime": 113
+  },
+  {
+    "id": 26156,
+    "title": "Hiding Out",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "A very successful stock broker is called to court to testify against a mob boss who was into some inside trading. Andrew Morenski must become Max Hauser and go back to high school for protection from the mob.",
+    "releaseDate": "1987-11-06",
+    "runtime": 98
+  },
+  {
+    "id": 39180,
+    "title": "See Spot Run",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "A drug sniffing agent canine is a target for an assassin boss so the FBI calls Witness Protection to send him somewhere else. Meanwhile a single Mom puts her 6 year old boy James in the care of her irresponsible, mailman, neighbor, Gordon, when the babysitter bails on her. Meanwhile, an assassin mob boss hires 2 goons to kill Agent 11. But when 11 escapes from the van when they tried to kill him, he hides in Gordon's Mailtruck that James is in too. And guess what they name him. Spot.",
+    "releaseDate": "2001-03-02",
+    "runtime": 94
+  },
+  {
+    "id": 10054,
+    "title": "Spy Kids",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "overview": "Carmen and Juni think their parents are boring. Little do they know that in their day, Gregorio and Ingrid Cortez were the top secret agents from their respective countries. They gave up that life to raise their children. Now, the disappearances of several of their old colleagues forces the Cortez' return from retirement. What they didn't count on was Carmen and Juni joining the \"family business.\"",
+    "releaseDate": "2001-03-18",
+    "runtime": 88
+  },
+  {
+    "id": 10991,
+    "title": "Pokémon: Spell of the Unknown",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Action",
+      "Family"
+    ],
+    "overview": "When Molly Hale's sadness of her father's disappearance get to her, she unknowingly uses the Unown to create her own dream world along with Entei, who she believes to be her father. When Entei kidnaps Ash's mom, Ash along with Misty & Brock invade the mansion looking for his mom and trying to stop the mysteries of Molly's Dream World and Entei!",
+    "releaseDate": "2000-07-08",
+    "runtime": 93
+  },
+  {
+    "id": 25884,
+    "title": "Feds",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Ellie DeWitt and Janis Zuckermann are admitted to the very strict FBI Training Academy. They get a hard course, in which they learn to deal with guns and to recognise crimes. They also get a physical training. It appears that Ellie is a real fighting- machine, in contrast with Janis, the great student. They have to help each other, all the way to graduation.",
+    "releaseDate": "1988-10-28",
+    "runtime": 90
+  },
+  {
+    "id": 13965,
+    "title": "Return to Snowy River",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Western",
+      "Family"
+    ],
+    "overview": "After a few years trying to earn money to marry Jessica Harrison (Sigrid Thornton), Jim Craig (Tom Burlinson) returns to Snowy River. But he finds that a lot of things have changed.",
+    "releaseDate": "1988-03-24",
+    "runtime": 110
+  },
+  {
+    "id": 24266,
+    "title": "The Man from Snowy River",
+    "genres": [
+      "Family",
+      "Drama",
+      "Action",
+      "Western",
+      "Romance"
+    ],
+    "overview": "Jim Craig has lived his first 18 years in the mountains of Australia on his father's farm. The death of his father forces him to go to the low lands to earn enough money to get the farm back on its feet. Kirk Douglas plays two roles as twin brothers who haven't spoken for years, one of whom was Jim's father's best friend and the other of whom is the father of the girl he wants to marry.",
+    "releaseDate": "1982-03-02",
+    "runtime": 104
+  },
+  {
+    "id": 6951,
+    "title": "Turner & Hooch",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Crime",
+      "Family"
+    ],
+    "overview": "Scott Turner has 3 days left in the local police department before he moves to a bigger city to get some \"real\" cases, not just misdemeanors. Then Amos Reed is murdered, and Scott Turner sets himself on the case. The closest thing to a witness in the case is Amos Reed's dog, Hooch, which Scott Turner has to take care of if it's going to avoid being \"put to sleep\".",
+    "releaseDate": "1989-07-28",
+    "runtime": 100
+  },
+  {
+    "id": 12610,
+    "title": "Osmosis Jones",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "A policeman white blood cell, with the help of a cold pill, must stop a deadly virus from destroying the human they live in, Frank.",
+    "releaseDate": "2001-08-07",
+    "runtime": 95
+  },
+  {
+    "id": 16314,
+    "title": "3 Ninjas",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Each year, three brothers Samuel, Jeffrey and Michael Douglas visits their Japanese grandfather, Mori Shintaro whom the boys affectionately refer to as Grandpa, for the summer. Mori is a highly skilled in the fields of Martial arts and Ninjutsu, and for years he has trained the boys in his techniques. After an organized crime ring proves to be too much for the FBI, it's time for the 3 brother NINJAS! To use their martial arts skills, they team up to battle the crime ring and outwit some very persistent kidnappers!",
+    "releaseDate": "1992-08-07",
+    "runtime": 84
+  },
+  {
+    "id": 18885,
+    "title": "3 Ninjas Kick Back",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "During a championship baseball match, the three brothers hear that their grandfather in Japan is in trouble, and head out to help him, conceding the match. When they arrive in Japan, they must use all their powers to defend him against his ancient enemy, who has returned to exact revenge.",
+    "releaseDate": "1994-05-06",
+    "runtime": 93
+  },
+  {
+    "id": 40508,
+    "title": "3 Ninjas Knuckle Up",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Rocky, Colt and TumTum must battle an evil wealthy toxic waste dumper in order to save a local Indian tribe and their friend Joe. The 3 Ninjas must help find Joe's father and find a secret disk that contains evidence that could stop the toxic landfill that is destroying the Indian community. However the town is owned by the rich man and he controls the police and even the mayor. They must fight a motorcycle gang and renegade cowboys in this non-stop ninja adventure.",
+    "releaseDate": "1995-04-07",
+    "runtime": 85
+  },
+  {
+    "id": 12589,
+    "title": "Jimmy Neutron: Boy Genius",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Jimmy Neutron is a boy genius and way ahead of his friends, but when it comes to being cool, he's a little behind. All until one day when his parents, and parents all over Earth are kidnapped by aliens, it's up to him to lead all the children of the world to rescue their parents.",
+    "releaseDate": "2001-12-21",
+    "runtime": 83
+  },
+  {
+    "id": 34723,
+    "title": "The Adventures of Huck Finn",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Climb aboard for an extraordinary version of Mark Twain's sweeping adventure when Walt Disney presents The Adventures of Huck Finn, starring Elijah Wood (The Lord of the Rings). Directed by Stephen Sommers (The Mummy, The Mummy Returns), it's the unforgettable saga of a mischievous youngster and a runaway slave",
+    "releaseDate": "1993-04-02",
+    "runtime": 108
+  },
+  {
+    "id": 11212,
+    "title": "Baby's Day Out",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Baby Bink couldn't ask for more; he has adoring (if somewhat sickly-sweet) parents, he lives in a huge mansion, and he's just about to appear in the social pages of the paper. Unfortunately, not everyone in the world is as nice as Baby Bink's parents; especially the three enterprising kidnapers who pretend to be photographers from the newspaper. Successfully kidnaping Baby Bink, they have a harder time keeping hold of the rascal, who not only keeps one step ahead of them, but seems to be more than a little bit smarter than the three bumbling criminals.",
+    "releaseDate": "1994-07-01",
+    "runtime": 99
+  },
+  {
+    "id": 17130,
+    "title": "Crossroads",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Three friends get together and bury a box making a pact to open it at midnight at their high school graduation. In the little town in Georgia that they live in, things soon change. One is little miss perfect, one is an engaged prom queen, and the other is a pregnant outcast. The night of graduation, they open the box and they strike up a conversation. All of a sudden, one brings up the topic of her going to Los Angeles for a record contract audition. They all decide to go together and they leave. With a little money, they set out on the road with a guy named Ben. When one of them tells the other a rumor that he might be a homicidal maniac they are all scared of him. When they reach LA, Lucy falls in love with Ben and against her father's wishes, she stays and she goes to the audition.",
+    "releaseDate": "2002-02-15",
+    "runtime": 93
+  },
+  {
+    "id": 12227,
+    "title": "White Fang",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Jack London's classic adventure story about the friendship developed between a Yukon gold hunter and the mixed dog-wolf he rescues from the hands of a man who mistreats him.",
+    "releaseDate": "1991-01-18",
+    "runtime": 107
+  },
+  {
+    "id": 43643,
+    "title": "White Fang 2: Myth of the White Wolf",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "A boy and his dog, White Fang, must try to save the noble Haida tribe from evil white men in turn-of-the-century Alaska.",
+    "releaseDate": "1994-04-15",
+    "runtime": 106
+  },
+  {
+    "id": 59387,
+    "title": "The Powerpuff Girls Movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Family"
+    ],
+    "overview": "The Powerpuff Girls Movie tells the origin story of how the Powerpuff Girls were created and how they came to be the defenders of Townsville. It was the first Hanna-Barbera/Cartoon Network Studios theatrical feature film since 1993's Once Upon a Forest, and is the only film based on a Cartoon Network series to be released theatrically.",
+    "releaseDate": "2002-07-03",
+    "runtime": 77
+  },
+  {
+    "id": 17043,
+    "title": "The Crocodile Hunter: Collision Course",
+    "genres": [
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "Aussie adventurer Steve Irwin aka The Crocodile Hunter has avoided the death-roll and nabbed another feisty croc, hoping to save it from poachers. What Steve doesn't know is that the crocodile has innocently swallowed a top secret US satellite beacon, and the poachers are actually American special agents sent to retrieve it. Crikey! In the Outback and through the bush with his wife Terri's ever-present commentary ringing out over the countryside (\"That was a close one, Steve!\"), the Crocodile Hunter is out to save the gorgeous croc and relocate him. It won't be easy, but if he can handle bird-eating spiders and venomous snakes without getting bitten, gun-wielding agents shouldn't be too much of a problem.",
+    "releaseDate": "2002-07-26",
+    "runtime": 90
+  },
+  {
+    "id": 9488,
+    "title": "Spy Kids 2: The Island of Lost Dreams",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Exploring the further adventures of Carmen and Juni Cortez, who have now joined the family spy business as Level 2 OSS agents. Their new mission is to save the world from a mad scientist living on a volcanic island populated by an imaginative menagerie of creatures. On this bizarre island, none of the Cortez's gadgets work and they must rely on their wits--and each other--to survive and save the day.",
+    "releaseDate": "2002-08-07",
+    "runtime": 100
+  },
+  {
+    "id": 14361,
+    "title": "Captain Ron",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "When mild-mannered Martin Harvey finds out that he has inherited a vintage yacht, he decides to take his family on a Caribbean vacation to retrieve the vessel. Upon arriving on a small island and realizing that the ship is in rough shape, Martin and his family end up with more than they bargained for as the roguish Captain Ron signs on to sail the boat to Miami. It doesn't take long before Ron's anything-goes antics get the Harveys into plenty of trouble.",
+    "releaseDate": "1992-09-18",
+    "runtime": 100
+  },
+  {
+    "id": 11504,
+    "title": "Suburban Commando",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "Shep Ramsey is an interstellar hero, righting wrongs, etc. His ship is damaged after a fight with an interstellar nasty and he must hide out on Earth until it can recharge. He leaves his power suit at home, but still finds himself unable to allow wrongs to go unrighted and so mixes it up with bad drivers, offensive paperboys, muggers and the like.",
+    "releaseDate": "1991-10-04",
+    "runtime": 88
+  },
+  {
+    "id": 23470,
+    "title": "Surf Ninjas",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Two Asian-American \"surfer-dude\" brothers discover they are the long lost princes from a China Sea Island. Part of their inheritance are magically-induced martial arts prowess. Using their new powers they act to overthrow the island's current dictator, a despotic madman.",
+    "releaseDate": "1993-09-20",
+    "runtime": 87
+  },
+  {
+    "id": 15173,
+    "title": "Jonah: A VeggieTales Movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "Get ready as Bob the Tomato, Larry the Cucumber and the rest of the Veggies set sail on a whale of an adventure in Big Idea's first full-length, 3-D animated feature film. This is the story of Jonah and the Whale as you've never seen it before - a story where we learn that one of the best gifts you can give - or get - is a second chance.",
+    "releaseDate": "2002-10-04",
+    "runtime": 82
+  },
+  {
+    "id": 42453,
+    "title": "The Island at the Top of the World",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "A Victorian gentleman hopes to find his long-lost son, who vanished whilst searching for a mysterious Viking community in a volcanic valley somewhere in uncharted Arctic regions. The gentleman puts together an expedition team to go on the search, but when they reach their destination they must escape from some Viking descendants who will kill to keep their existence a secret.",
+    "releaseDate": "1974-01-01",
+    "runtime": 93
+  },
+  {
+    "id": 12232,
+    "title": "The Thief of Bagdad",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "When Prince Ahmad (John Justin) is blinded and cast out of Bagdad by the nefarious Jaffar (Conrad Veidt), he joins forces with the scrappy thief Abu (the incomparable Sabu, in his definitive role) to win back his royal place, as well as the heart of a beautiful princess (June Duprez).",
+    "releaseDate": "1940-12-25",
+    "runtime": 106
+  },
+  {
+    "id": 29339,
+    "title": "Nicholas Nickleby",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Family"
+    ],
+    "overview": "The Charles Dickens story of Nicholas Nickleby, a young boy in search of a better life for his recently torn-apart family. A young compassionate man struggles to save his family and friends from the abusive exploitation of his coldheartedly grasping uncle.",
+    "releaseDate": "2002-12-27",
+    "runtime": 132
+  },
+  {
+    "id": 25872,
+    "title": "The Pirate Movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Music",
+      "Romance"
+    ],
+    "overview": "A comedy/musical utilizing both new songs and parodies from the original (Gilbert and Sullivan's Pirates of Penzance), as well as references to popular films of the time, including Star Wars and Raiders of the Lost Ark. In your typical boy meets girl, boy loses girl, boy fights girl with swords plot, the story revolves around Mabel ...",
+    "releaseDate": "1982-08-06",
+    "runtime": 98
+  },
+  {
+    "id": 11244,
+    "title": "The Meteor Man",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Comedy",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "One night Jefferson Reed gets hit in the chest by a souped-up chunk of meteor. So he can fly, but he's scared of heights. He can master the information in any book ... for about fifteen minutes. Now his friends and family want him to protect their community from the dreaded Golden Lords.",
+    "releaseDate": "1993-08-06",
+    "runtime": 100
+  },
+  {
+    "id": 18992,
+    "title": "My Friend Flicka",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Ken McLaughlin (Roddy McDowall) is a precocious 10-year-old who lives with his family on a remote Wyoming ranch. When Ken returns home from school with failing grades, his father, Rob (Preston Foster), blames the boy's lack of personal responsibility. At the suggestion of his wife, Nell (Rita Johnson), Rob allows Ken to choose a single colt from the herd to raise as his own. Much to his father's dismay, Ken chooses a fiery mustang filly -- but the two soon become fast friends.",
+    "releaseDate": "1943-05-26",
+    "runtime": 89
+  },
+  {
+    "id": 16651,
+    "title": "The Other Side of Heaven",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "John H. Groberg, a middle class kid from Idaho Falls, crosses the Pacific to become a Mormon missionary in the remote and exotic Tongan island kingdom during the 1950's. He leaves behind a loving family and the true love of his life, Jean. Through letters and musings across the miles, John shares his humbling and sometimes hilarious adventures with \"the girl back home\", and her letters buoy up his spirits in difficult times. John must struggle to overcome language barriers, physical hardship and deep-rooted suspicion to earn the trust and love of the Tongan people he has come to serve. Throughout his adventure-filled three years on the islands, he discovers friends and wisdom in the most unlikely places. John H. Groberg's Tongan odyssey will change his life forever.",
+    "releaseDate": "2001-04-12",
+    "runtime": 113
+  },
+  {
+    "id": 10515,
+    "title": "Castle in the Sky",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Action",
+      "Family",
+      "Romance"
+    ],
+    "overview": "The orphan Sheeta inherited a mysterious crystal that links her to the mythical sky-kingdom of Laputa. With the help of resourceful Pazu and a rollicking band of sky pirates, she makes her way to the ruins of the once-great civilization. Sheeta and Pazu must outwit the evil Muska, who plans to use Laputa's science to make himself ruler of the world.",
+    "releaseDate": "1986-08-02",
+    "runtime": 124
+  },
+  {
+    "id": 11890,
+    "title": "Oscar",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Family"
+    ],
+    "overview": "Angelo \"Snaps\" Provolone made his dying father a promise on his deathbed: he would leave the world of crime and become an honest businessman. Despite having no experience in making money in a legal fashion, Snaps sets about to keep his promise.",
+    "releaseDate": "1991-04-26",
+    "runtime": 109
+  },
+  {
+    "id": 12279,
+    "title": "Spy Kids 3-D: Game Over",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "Carmen's caught in a virtual reality game designed by the Kids' new nemesis, the Toymaker. It's up to Juni to save his sister, and ultimately the world.",
+    "releaseDate": "2003-07-25",
+    "runtime": 84
+  },
+  {
+    "id": 16790,
+    "title": "Bingo",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Bingo, the runaway circus dog, is off the leash and saving Chuckie's life! Bingo and the boy become the best of friends in this canine comedy featuring doggy disguises and skateboarding, pinball and prison. Chuckie and his parents (Cindy Williams and David Rasche) are moving house, a thousand miles away, but Bingo won't be allowed to join them. Chuckie and Bingo's determination to be reunited is t",
+    "releaseDate": "1991-08-09",
+    "runtime": 90
+  },
+  {
+    "id": 23033,
+    "title": "Jungle Book",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "Rudyard Kipling's Jungle Book is given the full treatment in this lavish retelling filled with huge sets, exotic animals, a large cast and the incomparable Sabu, starring as Mowgli, the young orphan boy raised by wolves. Curious to reconnect with his human village, Mowgli returns only to find disappointment in the greed and treachery of man. Over time, Mowgli and the village members do grow to trust one another, but not before the village finds itself under siege. It's up to Mowgli and his jungle friends to save the day.",
+    "releaseDate": "1942-04-03",
+    "runtime": 108
+  },
+  {
+    "id": 54243,
+    "title": "Kart Racer",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "overview": "14-year-old Watts Davies is estranged from his dad, a former International Karting Federation (IKF) champion. Watts's resolve to race in the upcoming IKF Regional Championships rekindles their relationship as they pursue the dream together.",
+    "releaseDate": "2003-05-16",
+    "runtime": 94
+  },
+  {
+    "id": 8446,
+    "title": "Bugsy Malone",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Music",
+      "Family"
+    ],
+    "overview": "A pint-sized cast illuminates this musical that is unlike any other ever made. Set in 1929 New York City, Bugsy Malone captures a flashy world of would-be hoodlums, showgirls, and dreamers - all played by child actors! As Tallulah, the sassy girlfriend of the owner of Fat Sam's Grand Slam Speakeasy, future superstar Jodie Foster dances and sings her way into our hearts.",
+    "releaseDate": "1976-06-26",
+    "runtime": 93
+  },
+  {
+    "id": 31397,
+    "title": "Alien from L.A.",
+    "genres": [
+      "Action",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "When her archaeologist father disappears on an expedition, Wanda sets out to look for him. What she finds is a secret underground world, where no one believes in life on the surface and where she and her father are taken for spies.",
+    "releaseDate": "1988-01-01",
+    "runtime": 87
+  },
+  {
+    "id": 26643,
+    "title": "The Magic Sword",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama",
+      "Action",
+      "Family"
+    ],
+    "overview": "The son of a sorceress, armed with weapons, armour and six magically summoned knights, goes on a quest to save a princess from a vengeful wizard.",
+    "releaseDate": "1962-04-01",
+    "runtime": 80
+  },
+  {
+    "id": 11839,
+    "title": "The Court Jester",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "A 12th century court jester in England becomes involved with a desperate band of outlaws who are attempting to overthrow the king.",
+    "releaseDate": "1955-12-24",
+    "runtime": 101
+  },
+  {
+    "id": 20483,
+    "title": "Catch That Kid",
+    "genres": [
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "Athletic 12-year-old Maddy (Kristen Stewart) shares an enthusiasm for mountain climbing with her father, Tom (Sam Robards). Unfortunately, Tom suffers a spinal injury while scaling Mount Everest, and his family is unable to afford the surgery that can save him. Maddy decides to get the money for her father's operation by robbing a high-security bank. She relies on her climbing skills and help from her geeky friends (Max Thieriot, Corbin Bleu) to pull it off successfully.",
+    "releaseDate": "2004-02-06",
+    "runtime": 92
+  },
+  {
+    "id": 28963,
+    "title": "The Thief of Bagdad",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "A recalcitrant thief vies with a duplicitous Mongol ruler for the hand of a beautiful princess.",
+    "releaseDate": "1924-03-18",
+    "runtime": 149
+  },
+  {
+    "id": 58995,
+    "title": "Night Crossing",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "Two men want to escape from East Germany (under Communist rule) but they will only go if they can take their families with them. Based on a true story.",
+    "releaseDate": "1982-02-05",
+    "runtime": 107
+  },
+  {
+    "id": 37437,
+    "title": "My Side of the Mountain",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Film adaption of the novel by Jean Craighead George. A family movie made by Paramount Studios, the story revolves around thirteen-year old Sam Gribley (Teddy Eccles), a devotee of Thoreau, as many were back in the in 1960's. Sam decides to leave the city (set in Toronto) to spend a sabbatical in the Canadian woods and see if he can make it as a self-sufficient spirit after his parents promise a summer trip that doesn't pan out.",
+    "releaseDate": "1969-01-01",
+    "runtime": 100
+  },
+  {
+    "id": 65137,
+    "title": "Father Hood",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Deadbeat dad kidnaps his kids from the bus to an abusive foster home and they go on a run. The cops are after them, they bicker constantly and his idea of a way out is grim, yet this dangerous ride might just turn them into a family.",
+    "releaseDate": "1993-08-27",
+    "runtime": 95
+  },
+  {
+    "id": 22976,
+    "title": "Biggles",
+    "genres": [
+      "Action",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Unassuming catering salesmen Jim Ferguson falls through a time hole to 1917 where he saves the life of dashing Royal Flying Corps pilot James \"Biggles\" Bigglesworth after his photo recon mission is shot down. Before he can work out what has happened, Jim is zapped back to the 1980s......",
+    "releaseDate": "1986-05-30",
+    "runtime": 108
+  },
+  {
+    "id": 65156,
+    "title": "The North Avenue Irregulars",
+    "genres": [
+      "Family",
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "overview": "When crooks set up operations in a traditional town, a minister and a group of church ladies are willing to do anything, no matter how wacky, to get them out.",
+    "releaseDate": "1979-02-09",
+    "runtime": 100
+  },
+  {
+    "id": 14623,
+    "title": "Thunderbirds",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Dangerous missions are the bread and butter of the Thunderbirds, a high-tech secret force employed by the government. Led by Jeff Tracy (Bill Paxton), the Thunderbirds are at the top of their game, but their nemesis, The Hood (Ben Kingsley), has landed on their island and is attempting a coup by using the team's rescue vehicles. He'll soon discover that the Thunderbirds won't go down.",
+    "releaseDate": "2004-07-23",
+    "runtime": 95
+  },
+  {
+    "id": 35780,
+    "title": "Thunderbirds are GO",
+    "genres": [
+      "Animation",
+      "Family",
+      "Action",
+      "Science Fiction"
+    ],
+    "overview": "Zero-X, a manned exploration mission crashes during lift-off on its maiden flight. Two years later an investigative committee finally concludes sabotage, and decides to call on the services of International Rescue to oversee security at the impending second launch. The second Zero-X successfully reaches its destination, but encounters unexpected hazards, ultimately leading to another call for assistance on its return to Earth. International Rescue respond, and once again Thunderbirds are GO!",
+    "releaseDate": "1966-12-15",
+    "runtime": 93
+  },
+  {
+    "id": 11052,
+    "title": "Yu-Gi-Oh! The Movie",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "After the conclusion of the Battle City Tournament, deep below the sands of Egypt, an ancient evil has awakened. Anubis, who was defeated centuries ago by Yugi’s mysterious alter ego – the ancient Pharaoh – has returned for revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.",
+    "releaseDate": "2004-08-13",
+    "runtime": 90
+  },
+  {
+    "id": 10555,
+    "title": "Shark Tale",
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Oscar is a small fish whose big aspirations often get him into trouble. Meanwhile, Lenny is a great white shark with a surprising secret that no sea creature would guess: He's a vegetarian. When a lie turns Oscar into an improbable hero and Lenny becomes an outcast, the two form an unlikely friendship.",
+    "releaseDate": "2004-09-20",
+    "runtime": 90
+  },
+  {
+    "id": 9806,
+    "title": "The Incredibles",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+    "releaseDate": "2004-11-05",
+    "runtime": 115
+  },
+  {
+    "id": 38222,
+    "title": "On a Clear Day You Can See Forever",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "overview": "Under hypnosis while trying to quit smoking, the main character Daisy Gamble revisits past lives and different personalities",
+    "releaseDate": "1970-06-17",
+    "runtime": 129
+  },
+  {
+    "id": 48677,
+    "title": "Cloak & Dagger",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Family"
+    ],
+    "overview": "11-year-old Davey's mother is dead and his father doesn't spend nearly enough time with him. So the boy loses himself in video games--and even has an imaginary friend, a super-resourceful secret agent. When he accidentally comes into possession of a spy group's secret plans, and winds up on the run from them, he must learn to rely on himself and his imaginary pal to save his skin. But, in the end, Dad proves to be his real hero.",
+    "releaseDate": "1984-08-10",
+    "runtime": 101
+  },
+  {
+    "id": 17421,
+    "title": "G.I. Joe: The Movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Thriller",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "G.I. Joe faces a new enemy as an ancient society of snake people known as Cobra-La try to forcefully take back the earth from those who drove them underground eons ago.",
+    "releaseDate": "1987-08-01",
+    "runtime": 93
+  },
+  {
+    "id": 22590,
+    "title": "Sidekicks",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Barry is an asthmatic kid having trouble in life. He lives with his father, a computer programmer, in Texas. Barry is struggling to get by in life, dealing with his rough school life, bullies, as well as his health. Barry's only source of enjoyment is fantasizing that he is with Chuck Norris. Barry becomes sick of getting picked on by the bigger guys, and decides to learn karate.",
+    "releaseDate": "1992-12-17",
+    "runtime": 101
+  },
+  {
+    "id": 19371,
+    "title": "Mr. Nanny",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Action"
+    ],
+    "overview": "A former pro-wrestler is hired to be the bodyguard/nanny for a couple of bratty kids whose inventor father is being stalked by a rival.",
+    "releaseDate": "1993-10-08",
+    "runtime": 84
+  },
+  {
+    "id": 36222,
+    "title": "Dead or Alive: Final",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Foreign",
+      "Science Fiction"
+    ],
+    "overview": "Set in a post apocalyptic Yokohama where the population is kept under rigid control by a homosexual megalomaniac mayor. The citizens are administered drugs to suppress heterosexual urges. Officer Takeshi Honda (Riki Takeuchi) is a hard boiled cop enforcing the mayor's agenda, and Ryō (Show Aikawa) is a mellowed out drifter that hooks up with a gang of rebels. When the gang kidnap Takeshi's son, it begins a series of events leading to an inevitable showdown.",
+    "releaseDate": "2002-01-12",
+    "runtime": 89
+  },
+  {
+    "id": 10022,
+    "title": "The Pacifier",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "Disgraced Navy SEAL Shane Wolfe is handed a new assignment: Protect the five Plummer kids from enemies of their recently deceased father -- a government scientist whose top-secret experiment remains hidden in the kids' house.",
+    "releaseDate": "2005-03-04",
+    "runtime": 95
+  },
+  {
+    "id": 12574,
+    "title": "Cop and ½",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "When a pint-sized 8-year-old kid witnesses a murder he offers to help the police, if they make him a cop, too. Saddled with this streetwise sidekick, a hardboiled cop is forced to take his new partner seriously as they race the clock to bring the bad guys to justice.",
+    "releaseDate": "1993-04-02",
+    "runtime": 97
+  },
+  {
+    "id": 12096,
+    "title": "The Pink Panther",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Mystery",
+      "Family"
+    ],
+    "overview": "When the coach of the France soccer team is killed by a poisoned dart in the stadium in the end of a game, and his expensive and huge ring with the diamond Pink Panther disappears, the ambitious Chief Inspector Dreyfus assigns the worst police inspector Jacques Clouseau to the case.",
+    "releaseDate": "2006-01-18",
+    "runtime": 93
+  },
+  {
+    "id": 1593,
+    "title": "Night at the Museum",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits. Larry tries desperately to keep the museum under control, but he's fighting a losing battle until President Teddy Roosevelt comes to the rescue.",
+    "releaseDate": "2006-10-20",
+    "runtime": 108
+  },
+  {
+    "id": 15213,
+    "title": "Everyone's Hero",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "overview": "\"Everyone's Hero\" is the heartwarming story of a young boy's journey to help Babe Ruth and the New York Yankees win the World Series.",
+    "releaseDate": "2006-09-15",
+    "runtime": 88
+  },
+  {
+    "id": 9978,
+    "title": "Stormbreaker",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Family"
+    ],
+    "overview": "Alex Rider thinks he is a normal school boy, until his uncle is killed. He discovers that his uncle was actually spy on a mission, when he was killed. Alex is recruited by Alan Blunt to continue the mission. He is sent to Cornwall to investigate a new computer system, which Darrius Sayle has created. He plans to give the new computer systems to every school in the country, but Mr. Blunt has other ideas and Alex must find out what it is.",
+    "releaseDate": "2006-07-21",
+    "runtime": 93
+  },
+  {
+    "id": 2486,
+    "title": "Eragon",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "In his homeland of Alagaesia, a farm boy happens upon a dragon's egg -- a discovery that leads him on a predestined journey where he realized he's the one person who can defend his home against an evil king.",
+    "releaseDate": "2006-12-14",
+    "runtime": 104
+  },
+  {
+    "id": 8965,
+    "title": "Atlantis: Milo's Return",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Science Fiction",
+      "Family",
+      "Action"
+    ],
+    "overview": "Three different stories come to life in this sequel to the hit animated Disney adventure. Explorer Milo Thatch, his new sweetheart, Queen Kida, and the rest of the team are preparing to rebuild the underwater city. But trouble crops up. Harnessing the power of the crystal of Atlantis, the adventurers set out to defend their kingdom against dark forces that threaten from sand, sea and snow.",
+    "releaseDate": "2003-02-25",
+    "runtime": 70
+  },
+  {
+    "id": 14043,
+    "title": "Nancy Drew",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Family",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "Intrepid teenage private eye Nancy Drew heads to Tinseltown with her father to investigate the unsolved murder of a movie star in this old-fashioned whodunit based on Carolyn Keene's popular series of books for young adults. But can the small-town girl cut through the Hollywood hype to solve the case?",
+    "releaseDate": "2007-06-15",
+    "runtime": 99
+  },
+  {
+    "id": 6589,
+    "title": "Underdog",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "A lab accident gives a hound named Shoeshine some serious superpowers -- a secret that the dog eventually shares with the young boy who becomes his owner and friend",
+    "releaseDate": "2007-08-03",
+    "runtime": 84
+  },
+  {
+    "id": 32307,
+    "title": "Santa Claus Conquers the Martians",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Martians, upset that their children have become obsessed with TV shows from Earth which extol the virtues of Santa Claus, start an expedition to Earth to kidnap the one and only Santa. While on Earth, they kidnap two lively children that lead the group of Martians to the North Pole and Santa. The Martians then take Santa and the two children back to Mars with them. Voldar, a particularly grumpy Martian, attempts to do away with the children and Santa before they get to Mars, but their leader Lomas stops him. When they arrive on Mars, Santa, with the help of the two Earth children and a rather simple-minded Martian lackey, overcomes the Martians by bringing fun, happiness and Christmas cheer to the children of Mars.",
+    "releaseDate": "1964-11-14",
+    "runtime": 81
+  },
+  {
+    "id": 7459,
+    "title": "Speed Racer",
+    "genres": [
+      "Action",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "Speed Racer is the tale of a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, he must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities. Inspired by the cartoon series.",
+    "releaseDate": "2008-05-09",
+    "runtime": 135
+  },
+  {
+    "id": 88751,
+    "title": "Journey to the Center of the Earth",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
+    "releaseDate": "2008-07-10",
+    "runtime": 93
+  },
+  {
+    "id": 13956,
+    "title": "Fly Me to the Moon",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Action",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "Three young houseflies stow away aboard the Apollo 11 flight to the moon.",
+    "releaseDate": "2008-08-15",
+    "runtime": 84
+  },
+  {
+    "id": 43177,
+    "title": "Son of Lassie",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "Adventure"
+    ],
+    "overview": "Laddie (Son of Lassie) and his master are trapped in Norway during WW2 - has he inherited his mothers famous courage?",
+    "releaseDate": "1945-01-01",
+    "runtime": 102
+  },
+  {
+    "id": 37776,
+    "title": "Dead Fury",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Horror"
+    ],
+    "overview": "Animated parody of such horror classics as \"Evil Dead\" and \"The Hills Have Eyes\".",
+    "releaseDate": "2008-08-05",
+    "runtime": 82
+  },
+  {
+    "id": 12224,
+    "title": "Dinotopia",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Carl and David, two boys flying a small aircraft over the ocean with their father, crash land near an uncharted island. The boys swim safely to shore, but their father unfortunately drowns in the crash. On their own, the brothers explore the island and soon discover it is not only inhabited by people, but by dinosaurs as well! While the place seems easy enough to get used to, the boys must find a way of returning to their home.",
+    "releaseDate": "2002-05-12",
+    "runtime": 250
+  },
+  {
+    "id": 14560,
+    "title": "Paul Blart: Mall Cop",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Mild-mannered Paul Blart (Kevin James) has always had huge dreams of becoming a State Trooper. Until then, he patrols the local mall as a security guard. With his closely cropped moustache, personal transporter and gung-ho attitude, only Blart seems to take his job seriously. All that changes when a team of thugs raids the mall and takes hostages. Untrained, unarmed and a super-size target, Blart has to become a real cop to save the day.",
+    "releaseDate": "2009-01-15",
+    "runtime": 91
+  },
+  {
+    "id": 27757,
+    "title": "The Little Engine That Could",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Eric, a young boy, is excited about his birthday after reading a book and believes that a train will come for him, despite his sister Jill's disbelief.",
+    "releaseDate": "1991-01-01",
+    "runtime": 30
+  },
+  {
+    "id": 18360,
+    "title": "Night at the Museum: Battle of the Smithsonian",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Hapless museum night watchman Larry Daley must help his living, breathing exhibit friends out of a pickle now that they've been transferred to the archives at the Smithsonian Institution. Larry's (mis)adventures this time include close encounters with Amelia Earhart, Abe Lincoln and Ivan the Terrible.",
+    "releaseDate": "2009-05-20",
+    "runtime": 105
+  },
+  {
+    "id": 13836,
+    "title": "Race to Witch Mountain",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Science Fiction",
+      "Thriller",
+      "Action"
+    ],
+    "overview": "A taxi driver gets more than he bargained for when he picks up two teen runaways. Not only does the pair possess supernatural powers, but they're also trying desperately to escape people who have made them their targets.",
+    "releaseDate": "2009-03-12",
+    "runtime": 98
+  },
+  {
+    "id": 19585,
+    "title": "G-Force",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "overview": "A team of trained secret agent animals, guinea pigs Darwin, Juarez, Blaster, mole Speckles, and fly Mooch takes on a mission for the US government to stop evil Leonard Saber, who plans to destroy the world with household appliances. But the government shuts them down and they are sentenced to a pet shop. Can they escape to defeat the villain and save the world?",
+    "releaseDate": "2009-07-21",
+    "runtime": 88
+  },
+  {
+    "id": 23115,
+    "title": "Long John Silver",
+    "genres": [
+      "Action",
+      "Family"
+    ],
+    "overview": "In this sequel to Treasure Island, Long John hopes to rescue his friend Jim from a rival pirate and return for more treasure.",
+    "releaseDate": "1954-12-16",
+    "runtime": 106
+  },
+  {
+    "id": 16577,
+    "title": "Astro Boy",
+    "genres": [
+      "Animation",
+      "Action",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "Set in futuristic Metro City, Astro Boy is about a young robot with incredible powers created by a brilliant scientist in the image of the son he has lost. Unable to fulfill the grieving man's expectations, our hero embarks on a journey in search of acceptance, experiencing betrayal and a netherworld of robot gladiators, before he returns to save Metro City and reconcile with the father who had rejected him.",
+    "releaseDate": "2009-10-15",
+    "runtime": 94
+  },
+  {
+    "id": 36278,
+    "title": "Top Dog",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "With his cop companion shot and killed by terrorists, Reno The Dog pairs up with tough cop Jake in thwarting the criminal organization.",
+    "releaseDate": "1995-04-28",
+    "runtime": 86
+  },
+  {
+    "id": 32834,
+    "title": "MVP: Most Valuable Primate",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "Jack is a three-year-old chimpanzee who has been the subject of a long-term experiment by Dr. Kendall, a researcher who been teaching Jack to communicate through sign language. ack scrambles onto the ice in the midst of practice for Steven's junior league hockey team, and he and his teammates discover the monkey has a natural talent for the game.",
+    "releaseDate": "2000-08-11",
+    "runtime": 93
+  },
+  {
+    "id": 34003,
+    "title": "Turtles Forever",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Animation",
+      "Action",
+      "Family",
+      "Comedy"
+    ],
+    "overview": "Turtles Forever is a made-for-tv animated movie. Produced in celebration of the 25th anniversary of the Teenage Mutant Ninja Turtles franchise, the movie teams up different incarnations of the titular heroes—chiefly the light-hearted, child-friendly characters from the 1987 animated series and the darker cast of the 4Kids' own 2003 animated series—in an adventure that spans multiple universes.",
+    "releaseDate": "2009-11-21",
+    "runtime": 78
+  },
+  {
+    "id": 35148,
+    "title": "Playmobil: The Secret of Pirate Island",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "Ahoy, matey! Your Favorite Playmobil toys have come to life for the very first time, in an all-new swashbuckling adventure and you're invited to join them! You'll have a treasure chest full of fun with seven-year-old Jack and his big sister Amelia as they stow away on a pirate ship headed for the mysterious Pirate Island -- a place filled with treasure and curious creatures. Can Jack and Amelia stay one step ahead of a bunch of wacky skeletons and get to the treasure before the pirates do?",
+    "releaseDate": "2009-10-13",
+    "runtime": 140
+  },
+  {
+    "id": 23172,
+    "title": "The Spy Next Door",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Former CIA spy Bob Ho takes on his toughest assignment to date: looking after his girlfriend's three kids, who haven't exactly warmed to their mom's beau. And when one of the youngsters accidentally downloads a top-secret formula, Bob's longtime nemesis, a Russian terrorist, pays a visit to the family.",
+    "releaseDate": "2010-01-15",
+    "runtime": 94
+  },
+  {
+    "id": 56931,
+    "title": "Tom Thumb",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Family"
+    ],
+    "overview": "The Forest Queen grants the wish of Jonathan, the woodcutter, and his wife, Anna.",
+    "releaseDate": "1958-12-24",
+    "runtime": 98
+  },
+  {
+    "id": 22488,
+    "title": "Love's Abiding Joy",
+    "genres": [
+      "TV Movie",
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "overview": "The continued Westward journey of settlers Missie and Willie Lahaye. Their roots now firmly planted as they set up homestead in the far West, Missie begins to realize her passion for teaching as Willie cares for the couple's young daughter Kathy while expanding the family ranch with a little help from sons Jeff and Matthew. When the frontier railroad comes to town, the pleasure of a long-promised visit from Missie's father Clark is suddenly offset by the tragic death of young Kathy. As the untimely demise of their beloved daughter begins to drive an emotional wedge between Missie and Willie, the devastated father unexpectedly accepts an offer made by the powerful Samuel Doros to assume the role of town sheriff. Their faith shaken and their once close-knit bond suddenly torn asunder, Missie and Willie desperately attempt to bring their crumbling family back together as son Jeff faces a series of dangers while hopelessly falling for Doros' beautiful daughter Colette.",
+    "releaseDate": "2006-10-06",
+    "runtime": 87
+  },
+  {
+    "id": 49131,
+    "title": "Spiderman: The Ultimate Villain Showdown",
+    "genres": [
+      "Action",
+      "Animation",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "Spider-Man meets some of his greatest foes including Green Goblin, Kingpin, and Dr. Octopus, and rediscovers his own identity in the process.",
+    "releaseDate": "2002-08-11",
+    "runtime": 79
+  },
+  {
+    "id": 33427,
+    "title": "LEGO: The Adventures of Clutch Powers",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Meet Clutch Powers, the best builder and explorer in the LEGO universe as he heads off on his most dangerous mission yet. Join Clutch and his team of experts as their adventure leads them from City to the Space Police prison planet to the medieval world of Ashlar where they must help the rightful heir to the King’s throne find the courage to regain the kingdom from the evil wizard Malign.",
+    "releaseDate": "2010-01-01",
+    "runtime": 81
+  },
+  {
+    "id": 10196,
+    "title": "The Last Airbender",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "The story follows the adventures of Aang, a young successor to a long line of Avatars, who must put his childhood ways aside and stop the Fire Nation from enslaving the Water, Earth and Air nations.",
+    "releaseDate": "2010-06-30",
+    "runtime": 103
+  },
+  {
+    "id": 38575,
+    "title": "The Karate Kid",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "12-year-old Dre Parker could have been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+    "releaseDate": "2010-06-10",
+    "runtime": 140
+  },
+  {
+    "id": 43605,
+    "title": "Treasure Island",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "In this early film adaptation of the classic novel by Robert Louis Stevenson, young Jim Hawkins is caught up with the pirate Long John Silver in search of buccaneer Captain Flint's buried treasure.",
+    "releaseDate": "1934-08-17",
+    "runtime": 103
+  },
+  {
+    "id": 25694,
+    "title": "Alice in Wonderland",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "On a boring winter afternoon, Alice dreams, that she's visiting the land behind the mirror. This turns out to be a surrealistic nightmare, with all sorts of strange things happening to her, like changing her size or playing croquet with flamingos.",
+    "releaseDate": "1933-12-22",
+    "runtime": 76
+  },
+  {
+    "id": 38055,
+    "title": "Megamind",
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "Bumbling supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.",
+    "releaseDate": "2010-10-28",
+    "runtime": 95
+  },
+  {
+    "id": 43959,
+    "title": "Soul Surfer",
+    "genres": [
+      "Family",
+      "Action",
+      "Drama"
+    ],
+    "overview": "Soul Surfer is the inspiring true story of teen surfer Bethany Hamilton. Bethany lost her left arm in a shark attack and courageously overcame all odds to become a champion again, through her sheer determination and unwavering faith.Bethany (AnnaSophia Robb) was born to surf. A natural talent who took to the waves at a young age, she was leading an idyllic life on Kauai, participating in national surf competitions with her best friend Alana (Lorraine Nicholson), when everything changed. On Halloween morning, a 14-foot tiger shark came out of nowhere and seemed to shatter all her dreams.Soul Surfer reveals Bethany's fight to recover from her ordeal and how she grappled with the question of her future. Strengthened by the love of her parents, Tom (Dennis Quaid) and Cheri (Helen Hunt), and supported by her youth group leader Sara (Carrie Underwood), Bethany refuses to give in or give up, and begins a bold return to the water.",
+    "releaseDate": "2011-04-08",
+    "runtime": 106
+  },
+  {
+    "id": 56288,
+    "title": "Spy Kids: All the Time in the World",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Action"
+    ],
+    "overview": "Eight years after the third film, the OSS has become the world's top spy agency, while the Spy Kids department has since become defunct. A retired spy Marissa (Jessica Alba) is thrown back into the action along with her stepchildren when a maniacal Timekeeper (Jeremy Piven) attempts to take over the world. In order to save the world, Rebecca (Rowan Blanchard) and Cecil (Mason Cook) must team up with their hated stepmother. Carmen and Juni have since also grown up and will provide gadgets to them.",
+    "releaseDate": "2011-08-18",
+    "runtime": 89
+  },
+  {
+    "id": 41800,
+    "title": "Superman and the Mole-Men",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Action",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "Reporters Clark Kent and Lois Lane arrive in the small town of Silsby to witness the drilling of the world's deepest oil well. The drill, however, has penetrated the underground home of a race of small, furry people who then come to the surface at night to look around. The fact that they glow in the dark scares the townfolk, who form a mob, led by the vicious Luke Benson, intent on killing the strange people. Only Superman has a chance to prevent this tragedy.",
+    "releaseDate": "1951-11-23",
+    "runtime": 58
+  },
+  {
+    "id": 13396,
+    "title": "The Snowman",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "A young boy makes a snowman one Christmas Eve, which comes to life at midnight and takes the boy on a magical adventure to the North Pole to meet Santa Claus.",
+    "releaseDate": "1982-12-26",
+    "runtime": 26
+  },
+  {
+    "id": 262475,
+    "title": "G.I. Joe: The Revenge of Cobra",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "Destro has created a Weather Dominator machine that can control the power of nature anywhere on earth. The G.I. Joe team stops Cobra Commander from using its destructive power, but during the battle, the machine is blown into three pieces and weather everywhere is thrown into chaos. G.I. Joe is in a race against time to recover the pieces first, so that they can stop the devastating weather and prevent Cobra from ruling the world!",
+    "releaseDate": "1984-09-10",
+    "runtime": 150
+  },
+  {
+    "id": 58704,
+    "title": "The Wonderful World of Puss 'n Boots",
+    "genres": [
+      "Family",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Animation"
+    ],
+    "overview": "His goal is to help the weak and defenseless, but his saving a mouse makes him the most wanted in all the land. On the run from incessant, dim-witted mice, Perro befriends a young miller's boy, Pierre; together, they decide to seek fame and fortune. When they cross paths with the lovely Princess Rosa, Perro determines to get Pierre hitched to Her Royal Highness.",
+    "releaseDate": "1969-03-18",
+    "runtime": 80
+  },
+  {
+    "id": 29694,
+    "title": "One of Our Dinosaurs Is Missing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "Escaping from China with a microfilm of the formula for the mysterious \"Lotus X\", Lord Southmere, a Queen's Messenger, is chased by a group of Chinese spies.",
+    "releaseDate": "1975-07-09",
+    "runtime": 100
+  },
+  {
+    "id": 61020,
+    "title": "Adventures of Captain Marvel",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "On a scientific expedition to Siam young Billy Batson is given the ability to change himself into the super-powered Captain Marvel by the wizard Shazam, who tells him his powers will last only as long as the Golden Scorpion idol is threatened. Finding the idol, the scientists realize it could be the most powerful weapon in the world and remove the lenses that energize it, distributing them among themselves so that no one would be able to use the idol by himself. Back in the US, Billy Batson, as Captain Marvel, wages a battle against an evil, hooded figure, the Scorpion, who hopes to accumulate all five lenses, thereby gaining control of the super-powerful weapon",
+    "releaseDate": "1941-03-28",
+    "runtime": 216
+  },
+  {
+    "id": 35691,
+    "title": "Letters to God",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "A young boy fighting cancer writes letters to God, touching lives in his neighborhood and inspiring hope among everyone he comes in contact. An unsuspecting substitute postman, with a troubled life of his own, becomes entangled in the boy's journey and his family by reading the letters. They inspire him to seek a better life for himself and his own son he's lost through his alcohol addiction.",
+    "releaseDate": "2010-04-09",
+    "runtime": 110
+  },
+  {
+    "id": 62177,
+    "title": "Brave",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Action",
+      "Fantasy"
+    ],
+    "overview": "Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mérida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mérida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mérida’s quest — and serving as comic relief — are the kingdom’s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
+    "releaseDate": "2012-06-21",
+    "runtime": 93
+  },
+  {
+    "id": 63988,
+    "title": "Forest Warrior",
+    "genres": [
+      "Action",
+      "Family"
+    ],
+    "overview": "John McKenna is a spiritual being who is able to transform into bear, wolf or eagle. He lives in the forests of Tanglewood and has dedicated his life to protect them. One day a gang of evil lumberjacks led by Travis Thorne arrive Tanglewood to chop the forest down. McKenna cannot let this happen, and together with his new friends - Lords of the Tanglewood, a band of children who love to play in the forest - he battles against Thorne and his evil gang.",
+    "releaseDate": "1996-11-05",
+    "runtime": 93
+  },
+  {
+    "id": 45682,
+    "title": "Looking for Jackie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "Jackie Chan is the undefeated Kung Fu Master who dishes out the action in traditional Jackie Chan style. When a young boy sets out to learn how to fight from the Master himself, he not only witnesses some spectacular fights, but learns some important life lessons along the way.",
+    "releaseDate": "2009-07-03",
+    "runtime": 85
+  },
+  {
+    "id": 81005,
+    "title": "Jack the Giant Slayer",
+    "genres": [
+      "Action",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "The story of an ancient war that is reignited when a young farmhand unwittingly opens a gateway between our world and a fearsome race of giants. Unleashed on the Earth for the first time in centuries, the giants strive to reclaim the land they once lost, forcing the young man, Jack into the battle of his life to stop them. Fighting for a kingdom, its people, and the love of a brave princess, he comes face to face with the unstoppable warriors he thought only existed in legend–and gets the chance to become a legend himself.",
+    "releaseDate": "2013-02-27",
+    "runtime": 114
+  },
+  {
+    "id": 51249,
+    "title": "Alabama Moon",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "After the unexpected death of his survivalist father, an eleven year old boy raised in the Alabama wilderness must learn how to make a home in the modern world.",
+    "releaseDate": "2009-09-27",
+    "runtime": 99
+  },
+  {
+    "id": 79699,
+    "title": "A Warrior's Heart",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "overview": "After his father’s death, high school lacrosse star Conor Sullivan becomes self-destructive but through a new love interest and his passion for this sport, Conor discovers the warrior within himself.",
+    "releaseDate": "2011-12-02",
+    "runtime": 86
+  },
+  {
+    "id": 26450,
+    "title": "Phantom of the Megaplex",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Mystery"
+    ],
+    "overview": "A young man working at a cinema on a special premiere night, finds that the films being shown are full of strange and eerie occurrences.",
+    "releaseDate": "2000-11-10",
+    "runtime": 89
+  },
+  {
+    "id": 21683,
+    "title": "Batman: Mystery of the Batwoman",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Action",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "A new vigilante, Batwoman, is wreaking havoc in Gotham City. The dynamic duo must discover her true identity.",
+    "releaseDate": "2003-10-21",
+    "runtime": 74
+  },
+  {
+    "id": 72440,
+    "title": "Once Upon a Warrior",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "In a teardrop-shaped land called Sangarashtra, a 9-year-old girl with special healing powers tries to save her homeland from the tyranny of an evil queen with the help of a blind swordsman.",
+    "releaseDate": "2011-01-14",
+    "runtime": 138
+  },
+  {
+    "id": 46997,
+    "title": "The Magic Voyage of Sinbad",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "Sadko is based on an opera by Nikolai Rimsky-Korsakov, which was based on a Russian bylina (epic tale) with the same name, and scored with Rimsky-Korsakov's music from the opera. This tale is based upon the legends born in ancient times in the old Russian city of Novgorod. Novgorod's merchants are feasting in a gorgeous palace. A young gusli player named Sadko is bragging that he can bring to their land a sweet-voiced bird of happiness. But the merchants are ridiculing him. Nevertheless, Sadko sets off on a travel to bring the bird of happiness to Novgorod. He is offered help by the daughter of the Ocean King - she is mesmerized by Sadko's singing and is in love with him. The hero is destined to visit many lands in his search of the bird. The film was released in the United States in 1962 in an English-dubbed and modified form by Roger Corman's Filmgroup under the title The Magic Voyage of Sinbad.",
+    "releaseDate": "1952-12-20",
+    "runtime": 80
+  },
+  {
+    "id": 41831,
+    "title": "True Heart",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "A brother and sister are plane-wrecked in Canada, where they must rely on the help of a native and his bear.",
+    "releaseDate": "1999-02-17",
+    "runtime": 92
+  },
+  {
+    "id": 49852,
+    "title": "The Nutcracker: The Untold Story",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Family"
+    ],
+    "overview": "Set in 1920's Vienna, this a tale of a little girl, whose godfather gives her a special doll one Christmas Eve.",
+    "releaseDate": "2010-11-24",
+    "runtime": 110
+  },
+  {
+    "id": 21138,
+    "title": "The Sandlot: Heading Home",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Comedy",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "A successful professional baseball player gets his ego in check via an unreality check when he travels back in time to his boyhood sandlot ball-playing days.",
+    "releaseDate": "2007-05-01",
+    "runtime": 96
+  },
+  {
+    "id": 19325,
+    "title": "Bionicle: Mask of Light",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "The spirit that protects the islands of Mata Nui is put into a deep sleep, causing the islands to crumble into the ocean, and three islanders must use the Mask of Light to save it.",
+    "releaseDate": "2003-09-15",
+    "runtime": 70
+  },
+  {
+    "id": 21379,
+    "title": "Bionicle 2: Legends of Metru Nui",
+    "genres": [
+      "Action",
+      "Family",
+      "Animation"
+    ],
+    "overview": "The legends tells the story of how the Toa came to be, chosen from the pool of Matoran youth in the great city of Metru Nui and, though physically transformed, hardly prepared for increased size and super heroic powers. Now in short order, the Toa--who babble and bicker like agitated adolescents--have to master their new gifts, impress their leader, and prepare to protect their home.",
+    "releaseDate": "2004-01-01",
+    "runtime": 72
+  },
+  {
+    "id": 18224,
+    "title": "Bionicle 3: Web of Shadows",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "The Web of Shadows concerns the return of the heroic Toa to Metru Nui. There, they find an old enemy has overtaken the great city with the help of Visorak--robotic spiders that can quickly encase anything or anybody in near-indestructible webs. The Toa undergo a bizarre metamorphosis while sealed within strange cocoons, and emerge as clunky-looking machines made up of mismatched parts.",
+    "releaseDate": "2005-01-01",
+    "runtime": 74
+  },
+  {
+    "id": 22259,
+    "title": "Bionicle: The Legend Reborn",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "Once the ruler of an entire universe, the Great Spirit Mata Nui finds himself cast out of his own body, his spirit trapped inside the fabled Mask of Life, hurtling through space. After landing on the far-away planet of Bara Magna, the mask creates a new body for Mata Nui, who unwillingly gets caught up in the furious battles of the nearly barren and dangerous planet.",
+    "releaseDate": "2009-08-24",
+    "runtime": 80
+  },
+  {
+    "id": 12242,
+    "title": "Mulan II",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Action"
+    ],
+    "overview": "Fa Mulan gets the surprise of her young life when her love, Captain Li Shang asks for her hand in marriage. Before the two can have their happily ever after, the Emperor assigns them a secret mission, to escort three princesses to Chang'an, China. Mushu is determined to drive a wedge between the couple after he learns that he will lose his guardian job if Mulan marries into the Li family.",
+    "releaseDate": "2004-11-03",
+    "runtime": 79
+  },
+  {
+    "id": 105945,
+    "title": "Memorial Day",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "History",
+      "War"
+    ],
+    "overview": "Memorial Day, 1993. When 13-year-old Kyle Vogel discovers the World War II footlocker belonging to his grandfather, Bud, everyone tells Kyle to put it back. Luckily, he ignores them. Although Bud has never talked about the war, he finds himself striking a deal with his grandson: Kyle can pick any three souvenirs, and Bud will tell him the stories behind each one. Memorial Day not only takes us on a journey into Bud's complicated wartime past, but also into Kyle's wartime future. As the two men share parallel experiences in combat, they come to realize how that magical day on the porch shaped both of their lives.",
+    "releaseDate": "2011-06-06",
+    "runtime": 108
+  },
+  {
+    "id": 102651,
+    "title": "Maleficent",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Action",
+      "Family",
+      "Romance"
+    ],
+    "overview": "The untold story of Disney's most iconic villain from the 1959 classic 'Sleeping Beauty'. A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land.  Maleficent rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal – an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom - and to Maleficent's true happiness as well.",
+    "releaseDate": "2014-05-28",
+    "runtime": 97
+  },
+  {
+    "id": 82881,
+    "title": "Tangled Ever After",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action",
+      "Family"
+    ],
+    "overview": "The kingdom is in a festive mood as everyone gathers for the royal wedding of Rapunzel and Flynn. However, when Pascal and Maximus, as flower chameleon and ring bearer, respectively, lose the gold bands, a frenzied search and recovery mission gets underway. As the desperate duo tries to find the rings before anyone discovers that they’re missing, they leave behind a trail of comical chaos that includes flying lanterns, a flock of doves, a wine barrel barricade and a very sticky finale. Will Maximus and Pascal save the day and make it to the church in time? And will they ever get Flynn’s nose right?",
+    "releaseDate": "2012-01-13",
+    "runtime": 6
+  },
+  {
+    "id": 82702,
+    "title": "How to Train Your Dragon 2",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "The thrilling second chapter of the epic How To Train Your Dragon trilogy brings back the fantastical world of Hiccup and Toothless five years later. While Astrid, Snotlout and the rest of the gang are challenging each other to dragon races (the island's new favorite contact sport), the now inseparable pair journey through the skies, charting unmapped territories and exploring new worlds. When one of their adventures leads to the discovery of a secret ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+    "releaseDate": "2014-06-12",
+    "runtime": 102
+  },
+  {
+    "id": 89551,
+    "title": "Bush Christmas",
+    "genres": [
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "In Australia, five children pursue horse thieves through the mountains.",
+    "releaseDate": "1947-07-28",
+    "runtime": 77
+  },
+  {
+    "id": 43398,
+    "title": "Challenge to Lassie",
+    "genres": [
+      "Action",
+      "Family",
+      "Adventure",
+      "Drama"
+    ],
+    "overview": "When Lassie's master dies, an old friend tries to convince a judge that the dog's life should be spared.",
+    "releaseDate": "1949-01-01",
+    "runtime": 76
+  },
+  {
+    "id": 54557,
+    "title": "The Chaperone",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Action"
+    ],
+    "overview": "An ex-con on the run from his criminal past, hides out from those he ratted on by chaperoning a field trip to New Orleans.",
+    "releaseDate": "2011-02-11",
+    "runtime": 103
+  },
+  {
+    "id": 177572,
+    "title": "Big Hero 6",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Animation",
+      "Action",
+      "Comedy"
+    ],
+    "overview": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+    "releaseDate": "2014-10-24",
+    "runtime": 102
+  },
+  {
+    "id": 20270,
+    "title": "The Prodigy",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "\"The Prodigy\" tells the story of small-time enforcer Truman Fisher's vicious conflict with a sadistic assassin who has chosen the unwilling Truman to be his successor. The assassin, who goes by the alias Rains and whose exploits have become the source of legend among Truman's underworld colleagues, drives Truman, through the pressure of constant violence and grief, to understand his own capacity for both bloodshed and compassion. Ultimately this reveals to Truman that he as with all of us, must find our place in this world or as Rains would say \"our place in this grand design.\" This action begins quickly as Truman meets with a turncoat from a rival gang. This tense showdown erupts quickly into mayhem, when Rains makes his unexpected entrance. In the wake of the ensuing bloodbath, Truman is forced to reevaluate his own role in the small, violent world he inhabits, suddenly aware that there are larger powers at work which he does not understand...",
+    "releaseDate": "2005-01-01",
+    "runtime": 120
+  },
+  {
+    "id": 14830,
+    "title": "Doctor Strange",
+    "genres": [
+      "Action",
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Dr. Stephen Strange embarks on a wondrous journey to the heights of a Tibetan mountain, where he seeks healing at the feet of the mysterious Ancient One.",
+    "releaseDate": "2007-08-14",
+    "runtime": 76
+  },
+  {
+    "id": 275287,
+    "title": "LEGO Hero Factory: Rise of the Rookies",
+    "genres": [
+      "Action",
+      "Animation",
+      "Family"
+    ],
+    "overview": "A new Rookie team has been assigned to complete their training with Stormer and his crew - but someone from Stormer's past is trying to take down the Hero Factory and Stormer himself.",
+    "releaseDate": "2010-11-16",
+    "runtime": 88
+  },
+  {
+    "id": 119892,
+    "title": "The Monkey King",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Sun Wukong, (The Monkey King) is a monkey born from a heavenly stone who acquires supernatural powers. After rebelling against heaven and being imprisoned under a mountain for 500 years, he later accompanies the monk Xuanzang on a journey to India. Thus, according to legend, Buddhism is brought to ancient China. This much beloved story, is as much a part of Asian culture as The Iliad and The Odyssey or The Wizard of Oz are to the West. This first installment in a trilogy of live action 3-D movies is actually a prequel to The Journey To The West, the much told story of the Monkey King's adventures on the road to India.",
+    "releaseDate": "2014-01-09",
+    "runtime": 119
+  },
+  {
+    "id": 42996,
+    "title": "Five Weeks in a Balloon",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Family",
+      "Comedy"
+    ],
+    "overview": "Professor Fergusson plans to make aviation history by making his way across Africa by balloon. He plans to claim uncharted territories in West Africa as proof of his inventions worth.",
+    "releaseDate": "1962-01-01",
+    "runtime": 101
+  },
+  {
+    "id": 116977,
+    "title": "Foodfight!",
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Dex, a superdog sleuth, is the law of the land when the world's most recognized brands take on the forces of evil and the devilish Brand X.",
+    "releaseDate": "2012-06-15",
+    "runtime": 87
+  },
+  {
+    "id": 42759,
+    "title": "The Call of the Wild",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Academy Award winner Charlton Heston plays John Thornton, a fearless man who's after more than gold; he wants to do what's right. Thornton works for the U.S. mail and is the only person daring and smart enough to figure out how to travel the deadly 600 miles from Skagway to Dawson, Alaska in the icy winter. His incredibly dog Buck is by his side and part of how he survives. Call of the Wild is stunning entertainment and a superb adventure film classic.",
+    "releaseDate": "1972-11-30",
+    "runtime": 100
+  },
+  {
+    "id": 121727,
+    "title": "The Call of the Wild",
+    "genres": [
+      "Drama",
+      "Action",
+      "Family"
+    ],
+    "overview": "A prospector, a trapper and their sled dog battle the Klondike elements on their journey to get to the gold country.",
+    "releaseDate": "1976-05-22",
+    "runtime": 94
+  },
+  {
+    "id": 20177,
+    "title": "Super Capers",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "Would-be superhero, Ed Gruberman, who possesses no super powers must join a team of misfit heroes-in-training known as The Super Capers. Having only faith, Gruberman must travel through time to uncover an evil plot involving some gold bullion, a fiery femme fatale, and a criminal mastermind with a dark secret about Ed's past.",
+    "releaseDate": "2009-01-01",
+    "runtime": 98
+  },
+  {
+    "id": 230222,
+    "title": "Tarzan",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "One of the most classic and revered stories of all time, Edgar Rice Burroughs' Tarzan returns to the big screen for a new generation. Tarzan and Jane face a mercenary army dispatched by the evil CEO of Greystoke Energies, a man who took over the company from Tarzan's parents, after they died in a plane crash in the African jungle.",
+    "releaseDate": "2013-07-25",
+    "runtime": 94
+  },
+  {
+    "id": 39227,
+    "title": "When in Rome",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "overview": "Teenage sisters Charli and Lola are on the verge of an experience beyond their wildest dreams! Pack your bags and jet off to Rome as the girls start their summer internship working for the legendary Derek Hanson - the totally cool international tycoon whose empire reaches from airlines to cutting-edge fashion. Amid the fabulous sights of this exciting city, the girls do their best to impress their boss, while still finding time to design their own line of very hip clothing, meet some very cute guys and turn their summer abroad into one awesome adventure they - and you - will never forget!",
+    "releaseDate": "2002-11-26",
+    "runtime": 94
+  },
+  {
+    "id": 25441,
+    "title": "Never a Dull Moment",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "When practicing for a role, actor Jack is mistaken for the killer Ace. He doesn't realize this until it's too late and is carried off to gangster boss Leo Smooth, who wants Ace to do a job for him. Fearing for his life, Jack plays his role, but always searching for a way out of the well-guarded house. - By: Tom Zoerner",
+    "releaseDate": "1968-06-26",
+    "runtime": 99
+  },
+  {
+    "id": 58448,
+    "title": "Knockout",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Steve Austin is Dan Barnes, a former heavyweight boxer who hangs up his gloves to escape his violent lifestyle. Dans life is quickly turned upside down when the resident boxing champion makes his presence felt by dominating all opponents who stand in his way. In order to put the title holder in his place, Dan prepares an unseasoned newcomer for the biggest challenge of his life.",
+    "releaseDate": "2011-03-05",
+    "runtime": 95
+  },
+  {
+    "id": 251768,
+    "title": "JLA Adventures: Trapped in Time",
+    "genres": [
+      "Family",
+      "Animation",
+      "Action",
+      "Science Fiction"
+    ],
+    "overview": "Get ready for a battle of the ages when the Justice League faces off against its archenemies, the Legion of Doom, in an all-new movie from DC Comics. A mysterious being known as the Time Trapper arises, and a sinister plan led by Lex Luthor sends the Legion of Doom back in time to eliminate Superman, Wonder Woman and Batman before they become super heroes. For Aquaman, Flash and Cyborg, along with teen super heroes Karate Kid and Dawnstar, the stakes have never been higher, the rescue mission never deadlier. So join the fight for the future as the Justice League confronts its ultimate challenge… the threat of having never existed!",
+    "releaseDate": "2014-01-21",
+    "runtime": 52
+  },
+  {
+    "id": 42303,
+    "title": "The Karate Dog",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "overview": "When LAPD computer expert Peter Fowler investigates the killing of an old man in Chinatown, he finds the only witness is his dog, Cho Cho. But Fowler soon discovers Cho Cho is the only dog in the world who can speak to humans... not only that, Cho Cho is an expert in martial arts. When they join forces to track down the mastermind behind the death of Cho Cho's master, it leads these unusual partners into uncovering a dangerous conspiracy which puts both of their lives in danger.",
+    "releaseDate": "2004-05-05",
+    "runtime": 84
+  },
+  {
+    "id": 215405,
+    "title": "Magic Kid",
+    "genres": [
+      "Action",
+      "Family",
+      "Comedy"
+    ],
+    "overview": "Karate action and laughs never cease when a brother and sister go to California to visit their uncle. They soon discover that he's an alcoholic on the run from the Mob who want him to pay up or else...",
+    "releaseDate": "1993-10-27",
+    "runtime": 90
+  },
+  {
+    "id": 27353,
+    "title": "Shredderman Rules",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Nolan Byrd (Devon Werkheiser) is a scrawny and shy 9th grader who, like all the other kids, is bullied by Bubba Bixby (Andrew Caldwell). When their teacher, Mr. Green (Tim Meadows), allows the students to do a computer project, Nolan, who has a particular knack with technology, decides to catch Bubba in action.",
+    "releaseDate": "2007-06-09",
+    "runtime": 96
+  },
+  {
+    "id": 41118,
+    "title": "Scrooge",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Scrooge, the ultimate Victorian miser, hasn't a good word for Christmas, though his impoverished clerk Cratchit and nephew Fred are full of holiday spirit. But in the night, Scrooge is visited by spirits of another color. Straightforward adaptation of Dickens Written by Rod Crawford",
+    "releaseDate": "1935-11-30",
+    "runtime": 78
+  },
+  {
+    "id": 122894,
+    "title": "Journey to the Center of the Earth",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "When brothers Richard and Bryan and young nanny Crystina fall into a hole while exploring one of Hawaii's many volcanic caves, they plummet all the way to the center of the Earth in this adventure loosely based on Jules Verne's classic novel. The teen-oriented film follows the trio's discovery of the lost continent of Atlantis, an underground world populated by creatures and monsters.",
+    "releaseDate": "1989-07-14",
+    "runtime": 100
+  },
+  {
+    "id": 128854,
+    "title": "Hills of Home",
+    "genres": [
+      "Family",
+      "Adventure",
+      "Action",
+      "Drama"
+    ],
+    "overview": "William McClure is the villlage doctor in a remote Scottish glen. Tricked into buying Lassie, a collie afraid of water, he sets about teaching her to swim. At the same time he has the bigger problem that he is getting older and must ensure the glen will have a new local doctor ready.",
+    "releaseDate": "1948-11-25",
+    "runtime": 97
+  },
+  {
+    "id": 61855,
+    "title": "The Painted Hills",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "overview": "After years of prospecting, Jonathan finally strikes gold. He returns to town only to discover that his partner has since died and left Tommy fatherless. He decides to leave Shep (played by Lassie) with Tommy to cheer him up. Meanwhile, Jonathan's new partner, Lin, isn't interested in sharing the gold, and lures Jonathan to his death. Lassie immediately deduces what's happened, so Lin poisons Lassie. Lassie barely pulls through and pursues Lin to a climactic confrontation where, due to an off-screen accident with some liquid nitrogen, Lin's gun jams.",
+    "releaseDate": "1951-05-04",
+    "runtime": 68
+  },
+  {
+    "id": 65257,
+    "title": "Longshot",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "Teen Alex Taylor and his older brother Jack live in L.A. where Jack is a personal fitness trainer. Jack had an affair with Mitzi Price, a very powerful business man's wife. Her husband, Laszlo Price, then blackmails Jack into going to New York City to get information from Rachel Montgomery, about who she is selling her company to. Jack brings Alex with him to make sure that he will be safe. Jack and Rachel fall in love while Alex falls in love Rachel's daughter Kelly. Eventually Jack tells Rachel why he was sent to New York, and the two work together to bring Laszlo Price down. Rachel needs to have two million dollars in order to not sell her company. Alex wins the money in a halftime contest at a basketball game. They provide information about Laszlo Price to the police, and he is arrested.",
+    "releaseDate": "2001-10-25",
+    "runtime": 93
+  },
+  {
+    "id": 295887,
+    "title": "Beethoven's Treasure Tail",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "After everyone's favorite St. Bernard gets fired from a movie, Beethoven begins the long journey home with his trainer, Eddie. On their way, they become stranded in a small coastal town where the beloved canine befriends a young boy who is searching for buried treasure.",
+    "releaseDate": "2014-10-02",
+    "runtime": 98
+  },
+  {
+    "id": 303457,
+    "title": "Chaar Sahibzaade",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Documentary",
+      "Family",
+      "History"
+    ],
+    "overview": "Chaar Sahibzaade is the first photo realistic' 3D animation film in S-3D on Sikh history. It is the real story of the sacrifices of the four sons of Guru Gobind Singh ji (tenth guru of Sikhs)- Baba Ajit Singh ji, Baba Jujhar Singh ji, Baba Zorawar Singh ji and Baba Fateh Singh ji.",
+    "releaseDate": "2014-11-06",
+    "runtime": 134
+  },
+  {
+    "id": 11425,
+    "title": "Honey, We Shrunk Ourselves",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Science Fiction",
+      "Action"
+    ],
+    "overview": "The joke's on absent-minded scientist Wayne Szalinski when his troublesome invention shrinks him, his brother and their wives so effectively that their children think they've completely disappeared. Of course, this gives the kids free rein to do anything they want, unaware that their parents are watching every move.",
+    "releaseDate": "1997-03-18",
+    "runtime": 74
+  },
+  {
+    "id": 264337,
+    "title": "Spare Parts",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "overview": "With the help of their high school's newest teacher, four Hispanic students form a robotics club. Although they have no experience, the youths set their sights on a national robotics contest. With $800 and parts scavenged from old cars, they build a robot and compete against reigning champion MIT. Along the way, the students learn not only how to build a robot but something far more important: how to forge bonds that will last a lifetime.",
+    "releaseDate": "2015-01-16",
+    "runtime": 83
+  },
+  {
+    "id": 322456,
+    "title": "LEGO DC Comics Super Heroes: Justice League vs. Bizarro League",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Superman’s clone, Bizarro, has become an embarrassing problem. Chaos and destruction follow Bizarro everywhere as he always hears the opposite of what is said, says the opposite of what he means and does the opposite of what is right. And when the citizens of Metropolis keep confusing Bizarro with Superman, the Man of Steel decides it’s time to find a new home for him…on another planet! It’s up to the Justice League to come to terms with their backward counterparts and team up with them to stop Darkseid and save the galaxy!",
+    "releaseDate": "2015-02-10",
+    "runtime": 48
+  },
+  {
+    "id": 256961,
+    "title": "Paul Blart: Mall Cop 2",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Security guard Paul Blart is headed to Las Vegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.",
+    "releaseDate": "2015-04-16",
+    "runtime": 94
+  },
+  {
+    "id": 35703,
+    "title": "Holiday in the Sun",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Sisters Alex and Madison are whisked away to the Bahamas for winter break but soon find themselves crossing paths with a man smuggling stolen artifacts.",
+    "releaseDate": "2001-11-10",
+    "runtime": 87
+  },
+  {
+    "id": 327418,
+    "title": "Batman Unlimited: Animal Instincts",
+    "genres": [
+      "Action",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Gotham City is under siege by a series of bizarre crimes and only the world's greatest detective, Batman, can unravel the mystery! The trail leads to none other than the Penguin and his Animilitia, an animal-inspired squad of villains including Silverback, Cheetah, Killer Croc and the monstrous Man-Bat.",
+    "releaseDate": "2015-05-12",
+    "runtime": 78
+  },
+  {
+    "id": 51268,
+    "title": "The Ransom of Red Chief",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Two hoboes strike on a get-rich quick scheme to kidnap an overly-energetic 9 year old son of a local banker. Based on the classic story by O'Henry.",
+    "releaseDate": "1998-01-01",
+    "runtime": 90
+  },
+  {
+    "id": 16530,
+    "title": "Pocket Ninjas",
+    "genres": [
+      "Action",
+      "Family"
+    ],
+    "overview": "Somewhere in New Jersey, a group masked rollerblading children \"save the universe\" by training to fight the evil Cobra Khan through a series of action-packed montages.  Along the way they hypothesize some slapstick hijinks in a balloon factory, and save the day through a hypothetical Sonic Virtual Reality battle.  A real treat!",
+    "releaseDate": "1997-03-25",
+    "runtime": 80
+  },
+  {
+    "id": 124134,
+    "title": "Up, Up, and Away",
+    "genres": [
+      "Action",
+      "Family",
+      "TV Movie"
+    ],
+    "overview": "A boy is the only family member without superpowers in this Disney Film. The world depends on him saving his family from computerized brainwashers. Will he realize that it doesn't take superpowers to be a hero in time to help them defeat the villains?",
+    "releaseDate": "2000-01-22",
+    "runtime": 90
+  },
+  {
+    "id": 61717,
+    "title": "Wendy Wu: Homecoming Warrior",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "TV Movie"
+    ],
+    "overview": "It is the story of an average, popular American teenager named Wendy Wu who discovers that in order to win the coveted crown she must first learn the way of the warrior. Wendy Wu has a one track mind, and that track leads directly to the title of homecoming queen -- no unscheduled stops, and no unnecessary detours. When a mysterious Chinese monk named Shen arrives to mold Wendy into a fearless kung fu warrior, however, her royal aspirations suddenly jump the track as she desperately attempts to juggle her boyfriend, her homework, and of course, the fierce competition to become homecoming queen. Now, as Wendy begins to train her mind, body, and spirit in the ancient tradition of the martial arts and her inner warrior gradually begins to emerge, the girl who once obsessed over popularity finally begins to put that popularity into perspective as she gradually realizes what truly matters in life.",
+    "releaseDate": "2006-06-16",
+    "runtime": 90
+  },
+  {
+    "id": 53875,
+    "title": "Journey to the Center of the Earth",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "Remake of Jules Verne's classic story finds adventurers seeking a mysterious hidden land. They are joined by the wife of another man, who had previously gone on a similar expedition and disappeared.",
+    "releaseDate": "1999-07-07",
+    "runtime": 180
+  },
+  {
+    "id": 19323,
+    "title": "Superman: Brainiac Attacks",
+    "genres": [
+      "Animation",
+      "Action",
+      "Family"
+    ],
+    "overview": "Embittered by Superman's heroic successes and soaring popularity, Lex Luthor forms a dangerous alliance with the powerful computer/villain Brainiac. Using advanced weaponry and a special strain of Kryptonite harvested from the far reaches of outer space, Luthor specifically redesigns Brainiac to defeat the Man of Steel.",
+    "releaseDate": "2006-06-20",
+    "runtime": 75
+  },
+  {
+    "id": 13354,
+    "title": "Chill Out, Scooby-Doo!",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Mystery"
+    ],
+    "overview": "The gang's vacation to Paris takes a wrong turn when Scooby and Shaggy miss their flight and end up on a skydiving expedition in the Himalayas. To make matters worse, upon arrival they must outrun the Abominable Snowmonster.",
+    "releaseDate": "2007-09-04",
+    "runtime": 90
+  },
+  {
+    "id": 51786,
+    "title": "Kim Possible: A Sitch in Time",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Kim and Ron start out a new school year, only to find out that Ron's family is moving to Norway. This puts a strain on their partnership, just as Dr. Drakken, Monkey Fist, and Duff Killigan team up to find and use an ancient time travel device to rule the world. Attacking Kim in the past, present, and future, can these villians succeed? Or will an unforeseen force be more destructive?",
+    "releaseDate": "2004-10-21",
+    "runtime": 66
+  },
+  {
+    "id": 36218,
+    "title": "Pokémon: Jirachi Wish Maker",
+    "genres": [
+      "Action",
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Ash, Pikachu and friends (minus Misty) were visiting a festival celebrating the appearance of a comet when they stumble upon a mysterious rock-like crystal...",
+    "releaseDate": "2003-07-19",
+    "runtime": 81
+  },
+  {
+    "id": 16237,
+    "title": "Teen Titans: Trouble in Tokyo",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "America's coolest heroes, the Teen Titans, go to Tokyo to track down the mysterious Japanese criminal Brushogun.",
+    "releaseDate": "2006-09-15",
+    "runtime": 75
+  },
+  {
+    "id": 227679,
+    "title": "Pokémon the Movie: Genesect and the Legend Awakened",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "A group of five Genesect have invaded the big city and pose a threat to the supply of electricity, which attracts the attention of the legendary Pokémon Mewtwo. Ash, Pikachu and his friends must come to the rescue when the powerful leader, a red Genesect, faces Mewtwo.",
+    "releaseDate": "2013-07-13",
+    "runtime": 72
+  },
+  {
+    "id": 335077,
+    "title": "Battle For SkyArk",
+    "genres": [
+      "Family",
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "In the near future the earth has become desolate and dangerous. Now inhabited by by a mysterious race of creatures, humanity has been forced to find refuge in the SkyArk, a man-made city in the sky. As the population grows, space becomes scarce and only the rich and powerful can stay, dumping the poor and orphaned of SkyArk to the abandoned earth.",
+    "releaseDate": "2015-05-18",
+    "runtime": 88
+  },
+  {
+    "id": 172390,
+    "title": "Tom Sawyer & Huckleberry Finn",
+    "genres": [
+      "Family",
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "overview": "The adventure unfolds as Tom Sawyer and Huck Finn - Tom's friend from the streets - witness a murder in the graveyard. Tom and Huck flee to Jackson Island and make a pact never to tell anyone about the incident. However, when the good-natured Muff Potter, who has been blamed for the murder is sentenced to death by hanging, Tom breaks his promise and returns to exonerate Muff Potter. In jun Joe, the actual murderer, makes a hasty exit from the courtroom during the trial. A short time later, Tom and Huck find references to a treasure and have to face In jun Joe again.",
+    "releaseDate": "2014-10-23",
+    "runtime": 90
+  },
+  {
+    "id": 55951,
+    "title": "Aadhavan",
+    "genres": [
+      "Thriller",
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Aadhavan (Tamil: ஆதவன்) is a 2009 Tamil action thriller, directed by K. S. Ravikumar and written by Ramesh Khanna. The film features Surya Sivakumar in the title role along with Nayantara in lead roles and Murali, Vadivelu, Anand Babu, Ramesh Khanna, B. Saroja Devi, Rahul Dev, Sayaji Shinde in its supporting cast. The music is composed by Harris Jayaraj. The film, simultaneously dubbed into Telugu as Ghatikudu, was released on October 17, 2009 during Diwali. This film was Malayalam actor Murali's last film before his death in August 2009.",
+    "releaseDate": "2009-10-17",
+    "runtime": 135
+  },
+  {
+    "id": 342917,
+    "title": "Batman Unlimited: Monster Mayhem",
+    "genres": [
+      "Action",
+      "Animation",
+      "Family"
+    ],
+    "overview": "The Joker is aided in his Halloween quest to render modern technology useless and take over Gotham City by Solomon Grundy, Silver Banshee, Clayface and Scarecrow.",
+    "releaseDate": "2015-08-18",
+    "runtime": 81
+  },
+  {
+    "id": 277217,
+    "title": "Descendants",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evvie) and Jafar (Jay).",
+    "releaseDate": "2015-07-31",
+    "runtime": 112
+  },
+  {
+    "id": 330037,
+    "title": "Brothers",
+    "genres": [
+      "Family",
+      "Action",
+      "Drama"
+    ],
+    "overview": "Brothers is an upcoming Hindi film, directed by Karan Malhotra and produced by Karan Johar under Dharma Productions along with Lionsgate Films and Endemol India.[6] The film is an official remake of the 2011 Hollywood film Warrior.",
+    "releaseDate": "2015-08-14",
+    "runtime": 156
+  },
+  {
+    "id": 33787,
+    "title": "Get Smart, Again!",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "KAOS has invented a weather machine so Maxwell Smart and Agent 99 are called back into action to foil this evil plan.",
+    "releaseDate": "1989-02-26",
+    "runtime": 96
+  },
+  {
+    "id": 22084,
+    "title": "Dadnapped",
+    "genres": [
+      "TV Movie",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Melissa has a bad case of sibling rivalry, only her competition is a fictional character in her father's best-selling novel about a teenage super spy. When her father is \"dadnapped\" by a group of overzealous fans, it's up to Melissa to help him by tapping her inner superhero.",
+    "releaseDate": "2009-01-01",
+    "runtime": 84
+  },
+  {
+    "id": 233490,
+    "title": "Underdog Kids",
+    "genres": [
+      "Family",
+      "Action"
+    ],
+    "overview": "Inner city kids from a poor neighborhood go up against the undefeated Beverly Hills Junior National Karate Team.",
+    "releaseDate": "2015-06-07",
+    "runtime": 94
+  },
+  {
+    "id": 124111,
+    "title": "Jett Jackson: The Movie",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Action",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "overview": "Jett Jackson, who is the star of Silverstone, is considering quitting Silverstone when it is given a three year extension. During the filming of the last episode, Jett is accidently sucked into Silverstone's world when a prop malfunctions. Silverstone is zapped into Jett's world as well. In Silverstone's world, Jett has to save the world from Dr. Kragg's evil plans.",
+    "releaseDate": "2001-06-08",
+    "runtime": 100
+  },
+  {
+    "id": 252983,
+    "title": "Sly Cooper",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Action",
+      "Family"
+    ],
+    "overview": "Sly Cooper is a kinetic and comedic heist film that tells the story of Sly Cooper, an orphaned raccoon thief, along with his childhood friends and partners in crime, Bentley Turtle and Murray Hippo. In the film, Sly learns of his birth family's secret legacy; that he comes from a long line of talented and international thieves. Endowed with this knowledge, Sly and his friends are catapulted into a global adventure as they race to reassemble pieces of an ancient book holding The Cooper Clan's family secrets before it can fall into the hands of Clockwerk -- an evil Russian metallic owl bent on ending the Cooper family line. From romantic Parisian backdrops to the lush mountains of China, gritty film noir meets bright, colorful graphic novels in this origin story of the world's greatest thief-turned-hero.",
+    "releaseDate": "2017-12-31",
+    "runtime": 0
+  },
+  {
+    "id": 353595,
+    "title": "LEGO DC Comics Super Heroes: Justice League: Attack of the Legion of Doom!",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Crime is on the run as the newly formed Justice League keeps Metropolis safe and this makes evil genius Lex Luthor very unhappy. Together with Black Manta, Sinestro and a gang of ruthless recruits, Lex builds his own league and declares them the Legion of Doom. With this super powered team of terror and a plan to attack the top-secret government site, Area 52, can Lex finally be on the verge of victory? Sound the alarm and get ready for the bricks to fly when Superman, Batman, Wonder Woman and the rest of the Justice League face off against the world's greatest Super-Villains! It's the next all-new original movie from LEGO® and DC Comics.",
+    "releaseDate": "2015-08-25",
+    "runtime": 67
+  },
+  {
+    "id": 48761,
+    "title": "Catch That Girl",
+    "genres": [
+      "Action",
+      "Family"
+    ],
+    "overview": "Ida's father suddenly gets a stroke and is rushed to the hospital, diagnosed with a deadly disease with no other opportunity than to travel to USA to attend a medical experimental operation. Unfortunately, the small family have to get the money themselves, as the state doesn't pay for that kind of experimental procedures. Ida has to get the money - and she got no other way than to steal them from the bank where her mother works...... developing the banks intense security.",
+    "releaseDate": "2002-01-25",
+    "runtime": 90
+  },
+  {
+    "id": 13311,
+    "title": "Holiday",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Crime",
+      "Romance",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "A (Based On True Events) movie about prisoners escaping during the heyday of Korean nationalism and international image-consciousness, the Seoul World Olympics of 1988.",
+    "releaseDate": "2006-01-19",
+    "runtime": 122
+  },
+  {
+    "id": 44133,
+    "title": "Turning Point",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Family",
+      "Foreign",
+      "Thriller"
+    ],
+    "overview": "Laughing (MICHAEL TSE) is formally a police undercover. However due to a drug trafficking case, Inspector Pan (FELIX WONG) is hot on his trails. Before Laughing becomes a police undercover, he works under triad leader Yi (ANTHONY WONG). Yi treats Laughing as his own brother, however to protect his territory and illegal businesses, Yi instructed Laughing to join the police force and act as his undercover. Laughing is a high-flyer in the police academy. However he never got a chance to join the force because he is specially picked by Inspector Xian (YUEN BIAO) to be an undercover in the underworld syndicate. Hence Laughing becomes a “double-undercover”. Yi is happy that Laughing is allocated to the triad of his rival (FRANCIS NG). To make his situation worse, Laughing falls in love with the triad leader’s sister, Karen. Justice, brotherhood and love, what will Laughing decide on? His decision will be a turning point in his life.",
+    "releaseDate": "2009-08-13",
+    "runtime": 78
+  },
+  {
+    "id": 44899,
+    "title": "The Challenge",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "The Challenge is an action adventure/adventure comedy. Mary Kate and Ashley Olsen play estranged twins with very opposite personalities. Lizzie is very focused and driven, while Shane is more relaxed, but concerned about the environment. Both girls are chosen for a Survivor-like popular game show with college scholarships as the prize.",
+    "releaseDate": "2003-01-24",
+    "runtime": 90
+  },
+  {
+    "id": 41979,
+    "title": "The Elusive Revengers",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Dan'ka's and Ksanka's childhood in the village has been brutally ended when their father was killed by the White Guard officer in front of their eyes. Seeking revenge they join forces with an intellectual from the city Valerka and jipsy Yashka, but before they get close to their enemy they have to help their village and advancing Red Army.",
+    "releaseDate": "1966-06-06",
+    "runtime": 78
+  },
+  {
+    "id": 65591,
+    "title": "The New Adventures of the Elusive Avengers",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "A brilliant continuation of the saga, now in the city. The target of young patriots is a map held in the safe locker in the headquarters of secret police!",
+    "releaseDate": "1968-06-06",
+    "runtime": 82
+  },
+  {
+    "id": 65594,
+    "title": "Crown of Russian Empire, or the Elusives Again",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "The Russian Civil War is over and the White Guard are all dead or abroad. Some of the exiled nobles are attempting to crown a new Tsar/Emperor abroad, and a couple of impostors are vying for the position. At the same time, some of the Elusive Avengers' old foes are trying to return to Russia, for mysterious reasons. The avengers are assigned the task of finding out what's going on. Turns out the bad guys are after the Russian Crown, which is encrusted with many diamonds and jewels. It is not clear whether the crown is only wanted for the coronation ceremony or if the bad guys are trying to sell it to the highest bidder, but either way they must be stopped. The avengers are after them. Two go to Paris to infiltrate the emigrant community, and the other two work on the Russian soil.",
+    "releaseDate": "1971-06-06",
+    "runtime": 134
+  },
+  {
+    "id": 31377,
+    "title": "Spy School",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Spy School is the story of a twelve year old boy known for telling tall tales who overhears a plot to kidnap the President's daughter. When he goes public with his story, no one believes him, and he is forced to save her on his own.",
+    "releaseDate": "2008-01-01",
+    "runtime": 86
+  },
+  {
+    "id": 71482,
+    "title": "Totally True Love",
+    "genres": [
+      "Drama",
+      "Action",
+      "Family"
+    ],
+    "overview": "When the new boy in class, Jørgen, moves into the haunted house down the road Anne’s world turns upside-down; she falls head over heals in love with him. All the girls in Anne’s class fall for Jørgen as well, including beautiful blonde pony-tailed Ellen. But that is of no hindrance to Anne; she is willing to go further than anyone to win him over. When done in the name of love, everything is allowed…isn’t it?",
+    "releaseDate": "2011-02-25",
+    "runtime": 83
+  },
+  {
+    "id": 140300,
+    "title": "Kung Fu Panda 3",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home.",
+    "releaseDate": "2016-01-23",
+    "runtime": 95
+  },
+  {
+    "id": 26381,
+    "title": "Christmas Town",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Family"
+    ],
+    "overview": "A week before Christmas Liza McCann visit her estranged father who strangely lives in a town decked out for the holidays and is full of Christmas spirit. Strange events immediately occur when they arrive challenging everything Liza had once believed in.",
+    "releaseDate": "2008-12-09",
+    "runtime": 90
+  },
+  {
+    "id": 325712,
+    "title": "Cool Cat Saves the Kids",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Music",
+      "Thriller"
+    ],
+    "overview": "Cool Cat is the coolest cat in town. All the kids love him. Except for the bully Butch, who hates Cool Cat for his coolness. He terrorizes Cool Cat, his friends and family with threats, taunting, and the internet. Can Cool Cat face his fears and defeat the bully Derrick.",
+    "releaseDate": "2015-02-01",
+    "runtime": 72
+  },
+  {
+    "id": 57718,
+    "title": "Megamind: The Button Of Doom",
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "For their first day on the job as the new protectors of Metro City, Megamind and Minion are selling off the gadgets from their evil lair. But when one seemingly harmless \"button\" unleashes the gigantic robot MEGA-MEGAmind, the duo will have to resort their old tricks to restore order.",
+    "releaseDate": "2011-02-25",
+    "runtime": 16
+  },
+  {
+    "id": 63654,
+    "title": "Ko",
+    "genres": [
+      "Action",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "The movie opens with a scene of a bank robbery in progress. The actions of the robbers during the gateway is photographed by Ashwin (Jeeva). After a chase, the injured Ashwin loses his camera to the robbers but managed to retrieve the memory card. His brave actions are broadcasted in the local TV channels and earns him praises from his colleagues and media friends.",
+    "releaseDate": "2011-04-22",
+    "runtime": 160
+  },
+  {
+    "id": 353533,
+    "title": "Srimanthudu",
+    "genres": [
+      "Romance",
+      "Action",
+      "Family",
+      "Drama"
+    ],
+    "overview": "Harsha, a multi-millionaire guy who has everything but there is something else he's looking for and in the process he adopts a complete village trying to bring change in the people.",
+    "releaseDate": "2015-08-07",
+    "runtime": 160
+  },
+  {
+    "id": 262227,
+    "title": "Race Gurram",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Ram and Lakshman a.k.a Lucky are brothers. Ram is a sincere guy who grows up to become an honest cop. Lucky is a happy-go-lucky guy who enjoys life. Ram and Lucky have a tom and jerry kind of fight going on. Siva Reddy is a factionist who wants to become a politician. Ram gathers evidence against Siva Reddy and Lucky unintentionally intercepts them. The rest of the story is all about the race between Lucky and Siva Reddy.",
+    "releaseDate": "2014-04-11",
+    "runtime": 162
+  },
+  {
+    "id": 305638,
+    "title": "The Shamer's Daughter",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Adventure",
+      "Action"
+    ],
+    "overview": "The Shamer's daughter, Dina, has unwillingly inherited her mother's supernatural ability. She can look straight into the soul of other people, making them feel ashamed of themselves. When the sole heir to the throne is wrongfully accused of the horrible murders of his family, Dina's mother is lured to Dunark under false pretenses to make him confess. Neglecting to use her ability for the wrong purposes, she is taken prisoner. It is now up to Dina to uncover the truth of the murders, but soon she finds herself whirled into a dangerous power struggle with her own life at risk. In a semi realistic medieval fantasy world with Dragons and Witchcraft, Dina and her family are thrown into the adventure of a lifetime in order to put the rightful heir to the Kingdom of Dunark on the Throne.",
+    "releaseDate": "2015-03-26",
+    "runtime": 96
+  },
+  {
+    "id": 362150,
+    "title": "Vedhalam",
+    "genres": [
+      "Action",
+      "Family"
+    ],
+    "overview": "Ganesh, a cab driver and a doting brother to his sister Tamizh, is hunting down three notorious criminals in Kolkata. Who is he actually and what's his motive?",
+    "releaseDate": "2015-11-10",
+    "runtime": 156
+  },
+  {
+    "id": 234004,
+    "title": "Ratchet & Clank",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Ratchet and Clank tells the story of two unlikely heroes as they struggle to stop a vile alien named Chairman Drek from destroying every planet in the Solana Galaxy. When the two stumble upon a dangerous weapon capable of destroying entire planets, they must join forces with a team of colorful heroes called The Galactic Rangers in order to save the galaxy. Along the way they'll learn about heroism, friendship, and the importance of discovering one's own identity.",
+    "releaseDate": "2016-04-13",
+    "runtime": 94
+  },
+  {
+    "id": 61999,
+    "title": "Sara",
+    "genres": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Romance",
+      "Family"
+    ],
+    "overview": "Forty-something Leon is an alcoholic, ex-special forces barely scraping by when he's hired by a mobster to protect his 16 year old daughter. Not only does Leon have to clean up his act, but also handle the romantic advances of his ward and the keen attention of his dangerous employers.",
+    "releaseDate": "1997-05-23",
+    "runtime": 110
+  },
+  {
+    "id": 25182,
+    "title": "Love Finds A Home",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western",
+      "Family"
+    ],
+    "overview": "In this sequel, Lillian has been adopted and it's several years later.  Annie, married and pregnant, visits her fellow doctor friend, Dr. Owen.  Dr Owen desperately wants a baby,  but seems unable to become pregnant. Lillian finds a love interest,  an assistant to her adoptive dad, the latter has become quite overprotective.",
+    "releaseDate": "2009-04-11",
+    "runtime": 88
+  },
+  {
+    "id": 21837,
+    "title": "Cop Dog",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Ever since Robby's father was killed while on police duty, Robby has been angry and alone. His father's old partner, a police dog named Marlowe, suffers the same fate. So when Robby sees Marlowe alone and locked up in a cage he begs his mum to let him have him. Instantly, the two are best friends. But, being a cop dog, when Marlowe, sees two familiar criminals in the woods",
+    "releaseDate": "2008-01-01",
+    "runtime": 0
+  },
+  {
+    "id": 50717,
+    "title": "Davy Crockett and the River Pirates",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "overview": "Davy Crockett and his sidekick Georgie compete against boastful Mike Fink (\"King of the River\") in a boat race to New Orleans. Later, Davy and Georgie, allied with Fink, battle a group of river pirates trying to pass themselves off as Native Americans. Written by Ken Miller",
+    "releaseDate": "1956-07-18",
+    "runtime": 81
+  },
+  {
+    "id": 5764,
+    "title": "Princess of Thieves",
+    "genres": [
+      "Action",
+      "Family",
+      "Adventure",
+      "Romance",
+      "TV Movie"
+    ],
+    "overview": "Sherwood forest has a courageous new hero - Gwyn, the daughter of Robin Hood. Possessing the cunning skills of her legendary father and the beauty and intelligence of her mother Maid Marian, Gwyn is anxious to follow in her father's footsteps. King Richard nears death and Robin Hood and his Merry Men are summoned to help bring Richard's son Philip to his rightful place on the throne before the evil Prince John can assume power. Robin Hood's life and that of the future King of England soon lies in Gwyn's hands when Robin is captured and sentenced to death.",
+    "releaseDate": "2001-03-11",
+    "runtime": 88
+  },
+  {
+    "id": 64183,
+    "title": "Parent Trap III",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "overview": "When Jeff plans to marry again, his triplet daughters Megan, Lisa and Jessie try to bring him together with Susan.",
+    "releaseDate": "1989-04-09",
+    "runtime": 86
+  },
+  {
+    "id": 38048,
+    "title": "The Wild Stallion",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family",
+      "Western"
+    ],
+    "overview": "A story about two girls, CJ and Hanna. CJ lives on a ranch, Hanna comes to visit and decides to photograph wild horses for a school project",
+    "releaseDate": "2009-10-06",
+    "runtime": 0
+  },
+  {
+    "id": 25778,
+    "title": "Felicity: An American Girl Adventure",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "Pre-American Revolution Virginian girl whose love for the outdoors leads to the friendship of a lifetime. Felicity loves horses, and though her parents plead with her to remain indoors, she years to ride the open plains. When Felicity comes into contact with a beautiful mare which has suffered at the hands of its callous owner, she takes it upon herself to care for the creature.",
+    "releaseDate": "2005-11-29",
+    "runtime": 86
+  },
+  {
+    "id": 377897,
+    "title": "Barbie: Spy Squad",
+    "genres": [
+      "Action",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Barbie and her best friends Teresa and Renee transform from hard-working gymnasts to undercover secret agents. When their amazing gymnastics skills catch the eye of a top-secret spy agency, the girls are soon following clues to a gem-stealing cat burglar, using high-tech gadgets, glam disguises and cute robo-pets to save the day.",
+    "releaseDate": "2016-01-15",
+    "runtime": 75
+  },
+  {
+    "id": 300424,
+    "title": "LEGO DC Comics Super Heroes: Batman: Be-Leaguered",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Superman wants Batman to join his new superhero team, but Batman prides himself on being a self-sufficient loner.",
+    "releaseDate": "2014-10-27",
+    "runtime": 22
+  },
+  {
+    "id": 13626,
+    "title": "Island of Lost Souls",
+    "genres": [
+      "Action",
+      "Family",
+      "Adventure"
+    ],
+    "overview": "14-year-old Lulu moves to a small provincial town with her mother and younger brother. One night, her brother is struck by a beam of white light - actually the spirit of Herman Hartmann from the 19th-century. To her despair, Lulu realizes that Herman has possessed her brother, and the two of them are whirled into a fevered adventure.",
+    "releaseDate": "2007-02-09",
+    "runtime": 100
+  },
+  {
+    "id": 41725,
+    "title": "Captain Sindbad",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "After completing his voyages Sindbad the Sailor and his hearty crew have come home to find a palace coup d'etat has occurred and his home city is being run by a brutal dictator played by Pedro Armendariz. He's got designs on the beautiful young princess, Heidi Bruhl both lustful and political.",
+    "releaseDate": "1963-04-12",
+    "runtime": 85
+  },
+  {
+    "id": 324849,
+    "title": "The Lego Batman Movie",
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "In the irreverent spirit of fun that made “The Lego Movie” a worldwide phenomenon, the self-described leading man of that ensemble—Lego Batman—stars in his own big-screen adventure. But there are big changes brewing in Gotham, and if he wants to save the city from The Joker’s hostile takeover, Batman may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up.",
+    "releaseDate": "2017-02-08",
+    "runtime": 104
+  },
+  {
+    "id": 69990,
+    "title": "Bejewelled",
+    "genres": [
+      "Action",
+      "TV Movie",
+      "Family",
+      "Adventure"
+    ],
+    "overview": "An American's family jewels are stolen during her trip to London and she reluctantly teams up with a private investigator-in-training to try and recover them.",
+    "releaseDate": "1991-01-20",
+    "runtime": 93
+  },
+  {
+    "id": 68732,
+    "title": "White Wolves - A Cry in the Wild II",
+    "genres": [
+      "Action",
+      "Family",
+      "Adventure"
+    ],
+    "overview": "A two-week trek through the Cascade Mountains tries the survival instincts of five adventurous teenagers. At first, it's all a good time. Shooting the rapids, exploring caves and making new friends. But when an accident occurs, Mother Nature raises the stakes and challenges the hikers to the greatest test of their young lives. Written by Concorde - New Horizons (with permission).",
+    "releaseDate": "1993-12-31",
+    "runtime": 90
+  },
+  {
+    "id": 30999,
+    "title": "Jason and the Argonauts",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "One of the most legendary adventures in all mythology is brought to life in Jason and the Argonauts, an epic saga of good and evil. As a mere boy Jason, the heir to the kingdom of Ancient Greece, witnesses the murder of his father at the hands of his ruthless uncle, Pelias. After narrowly escaping death, Jason flees his home and returns twenty years later to reclaim the throne. Upon learning of his return, Pelias sentences him to death. To save his life, Jason promises to deliver the most converted gift of the gods to his uncle - the Golden Fleece. Joined by the Argonauts, a stout-hearted crew of sailors, he embarks on a perilous voyage to capture the Fleece and fulfill his destiny.",
+    "releaseDate": "2001-01-07",
+    "runtime": 180
+  },
+  {
+    "id": 19766,
+    "title": "Inspector Gadget 2",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "After capturing Claw, all the criminals have gone into hiding until, Claw escapes! Gadget thinks he will get the case, but everyone else has other planes. A new version of the Gadget project is unveiled in the form of G2. Strict orders are given for Gadget to stay away from G2 and every crime scene, but Gadget feels he is needed more than anyone.",
+    "releaseDate": "2003-03-11",
+    "runtime": 89
+  },
+  {
+    "id": 268531,
+    "title": "Captain Underpants: The First Epic Movie",
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Two mischievous kids hypnotize their mean elementary school principal and turn him into their comic book creation, the kind-hearted and elastic-banded Captain Underpants.",
+    "releaseDate": "2017-06-01",
+    "runtime": 89
+  },
+  {
+    "id": 45891,
+    "title": "The Ten Lives of Titanics the Cat",
+    "genres": [
+      "Drama",
+      "Action",
+      "Thriller",
+      "Mystery",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "Liv is an eleven year-old Olso girl who begins to notice strange events unfolding on the ground level of her apartment building. When Liv and her best friend Thomas venture downstairs to get to the bottom of the mystery, they discover an aged photograph of two girls and a cat. Suddenly, the cat comes bounding out of the photograph, prompting young Liv to fall unconscious. She starts experiencing vivid  visions. Could it be that someone is trying to tell Liv something, and are these events tied to a strange catastrophe that unfolded on these same grounds nearly one hundred years ago? Despite the fact that few adults seem to believe her incredible story, an elderly neighbor living upstairs may just have the information that will allow Liv and Thomas to unlock the truth behind the strange events unfolding all around them.",
+    "releaseDate": "2007-10-31",
+    "runtime": 74
+  },
+  {
+    "id": 34203,
+    "title": "Justin Time",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "An ancient stone amulet and calendar disc has the power to stop time. Passed from generation to generation, these magical artifacts end up in the hands of an 18-year-old half Shoshoni Indian named Justin, who chooses to to use his power to make the world a better place.",
+    "releaseDate": "2010-01-01",
+    "runtime": 95
+  },
+  {
+    "id": 324852,
+    "title": "Despicable Me 3",
+    "genres": [
+      "Action",
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "overview": "Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.",
+    "releaseDate": "2017-06-15",
+    "runtime": 96
+  },
+  {
+    "id": 64202,
+    "title": "Batman Beyond: The Movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Family"
+    ],
+    "overview": "Fueled by remorse and vengeance, a high schooler named Terry McGinnis revives the role of Batman. Under supervision of an elderly Bruce Wayne, he fights crime in a harsh futuristic Gotham.",
+    "releaseDate": "1999-01-10",
+    "runtime": 132
+  },
+  {
+    "id": 417320,
+    "title": "Descendants 2",
+    "genres": [
+      "TV Movie",
+      "Family",
+      "Action",
+      "Comedy",
+      "Music",
+      "Adventure"
+    ],
+    "overview": "When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula's daughter, has taken her spot as self-proclaimed queen.",
+    "releaseDate": "2017-07-21",
+    "runtime": 111
+  },
+  {
+    "id": 461297,
+    "title": "Cop and a Half: New Recruit",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Action",
+      "Family"
+    ],
+    "overview": "In this family-friendly action reboot of the 1993 film, Karina Foley, an ambitious and spunky 12-year-old, inserts herself in a police investigation of the Badge Bandit, led by the grizzled, veteran detective Mark Simmons. Much to Simmons' disapproval, Karina partners up with him to stop the Badge Bandit from further wreaking havoc on the city. Through wit, skill, and green smoothies, Karina and Detective Simmons save the day and build a strong relationship in the process.",
+    "releaseDate": "2017-08-01",
+    "runtime": 97
+  }
+]

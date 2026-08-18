@@ -1,0 +1,123 @@
+[
+  {
+    "id": 922,
+    "title": "Dead Man",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Western"
+    ],
+    "overview": "On the run after murdering a man, accountant William Blake encounters a strange North American man named Nobody who prepares him for his journey into the spiritual world.",
+    "releaseDate": "1995-12-23",
+    "runtime": 121
+  },
+  {
+    "id": 23356,
+    "title": "Purgatory",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Western",
+      "Science Fiction"
+    ],
+    "overview": "An outlaw band flees a posse and rides into Refuge, a small town where no one carries a gun, drinks, or swears. The town is actually Purgatory, and the peaceful inhabitants are all famous dead outlaws and criminals such as Doc Holiday and Wild Bill Hickok who must redeem themselves before gaining admittance to Heaven...or screw up and go to Hell.",
+    "releaseDate": "1999-01-10",
+    "runtime": 94
+  },
+  {
+    "id": 14241,
+    "title": "7 Faces of Dr. Lao",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Mystery",
+      "Western"
+    ],
+    "overview": "An old Chinese man rides into the town of Abalone, Arizona and changes it forever, as the citizens see themselves reflected in the mirror of Lao's mysterious circus of mythical beasts.",
+    "releaseDate": "1964-03-18",
+    "runtime": 100
+  },
+  {
+    "id": 20533,
+    "title": "Jonah Hex",
+    "genres": [
+      "Action",
+      "Western",
+      "Drama",
+      "Fantasy",
+      "Thriller"
+    ],
+    "overview": "Gunslinger Jonah Hex (Josh Brolin) is appointed by President Ulysses Grant to track down terrorist Quentin Turnbull (John Malkovich), a former Confederate officer determined on unleashing hell on earth. Jonah not only secures freedom by accepting this task, he also gets revenge on the man who slayed his wife and child. Megan Fox plays a prostitute as well as Jonah Hex's love interst in the film.",
+    "releaseDate": "2010-06-18",
+    "runtime": 80
+  },
+  {
+    "id": 46528,
+    "title": "The Warrior's Way",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Western",
+      "Thriller"
+    ],
+    "overview": "An Asian assassin (Dong-gun Jang) is forced to hide in a small town in the American Badlands. Also starring Kate Bosworth, Danny Huston, Tony Cox and Academy Award winner Geoffrey Rush.",
+    "releaseDate": "2010-12-02",
+    "runtime": 100
+  },
+  {
+    "id": 42329,
+    "title": "The Valley of Gwangi",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A turn of the century wild west show struggling to make a living in Mexico comes into the possession of a tiny prehistoric horse. This leads to an expedition to the Forbidden Valley where they discover living dinosaurs. They capture one and take it back to be put on display, leading to inevitable mayhem.",
+    "releaseDate": "1969-07-24",
+    "runtime": 96
+  },
+  {
+    "id": 151933,
+    "title": "Dead in Tombstone",
+    "genres": [
+      "Western",
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "An outlaw named Guerrero Hernandez is shot in the back and killed whilst attempting to free his half-brother from a small-town prison. Making a deal with the devil, Hernandez returns from the dead to take his revenge.",
+    "releaseDate": "2013-10-01",
+    "runtime": 100
+  },
+  {
+    "id": 344656,
+    "title": "Enemy Empire",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Western"
+    ],
+    "overview": "Sol, a bold fugitive lost in a dangerous post-apocalyptic desert world, searches for a missing woman named Catherine and her illusive captor, the Nomad King. With enemies at every turn, Sol's only chance of finding Catherine is with the help of a rogue and mysterious wanderer, Cleo.",
+    "releaseDate": "2013-12-27",
+    "runtime": 97
+  },
+  {
+    "id": 353491,
+    "title": "The Dark Tower",
+    "genres": [
+      "Action",
+      "Western",
+      "Science Fiction",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.",
+    "releaseDate": "2017-08-03",
+    "runtime": 95
+  }
+]

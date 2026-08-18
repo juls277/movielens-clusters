@@ -1,0 +1,550 @@
+[
+  {
+    "id": 2362,
+    "title": "Westworld",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Horror",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "In a futuristic resort, wealthy patrons can visit recreations of different time periods and experience their wildest fantasies with life-like robots. But when Richard Benjamin opts for the wild west, he gets more than he bargained for when a gunslinger robot goes berserk.",
+    "releaseDate": "1973-10-22",
+    "runtime": 88
+  },
+  {
+    "id": 10212,
+    "title": "Ravenous",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Upon receiving reports of missing persons at Fort Spencer, a remote Army outpost on the Western frontier, Capt. John Boyd investigates. After arriving at his new post, Boyd and his regiment aid a wounded frontiersman who recounts a horrifying tale of a wagon train murdered by its supposed guide -- a vicious U.S. Army colonel gone rogue. Fearing the worst, the regiment heads out into the wilderness to verify the gruesome claims",
+    "releaseDate": "1999-03-16",
+    "runtime": 100
+  },
+  {
+    "id": 8043,
+    "title": "Breakheart Pass",
+    "genres": [
+      "Thriller",
+      "Western",
+      "Mystery"
+    ],
+    "overview": "At the height of the frontier era, a train races through the Rocky Mountains on a classified mission to a remote army post. But one by one the passengers are being murdered, and their only hope is the mysterious John Deakin, who's being transported to face trial for murder.",
+    "releaseDate": "1975-12-25",
+    "runtime": 95
+  },
+  {
+    "id": 20287,
+    "title": "Extreme Prejudice",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A Texas Ranger and a ruthless narcotics kingpin - they were childhood friends, now they are adversaries.",
+    "releaseDate": "1987-04-24",
+    "runtime": 101
+  },
+  {
+    "id": 14854,
+    "title": "Lone Wolf McQuade",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Romance",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "The archetypical renegade Texas Ranger wages war against a drug kingpin with automatic weapons, his wits and martial arts after a gun battle leaves his partner dead. All of this inevitably culminates a martial arts showdown between the drug lord and the ranger, and involving the woman they both love.",
+    "releaseDate": "1983-04-14",
+    "runtime": 107
+  },
+  {
+    "id": 4993,
+    "title": "5 Card Stud",
+    "genres": [
+      "Action",
+      "Western",
+      "Thriller"
+    ],
+    "overview": "The players in an ongoing poker game are being mysteriously killed off, one by one.",
+    "releaseDate": "1968-07-28",
+    "runtime": 103
+  },
+  {
+    "id": 26761,
+    "title": "Pursued",
+    "genres": [
+      "Romance",
+      "Thriller",
+      "Western",
+      "Drama"
+    ],
+    "overview": "A hard-hitting western drama starring Mitchum as an orphan raised by a feuding family who wants to see him dead.",
+    "releaseDate": "1947-03-02",
+    "runtime": 101
+  },
+  {
+    "id": 25381,
+    "title": "Night Passage",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Grant MacLaine, a former railroad troubleshooter, lost his job after letting his outlaw brother, the Utica Kid, escape. After spending five years wandering the west and earning his living playing the accordion, he is given a second chance by his former boss.",
+    "releaseDate": "1957-07-24",
+    "runtime": 90
+  },
+  {
+    "id": 12146,
+    "title": "The Missing",
+    "genres": [
+      "Thriller",
+      "Western",
+      "Adventure"
+    ],
+    "overview": "When rancher and single mother of two Maggie Gilkeson sees her teenage daughter, Lily, kidnapped by Apache rebels, she reluctantly accepts the help of her estranged father, Samuel, in tracking down the kidnappers. Along the way, the two must learn to reconcile the past and work together if they are going to have any hope of getting Lily back before she is taken over the border and forced to become a prostitute.",
+    "releaseDate": "2003-11-26",
+    "runtime": 135
+  },
+  {
+    "id": 11942,
+    "title": "Bring Me the Head of Alfredo Garcia",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "An American bartender and his prostitute girlfriend go on a road trip through the Mexican underworld to collect a $1 million bounty on the head of a dead gigolo.",
+    "releaseDate": "1974-08-14",
+    "runtime": 112
+  },
+  {
+    "id": 51997,
+    "title": "No Name on the Bullet",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Cool, cultured John Gant rides into Lordsburg. Gant is a professional killer, and although no one knows who he is there to kill, they are all worried. Everyone has enemies, and maybe Gant is in town for them. While they wait for him to make his move, paranoia starts taking over... Written by Ken Yousten John Gant, hired assassin rides into town. No one is sure of the identity of his intended victim. Townsfolk have shady pasts that make each one believe that John Gant is there to kill them. While each townsperson is falling apart from guilt, Gant is waiting in the hotel but is still given the blame for the shootings and the suicide of the Banker. Written by Carol Johnson",
+    "releaseDate": "1959-02-01",
+    "runtime": 77
+  },
+  {
+    "id": 30718,
+    "title": "Last of the Dogmen",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A Montana bounty hunter is sent into the wilderness to track three escaped prisoners. Instead he sees something that puzzles him. Later with a female Native Indian history professor, he returns to find some answers.",
+    "releaseDate": "1995-09-08",
+    "runtime": 118
+  },
+  {
+    "id": 10213,
+    "title": "From Dusk Till Dawn 3: The Hangman's Daughter",
+    "genres": [
+      "Western",
+      "Horror",
+      "Thriller"
+    ],
+    "overview": "Narrowly escaping death, outlaw Johnny Madrid (Marco Leonardi) is on the run from the hangman (Temuera Morrison), with the hangman's sensuous daughter Esmeralda by his side. Along with Madrid's gang, Johnny and Esmeralda embark on an adventure filled with colorful and unsavory characters who lead them straight into the fight of their lives!",
+    "releaseDate": "1999-10-30",
+    "runtime": 94
+  },
+  {
+    "id": 16608,
+    "title": "The Proposition",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Set in the Australian outback in the 1880s, the movie follows the series of events following the horrific rape and murder of the Hopkins family, allegedly committed by the infamous Burns brothers gang. Captain Morris Stanley captures Charlie Burns and gives him 9 days to kill his older dangerous psychopathic brother, or else they'll hang his younger mentally slow brother on Christmas Day.",
+    "releaseDate": "2005-10-06",
+    "runtime": 104
+  },
+  {
+    "id": 19592,
+    "title": "Dead Birds",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A group of Confederate soldiers who hole up in an abandoned plantation after robbing a bank, and find themselves at the mercy of supernatural forces.",
+    "releaseDate": "2004-01-01",
+    "runtime": 91
+  },
+  {
+    "id": 37481,
+    "title": "Day of the Outlaw",
+    "genres": [
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Rival cattlemen join forces to fight off outlaws.",
+    "releaseDate": "1959-07-01",
+    "runtime": 92
+  },
+  {
+    "id": 43253,
+    "title": "The Tall T",
+    "genres": [
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Having lost his horse in a bet, Pat Brennan hitches a ride with a stagecoach carrying newlyweds, Willard and Doretta Mims. At the next station the coach and its passengers fall into the hands of a trio of outlaws headed by a man named Usher. When Usher learns that Doretta is the daughter of a rich copper-mine owner, he decides to hold her for ransom. Tension builds over the next 24 hours as Usher awaits a response to his demands and as a romantic attachment grows between Brennan and Doretta.",
+    "releaseDate": "1957-04-02",
+    "runtime": 78
+  },
+  {
+    "id": 13637,
+    "title": "Sukiyaki Western Django",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Western",
+      "Thriller"
+    ],
+    "overview": "Several hundred years after the Battle of Dannoura, the Genji and Heike clans face off again in a poor mountain town with a buried treasure legend. A revolver-wielding stranger, a lone gunman, burdened with emotional scars and blessed with incredible skill, drifts into town and crosses paths with two warring clans who are both on the hunt for a hidden treasure in a remote western town. Knowing his services are valuable to either side, he offers himself to the clan who will offer up the largest share of the wealth.  Yoshitsune commands his Genji gang in white while Kiyomori leads his Heike gang in red. Expectations collide as the key players wonder which gang the gunman will join. Dirty tricks, betrayal, desire and finally, love, get jumbled together, as the situation erupts into a showdown.",
+    "releaseDate": "2007-09-15",
+    "runtime": 121
+  },
+  {
+    "id": 92312,
+    "title": "Django the Bastard",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A Union soldier returns from the dead to take revenge on three officers who betrayed his unit in battle.",
+    "releaseDate": "1969-11-08",
+    "runtime": 107
+  },
+  {
+    "id": 20533,
+    "title": "Jonah Hex",
+    "genres": [
+      "Action",
+      "Western",
+      "Drama",
+      "Fantasy",
+      "Thriller"
+    ],
+    "overview": "Gunslinger Jonah Hex (Josh Brolin) is appointed by President Ulysses Grant to track down terrorist Quentin Turnbull (John Malkovich), a former Confederate officer determined on unleashing hell on earth. Jonah not only secures freedom by accepting this task, he also gets revenge on the man who slayed his wife and child. Megan Fox plays a prostitute as well as Jonah Hex's love interst in the film.",
+    "releaseDate": "2010-06-18",
+    "runtime": 80
+  },
+  {
+    "id": 46528,
+    "title": "The Warrior's Way",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Western",
+      "Thriller"
+    ],
+    "overview": "An Asian assassin (Dong-gun Jang) is forced to hide in a small town in the American Badlands. Also starring Kate Bosworth, Danny Huston, Tony Cox and Academy Award winner Geoffrey Rush.",
+    "releaseDate": "2010-12-02",
+    "runtime": 100
+  },
+  {
+    "id": 49849,
+    "title": "Cowboys & Aliens",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A stranger stumbles into the desert town of Absolution with no memory of his past and a futuristic shackle around his wrist. With the help of mysterious beauty Ella and the iron-fisted Colonel Dolarhyde, he finds himself leading an unlikely posse of cowboys, outlaws, and Apache warriors against a common enemy from beyond this world in an epic showdown for survival.",
+    "releaseDate": "2011-07-29",
+    "runtime": 119
+  },
+  {
+    "id": 29496,
+    "title": "Cut-Throats Nine",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A wagon load of convicts on their way to prison is being escorted through the mountains by a cavalry troop. They are attacked by a bandit gang, and only a sergeant, his beautiful young daughter and an assortment of seven sadistic, murderous prisoners survive, and they are left without horses or a wagon. The sergeant must find a way to get his prisoners to their destination while protecting his daughter, watching out for the still pursuing bandits and trying to determine which one of the prisoners was the man who raped and murdered his wife.",
+    "releaseDate": "1972-07-10",
+    "runtime": 83
+  },
+  {
+    "id": 45569,
+    "title": "Red Hill",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Young police officer Shane Cooper's first day on duty, after relocating to the small town of Red Hill, rapidly turns into a nightmare. News of a prison break, involving convicted murderer Jimmy Conway, sends the local law enforcement officers - led by the town's ruling presence, Old Bill - into a panic and leads to a terrifying and bloody confrontation.",
+    "releaseDate": "2010-11-05",
+    "runtime": 97
+  },
+  {
+    "id": 35381,
+    "title": "Crossfire Trail",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller",
+      "Western",
+      "Action"
+    ],
+    "overview": "Rafe Covington is as good as his word, and he's determined to keep his promise to a dying man that he'll look after the man's widow and Wyoming ranch. But the widow doubts the integrity of drifter Covington. And an unscrupulous land grabber and his gunmen are sizing up the ranch the way a spider eyes a fly.",
+    "releaseDate": "2001-01-21",
+    "runtime": 95
+  },
+  {
+    "id": 158916,
+    "title": "Sweetwater",
+    "genres": [
+      "Western",
+      "Thriller"
+    ],
+    "overview": "In the late 1800s, a fanatical religious leader, a renegade Sheriff, and a former prostitute collide in a blood triangle on the rugged plains of the New Mexico Territory.",
+    "releaseDate": "2013-01-24",
+    "runtime": 95
+  },
+  {
+    "id": 42329,
+    "title": "The Valley of Gwangi",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A turn of the century wild west show struggling to make a living in Mexico comes into the possession of a tiny prehistoric horse. This leads to an expedition to the Forbidden Valley where they discover living dinosaurs. They capture one and take it back to be put on display, leading to inevitable mayhem.",
+    "releaseDate": "1969-07-24",
+    "runtime": 96
+  },
+  {
+    "id": 46570,
+    "title": "Today We Kill, Tomorrow We Die!",
+    "genres": [
+      "Western",
+      "Thriller"
+    ],
+    "overview": "A man, released after a jail term for a crime he did not commit, raises a gang to go after the man who framed him.",
+    "releaseDate": "1968-03-28",
+    "runtime": 105
+  },
+  {
+    "id": 48409,
+    "title": "The Hangman",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A marshal nicknamed \"The Hangman\" because of his track record in hunting down and capturing wanted criminals traces a robbery suspect to a small town. However, the man is known and liked in the town, and the citizens band together to try to help him avoid capture.",
+    "releaseDate": "1959-06-17",
+    "runtime": 87
+  },
+  {
+    "id": 33272,
+    "title": "Lucky Country",
+    "genres": [
+      "History",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "1902....the Australian Federation is a year old. Twelve year-old Tom's father, Nat, has dragged him and his sister, Sarah, to an isolated farm at the edge of the woods. But Nat's dream of living off the land has died and he is losing his grip on sanity. When three ex-soldiers arrive at their cabin one night Tom, like his father, believes they are providence.",
+    "releaseDate": "2009-07-16",
+    "runtime": 96
+  },
+  {
+    "id": 92690,
+    "title": "¡Mátalo!",
+    "genres": [
+      "Thriller",
+      "Western",
+      "Action",
+      "Drama"
+    ],
+    "overview": "A gang of cattle thieves rescue a criminal from the gallows, and later rob a stagecoach loaded with gold. When they get the loot, he is betrayed and left dying in the middle of the desert. In the escape they reach a mysterious ghost town, where they perceive there is something strange about ...",
+    "releaseDate": "1970-10-22",
+    "runtime": 100
+  },
+  {
+    "id": 223485,
+    "title": "Slow West",
+    "genres": [
+      "Romance",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "In the Old West, a 17-year-old Scottish boy teams up with a mysterious gunman to find the woman with whom he is infatuated.",
+    "releaseDate": "2015-04-16",
+    "runtime": 84
+  },
+  {
+    "id": 82667,
+    "title": "Five Bloody Graves",
+    "genres": [
+      "Western",
+      "Thriller"
+    ],
+    "overview": "A lone gunman hunts the fearsome Apache Satago across the plains of the Wild West. When Satago's marauders ambush a stagecoach, the gunman rides to the rescue of the trapped passengers and helps them in their last stand against the deadly Indians.",
+    "releaseDate": "1969-10-31",
+    "runtime": 88
+  },
+  {
+    "id": 333594,
+    "title": "Echoes Of War",
+    "genres": [
+      "Western",
+      "Drama",
+      "Thriller"
+    ],
+    "overview": "A Civil War veteran returns home to the quiet countryside, only to find himself embroiled in a conflict between his family and the brutish cattle rancher harassing them.",
+    "releaseDate": "2015-05-15",
+    "runtime": 100
+  },
+  {
+    "id": 281957,
+    "title": "The Revenant",
+    "genres": [
+      "Western",
+      "Drama",
+      "Adventure",
+      "Thriller"
+    ],
+    "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+    "releaseDate": "2015-12-25",
+    "runtime": 156
+  },
+  {
+    "id": 77165,
+    "title": "And God Said to Cain",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Western",
+      "Action"
+    ],
+    "overview": "An innocent man sentenced to ten years in prison for a crime he did not commit, is released from jail, promising to seek revenge on the guilty.",
+    "releaseDate": "1970-02-05",
+    "runtime": 93
+  },
+  {
+    "id": 362046,
+    "title": "4Got10",
+    "genres": [
+      "Western",
+      "Action",
+      "Thriller"
+    ],
+    "overview": "Brian Barnes (Johnny Messner) wakes up in the desert wounded and with no memory and no idea why he's surrounded by eight bodies, a van with four million in cash and a van full of cocaine. Brian is pursued by not only notorious drug lord Danny Perez (Danny Trejo) who desperately want his money back, and DEA Agent Rooker (Dolph Lundgren), but also a by the corrupt Sheriff Olson (Michael Pare) who will stop at nothing to get his hand on the new found fortune. On the run, Brian discovers the more he remembers the less he wants to know about who he really is.",
+    "releaseDate": "2015-09-11",
+    "runtime": 84
+  },
+  {
+    "id": 362703,
+    "title": "Diablo",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A young civil war veteran is forced on a desperate journey to save his kidnapped wife.",
+    "releaseDate": "2016-01-08",
+    "runtime": 83
+  },
+  {
+    "id": 376501,
+    "title": "Outlaws and Angels",
+    "genres": [
+      "Western",
+      "Drama",
+      "Thriller"
+    ],
+    "overview": "A gang of cold-blooded outlaws narrowly escapes a blood-soaked bank robbery in a grimy frontier town. With a notorious bounty hunter hot on their trail, these nefarious criminals desperately need a place to hide out before night falls. Fate brings them to the home of the Tildons, a seemingly innocent family with two feisty daughters. As the men settle in, an impetuous game of cat and mouse plays out during the cold, black night. Come morning, nothing will ever be the same.",
+    "releaseDate": "2016-01-25",
+    "runtime": 120
+  },
+  {
+    "id": 338766,
+    "title": "Hell or High Water",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
+    "releaseDate": "2016-08-12",
+    "runtime": 102
+  },
+  {
+    "id": 116494,
+    "title": "Clearcut",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "When a lawyer loses an appeal to stop a logging company from clear-cutting Native American land, Arthur, an Indian militant drags him and the kidnapped logging mill manager into the forest. The lawyer's empty talk about how the company's greed should be punished is put into brutal action by Arthur, who tortures the manager in allegorical ways mimicking what loggers do to the forest.",
+    "releaseDate": "1991-09-10",
+    "runtime": 100
+  },
+  {
+    "id": 324560,
+    "title": "Brimstone",
+    "genres": [
+      "Mystery",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "In the menacing inferno of the old American West, Liz is a genuine survivor who is hunted by a vengeful preacher for a crime she didn’t commit.",
+    "releaseDate": "2017-01-12",
+    "runtime": 148
+  },
+  {
+    "id": 291356,
+    "title": "In a Valley of Violence",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Western",
+      "Action"
+    ],
+    "overview": "The story of a drifter named Paul who arrives in a small town seeking revenge on the thugs who murdered his friend. Sisters Mary Anne and Ellen, who run the town's hotel, help Paul in his quest for vengeance.",
+    "releaseDate": "2016-10-21",
+    "runtime": 104
+  }
+]

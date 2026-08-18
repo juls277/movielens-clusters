@@ -1,0 +1,90 @@
+[
+  {
+    "id": 13439,
+    "title": "The Tracker",
+    "genres": [
+      "Western",
+      "Drama",
+      "Foreign",
+      "History"
+    ],
+    "overview": "The film is set in the early 20th century Australian outback, where four men are following an Aboriginal man who has been accused of murder. The characters in the film are referred to by their characters rather than by name.",
+    "releaseDate": "2002-08-08",
+    "runtime": 90
+  },
+  {
+    "id": 22396,
+    "title": "China 9, Liberty 37",
+    "genres": [
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "Gunslinger Clayton Drumm (Testi) is about to be hanged when he is given a chance to live if he will agree to murder Matthew (Oates), a miner who has steadfastly refused to sell his land to the railroad company. Matthew’s refusal is a major obstacle to the railroad’s plans for expansion.",
+    "releaseDate": "1978-08-04",
+    "runtime": 105
+  },
+  {
+    "id": 52916,
+    "title": "Sabata",
+    "genres": [
+      "Action",
+      "Foreign",
+      "Western"
+    ],
+    "overview": "Several pillars of society have robbed an Army safe containing $100,000 so they can buy the land upon which the coming railroad will be built. But they haven't reckoned on the presence of the master gunslinger, Sabata.",
+    "releaseDate": "1969-09-16",
+    "runtime": 111
+  },
+  {
+    "id": 90720,
+    "title": "The Hellbenders",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "The Civil War has ended, but not for Jonas, a ruthless Confederate officer who wants to continue the fight by reorganizing Confederate troops in the Southwest with the support of a large sum of stolen money. He devises an elaborate ruse to allow his small party to travel with minimal scrutiny through hostile territory, for the money is hidden in a coffin said to contain the body of his dead son. Jonas' other sons travel with him along with a hired \"widow\", as they proceed to what they hope to be a new start to the War between the States. However, while en route, they face severe, ongoing strife among themselves and successive threats from Union soldiers, a posse of cowboys, and an Indian war party.",
+    "releaseDate": "1967-02-02",
+    "runtime": 90
+  },
+  {
+    "id": 73984,
+    "title": "Chino",
+    "genres": [
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "Chino Valdez is a loner horse breeder living in the old west. Partly a loner by choice, and partly because, being a 'half-breed', he finds himself unwelcome almost everywhere he goes. One day, a young runaway named Jimmy shows up at his door looking for work and a roof over his head. Reluctantly, Chino agrees to take him in and teach him the art of raising, breaking and breeding horses, until the pair finally begin to accept each other.",
+    "releaseDate": "1973-09-14",
+    "runtime": 98
+  },
+  {
+    "id": 22359,
+    "title": "Any Gun Can Play",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "Any Gun Can Play (Italian: Vado... l'ammazzo e torno) is a 1967 spaghetti western starring Gilbert Roland, Edd Byrnes and George Hilton. The film is directed by Enzo G. Castellari and features a score by Francesco De Masi and Alessandro Alessandroni. It follows a familiar pattern of protagonists searching for gold, double-crossing one another and a high body count. The three main characters continually change allegiances and get the upper hand only to be thwarted by fellow outlaws, mysterious insurance investigators and each other. In the opening scene one of the three outlaws is dressed very similar to Clint Eastwood's character in the \"Dollars\" trilogy, one is dressed as Lee Van Cleef's characters in those and other westerns, and one as Franco Nero's character Django.",
+    "releaseDate": "1967-09-26",
+    "runtime": 103
+  },
+  {
+    "id": 48855,
+    "title": "Four of the Apocalypse",
+    "genres": [
+      "Western",
+      "Action",
+      "Foreign"
+    ],
+    "overview": "Four petty criminals, three men and a woman, wander through the trackless terrain of the Wild West Utah and are hounded by a sadistic bandit.",
+    "releaseDate": "1975-08-12",
+    "runtime": 87
+  }
+]

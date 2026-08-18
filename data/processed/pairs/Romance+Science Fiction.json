@@ -1,0 +1,2360 @@
+[
+  {
+    "id": 3036,
+    "title": "Mary Shelley's Frankenstein",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Based on Mary Shelley's novel, \"Frankenstein\" tells the story of Victor Frankenstein, a promising young doctor who, devastated by the death of his mother during childbirth, becomes obsessed with bringing the dead back to life. His experiments lead to the creation of a monster, which Frankenstein has put together with the remains of corpses. It's not long before Frankenstein regrets his actions.",
+    "releaseDate": "1994-11-04",
+    "runtime": 123
+  },
+  {
+    "id": 9327,
+    "title": "The Nutty Professor",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Eddie Murphy stars as shy Dr. Sherman Klump, a kind, brilliant, 'calorifically challenged' genetic professor. When beautiful Carla Purty joins the university faculty, Sherman grows desperate to whittle his 400-pound frame down to size and win her heart. So, with one swig of his experimental fat-reducing serum, Sherman becomes 'Buddy Love', a fast-talking, pumped-up , plumped down Don Juan.",
+    "releaseDate": "1996-06-26",
+    "runtime": 95
+  },
+  {
+    "id": 9294,
+    "title": "Phenomenon",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "An ordinary man sees a bright light descend from the sky, and discovers he now has super-intelligence and telekinesis.",
+    "releaseDate": "1996-07-05",
+    "runtime": 123
+  },
+  {
+    "id": 11561,
+    "title": "Sleeper",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Miles Monroe, a clarinet-playing health food store proprietor, is revived out of cryostasis 200 years into a future world in order to help rebels fight an oppressive government regime.",
+    "releaseDate": "1973-12-17",
+    "runtime": 89
+  },
+  {
+    "id": 16633,
+    "title": "Somewhere in Time",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "Young writer, Richard Collier is met on the opening night of his first play by an old lady who begs him to, \"Come back to me.\" Mystified, he tries to find out about her, and learns that she is a famous stage actress from the early 1900s. Becoming more and more obsessed with her, he manages – by self-hypnosis – to travel back in time where he meets her. They fall in love, a matching that is not appreciated by her manager. Can their love outlast the immense problems caused by their 'time\" difference, and can Richard remain in a time that is not his?",
+    "releaseDate": "1980-10-02",
+    "runtime": 103
+  },
+  {
+    "id": 21539,
+    "title": "The Preacher's Wife",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance",
+      "Family"
+    ],
+    "overview": "Good natured Reverend Henry Biggs finds that his marriage to choir mistress Julia is flagging, due to his constant absence caring for the deprived neighborhood they live in. On top of all this, his church is coming under threat from property developer Joe Hamilton. In desperation, Rev. Biggs prays to God for help - and help arrives in the form of an angel named Dudley.",
+    "releaseDate": "1996-12-13",
+    "runtime": 124
+  },
+  {
+    "id": 10003,
+    "title": "The Saint",
+    "genres": [
+      "Thriller",
+      "Action",
+      "Romance",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "overview": "Ivan Tretiak, Russian Mafia boss who wants to create an oil crisis in Moscow and seize power as a result sends Simon Templar, great international criminal, to England to get a secret formula for cold fusion from U.S. scientist Emma Russell. Templar falls in love with Emma and they try to outwit Tretiak and his guerrillas, hiding from them in Moscow",
+    "releaseDate": "1997-04-03",
+    "runtime": 116
+  },
+  {
+    "id": 782,
+    "title": "Gattaca",
+    "genres": [
+      "Thriller",
+      "Science Fiction",
+      "Mystery",
+      "Romance"
+    ],
+    "overview": "Science fiction drama about a future society in the era of indefinite eugenics where humans are set on a life course depending on their DNA. The young Vincent Freeman is born with a condition that would prevent him from space travel, yet he is determined to infiltrate the GATTACA space program.",
+    "releaseDate": "1997-09-07",
+    "runtime": 106
+  },
+  {
+    "id": 8067,
+    "title": "A Life Less Ordinary",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A couple of angels, O'Reilly and Jackson, are sent to Earth to make sure that their next supervised love-connection succeeds. They follow Celine, a spoiled rich girl who has just accidentally shot a suitor and, due to a misunderstanding, is kidnapped by janitor Robert. Although Celine quickly frees herself, she stays with Robert for thrills. O'Reilly and Jackson pursue, hoping to unite the prospective lovers.",
+    "releaseDate": "1997-10-24",
+    "runtime": 103
+  },
+  {
+    "id": 51955,
+    "title": "Hav Plenty",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "Lee Plenty is an almost broke would-be novelist and Havilland Savage is rich and very beautiful woman and his friend. When she invites him to her home for New Year's Eve, they start to build up a romance.",
+    "releaseDate": "1997-09-11",
+    "runtime": 92
+  },
+  {
+    "id": 11591,
+    "title": "The Man with Two Brains",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A story about a brain surgeon who tries to end his unhappy marriage to spend more time with a disembodied brain.",
+    "releaseDate": "1983-06-10",
+    "runtime": 93
+  },
+  {
+    "id": 9314,
+    "title": "Nineteen Eighty-Four",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "George Orwell's novel of a totalitarian future society in which a man whose daily work is rewriting history tries to rebel by falling in love.",
+    "releaseDate": "1984-10-10",
+    "runtime": 113
+  },
+  {
+    "id": 18331,
+    "title": "The Nutty Professor",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Jerry Lewis directed, co-wrote and starred in this riotously funny movie that set a new standard for screen comedy and inspired the hit remake. Lewis plays a timid, nearsighted chemistry teacher who discovers a magical potion that can transform him into a suave and handsome Romeo. The Jekyll and Hyde game works well enough until the concoction starts to wear off at the most embarrassing times.",
+    "releaseDate": "1963-06-04",
+    "runtime": 107
+  },
+  {
+    "id": 20096,
+    "title": "The Butcher's Wife",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A clairvoyant woman thinks that she's met her future husband because she's seen him in a dream. They marry and he takes her back to his butcher shop in New York city, where her powers tend to influence everyone she meets while working in the shop. Through her advice, she helps others and eventually finds the true man of her dreams.",
+    "releaseDate": "1991-10-25",
+    "runtime": 107
+  },
+  {
+    "id": 10803,
+    "title": "Logan's Run",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "An idyllic sci-fi future has one major drawback: All citizens get a chance of being 'renewed' in a Civic Ceremony at their 30th birthday, unless they run and escape before their time comes.",
+    "releaseDate": "1976-06-23",
+    "runtime": 119
+  },
+  {
+    "id": 17198,
+    "title": "The Mating Habits of the Earthbound Human",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "David Hyde Pierce, playing an alien (credited as infinity-cubed in the opening credits), narrates a courtship in a late-20th century American city as an extraterrestrial nature documentary. The relationship \"footage\" is played straight, while the voice-over (with its most often wildly inaccurate theories) and elaborate visual metaphors add comedy.",
+    "releaseDate": "1999-09-03",
+    "runtime": 88
+  },
+  {
+    "id": 16129,
+    "title": "Last Night",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Science Fiction"
+    ],
+    "overview": "Various citizens of Toronto anxiously await the end of the world, which is occurring at the stroke of midnight on New Year's Day. While widower Patrick Wheeler braces for his fate, he meets Sandra, the wife of a businessman who is intent on committing suicide. Meanwhile, Patrick's friend Craig decides to have as much sex as he can while there is still time.",
+    "releaseDate": "1998-10-23",
+    "runtime": 95
+  },
+  {
+    "id": 10326,
+    "title": "Forever Young",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A 1939 test pilot asks his best friend to use him as a guinea pig for a cryogenics experiment. Daniel McCormick wants to be frozen for a year so that he doesn't have to watch his love lying in a coma. The next thing Daniel knows is that he's been awoken in 1992.",
+    "releaseDate": "1992-12-16",
+    "runtime": 102
+  },
+  {
+    "id": 10416,
+    "title": "What Planet Are You From?",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A highly-evolved planet, whose denizens feel no emotion and reproduce by cloning, plans to take over Earth from the inside by sending an operative, fashioned with a humming, mechanical penis, to impregnate an earthling and stay until the birth. The alien, Harold Anderson, goes to Phoenix as a banker and sets to work finding a mate. His approaches to women are inept, and the humming phallus doesn't help, but on the advice of a banking colleague, he cruises an AA meeting, meets Susan, and somehow convinces her to marry. The clock starts to tick: will she conceive, have a baby, and lose Harold (and the child) to his planet before he discovers emotion and starts to care?",
+    "releaseDate": "2000-03-03",
+    "runtime": 105
+  },
+  {
+    "id": 35412,
+    "title": "On the Beach",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "In 1964, atomic war wipes out humanity in the northern hemisphere; one American submarine finds temporary safe haven in Australia, where life-as-usual covers growing despair. In denial about the loss of his wife and children in the holocaust, American Captain Towers meets careworn but gorgeous Moira Davidson, who begins to fall for him. The sub returns after reconnaissance a month (or less) before the end; will Towers and Moira find comfort with each other?",
+    "releaseDate": "1959-12-16",
+    "runtime": 134
+  },
+  {
+    "id": 28370,
+    "title": "Date With an Angel",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Aspiring composer Jim Sanders is engaged to spoiled rich girl Patty. But the morning after his bachelor party, Jim wakes up to discover a beautiful, broken-winged angel in his pool. When everyone finds out about his heavenly houseguest, Jim must cope with a dangerously jealous fiancée, an exploitive future father-in-law and a group of buddies with an outrageous business plan!",
+    "releaseDate": "1987-11-20",
+    "runtime": 105
+  },
+  {
+    "id": 12187,
+    "title": "Heart and Souls",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A businessman is reunited with the four lost souls who were his guardian angels during childhood, all with a particular purpose to joining the afterlife.",
+    "releaseDate": "1993-08-13",
+    "runtime": 104
+  },
+  {
+    "id": 889,
+    "title": "The Flintstones in Viva Rock Vegas",
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "overview": "The Flintstones are at it again. The Flintstones and the Rubbles head for Rock Vegas with Fred hoping to court the lovely Wilma. Nothing will stand in the way of love, except for the conniving Chip Rockefeller who is the playboy born in Baysville but who has made it in the cutthroat town of Rock Vegas. Will Fred win Wilma's love?",
+    "releaseDate": "2000-04-28",
+    "runtime": 90
+  },
+  {
+    "id": 9663,
+    "title": "Starman",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "An alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona. The government tries to stop them.",
+    "releaseDate": "1984-12-13",
+    "runtime": 115
+  },
+  {
+    "id": 12107,
+    "title": "Nutty Professor II: The Klumps",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "The hilarity begins when professor Sherman Klump finds romance with fellow DNA specialist, Denise Gaines, and discovers a brilliant formula that reverses aging. But Sherman's thin and obnoxious alter ego, Buddy Love, wants out...and a big piece of the action. And when Buddy gets loose, things get seriously nutty.",
+    "releaseDate": "2000-07-27",
+    "runtime": 106
+  },
+  {
+    "id": 2134,
+    "title": "The Time Machine",
+    "genres": [
+      "Thriller",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A Victorian Englishman travels to the far future and finds that humanity has divided into two hostile species.",
+    "releaseDate": "1960-08-17",
+    "runtime": 103
+  },
+  {
+    "id": 16300,
+    "title": "Down to Earth",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "After dying before his time, an aspiring comic gets a second shot at life... by being reincarnated as a wealthy but un-likable businessman.",
+    "releaseDate": "2001-02-16",
+    "runtime": 87
+  },
+  {
+    "id": 62127,
+    "title": "The Fantasticks",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Two rural teens sing and dance their way through a forbidden romance and a dangerous travelling carnival.",
+    "releaseDate": "1995-12-27",
+    "runtime": 86
+  },
+  {
+    "id": 8076,
+    "title": "Tuvalu",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "Set in a dilapidated indoor swimming pool (the Central Baths in Sofia), the film details the efforts of Anton, a clueless dreamer who yearns to sail the world, and Martha, the button obsessed cashier, to maintain the illusion for Anton's blind father that business is thriving. Working to sabotage their efforts is Gregor - Anton's brother - an amoral developer who is determined to raze the entire town and construct a sprawling condominium complex. Gregor engineers an accident that seems certain to doom the business and in the process steals away Eva, the beautiful woman of Anton's dreams. Will Gregor's dastardly plan succeed?",
+    "releaseDate": "1999-11-19",
+    "runtime": 92
+  },
+  {
+    "id": 3064,
+    "title": "Chances Are",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Louie Jeffries is happily married to Corinne. On their first anniversary, Louie is killed crossing the road. Louie is reincarnated as Alex Finch, and twenty years later, fate brings Alex and Louie's daughter, Miranda, together. It's not until Alex is invited to Louie's home that he begins to remember his former life, wife and best friend. Of course, there's also the problem that he's attracted to Louie's/his own daughter.",
+    "releaseDate": "1989-03-10",
+    "runtime": 108
+  },
+  {
+    "id": 15142,
+    "title": "Dream a Little Dream",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Bobby Kellar has a crush on Lainie Diamond, girlfriend of school jerk Joel. Coleman is working on an experiment which will help him move into a place where Dreams are reality. When an accident occurs Coleman finds himself in Bobby's body and can only contact Bobby in his dreams.",
+    "releaseDate": "1989-03-03",
+    "runtime": 114
+  },
+  {
+    "id": 2210,
+    "title": "Earth Girls Are Easy",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "In this musical comedy, Valerie is dealing with her philandering fiancé, Ted, when she finds that a trio of aliens have crashed their spaceship into her swimming pool. Once the furry beings are shaved at her girlfriend's salon, the women discover three handsome men underneath. After absorbing the native culture via television, the spacemen are ready to hit the dating scene in 1980s Los Angeles.",
+    "releaseDate": "1988-09-08",
+    "runtime": 100
+  },
+  {
+    "id": 24739,
+    "title": "Miracle Mile",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "After 30 years of searching, Harry (Edwards) has finally met the girl of his dreams. Unfortunately, before they even have a chance to go on their first date, Harry intercepts some chilling news: WWIII has begun and nuclear missiles will destroy Los Angeles in less than an hour!",
+    "releaseDate": "1989-05-19",
+    "runtime": 87
+  },
+  {
+    "id": 21596,
+    "title": "Thomas in Love",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Thomas Thomas is agoraphobic, has a computer-generated girlfriend, and hasn't left his home in years. Can a prostitute convince him to leave cyberspace and his home for the real world?",
+    "releaseDate": "2000-09-03",
+    "runtime": 97
+  },
+  {
+    "id": 22230,
+    "title": "Happy Accidents",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A comedy that pays tribute to the science fiction genre -- specifically, the sub-genre of time travel. But here the alternate reality is contemporary New York City where past and future experiences of trust, commitment and denial are cleverly put to the test. Just as Ruby is beginning to relish her first-ever healthy relationship, Sam begins muttering about being a time traveler from the year 2470.",
+    "releaseDate": "2000-01-25",
+    "runtime": 110
+  },
+  {
+    "id": 1903,
+    "title": "Vanilla Sky",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "David Aames (Tom Cruise) has it all: wealth, good looks and gorgeous women on his arm. But just as he begins falling for the warmhearted Sofia (Penelope Cruz), his face is horribly disfigured in a car accident. That's just the beginning of his troubles as the lines between illusion and reality, between life and death, are blurred.",
+    "releaseDate": "2001-12-10",
+    "runtime": 136
+  },
+  {
+    "id": 11232,
+    "title": "Kate & Leopold",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "When her scientist ex-boyfriend discovers a portal to travel through time -- and brings back a 19th-century nobleman named Leopold to prove it -- a skeptical Kate reluctantly takes responsibility for showing Leopold the 21st century. The more time Kate spends with Leopold, the harder she falls for him. But if he doesn't return to his own time, his absence will forever alter history.",
+    "releaseDate": "2001-12-25",
+    "runtime": 118
+  },
+  {
+    "id": 18317,
+    "title": "Truly Madly Deeply",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Nina is totally heartbroken at the death of her boyfriend Jamie, but is even more unprepared for his return as a ghost. At first it's almost as good as it used to be - hey, even the rats that infested her house have disappeared. But Jamie starts bringing ghostly friends home and behaving more and more oddly.",
+    "releaseDate": "1990-11-10",
+    "runtime": 106
+  },
+  {
+    "id": 43715,
+    "title": "The Deadly Mantis",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "The calving of an Arctic iceberg releases a giant praying mantis, trapped in suspended animation since prehistoric times. It first attacks military outposts to eat their occupants, then makes its way to the warmer latitudes of Washington and New York. A paleontologist works together with military units to try to kill it. (copied from IMDB)",
+    "releaseDate": "1957-05-01",
+    "runtime": 79
+  },
+  {
+    "id": 2565,
+    "title": "Joe Versus the Volcano",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Hypochondriac Joe Banks finds out he has six months to live, quits his dead end job, musters the courage to ask his female co-worker out on a date, and is then hired to jump into a volcano by a mysterious visitor.",
+    "releaseDate": "1990-03-09",
+    "runtime": 102
+  },
+  {
+    "id": 13768,
+    "title": "Tuck Everlasting",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Natalie Babbitt's award winning book for children comes to the screen in a lavish adaptation from Walt Disney Pictures. Winnie Foster (Alexis Bledel) is a girl in her early teens growing up in the small rural town of Winesap in 1914. Winnie's parents (Victor Garber and Amy Irving) are loving but overprotective, and Winnie longs for a life of greater freedom and adventure.",
+    "releaseDate": "2002-10-11",
+    "runtime": 90
+  },
+  {
+    "id": 2103,
+    "title": "Solaris",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Mystery",
+      "Romance"
+    ],
+    "overview": "Upon arrival at the space station orbiting an ocean world called Solaris a psychologist discovers that the commander of an expedition to the planet has died mysteriously. Other strange events soon start happening as well, such as the appearance of old acquaintances of the crew, including some who are dead.",
+    "releaseDate": "2002-11-27",
+    "runtime": 99
+  },
+  {
+    "id": 10856,
+    "title": "Intacto",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "An enigmatic tale of four people whose lives are intertwined by destiny are subject to the laws of fate. They discover that luck is something they cannot afford to be without as they gamble with the highest stakes possible in a deadly game from which only one of them will emerge intact.",
+    "releaseDate": "2001-11-06",
+    "runtime": 108
+  },
+  {
+    "id": 26454,
+    "title": "Deliver Us from Eva",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "Eva Dandridge is a very uptight young woman who constantly meddles in the affairs of her sisters and their husbands. Her in-laws, who are tired of Eva interfering in their lives, decide to set her up with someone so she can leave them alone. They end up paying Ray, the local \"playboy,\" $5,000 to date her. The plan goes by smoothly, but troubles comes when Ray actually falls in love with Eva.",
+    "releaseDate": "2003-02-07",
+    "runtime": 105
+  },
+  {
+    "id": 35139,
+    "title": "Teenagers from Outer Space",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Science Fiction",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "A young alien falls for a pretty teenage Earth girl and they team up to try to stop the plans of his invading cohorts, who intend to use Earth as a food-breeding ground for giant lobsters from their planet.",
+    "releaseDate": "1959-06-01",
+    "runtime": 86
+  },
+  {
+    "id": 55950,
+    "title": "Wilder Napalm",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Wilder and Wallace are brothers and pyrokinetics. Ever since childhood they've been able to start fires with their minds but following a tragedy in which they accidentally killed a man, the brothers have grown up very differently. Wilder has become a regular 9-5 workaday joe but Wallace performs his feats with a traveling circus. When the circus comes to Wilder's home town Wallace starts coming on strong to Wilder's wife, Vida who, ironically, is a slight pyromaniac.",
+    "releaseDate": "1993-08-20",
+    "runtime": 109
+  },
+  {
+    "id": 39916,
+    "title": "Contamination",
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A former astronaut helps a government agent and a police detective track the source of mysterious alien pod spores, filled with lethal flesh-dissolving acid, to a South American coffee plantation controlled by alien pod clones.",
+    "releaseDate": "1980-08-02",
+    "runtime": 95
+  },
+  {
+    "id": 2612,
+    "title": "Mr. Destiny",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Larry Burrows is unhappy and feels powerless over his life. He believes his entire life could have turned out differently had he not missed that shot in a baseball game when was a kid. One night he meets this mysterious man, who could change his fate by offering him that alternative life he always dreamed of. But as Burrows embarks on this journey of self discovery he realises that even this new life has its problems and drawbacks..",
+    "releaseDate": "1990-10-12",
+    "runtime": 110
+  },
+  {
+    "id": 19075,
+    "title": "A Midsummer Night's Dream",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Theseus, Duke of Athens, is going to marry Hyppolyta, Queen of the Amazons. Demetrius is engaged with Hermia, but Hermia loves Lysander. Helena loves Demetrius. Oberon and Titania, of the kingdom of fairies have a slight quarrel about whether or not the boy Titania is raising will join Titania's band or Oberon's, so Oberon tries to get him from her by using some magic. But they're not alone in that forest.Lysander and Hermina have there a rendezvous, Helena and Demetrius are there, too as well as some actors, who are practicing a play for the ongoing wedding of Theseus and Hippolyta. Due to some misunderstandings by Puck, the whole thing becomes a little bit confused...",
+    "releaseDate": "1935-10-09",
+    "runtime": 143
+  },
+  {
+    "id": 20032,
+    "title": "Robot Stories",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Four stories including: \"My Robot Baby,\" in which a couple must care for a robot baby before adopting a human child; \"The Robot Fixer,\" in which a mother tries to connect with her dying son; \"Machine Love,\" in which an office worker android learns that he, too, needs love; and \"Clay,\" in which an old sculptor must choose between natural death and digital immortality",
+    "releaseDate": "2003-01-01",
+    "runtime": 85
+  },
+  {
+    "id": 38,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+    "releaseDate": "2004-03-19",
+    "runtime": 108
+  },
+  {
+    "id": 9872,
+    "title": "Explorers",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "The visionary dreams of three curious and adventuresome young boys become an exciting reality in Explorers, the action-fantasy from director Joe Dante, who combines keen humor, warmth and fantasy with unexpected twists. In their makeshift laboratory, the boys use an amazing discovery and their ingenuity to build their own spaceship and launch themselves on a fantastic interplanetary journey.",
+    "releaseDate": "1985-07-12",
+    "runtime": 109
+  },
+  {
+    "id": 29146,
+    "title": "Charly",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "An experiment on a simpleton turns him into a genius. When he discovers what has been done to him he struggles with whether or not what was done to his was right.",
+    "releaseDate": "1968-09-23",
+    "runtime": 103
+  },
+  {
+    "id": 35151,
+    "title": "Hello Again",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Lucy Chadman (Shelley Long) chokes to death and is resurrected by her loopy sister Zelda (Judith Ivey) on the one year anniversary of her death. Lucy, of course, does not believe she has actually been dead and thinks it is an elaborate hoax until she goes to her apartment and discovers her husband (Corbin Bernsen) married to her gold digging best friend, Kim (Sela Ward).",
+    "releaseDate": "1987-11-06",
+    "runtime": 96
+  },
+  {
+    "id": 662,
+    "title": "La Jetée",
+    "genres": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world’s fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airport’s viewing pier.",
+    "releaseDate": "1962-02-16",
+    "runtime": 28
+  },
+  {
+    "id": 10631,
+    "title": "All of Me",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Just before stubborn millionaire Edwina Cutwater dies, she asks her uptight lawyer, Roger Cobb to amend her will so that her soul will pass to the young, vibrant Terry Hoskins – but the spiritual transference goes awry. Edwina enters Roger's body instead, forcing him to battle Edwina for control of his own being.",
+    "releaseDate": "1984-09-07",
+    "runtime": 93
+  },
+  {
+    "id": 32644,
+    "title": "Two of a Kind",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "God throws his hands up at the foolishness of humanity and orders the race destroyed. A trio of bleeding-heart angels strike a deal with him: if they can find just two good souls, the Lord will allow Earth to survive. Unfortunately, the angels have staked the future of the species on a thieving bank teller and an inventor/con-artist",
+    "releaseDate": "1983-01-01",
+    "runtime": 88
+  },
+  {
+    "id": 2577,
+    "title": "Code 46",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "A futuristic 'Brief Encounter', a love story in which the romance is doomed by genetic incompatibility.",
+    "releaseDate": "2003-09-02",
+    "runtime": 92
+  },
+  {
+    "id": 12777,
+    "title": "It's All About Love",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "The story of two lovers and their attempts to save their relationship in a near-future world on the brink of cosmic collapse. John, and world-famous ice skating star, Elena, are about to sign divorce papers when they realise that, in spite of everything happening around them, their love is worth fighting for. It's All About Love is a fresh take on modern love and future life as two lovers struggle in a conspiracy of epic proportions.",
+    "releaseDate": "2003-01-10",
+    "runtime": 104
+  },
+  {
+    "id": 18727,
+    "title": "Heaven Can Wait",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Henry Van Cleve presents himself at the gates of Hell only to find he is closely vetted on his qualifications for entry. Surprised there is any question on his suitability, he recounts his lively life and the women he has known from his mother onwards, but mainly concentrating on his happy but sometimes difficult twenty-five years of marriage to Martha.",
+    "releaseDate": "1943-08-11",
+    "runtime": 112
+  },
+  {
+    "id": 41243,
+    "title": "Creator",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "With the help of student assistant Boris and stolen university equipment, Dr. Harry Wolper plans to clone his dead wife. But then he meets Meli, an egg donor for his experiment, and they fall in love. Faced with choosing between his deceased wife and Meli, Dr. Wolper sees his situation in a new light when Boris' own new love, Barbara, falls into a coma. Meanwhile, another professor tries shutting down the cloning project.",
+    "releaseDate": "1985-09-20",
+    "runtime": 107
+  },
+  {
+    "id": 34376,
+    "title": "Mannequin Two: On the Move",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Although Jason works as a department store clerk, he is also a reincarnated prince. Long ago, his beloved Jessie was snatched away from him by an evil wizard who used his powers to transform her into wooden statue. Now Jessie is in Jason's department store as a mannequin. When he encounters her, she awakens from her thousand-year sleep. They quickly revive their romance, but the evil wizard has been reincarnated as well, and he's up to no good.",
+    "releaseDate": "1991-01-07",
+    "runtime": 95
+  },
+  {
+    "id": 2460,
+    "title": "Earth",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Angel, an exterminator recently released from a mental hospital, comes to rid a small Spanish town of tiny grubs in the soil. The local wine-making industry has found these pests responsible for giving their product an \"earthy\" taste that has divided local opinion. While in town, Angel becomes involved with two beautiful and very different women, and impacts their lives on a grand scale. Can either of these women accept the fact that Angel travels with a \"ghost\" of himself, or that he routinely speaks with the deseased townspeople?",
+    "releaseDate": "1996-05-20",
+    "runtime": 125
+  },
+  {
+    "id": 844,
+    "title": "2046",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "2046 is the sequel to Wong Kar-Wais’ successful box-office hit In The Mood For Love. A film about affairs, ending relationships, and a shared love for Kung-Fu novels as the main character, Chow, writes his own novel and reflects back on his favorite love Su.",
+    "releaseDate": "2004-05-20",
+    "runtime": 129
+  },
+  {
+    "id": 19545,
+    "title": "Invasion of Astro-Monster",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "In the 6th Godzilla movie, mysterious aliens from the Planet X ask earth's people to help them save their world from the dreaded Ghidorah (aka \"Monster Zero\") by letting them \"borrow\" Godzilla and Rodan. Monster mayhem ensues on Planet X, but it's soon discovered that the aliens have other intentions for the monsters.",
+    "releaseDate": "1965-12-19",
+    "runtime": 96
+  },
+  {
+    "id": 68883,
+    "title": "Rouge",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Fleur is the blue angel in one of Hong Kong's \"flower houses\" - bordellos and night clubs of the 1930's. A detached and beautiful performer, she falls in love with Twelfth Master Chan, heir to a chain of pharmacies. They agree to a suicide pact. Jump ahead 50 years to modern Hong Kong: Fleur's ghost appears in Yuen's newspaper office, wanting to place an ad to find Chan, who never arrived in the afterlife. Yuen, and his equally bewildered girlfriend, An Chor, are captivated by Fleur and her story.",
+    "releaseDate": "1987-01-07",
+    "runtime": 96
+  },
+  {
+    "id": 28423,
+    "title": "The Invisible Woman",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "overview": "A sexy model volunteers to be a test subject for a new invisibility machine. But does she have ulterior motives?",
+    "releaseDate": "1940-12-27",
+    "runtime": 72
+  },
+  {
+    "id": 47945,
+    "title": "Daybreak",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Science Fiction",
+      "TV Movie"
+    ],
+    "overview": "When a substantial portion of the nation's populace falls victim to a deadly plague, the tyrannical government quarantines them in camps, offering no alternative except death in this cautionary tale from director Stephen Tolkin. But a gutsy rebel named Torch (Cuba Gooding Jr.) sets out to help the afflicted by leading an underground effort to spirit the victims to humane sanctuary. Moira Kelly co-stars as Gooding's love interest.",
+    "releaseDate": "1993-05-08",
+    "runtime": 91
+  },
+  {
+    "id": 10017,
+    "title": "The Wraith",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Horror",
+      "Action",
+      "Crime"
+    ],
+    "overview": "Packard Walsh and his motorized gang control and terrorize an Arizona desert town where they force drivers to drag-race so they can 'win' their vehicles. After Walsh beats the decent teenager Jamie Hankins to death after finding him with his girlfriend, a mysterious power creates Jake Kesey, an extremely cool motor-biker who has a car which is invincible. Jake befriends Jamie's girlfriend Keri Johnson, takes Jamie's sweet brother Bill under his wing and manages what Sheriff Loomis couldn't; eliminate Packard's criminal gang the hard way...",
+    "releaseDate": "1986-11-21",
+    "runtime": 93
+  },
+  {
+    "id": 33081,
+    "title": "Paheli",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Science Fiction",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Kishanlal marries the beautiful Lachchi, but the day after the wedding, he leaves on business for five years. When Kishanlal reappears only a few days later, Lachchi is delighted, but this new Kishanlal is in fact a spirit who has taken the form of Lachchi's husband, after having seen her by chance and fallen in love with her. Four years later, the real Kishanlal returns and the townsfolk must determine who is who.",
+    "releaseDate": "2005-06-24",
+    "runtime": 141
+  },
+  {
+    "id": 1381,
+    "title": "The Fountain",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
+    "releaseDate": "2006-09-06",
+    "runtime": 96
+  },
+  {
+    "id": 12924,
+    "title": "The Place Promised in Our Early Days",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "The story takes place in a alternate postwar period, in 1996, where Japan is divided. Hokkaido is ruled by the \"Union\" while Honshu and other southern islands are under US authority. A tall tower was built on Hokkaido, which could even be seen from Tokyo. In the summer of 1996, three middle-school students make a promise that they'll cross the border with a self-constructed plane and unravel the tower's secret, but their project was abandoned after the girl, Sayuri Sawatari, became mysteriously ill and transferred to Tokyo. Years later on the brink of another war Hiroki Fujisawa finds out that Sayuri had been in coma since then, and he asks Takuya Shirakawa to help him finding a way to wake her up.",
+    "releaseDate": "2004-11-20",
+    "runtime": 91
+  },
+  {
+    "id": 8199,
+    "title": "Dreamland",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A young woman who lives in a desert trailer park must choose between caring for her hapless father and sick friend or fulfilling her own destiny.",
+    "releaseDate": "2006-01-23",
+    "runtime": 88
+  },
+  {
+    "id": 14945,
+    "title": "Origin: Spirits of the Past",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Action"
+    ],
+    "overview": "It is 300 years into the future. Earth's environment had been devastated by mankind's own foolish plans and humankind is beleaguered by the sentient forests which they have awoken. The world balance is tipped when a young boy named Agito stumbles across a machine that glowed in a strange blue hue inside a forbidden sanctuary.",
+    "releaseDate": "2006-01-07",
+    "runtime": 95
+  },
+  {
+    "id": 50153,
+    "title": "The Man from Planet X",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "While watching for a planet that may collide with earth, scientists stationed in Scotland are approached by a visitor from outer space.",
+    "releaseDate": "1951-04-27",
+    "runtime": 70
+  },
+  {
+    "id": 25755,
+    "title": "Citizen Dog",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Follow the life of Pod as he moves to Bangkok from the country. Pod's new life starts with getting a job, loosing a finger and dreaming about a girl. A movie were nothing is impossible, and just because you get killed by raining red helmets doesnt mean you have to stop driving motorcycle taxi.",
+    "releaseDate": "2004-12-12",
+    "runtime": 100
+  },
+  {
+    "id": 52473,
+    "title": "Allegro",
+    "genres": [
+      "Drama",
+      "Foreign",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Famous pianist Zetterström returns home to his native Denmark, to give a concert, just to find out that the choices he has made in his life have affected his love life greatly.",
+    "releaseDate": "2005-09-30",
+    "runtime": 88
+  },
+  {
+    "id": 28260,
+    "title": "Return of the Living Dead 3",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Romance",
+      "Horror"
+    ],
+    "overview": "Colonel Reynolds and his group of government scientists continue their work on re-animating the dead for military use. His son Curt uses a stolen security pass to sneak in with his thrill-seeking girlfriend Julie, with shocking, deadly results!",
+    "releaseDate": "1993-10-01",
+    "runtime": 97
+  },
+  {
+    "id": 14305,
+    "title": "The Andromeda Strain",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "A U.S. satellite crash-lands near a small town in Utah, unleashing a deadly plague that kills virtually everyone except two survivors, who may provide clues to immunizing the population. As the military attempts to quarantine the area, a team of highly specialized scientists is assembled to find a cure and stop the spread of the alien pathogen, code-named Andromeda.",
+    "releaseDate": "2008-05-10",
+    "runtime": 180
+  },
+  {
+    "id": 64131,
+    "title": "Mauvais Sang",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "A sexually transmitted disease called STBO is sweeping the country; it's spread by having sex without emotional involvement, and most of its victims are teenagers who make love out of curiosity rather than commitment. While a serum that can treat the disease has been formulated, it's been locked away in an inaccessible government building. A woman hires a man to steal the serum.",
+    "releaseDate": "1986-11-26",
+    "runtime": 119
+  },
+  {
+    "id": 13905,
+    "title": "Farscape: The Peacekeeper Wars",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "Sixty days on and Rygel is retrieving pieces of John and Aeryn from the sea bed. The Diagnosan re-crystalises them and they start getting to know the local species. Meanwhile, Scorpius and Sikozu are aboard a Peacekeeper Command Carrier on a recon mission. They attack a Scarren ship, which provokes the Scarrens into declaring war on The Peacekeepers.",
+    "releaseDate": "2004-01-01",
+    "runtime": 182
+  },
+  {
+    "id": 42655,
+    "title": "Andromeda Nebula",
+    "genres": [
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Humans on spaceship named \"Tantra\" are exploring the unknown part of the Universe. The spaceship gets trapped by the mysterious Iron Star. The Iron Star's powerful force of gravity is to hold the spaceship for 20 years. The humans are facing a very tough survival challenge... Based on famous novel by Ivan Efremov.",
+    "releaseDate": "1967-12-04",
+    "runtime": 77
+  },
+  {
+    "id": 18032,
+    "title": "The Secret of Moonacre",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama",
+      "Science Fiction",
+      "Romance",
+      "Family"
+    ],
+    "overview": "When 13 year old Maria Merryweather's father dies, leaving her orphaned and homeless, she is forced to leave her luxurious London life to go and live with Sir Benjamin, an eccentric uncle she didn't know she had, at the mysterious Moonacre Manor.",
+    "releaseDate": "2008-09-06",
+    "runtime": 103
+  },
+  {
+    "id": 22494,
+    "title": "Frequently Asked Questions About Time Travel",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Three men walk into a bar; two geeks and a cynic. They are three ordinary blokes who all have dreams and hopes for an exciting and better future",
+    "releaseDate": "2009-04-24",
+    "runtime": 83
+  },
+  {
+    "id": 50936,
+    "title": "Moon Warriors",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Foreign",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A kind-hearted fisherman, content with simple life, is reluctantly drawn into helping a noble emperor regain his throne from his evil brother.",
+    "releaseDate": "1992-12-19",
+    "runtime": 83
+  },
+  {
+    "id": 39545,
+    "title": "TiMER",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "When implanted in a person's wrist, a TiMER counts down to the day the wearer finds true love. But Oona O'Leary faces the rare dilemma of a blank TiMER. Her soul mate - whoever and wherever he is - has yet to have a TiMER implanted. Staring down the barrel of thirty and tired of waiting for her would-be life partner to get off the dime, Oona breaks her own rules and falls for Mikey, a charming and inappropriately young supermarket clerk with a countdown of four months.",
+    "releaseDate": "2009-05-14",
+    "runtime": 99
+  },
+  {
+    "id": 31011,
+    "title": "Mr. Nobody",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ],
+    "overview": "Nemo Nobody leads an ordinary existence with his wife and 3 children; one day, he wakes up as a mortal centenarian in the year 2092.",
+    "releaseDate": "2009-09-11",
+    "runtime": 156
+  },
+  {
+    "id": 28426,
+    "title": "Invisible Agent",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "The Invisible Man's grandson uses his secret formula to spy on Nazi Germany in this comedy-thriller.",
+    "releaseDate": "1942-07-31",
+    "runtime": 81
+  },
+  {
+    "id": 42188,
+    "title": "Never Let Me Go",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+    "releaseDate": "2010-09-15",
+    "runtime": 104
+  },
+  {
+    "id": 3007,
+    "title": "Woman in the Moon",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A scientist discovers that there's gold on the moon, he builds a rocket to fly there, but there's too much rivalry among the crew to have a sucessful expedition.",
+    "releaseDate": "1929-10-14",
+    "runtime": 170
+  },
+  {
+    "id": 79591,
+    "title": "Ten Minutes Older: The Cello",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Collection of short films the summaries of which include; a foreign man moving to Italy, getting married and having a child; a four split scene short involving plot-less images of old people with television sets for heads, a beautiful woman having sex, and overall confusion; and an old man reminiscing over his youth.",
+    "releaseDate": "2002-09-03",
+    "runtime": 146
+  },
+  {
+    "id": 71701,
+    "title": "The Damned",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Science Fiction"
+    ],
+    "overview": "An American tourist, a youth gang leader, and his troubled sister find themselves trapped in a top secret government facility experimenting on children.",
+    "releaseDate": "1963-05-19",
+    "runtime": 87
+  },
+  {
+    "id": 32407,
+    "title": "Malice in Wonderland",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Crime",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A modern take on the classic fairytale, Alice in Wonderland, set in South East England.An American law student in London. Knocked down by a black cab, she wakes with amnesia in a world that's a million miles from home - Wonderland. We follow her adventures as she's dragged through an underworld filled with twisted individuals and the lowest low-lifers, by the enigmatic cab driver, Whitey. She needs to find out who she is, where she's from and use what wits she has left to get back home in one piece. As her journey progresses she discovers nothing is what it seems, realizes that fate and life are terminally entwined, and finds true love lurking in the unlikeliest place.",
+    "releaseDate": "2009-01-01",
+    "runtime": 87
+  },
+  {
+    "id": 38050,
+    "title": "The Adjustment Bureau",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "A man glimpses the future Fate has planned for him – and chooses to fight for his own destiny. Battling the powerful Adjustment Bureau across, under and through the streets of New York, he risks his destined greatness to be with the only woman he's ever loved.",
+    "releaseDate": "2011-03-03",
+    "runtime": 106
+  },
+  {
+    "id": 62385,
+    "title": "The Little Girl Who Conquered Time",
+    "genres": [
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Yoshiyama Kazuko is in the 3rd grade of junior high. One day, she's cleaning in the laboratory, she notices of the smell of lavender, and fainted. Since then, she acquires a mysterious power to travel time.",
+    "releaseDate": "1983-07-16",
+    "runtime": 104
+  },
+  {
+    "id": 111960,
+    "title": "Miranda",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A young married physician discovers a mermaid, and gives into her request to be taken to see London. Comedy and romantic entanglements ensue soon after.",
+    "releaseDate": "1948-04-06",
+    "runtime": 80
+  },
+  {
+    "id": 59392,
+    "title": "Backlight",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Several characters who are each at critical stages of their lives are strangely impelled towards an uncharted lake in the middle of the desert where they all have the opportunity to save each other.",
+    "releaseDate": "2010-07-10",
+    "runtime": 90
+  },
+  {
+    "id": 148284,
+    "title": "Enthiran",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Dr. Vasi invents a super-powered robot, Chitti, in his own image. The scientific body, AIRD, that must approve the robot, declines it based on its not having emotions and the ability to make rational judgment. A sudden flash of lightning evokes emotions in the robot, and Chitti is seemingly ready for integration into the human world. Then, Chitti falls in love with Dr. Vasi's fiancée Sana and turns on his creator.",
+    "releaseDate": "2010-10-01",
+    "runtime": 155
+  },
+  {
+    "id": 59457,
+    "title": "Womb",
+    "genres": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A woman's consuming love forces her to bear the clone of her dead beloved. From his infancy to manhood, she faces the unavoidable complexities of her controversial decision.",
+    "releaseDate": "2010-07-15",
+    "runtime": 111
+  },
+  {
+    "id": 36865,
+    "title": "The Disappearance of Haruhi Suzumiya",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "It is mid-december, and SOS Brigade chief Haruhi Suzumiya announces that the Brigade is going to hold a Christmas party in their clubroom, with Japanese hotpot for dinner. The brigade members Kyon, Yuki Nagato, Mikuru Asahina and Itsuki Koizumi start preparing everything for the party, such as costumes and decorations. But a couple of days later, Kyon arrives at school only to find that Haruhi is missing. Not only that, but Mikuru claims she has never known Kyon before, Koizumi is also missing, and Yuki has become the sole member of the literature club. The SOS Brigade seems to have never existed, nor has Haruhi Suzumiya. No one in the school has ever heard about her… except for Kyon.",
+    "releaseDate": "2010-02-05",
+    "runtime": 162
+  },
+  {
+    "id": 51999,
+    "title": "Perfect Sense",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Susan is a scientist searching for answers to important questions. So important that she has given up on other things, like love - until she meets Micheal. Susan and Michael find themselves embarking on a sensual adventure while the world around them seems to be falling apart. A life-affirming look at what it means to love and be loved in turbulent times.",
+    "releaseDate": "2011-01-24",
+    "runtime": 92
+  },
+  {
+    "id": 100656,
+    "title": "Four Sided Triangle",
+    "genres": [
+      "Fantasy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A young man, in love with a woman who can never be his, discovers a way to fulfil his dreams. In their childhood the three were the best of friends, the perfect triangle. But years later when Lena returns to her sleepy home the tone of the relationship changes and it is Robin she loves. Bill has discovered a method of duplication and decides to make an exact replica of the woman he cannot have... .with disastrous consequences for them all.",
+    "releaseDate": "1953-06-15",
+    "runtime": 81
+  },
+  {
+    "id": 84332,
+    "title": "Safety Not Guaranteed",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Three magazine employees head out on an assignment to interview a guy who placed a classified ad seeking a companion for time travel.",
+    "releaseDate": "2012-06-08",
+    "runtime": 85
+  },
+  {
+    "id": 88005,
+    "title": "Seeking a Friend for the End of the World",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "As an asteroid nears Earth, a man finds himself alone after his wife leaves in a panic. He decides to take a road trip to reunite with his high school sweetheart. Accompanying him is a neighbor who inadvertently puts a wrench in his plan.",
+    "releaseDate": "2012-06-22",
+    "runtime": 101
+  },
+  {
+    "id": 76333,
+    "title": "Extraterrestrial",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Everyone knows what to do if one morning the sky would be absolutely full of UFOs: run as fast as you can. However, what would happen if the invasion started while you are in the flat of the girl of your dreams, the one you have just met?",
+    "releaseDate": "2011-09-11",
+    "runtime": 90
+  },
+  {
+    "id": 52906,
+    "title": "Goodbye Charlie",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Shot by a jealous husband, Charley falls out a porthole and is lost at sea only to find himself returned as an attractive blond woman. His best friend is staying at his house as he puts Charlie's affairs in order and after being convinced, finds himself an unwilling helper in Charlie's new plan to marry into money",
+    "releaseDate": "1964-11-18",
+    "runtime": 116
+  },
+  {
+    "id": 105538,
+    "title": "Codependent Lesbian Space Alien Seeks Same",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "The adventures of lesbian space aliens on the planet Earth, and the story of the romance between Jane, a shy greeting card store employee, and Zoinx, the woman Jane does not realize is from outer-space. Meanwhile, two government agents, or 'Men In Black,' are closely tracking Jane and the aliens while harboring their own secrets.",
+    "releaseDate": "2012-01-06",
+    "runtime": 76
+  },
+  {
+    "id": 58244,
+    "title": "Upside Down",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Drama",
+      "Fantasy"
+    ],
+    "overview": "In an alternate universe where twinned worlds have opposite gravities, a young man battles interplanetary prejudice and the laws of physics in his quest to reunite with the long-lost girl of his dreams in this visually stunning romantic adventure that poses the question: what if love was stronger than gravity?",
+    "releaseDate": "2012-09-27",
+    "runtime": 104
+  },
+  {
+    "id": 72710,
+    "title": "The Host",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "A parasitic alien soul is injected into the body of Melanie Stryder. Instead of carrying out her race's mission of taking over the Earth, \"Wanda\" (as she comes to be called) forms a bond with her host and sets out to aid other free humans.",
+    "releaseDate": "2013-03-22",
+    "runtime": 125
+  },
+  {
+    "id": 25516,
+    "title": "Koi... Mil Gaya",
+    "genres": [
+      "Drama",
+      "Action",
+      "Science Fiction",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Ranjit Mehra and his wife Sonia live a middle-class life in rural India. Ranjit's passion is studying the heavenly bodies through various computers, telescopes, and communicators as he believes there is life beyond Earth. He continuously transmits the sound generated by the syllable \"om\" and hopes that someone somewhere will hear this and respond to it.",
+    "releaseDate": "2003-08-08",
+    "runtime": 171
+  },
+  {
+    "id": 43023,
+    "title": "Konga",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Dr.Decker comes back from Africa after a year, presumed dead. During that year, he came across a way of growing plants and animals to an enormous size. He brings back a baby chimpanzee to test out his theory. As he has many enemies at home, he decides to use his chimp, 'Konga' to 'get rid of them'. Then Konga grows to gigantic proportions and reaks havoc all over the city of London!!",
+    "releaseDate": "1961-01-01",
+    "runtime": 90
+  },
+  {
+    "id": 46729,
+    "title": "Fetching Cody",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Art, a drug-addicted dealer and hustler, arrives at his girlfriend Cody's apartment to find that she has overdosed on heroin. He tries to fix things by traveling back in time in an attempt to prevent her death.",
+    "releaseDate": "2005-10-01",
+    "runtime": 87
+  },
+  {
+    "id": 61194,
+    "title": "Beyond the Time Barrier",
+    "genres": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A pilot testing an experimental new rocket powered craft manages to fly into the future and land at the now deserted airbase he left. He ends up in a city with people who are suspicious he is a spy and who want to keep him to procreate with the rulers daughter because the majority of the inhabitants are sterile. He manages to escape and return to his own time but ages dramatically.",
+    "releaseDate": "1960-09-08",
+    "runtime": 75
+  },
+  {
+    "id": 152601,
+    "title": "Her",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "In the not so distant future, Theodore, a lonely writer purchases a newly developed operating system designed to meet the user's every needs. To Theordore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+    "releaseDate": "2013-12-18",
+    "runtime": 126
+  },
+  {
+    "id": 20493,
+    "title": "Love Story 2050",
+    "genres": [
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "No overview found.",
+    "releaseDate": "2008-07-04",
+    "runtime": 171
+  },
+  {
+    "id": 226448,
+    "title": "In Your Eyes",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Two seemingly unconnected souls from different corners of the United States make a telepathic bond that allows them to see, hear and feel the other's experiences, creating a bond that apparently can't be broken.",
+    "releaseDate": "2014-04-20",
+    "runtime": 105
+  },
+  {
+    "id": 218425,
+    "title": "Frequencies",
+    "genres": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "This science fiction love story follows the forbidden relationship between a 'low born' boy and a 'high born' girl in an alternate reality where every person's relationships and life worth are determined by their innate \"frequencies\".",
+    "releaseDate": "2013-09-27",
+    "runtime": 105
+  },
+  {
+    "id": 234284,
+    "title": "Time of Eve: The Movie",
+    "genres": [
+      "Animation",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "In the not-too-distant future, androids have come into common usage. Rikuo Sakisaka, who has taken robots for granted for his entire life, one day discovers that Sammy, his home android, has been acting independently and coming and going on her own. He finds a strange phrase recorded in her activity log, \"Are you enjoying the Time of Eve?\". He, along with his friend Masakazu Masaki, traces Sammy's movements and finds an unusual cafe, \"The Time of Eve\". Nagi, the barista, informs them that the cafe's main rule is to not discriminate between humans and androids. Within the cafe, androids do not display their status rings, and, when patrons depart, the door is automatically locked for two minutes to prevent someone from following them to discover their true nature.",
+    "releaseDate": "2010-03-05",
+    "runtime": 106
+  },
+  {
+    "id": 47553,
+    "title": "Twice-Told Tales",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "3 horror stories based on the writings of Nathaniel Hawthorne. In the 1st story titled \"Dr. Heidegger's Experiment\", Heidegger attempts to restore the youth of three elderly friends. In \"Rappaccini's Daughter\", a demented father is innoculating his daughter with poison so she may never leave her garden of poisonous plants. In the final story \"The House of the Seven Gables\", The Pyncheon family suffers from a hundred year old curse and while in the midst of arguing over inheritance, the Pyncheon brother kills his sister.",
+    "releaseDate": "1963-09-01",
+    "runtime": 120
+  },
+  {
+    "id": 15888,
+    "title": "Fishtales",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "A Greek History Professor &amp; his daughter travel to a Greek Island for one last chance to finish his thesis on ancient love spells before he loses his research grant. His daughter attempts to match her father with the local women without sucess until she meets a beautiful Mermaid with whose help the Professor might finally find true love for himself.",
+    "releaseDate": "2007-08-24",
+    "runtime": 94
+  },
+  {
+    "id": 276908,
+    "title": "Comet",
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "When a chance encounter brings together the cynical Dell and the quick-witted Kimberly, the stage is set for a tempestuous love affair that unfolds like a puzzle. As the film zigzags back and forth in time-from a meteor shower in LA, to an encounter in a Paris hotel room, to a fateful phone call-an unforgettable portrait of a relationship emerges.",
+    "releaseDate": "2014-12-05",
+    "runtime": 91
+  },
+  {
+    "id": 20693,
+    "title": "Santos",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Comedy",
+      "Science Fiction",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Salvador Santos (Javier Gutiérrez), obeso, casi calvo y con 33 años, no parece la persona adecuada para vestirse de héroe. Pero no tiene otra opción, especialmente desde que un extraño viajero interdimensional le advierte que su mejor amigo, el multimillonario y guapo Arturo Antares (Leonardo Sbaraglia), es en realidad Nova, un tirano de otra dimensión que se ha ocultado durante años en el cuerpo de Arturo. Nova podría hacer que nuestros dos universos imploten, y Salvador tendrá que detenerlo... aunque no lo quiera.Después de resistirse mucho, Salvador aceptará ser entrenado y descubrirá que años dibujando y leyendo historietas no han sido en vano. Especialmente si siendo un héroe puede rescatar a Laura Luna (Elsa Pataky), el amor de toda su vida, de las manos de Nova.",
+    "releaseDate": "2008-10-10",
+    "runtime": 100
+  },
+  {
+    "id": 48689,
+    "title": "Curtain Call",
+    "genres": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A bachelor afraid of marriage angers his long-time girlfriend by buying a splendid townhouse just for himself, only to find it haunted by the ghosts of a famous theatrical couple, who teach him about love and commitment.  The film was later re-released under the title \"It All Came True\". It was to be Peter Yates' last film made for cinema, although in most markets it went directly to TV or home entertainment.",
+    "releaseDate": "1998-12-05",
+    "runtime": 94
+  },
+  {
+    "id": 112049,
+    "title": "Mad About Men",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Flirtatious mermaid Miranda swaps places with a schoolteacher who has gone on holiday. All is well until she falls in love with a human.",
+    "releaseDate": "1954-11-16",
+    "runtime": 90
+  },
+  {
+    "id": 279828,
+    "title": "Delirium",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Set in a world where love is deemed illegal and can be eradicated with a special procedure. With 95 days to go until her scheduled treatment, Lena Holoway does the unthinkable, she falls in love.",
+    "releaseDate": "2014-06-20",
+    "runtime": 43
+  },
+  {
+    "id": 133764,
+    "title": "Vanishing Waves",
+    "genres": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Lucas is a scientist who works near the European experimental project that focus on advanced ‘human neuron research’. The project is to transfer neuron information from one human mind to another. Lukas is chosen to connect his mind with a comatose woman he named Aurora.",
+    "releaseDate": "2012-06-29",
+    "runtime": 120
+  },
+  {
+    "id": 31281,
+    "title": "Ghosts Can't Do It",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Elderly Scott kills himself after a heart attack wrecks his body, but then comes back as a ghost and convinces his loving young hot wife Kate to pick and kill a young man in order for Scott to possess his body and be with her again.",
+    "releaseDate": "1989-01-01",
+    "runtime": 90
+  },
+  {
+    "id": 241855,
+    "title": "Spring",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A young man in a personal tailspin flees the US to Italy, where he sparks up a romance with a woman harboring a dark, primordial secret.",
+    "releaseDate": "2014-03-20",
+    "runtime": 109
+  },
+  {
+    "id": 53670,
+    "title": "Say Nothing",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "Housewife Grace Needham (Nastassja Kinski) has a one-night stand with Julian Grant (William Baldwin), who then becomes obsessed with sinking her marriage to husband Matt (Hart Bochner). The twist here is that Julian is a millionaire global powerbroker, and Matt works for him! It's a titanic battle of testosterone as the guys duke it out while Grace simmers angrily.",
+    "releaseDate": "2001-08-01",
+    "runtime": 94
+  },
+  {
+    "id": 254320,
+    "title": "The Lobster",
+    "genres": [
+      "Thriller",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.",
+    "releaseDate": "2015-10-08",
+    "runtime": 118
+  },
+  {
+    "id": 44486,
+    "title": "Mars",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "",
+    "releaseDate": "2010-11-03",
+    "runtime": 90
+  },
+  {
+    "id": 283489,
+    "title": "Ascendant",
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Beatrice Prior and Tobias Eaton fight to end the Bureau of Genetic Welfare's authoritarian reign over the United States.",
+    "releaseDate": "",
+    "runtime": 0
+  },
+  {
+    "id": 335676,
+    "title": "Aurora",
+    "genres": [
+      "Thriller",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "In 2020 super-computer Kronos concludes that human beings are the biggest threat to the planet. 60 years later, Andrew finds himself lost in a world run by machines when he meets Calia, a girl on the way to a place called Aurora.",
+    "releaseDate": "2016-06-10",
+    "runtime": 107
+  },
+  {
+    "id": 42934,
+    "title": "Random Quest",
+    "genres": [
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Following a scientific experiment, a man wakes up in a parallel universe and begins living a life similar to, but different from, his own.",
+    "releaseDate": "2006-11-26",
+    "runtime": 60
+  },
+  {
+    "id": 79698,
+    "title": "The Lovers",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "The Lovers is an epic romance time travel adventure film. Helmed by Roland Joffé from a story by Ajey Jhankar, the film is a sweeping tale of an impossible love set against the backdrop of the first Anglo-Maratha war across two time periods and continents and centred around four characters — a British officer in 18th century colonial India, the Indian woman he falls deeply in love with, an American present-day marine biologist and his wife.",
+    "releaseDate": "2015-02-13",
+    "runtime": 109
+  },
+  {
+    "id": 108179,
+    "title": "The Seed of Man",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Romance",
+      "Fantasy"
+    ],
+    "overview": "During a Post-Apocalyptic period in the near future the majority of the European population has been wiped out by some sort of undefined plague. Cino and Dora, a young couple, are rounded up by what constitutes the authorities on an isolated temporary base. They are examined and given antibiotics which will protect them for six months, told to pick out a deserted house to live in the area, and use that time to conceive a child.",
+    "releaseDate": "1969-01-01",
+    "runtime": 113
+  },
+  {
+    "id": 128612,
+    "title": "Invader",
+    "genres": [
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "When the Viking space capsule suddenly returns to Earth from its long ago trip to Mars, it brings with it an intelligent visitor that is part \"Alien\" and part \"ET\". Encased in armor, it extends a human like form from its shell to examine its surroundings and shows an interest in humans including a soft caress of a female scientist prior to the Army killing it. This only enrages its sibling.",
+    "releaseDate": "1997-06-02",
+    "runtime": 90
+  },
+  {
+    "id": 324578,
+    "title": "Butterfly",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "A butterfly, a creature symbolising rebirth and a new beginning, epitomises Romina’s and Germán’s world, a world that consists of two parallel realities. In one of them they grow up as siblings who desire each other and try to give shape to their love without sexual fulfilment; in the other they are a young man and woman who form an awkward friendship instead of succumbing to their feelings for each other. Germán finds himself in a discordant relationship with Mariela. Mariela’s brother is interested in Bruno. Bruno is with Romina, but wants to be with Germán. Playfully alternating between these two realities, the lovers find themselves drawn into ever new couplings in order to explore their intuitive feelings – cautiously, but at the same time prepared to lose everything.",
+    "releaseDate": "2015-02-07",
+    "runtime": 103
+  },
+  {
+    "id": 81760,
+    "title": "Ditto",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "In this endearing supernatural love story spanning two decades, a university student finds himself communicating with a female classmate from the same school through an antique ham radio...",
+    "releaseDate": "2000-05-27",
+    "runtime": 112
+  },
+  {
+    "id": 39915,
+    "title": "Green Snake",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Foreign",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A mischievous snake who assumes human form interferes with the romance between her reptilian sister and a hapless man.",
+    "releaseDate": "1993-04-10",
+    "runtime": 99
+  },
+  {
+    "id": 301875,
+    "title": "Equals",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A futuristic love story set in a world where emotions have been eradicated.",
+    "releaseDate": "2015-07-15",
+    "runtime": 101
+  },
+  {
+    "id": 339077,
+    "title": "Lovemilla",
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "Aimo and Milla are living together at Milla's alcoholics-turned-zombies parents' place. They save money to move out of the house. Due to his lack of self confidence, Aimo wastes their savings to turbo-boost his muscles. As conventional body building is not quite satisfactory, Aimo tunes himself up into a robot. Milla doesn't like the new Aimo-Robot and leaves him. Aimo´s heartache leads him to extreme measures as he also changes his heart into a metal one, one that doesn't hurt. Milla decides to steal Aimo heart: after all, a woman needs to have a man´s heart. Lovemilla is an anarchistic comedy trip, a comedy about love, a story about love, robots and bodybuilding.",
+    "releaseDate": "2015-02-06",
+    "runtime": 97
+  },
+  {
+    "id": 65592,
+    "title": "Princes and Princesses",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Drama",
+      "Science Fiction",
+      "Romance",
+      "Foreign",
+      "Family",
+      "Comedy"
+    ],
+    "overview": "This is a very fantastic and different world about love.",
+    "releaseDate": "2000-01-26",
+    "runtime": 70
+  },
+  {
+    "id": 238307,
+    "title": "The Isle of Lost Ships",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Music",
+      "Adventure",
+      "Romance"
+    ],
+    "overview": "A musical partially based on a sci-fi novel \"The Isle of Lost Ships\" by Aleksandr Belyaev.",
+    "releaseDate": "1987-04-19",
+    "runtime": 138
+  },
+  {
+    "id": 184440,
+    "title": "Awaken",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Alex's dreary life is reignited when he meets Rachel, the woman of his dreams. The only thing that stands in the way of their perfect, serendipitous relationship is that Rachel has recently passed away.",
+    "releaseDate": "2013-04-09",
+    "runtime": 95
+  },
+  {
+    "id": 55138,
+    "title": "Barking at the Stars",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "Comedy about teachers and students at a high school in a small provincial town. Mihailo tries to win the heart of a girl his brother is also chasing.",
+    "releaseDate": "1998-06-01",
+    "runtime": 95
+  },
+  {
+    "id": 3025,
+    "title": "The Two Faces of Dr. Jekyll",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "After a series of scientific experiments directed towards freeing the inner man and controlling human personalities, the kindly, generous Dr Henry Jekyll succeeds in freeing his own alter ego, Edward Hyde, a sadistic, evil creature whose pleasure is murder.",
+    "releaseDate": "1960-10-24",
+    "runtime": 88
+  },
+  {
+    "id": 361183,
+    "title": "Sum of Histories",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "What would you do if you could change the past?",
+    "releaseDate": "2015-09-30",
+    "runtime": 86
+  },
+  {
+    "id": 49496,
+    "title": "Aashiq Banaya Aapne",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller",
+      "Science Fiction",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Karan (Sonu Sood) loves Sneha (Tanushree Dutta), but is too much of an introvert to ever express his feelings to her. Although Karan's feelings are evident to many, he is content in just seeing Sneha smile, and never gathers the courage to tell her how he feels. Vicky (Emraan Hashmi) tries to talk him out of his relationship with Sneha, but Vicky assures him that this time, he is really in love with Sneha. Karan's childhood friend. Very different from Karan, Vicky is an extrovert and a notorious flirt. All three lives change when Vicky joins Karan and Sneha in college, and Sneha begins feeling drawn towards Vicky. Karan feels he has lost the only woman he has ever loved but knows he cannot do anything about it. However, life goes on, and the three of them share a special bond of friendship. The closeness between Vicky and Sneha cross all boundaries, and just as everything seems set between the two, one eventful night shatters their bond.",
+    "releaseDate": "2005-09-02",
+    "runtime": 0
+  },
+  {
+    "id": 103953,
+    "title": "Barren Illusion",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "In a near future where allergies have become an epidemic, music producer Haru half-heartedly dates post office clerk and mail thief Michi. He searches for violent ways to reactivate his life, she dreams of escaping abroad; both volunteer to test a new drug which may provide a cure.",
+    "releaseDate": "1999-12-11",
+    "runtime": 95
+  },
+  {
+    "id": 226092,
+    "title": "Jaane Hoga Kya",
+    "genres": [
+      "Action",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "A doctor obsessed with new technology and science, decides to clone himself when he comes in contact with a sponsor.",
+    "releaseDate": "2006-08-31",
+    "runtime": 0
+  },
+  {
+    "id": 148265,
+    "title": "Eega",
+    "genres": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Sudeep is a high profile industrialist who gets whatever he wants and he has a special eye for beautiful women. To get them, he will not hesitate to do anything. That desire gets triggered when Sudeep sees Bindu, a micro artist who runs a non-profit organization. However, Bindu is loved by Nani who keeps following her everywhere. Though Bindu loves him, she doesn't express it to him and enjoys the attention. The story takes a turn when Sudeep discovers the feelings of Bindu for Nani and is unable to digest his defeat. He kills Nani. But Nani is born again as 'Eega'(fly) and he wants to take vengeance on Sudeep.",
+    "releaseDate": "2012-06-06",
+    "runtime": 145
+  },
+  {
+    "id": 381890,
+    "title": "The Mermaid",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "A playboy business tycoon, Liu Xuan, purchases the Green Gulf, a wildlife reserve, for a sea reclamation project, and uses sonar technology to get rid of the sea life in the area. Unknown to him, the Green Gulf is the home of merpeople, and the sonar has caused many of them to succumb to illness or die. Xuan's business ventures in the area are threatened when he crosses paths with the mermaid, Shan, who is sent to avenge her people.",
+    "releaseDate": "2016-02-08",
+    "runtime": 93
+  },
+  {
+    "id": 302036,
+    "title": "Beyond",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "A suspenseful sci-fi journey tracking the turbulent relationship of Cole and Maya as they struggle to survive in a world where the human population has been left decimated after an extra-terrestrial attack.",
+    "releaseDate": "2014-04-25",
+    "runtime": 89
+  },
+  {
+    "id": 131433,
+    "title": "Freedom",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "In the year 2041, mankind created their first space colony on the moon. But after a freak cataclysm devastated human civilisation on Earth, the republic of the moon built a domed megalopolis known as Eden. Now in the year 2267, a boy called Takeru spends his time engaging in hover-craft races against rival street gangs, unaware that he is about to embark in the journey of unearthing Eden's origin.",
+    "releaseDate": "2006-11-24",
+    "runtime": 189
+  },
+  {
+    "id": 61689,
+    "title": "Thirst",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "The descendant of Elizabeth Bathory is abducted by a cult of self-proclaimed supermen who achieve this state of superiority by drinking from the \"blood cows\" (read: people) kept at the \"dairy farm\", and they try to get her to join them.",
+    "releaseDate": "1979-09-28",
+    "runtime": 95
+  },
+  {
+    "id": 47234,
+    "title": "No Budget Story",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "In order to secure money for the production of his first film, a young man asks help from a film producer. The producer, however, was involved with pornographic films, and now his main business is drug dealing. The young director will have to become a drug runner in order to get the money he needs for his film",
+    "releaseDate": "1997-01-01",
+    "runtime": 87
+  },
+  {
+    "id": 388256,
+    "title": "Mamaboy",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A high school student must hide the fact that he has become pregnant from his family, friends and the school faculty!",
+    "releaseDate": "2017-05-23",
+    "runtime": 124
+  },
+  {
+    "id": 365942,
+    "title": "The Space Between Us",
+    "genres": [
+      "Romance",
+      "Adventure",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "A young man raised by scientists on Mars returns to Earth to find his father.",
+    "releaseDate": "2017-01-26",
+    "runtime": 121
+  },
+  {
+    "id": 274870,
+    "title": "Passengers",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+    "releaseDate": "2016-12-21",
+    "runtime": 116
+  },
+  {
+    "id": 86556,
+    "title": "11 Minutes Ago",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Traveling in 11-minute increments, a time-tumbler from 48-years in the future spends two years of his life weaving through a two-hour wedding reception.",
+    "releaseDate": "2007-04-26",
+    "runtime": 83
+  },
+  {
+    "id": 401513,
+    "title": "Attraction",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "After an alien ship crash lands onto a Russian city, many who see the inside and the occupants start to question their own existence while there are those who demand the aliens to leave Earth",
+    "releaseDate": "2017-01-26",
+    "runtime": 130
+  },
+  {
+    "id": 41400,
+    "title": "Tiramisu",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Foreign",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Is the story of a man, Fung, in his early twenties living his life as a mail-man during the day and a janitor at night. One day, through fate and destiny, he manages to meet a beautiful girl, Jane, on a subway train while delivering a package. From this moment on his life will change forever.",
+    "releaseDate": "2002-03-28",
+    "runtime": 111
+  },
+  {
+    "id": 32148,
+    "title": "Space Mutiny",
+    "genres": [
+      "Romance",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "overview": "A pilot is the only hope to stop the mutiny of a spacecraft by its security crew, who plot to sell the crew of the ship into slavery.",
+    "releaseDate": "1988-01-01",
+    "runtime": 93
+  },
+  {
+    "id": 43685,
+    "title": "Amphibian Man",
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "People living at the seashore town are frightened by reports about the unknown creature called \"the sea devil.\" Nobody knows what it is, but it's really a son of a doctor Salvator. The doctor performed a surgery on his son and now young Ihtiandre can live under water. This gives him certain advantages, but creates a lot of problems.",
+    "releaseDate": "1962-01-03",
+    "runtime": 82
+  },
+  {
+    "id": 376134,
+    "title": "The Discovery",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "In the near future, due to a breakthrough scientific discovery by Dr. Thomas Harbor, there is now definitive proof of an afterlife. While countless people have chosen suicide to reset their existence, others try to decide what it all means. Among them is Dr. Harbor's son Will, who has arrived at his father's isolated compound with a mysterious young woman named Isla. There, they discover the strange acolytes who help Dr. Harbor with his experiments.",
+    "releaseDate": "2017-03-31",
+    "runtime": 102
+  },
+  {
+    "id": 310814,
+    "title": "Julie & Jack",
+    "genres": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "In this love story with Hitchcockian overtones, a computer chip salesman meets the perfect girl (a brilliant software developer) -- and then she disappears. After Jack Livingstone (Justin Kunkle) finds Julie Romanov (Jenn Gotzon) through an Internet dating service, he's convinced life is perfect. But when she vanishes, he's left distraught and confused. Turning to Julie's mother (Hitchcock vet Tippi Hedren), he learns a startling revelation.",
+    "releaseDate": "2003-01-01",
+    "runtime": 91
+  },
+  {
+    "id": 434510,
+    "title": "Replica",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "Suffering from kidney failure, Joe, a computer chip salesman goes through an organ transplant administered by Dr. Evelyn Tyler who is a biogeneticist for Therapeutic Technology located at 1 DNA Drive. Joe is not only grateful for his new kidney, but he becomes interested and obsessed in Dr. Tyler who shows him the world of miraculous, amazing and wonderful biotechnology. But this seemingly technological panacea is also filled with uncertainty, danger and dilemma that changes their lives forever.",
+    "releaseDate": "2005-04-01",
+    "runtime": 66
+  },
+  {
+    "id": 77235,
+    "title": "You're So Cupid",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Science Fiction",
+      "Romance",
+      "Family"
+    ],
+    "overview": "Fraternal twin sisters Emma and Lilly are as different as night and day. Emma, the beautiful blonde tomboy, would rather be riding a horse than anything else in the world. While Lilly, her shy redheaded twin, loves to be left alone to curl up with a good book.",
+    "releaseDate": "2010-11-06",
+    "runtime": 93
+  },
+  {
+    "id": 71520,
+    "title": "Last Woman on Earth",
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "Harold Gern, a successful businessman from New York who is constantly in legal trouble, is spending a holiday in Puerto Rico with his attractive wife Evelyn, whom he married “between trials”. They are joined by Martin Joyce, Harold's lawyer, who has come to discuss the latest indictment. Harold invites him along on a boat trip during which all three try out some newly bought scuba diving equipment. When they resurface, they are unable to breathe without using their scuba tanks. They climb back into their boat and find Manuel, the crewman, dead, apparently of asphyxiation. Upon rowing ashore, they enter the jungle. (from Wikipedia)",
+    "releaseDate": "1960-08-05",
+    "runtime": 71
+  },
+  {
+    "id": 33045,
+    "title": "Parasite Eve",
+    "genres": [
+      "Romance",
+      "Horror",
+      "Science Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "overview": "Toshiaki Nagashima is a biologist who is doing major research on mitochondria. When his beautiful young wife is tragically involved in a car accident which leaves her brain dead, in desperation he steals her liver from her body in order to recieve the mitochondria from it to resurrect his wife from the dead. The killer mitochondria takes the form of his assistant.",
+    "releaseDate": "1997-01-01",
+    "runtime": 120
+  },
+  {
+    "id": 31380,
+    "title": "Time Chasers",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "An inventor comes up with a time machine, but must prevent its abuse at the hands of an evil C.E.O.",
+    "releaseDate": "1994-03-17",
+    "runtime": 89
+  },
+  {
+    "id": 55694,
+    "title": "Miracle Beach",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A romantic comedy set in the Southern California beach scene. Down on his luck, Scotty McKay becomes the master of a very lonely genie, who brings him wealth, power and true love. Miracles can happen!",
+    "releaseDate": "1992-09-15",
+    "runtime": 88
+  },
+  {
+    "id": 328212,
+    "title": "The Last Man on Earth",
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "The Last Man On Earth is about two teenagers exploring the nature and rejection of first love, when a cataclysmic event leaves them inexplicably stranded and alone. If they can each find a way to understand one another, then they might just have a chance at survival.",
+    "releaseDate": "2014-03-07",
+    "runtime": 90
+  },
+  {
+    "id": 55710,
+    "title": "Deal of a Lifetime",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Science Fiction",
+      "Romance",
+      "Family"
+    ],
+    "overview": "The agent for the Devil takes the soul of a high school sophomore in exchange for a date with the most popular girl on campus.",
+    "releaseDate": "1999-01-01",
+    "runtime": 94
+  },
+  {
+    "id": 63838,
+    "title": "Mechenosets",
+    "genres": [
+      "Action",
+      "Romance",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "overview": "",
+    "releaseDate": "2006-10-12",
+    "runtime": 0
+  },
+  {
+    "id": 79833,
+    "title": "The Infinite Worlds of H.G. Wells",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "H.G. Wells foresaw the future in such visionary novels as The Time Machine and The War of the Worlds. On a night in London in 1946, newspaper reporter Ellen McGillivray arrives at the home of legendary literary figure, Herbert George Wells. Expecting to hear of the events and people who formed his prophetic imagination, she is informed of a world in which known scientific boundaries no longer exist. It begins a half-century earlier at London's Imperial College of Science where Wells meets Jane Robbins, a scientist equally fascinated by unnatural phenomenon, and a woman who immediately captures Wells' heart. To Wells' surprise, Ellen accepts his outlandish tales of traveling through time. What Ellen is about to discover is that at the heart of the mysterious orb is buried the equally mysterious heart of Jane Robbins, the one who inspired H.G. Wells to tell the amazing truth in the form of science \"fiction.\"",
+    "releaseDate": "2001-08-05",
+    "runtime": 88
+  },
+  {
+    "id": 84643,
+    "title": "Danger!! Death Ray",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Danger Death Ray, the funniest of the cheesy spy films that MST had fun with. Former Tarzan Gordon Scott sucks in his gut for this one. Professor Carmichael has developed a death ray \"for peaceful purposes only\" but a vague group of bad guys want it instead, so he's kidnapped by doughy guys and taken to their toy sub (via a toy helicopter)Bart Fargo must rescue him cause he's the only American spy who looks good in womanly sunglasses. Cool music accompanies him as he searches for Carmichael while he must deal with evil Abe Lincolns, a fey bad guy tuned friend of Fargo's and a couple of women who he must sleep with. In the end the ineffective bad guy gets killed, the professor and the death ray get rescued and Bart gets the woman. There's also a complex scene with a watch thrown in a pool which symbolizes the amount of time that was wasted on smart screen writing for the movie.",
+    "releaseDate": "1967-01-28",
+    "runtime": 93
+  },
+  {
+    "id": 316154,
+    "title": "The Bad Batch",
+    "genres": [
+      "Thriller",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "In a desert wasteland in Texas, a muscled cannibal breaks one important rule: don’t play with your food.",
+    "releaseDate": "2017-06-23",
+    "runtime": 119
+  },
+  {
+    "id": 341689,
+    "title": "How to Talk to Girls at Parties",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A couple of British 1970s teen-aged boys, Enn and Vic, go to a party to meet girls, only to find that the girls are very different from the boys' expectations.",
+    "releaseDate": "2017-12-27",
+    "runtime": 102
+  },
+  {
+    "id": 437311,
+    "title": "Orbiter 9",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A girl discovers that the reality of her life isn't as she believes.",
+    "releaseDate": "2017-04-07",
+    "runtime": 95
+  }
+]

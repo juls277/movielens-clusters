@@ -1,0 +1,4305 @@
+[
+  {
+    "id": 197,
+    "title": "Braveheart",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+    "releaseDate": "1995-05-24",
+    "runtime": 177
+  },
+  {
+    "id": 31642,
+    "title": "Heaven & Earth",
+    "genres": [
+      "History",
+      "War",
+      "Action",
+      "Drama"
+    ],
+    "overview": "Le Ly lives in a small Vietnamese village whose serenity is shattered when war breaks out. Caught between the Viet Cong and the South Vietnamese army, the village is all but destroyed. After being both brutalized and raped, Le Ly resolves to flee. She leaves for the city, surviving desperate situations, but surviving nonetheless. Eventually she meets a U.S. Marine named Steve Butler who treats her kindly and tells her he would like to be married -- maybe to her.",
+    "releaseDate": "1993-12-24",
+    "runtime": 140
+  },
+  {
+    "id": 424,
+    "title": "Schindler's List",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "releaseDate": "1993-11-29",
+    "runtime": 195
+  },
+  {
+    "id": 38884,
+    "title": "Land and Freedom",
+    "genres": [
+      "Drama",
+      "History",
+      "War",
+      "Romance"
+    ],
+    "overview": "The movie narrates the story of David Carr, an unemployed worker and member of the Communist Party of Great Britain. In 1936 he decides to fight for the Republican side in the Spanish Civil War, an anti-fascist coalition of liberals, communists and anarchists. Similar to George Orwell's experiences documented in Homage to Catalonia, he joins the POUM worker militia and witnesses first hand the betrayal of the Spanish revolution by the Stalinists, loyal only to the dictat of Moscow.",
+    "releaseDate": "1995-01-01",
+    "runtime": 109
+  },
+  {
+    "id": 11101,
+    "title": "Stalingrad",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "\"Stalingrad\" follows the progress of a German Platoon through the brutal fighting of the Battle of Stalingrad. After having half their number wiped out and after being placed under the command of a sadistic Captain, the Lieutenant of the platoon leads his men to desert. The men of the platoon attempt to escape from the city which is now surrounded by the Soviet Army.",
+    "releaseDate": "1993-01-21",
+    "runtime": 134
+  },
+  {
+    "id": 659,
+    "title": "The Tin Drum",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Oskar Matzerath, son of a local dealer, is a most unusual boy. Equipped with full intellect right from his birth he decides at his third birthday not to grow up as he sees the crazy world around him at the eve of World War II. So he refuses the society and his tin drum symbolizes his protest against the middle-class mentality of his family and neighborhood, which stand for all passive people in Nazi Germany at that time. However, (almost) nobody listens to him, so the catastrophe goes on...",
+    "releaseDate": "1979-05-02",
+    "runtime": 142
+  },
+  {
+    "id": 947,
+    "title": "Lawrence of Arabia",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "An epic about British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+    "releaseDate": "1962-12-10",
+    "runtime": 216
+  },
+  {
+    "id": 10705,
+    "title": "Henry V",
+    "genres": [
+      "War",
+      "Drama",
+      "History",
+      "Action",
+      "Romance"
+    ],
+    "overview": "Gritty adaption of William Shakespeare's play about the English King's bloody conquest of France.",
+    "releaseDate": "1989-10-05",
+    "runtime": 137
+  },
+  {
+    "id": 387,
+    "title": "Das Boot",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War",
+      "Adventure"
+    ],
+    "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+    "releaseDate": "1981-09-16",
+    "runtime": 149
+  },
+  {
+    "id": 826,
+    "title": "The Bridge on the River Kwai",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson , the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+    "releaseDate": "1957-10-02",
+    "runtime": 161
+  },
+  {
+    "id": 5925,
+    "title": "The Great Escape",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocates them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+    "releaseDate": "1963-06-20",
+    "runtime": 172
+  },
+  {
+    "id": 11202,
+    "title": "Patton",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+    "releaseDate": "1970-01-25",
+    "runtime": 172
+  },
+  {
+    "id": 625,
+    "title": "The Killing Fields",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The Killing Fields tells the real life story of a friendship between two journalists, an American and a Cambodian, during the bloody Khmer Rouge takeover of Cambodia in 1975, which lead to the death of 2-3 million Cambodians during the next four years, until Pol Pot's regime was toppled by the intervening Vietnamese in 1979.",
+    "releaseDate": "1984-11-02",
+    "runtime": 141
+  },
+  {
+    "id": 9361,
+    "title": "The Last of the Mohicans",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "As the English and French soldiers battle for control of the American colonies in the 18th century, the settlers and native Americans are forced to take sides. Cora and her sister Alice unwittingly walk into trouble but are reluctantly saved by Hawkeye, an orphaned settler adopted by the last of the Mohicans.",
+    "releaseDate": "1992-09-25",
+    "runtime": 112
+  },
+  {
+    "id": 77223,
+    "title": "Paradise Road",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Paradise Road is a 1997 film which tells the story of a group of English, American, Dutch and Australian women who are imprisoned in Sumatra during World War II. It was directed by Bruce Beresford and stars Glenn Close as beatific Adrienne Pargiter, Frances McDormand as the brash Dr. Verstak, Pauline Collins as missionary Margaret Drummond (based on missionary Margaret Dryburgh), Julianna Margulies as American socialite Topsy Merritt, Jennifer Ehle as British doyenne and model Rosemary Leighton Jones, Cate Blanchett as Australian nurse Susan McCarthy and Elizabeth Spriggs as dowager Imogene Roberts. Basing his picture on real events, Bruce Beresford tells the story of a vocal orchestra created by the women in a Japanese P.O.W. camp, a classic survivors' tale extolling women's ability to survive hardship and atrocity through perseverance, solidarity and creativity.",
+    "releaseDate": "1997-04-11",
+    "runtime": 122
+  },
+  {
+    "id": 14905,
+    "title": "Welcome to Sarajevo",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Follow a group of international journalists into the heart of the once cosmopolitan city of Sarajevo—now a danger zone of sniper and mortar attacks where residents still live. While reporting on an American aid worker who’s trying to get children out of the country, a British correspondent decides to take an orphaned girl home to London.",
+    "releaseDate": "1997-05-09",
+    "runtime": 103
+  },
+  {
+    "id": 857,
+    "title": "Saving Private Ryan",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+    "releaseDate": "1998-07-24",
+    "runtime": 169
+  },
+  {
+    "id": 2042,
+    "title": "Savior",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "overview": "A hardened mercenary in the Foreign Legion begins to find his own humanity when confronted with atrocities during the fighting in Bosnia",
+    "releaseDate": "1998-11-20",
+    "runtime": 99
+  },
+  {
+    "id": 8741,
+    "title": "The Thin Red Line",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Based on the graphic novel by James Jones, The Thin Red Line tells the story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived. A powerful frontline cast - including Sean Penn, Nick Nolte, Woody Harrelson and George Clooney - explodes into action in this hauntingly realistic view of military and moral chaos in the Pacific during World War II.",
+    "releaseDate": "1998-12-25",
+    "runtime": 170
+  },
+  {
+    "id": 20595,
+    "title": "The Last Days",
+    "genres": [
+      "Documentary",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Five Jewish Hungarians, now U.S. citizens, tell their stories: before March, 1944, when Nazis began to exterminate Hungarian Jews, months in concentration camps, and visiting childhood homes more than 50 years later. An historian, a Sonderkommando, a doctor who experimented on Auschwitz prisoners, and US soldiers who were part of the liberation in April, 1945.",
+    "releaseDate": "1998-10-23",
+    "runtime": 87
+  },
+  {
+    "id": 445590,
+    "title": "Photographer",
+    "genres": [
+      "TV Movie",
+      "History",
+      "Documentary",
+      "War"
+    ],
+    "overview": "In 1987, colour slides were found in a second hand book store in Vienna which turned out to be a collections of photographs taken in the Lodz ghetto by the Nazis' chief accountant. Walter Genewein boosted productivity in the ghetto while keeping costs down, a policy which led to the Lodz ghetto surviving much longer than any other in Poland. He recorded what he considered to be the subhuman aspect of the Jewish workers and he was concerned only with the technical quality of his photos.  Director Dariusz Jabłoński's prize-winning film uses the photographs in a different way. He recreates for us the suffering of inmates, giving a compassionate picture of that it was like to be trapped in the ghetto. (Storyville)",
+    "releaseDate": "1998-05-01",
+    "runtime": 52
+  },
+  {
+    "id": 10047,
+    "title": "The Messenger: The Story of Joan of Arc",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "In 1429 a teenage girl from a remote French village stood before her King with a message she claimed came from God; that she would defeat the world's greatest army and liberate her country from its political and religious turmoil. Following her mission to reclaim god's dimished kingdom - through her amazing victories until her violent and untimely death.",
+    "releaseDate": "1999-10-18",
+    "runtime": 148
+  },
+  {
+    "id": 9289,
+    "title": "The Longest Day",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The retelling of June 6, 1944, from the perspectives of the Germans, US, British, Canadians, and the Free French. Marshall Erwin Rommel, touring the defenses being established as part of the Reich's Atlantic Wall, notes to his officers that when the Allied invasion comes they must be stopped on the beach. \"For the Allies as well as the Germans, it will be the longest day\"",
+    "releaseDate": "1962-09-25",
+    "runtime": 178
+  },
+  {
+    "id": 11165,
+    "title": "Tora! Tora! Tora!",
+    "genres": [
+      "History",
+      "Action",
+      "Drama",
+      "Adventure",
+      "War"
+    ],
+    "overview": "In the summer of 1941, the United States and Japan seem on the brink of war after constant embargos and failed diplomacy come to no end. \"Tora! Tora! Tora!\", named after the code words use by the lead Japanese pilot to indicate they had surprised the Americans, covers the days leading up to the attack on Pearl Harbor, which plunged America into the Second World War.",
+    "releaseDate": "1970-01-26",
+    "runtime": 144
+  },
+  {
+    "id": 11953,
+    "title": "Kagemusha",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "When a warlord dies, a peasant thief is called upon to impersonate him, in order to protect his clan from appearing weak and vulnerable. But he finds himself haunted by the warlord’s spirit as well as his own ambitions.",
+    "releaseDate": "1980-04-26",
+    "runtime": 180
+  },
+  {
+    "id": 777,
+    "title": "Grand Illusion",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A group of French soldiers, including the patrician Captain de Boeldieu and the working-class Lieutenant Maréchal, grapple with their own class differences after being captured and held in a World War I German prison camp. When the men are transferred to a high-security fortress, they must concoct a plan to escape beneath the watchful eye of aristocratic German officer von Rauffenstein, who has formed an unexpected bond with de Boeldieu.",
+    "releaseDate": "1937-06-04",
+    "runtime": 114
+  },
+  {
+    "id": 10839,
+    "title": "Cross of Iron",
+    "genres": [
+      "Drama",
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "It is 1943, and the German army, ravaged and demoralised, are hastily retreating from the Russian front. In the midst of all this madness, conflict brews between the aristocratic yet ultimately pusillanimous Captain Stransky and the courageous Corporal Steiner. Stransky is the only man who believes that the Third Reich are still vastly superior to the Russian army; however within his pompous persona lies a quivering coward who longs for the Iron Cross so that he can return to Berlin a hero. Steiner, on the other hand is cynical, defiantly non-conformist and more concerned with the safety of his own men rather than the horde of military decorations offered to him by his superiors. Steiner's lack of respect results in a growing animosity between the two...",
+    "releaseDate": "1977-01-29",
+    "runtime": 132
+  },
+  {
+    "id": 15873,
+    "title": "The Bridge at Remagen",
+    "genres": [
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "In March of 1945, as the War in Europe is coming to a close, fighting erupts between German and American troops at the last remaining bridgehead across the Rhine.",
+    "releaseDate": "1969-06-25",
+    "runtime": 117
+  },
+  {
+    "id": 22178,
+    "title": "Hangmen Also Die!",
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "During the Nazi occupation of Czechoslovakia, surgeon Dr. Franticek Svoboda, a Czech patriot, assassinates the brutal \"Hangman of Europe\", Reichsprotektor Reinhard Heydrich, and is wounded in the process. In his attempt to escape, he is helped by history professor Stephen Novotny and his daughter Mascha.",
+    "releaseDate": "1943-04-15",
+    "runtime": 134
+  },
+  {
+    "id": 10479,
+    "title": "Rules of Engagement",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Part war movie, part courtroom thriller, this gripping drama finds a war hero put on trial for a rescue mission gone terribly wrong with only his doubtful friend and fellow marine to represent him.",
+    "releaseDate": "2000-04-07",
+    "runtime": 128
+  },
+  {
+    "id": 2024,
+    "title": "The Patriot",
+    "genres": [
+      "Drama",
+      "History",
+      "War",
+      "Action"
+    ],
+    "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+    "releaseDate": "2000-06-28",
+    "runtime": 165
+  },
+  {
+    "id": 13783,
+    "title": "Breaker Morant",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "During the Boer War, three Australian lieutenants are on trial for shooting Boer prisoners. Though they acted under orders, they are being used as scapegoats by the General Staff, who hopes to distance themselves from the irregular practices of the war. The trial does not progress as smoothly as expected by the General Staff, as the defence puts up a strong fight in the courtroom.",
+    "releaseDate": "1980-05-15",
+    "runtime": 107
+  },
+  {
+    "id": 10655,
+    "title": "Gettysburg",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Summer 1863. The Confederacy pushes north into Pennsylvania. Union divisions converge to face them. The two great armies clash at Gettysburg, site of a theology school. For three days, through such legendary actions as Little Round Top and Pickett's Charge, the fate of \"one nation, indivisible\" hangs in the balance.",
+    "releaseDate": "1993-10-08",
+    "runtime": 254
+  },
+  {
+    "id": 10110,
+    "title": "Empire of the Sun",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor named Basie, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirits, providing a beacon of hope for the others held captive with him.",
+    "releaseDate": "1987-12-09",
+    "runtime": 153
+  },
+  {
+    "id": 676,
+    "title": "Pearl Harbor",
+    "genres": [
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+    "releaseDate": "2001-05-21",
+    "runtime": 183
+  },
+  {
+    "id": 21876,
+    "title": "Von Ryan's Express",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "Von Ryan's Express stars Frank Sinatra as a POW colonel who leads a daring escape from Nazi Germany by taking over a freight train, but he has to win over the British soldiers he finds himself commanding.",
+    "releaseDate": "1965-06-23",
+    "runtime": 117
+  },
+  {
+    "id": 10142,
+    "title": "Casualties of War",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they unnecessarily kidnap a female villager. Based on the actual events of an incident on Hill 192 in November, 1966.",
+    "releaseDate": "1989-08-18",
+    "runtime": 113
+  },
+  {
+    "id": 27461,
+    "title": "Fat Man and Little Boy",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "This film reenacts the Manhattan Project, the secret wartime project in New Mexico where the first atomic bombs were designed and built.",
+    "releaseDate": "1989-10-20",
+    "runtime": 127
+  },
+  {
+    "id": 12663,
+    "title": "Red Scorpion",
+    "genres": [
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "A Russian KGB agent is sent to Africa to kill an anti-Communist black revolutionary. However, he has a change of heart when he sees how the Russians and their Cuban allies are killing and repressing the locals, so he switches sides and helps the rebels.",
+    "releaseDate": "1988-12-24",
+    "runtime": 105
+  },
+  {
+    "id": 11422,
+    "title": "Midway",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "This war drama depicts the U.S. and Japanese forces in the naval Battle of Midway, which became a turning point for Americans during World War II.",
+    "releaseDate": "1976-06-18",
+    "runtime": 132
+  },
+  {
+    "id": 855,
+    "title": "Black Hawk Down",
+    "genres": [
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+    "releaseDate": "2001-12-28",
+    "runtime": 144
+  },
+  {
+    "id": 12660,
+    "title": "Charlotte Gray",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "This is a drama set in Nazi-occupied France at the height of World War II. Charlotte Gray tells the compelling story of a young Scottish woman working with the French Resistance in the hope of rescuing her lover, a missing RAF pilot. Based on the best-selling novel by Sebastian Faulks.",
+    "releaseDate": "2001-12-17",
+    "runtime": 121
+  },
+  {
+    "id": 8737,
+    "title": "Cast a Giant Shadow",
+    "genres": [
+      "War",
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "overview": "An American Army officer is recruited by the yet to exist Israel to help them form an army. He is disturbed by this sudden appeal to his jewish roots. Each of Israel's Arab neighbors has vowed to invade the poorly prepared country as soon as partition is granted. He is made commander of the Israeli forces just before the war begins.",
+    "releaseDate": "1966-03-30",
+    "runtime": 146
+  },
+  {
+    "id": 10590,
+    "title": "We Were Soldiers",
+    "genres": [
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.",
+    "releaseDate": "2002-03-01",
+    "runtime": 138
+  },
+  {
+    "id": 26843,
+    "title": "Lion of the Desert",
+    "genres": [
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "This movie tells the story of Omar Mukhtar, an Arab Muslim rebel who fought against the Italian conquest of Libya in WWII. It gives western viewers a glimpse into this little-known region and chapter of history, and exposes the savage means by which the conquering army attempted to subdue the natives.",
+    "releaseDate": "1981-04-17",
+    "runtime": 173
+  },
+  {
+    "id": 2894,
+    "title": "The Lady and the Duke",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "This breathtaking, visually experimental film from New Wave director Eric Rohmer tells the true story of Grace Dalrymple Elliot (Lucy Russell), a British aristocrat trapped in Paris during the French Revolution. Determined to maintain her stiff upper lip and pampered life despite the upheaval, Grace continues her friendship with the Duke of Orléans (Jean-Claude Dreyfus) while risking her life and liberty to protect a fugitive.",
+    "releaseDate": "2001-09-07",
+    "runtime": 129
+  },
+  {
+    "id": 42193,
+    "title": "The Charge of the Light Brigade",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A chronicle of events that led to the British involvement in the Crimean War against Russia and which led to the siege of Sevastopol and the fierce Battle of Balaclava on October 25, 1854 which climaxed with the heroic, but near-disastrous calvary charge made by the British Light Brigade against a Russian artillery battery in a small valley which resulted in the near-destruction of the brigade due to error of judgement and rash planning on part by the inept British commanders.",
+    "releaseDate": "1968-04-10",
+    "runtime": 139
+  },
+  {
+    "id": 12100,
+    "title": "Windtalkers",
+    "genres": [
+      "Drama",
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "Joe Enders is a gung-ho Marine assigned to protect a \"windtalker\" - one of several Navajo Indians who were used to relay messages during World War II because their spoken language was indecipherable to Japanese code breakers.",
+    "releaseDate": "2002-06-14",
+    "runtime": 134
+  },
+  {
+    "id": 70443,
+    "title": "Safe Conduct",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The film is about the French film industry from 1942 to 1944 during the Nazi occupation. The film focuses on assistant director and resistance fighter Jean Devaivre and screenwriter Jean Aurenche. Aurenche is on the move so that he doesn't have to write anything collaborationist. Devaivre is in dangerous political activity. Devaivre also works for the German production company Continental where he is respected. On the other hand, Aurenche's scriptwriting doesn't help how he lives and he is a womanizer which causes him to procrastinate.",
+    "releaseDate": "2002-01-09",
+    "runtime": 170
+  },
+  {
+    "id": 11646,
+    "title": "Gallipoli",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "As World War I rages, brave and youthful Australians Archy and Frank, both agile runners, become friends and enlist in the Australian and New Zealand Army Corps together. They later find themselves part of the Dardanelles Campaign on the Gallipoli peninsula, a brutal eight-month conflict which pit the British and their allies against the Ottoman Empire and left over 500,000 men dead.",
+    "releaseDate": "1981-08-13",
+    "runtime": 112
+  },
+  {
+    "id": 1941,
+    "title": "Exodus",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The theme is the founding of the state of Israel. The action begins on a ship filled with Jewish immigrants bound for Israel who are being off loaded on Cyprus. An Intelligence officer succeeds in getting them back on board their ship only to have the harbor blocked by the British with whom they must negotiate. The second part deals with declaring independence and the resulting warring.",
+    "releaseDate": "1960-03-27",
+    "runtime": 208
+  },
+  {
+    "id": 28988,
+    "title": "Blackboards",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Itinerant Kurdish teachers, carrying blackboards on their backs, look for students in the hills and villages of Iran, near the Iraqi border during the Iran-Iraq war. Said falls in with a group of old men looking for their bombed-out village; he offers to guide them, and takes as his wife Halaleh, the clan's lone woman, a widow with a young son. Reeboir attaches himself to a dozen pre-teen boys weighed down by contraband they carry across the border; they're mules, always on the move. Said and Reeboir try to teach as their potential students keep walking. Danger is close; armed soldiers patrol the skies, the roads, and the border. Is there a role for a teacher? Is there hope?",
+    "releaseDate": "2000-09-01",
+    "runtime": 85
+  },
+  {
+    "id": 14433,
+    "title": "Zulu",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In 1879, during the Zulu wars, man of the people Lt. John Chard (Stanley Baker) and snooty Lt Gonville Bromhead (Michael Caine) were in charge of defending the isolated Natal outpost of Rorke's Drift from tribal hordes, holding out during an Alamo-like siege until they are overwhelmed, losing the battle, but going down in history as heroes. 150 soldiers defended a supply station against some 4000 Zulus, aided by the Martini-Henry rifle \"with some guts behind it\".  In the hundred years since the Victoria Cross was created for valour and extreme courage beyond that normally expected of the British soldier in face of the enemy only 1344 have been awarded. Eleven of these were won by the defenders of the mission station at Rorke's Drift, Natal, January 22nd to the 23rd 1879.",
+    "releaseDate": "1964-01-22",
+    "runtime": 138
+  },
+  {
+    "id": 16072,
+    "title": "Gods and Generals",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The film centers mostly around the personal and professional life of Thomas \"Stonewall\" Jackson, a brilliant if eccentric Confederate general, from the outbreak of the American Civil War until its halfway point when Jackson is killed accidentally by his own soldiers in May 1863 during his greatest victory.",
+    "releaseDate": "2003-02-21",
+    "runtime": 214
+  },
+  {
+    "id": 15925,
+    "title": "633 Squadron",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "When Norwegian resistance leader Lieutenant Erik Bergman reports the location of a German V-2 rocket fuel plant, the Royal Air Force's 633 Squadron is assigned the mission to destroy it. The plant is in a seemingly-impregnable location beneath an overhanging cliff at the end of a long, narrow fjord lined with anti-aircraft guns. The only way to destroy the plant is by collapsing the cliff on top of it.",
+    "releaseDate": "1964-04-06",
+    "runtime": 102
+  },
+  {
+    "id": 11463,
+    "title": "Battle of Britain",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In 1940, the Royal Air Force fights a desperate battle against the might of the Luftwaffe for control of the skies over Britain, thus preventing the Nazi invasion of Britain.",
+    "releaseDate": "1969-09-15",
+    "runtime": 132
+  },
+  {
+    "id": 18780,
+    "title": "Sink the Bismarck!",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Loosely based on a true series of World War II events.  This movie chronicles the breakout of the German battleship Bismarck accompanied by the heavy cruiser Prinz Eugen during the early days of World War II. The Bismarck and her sister ship, Tirpitz, were the most powerful battleships in the European theater of World War II. The British Navy must find and destroy Bismarck before it can escape into the convoy lanes to inflict severe damage on the cargo shipping which was the lifeblood of the British Isles. With eight 15 inch guns, It was capable of destroying every ship in a convoy while remaining beyond the range of all Royal Navy warships. The movie presents the point of view of the commanders and combatants of the naval forces, mostly ships, on both sides as well as a perspective on the role of the British Admiralty in London which is the central command and control headquarters for the Royal Navy.",
+    "releaseDate": "1960-02-11",
+    "runtime": 97
+  },
+  {
+    "id": 26205,
+    "title": "The Desert Fox: The Story of Rommel",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The life and career of Erwin Rommel and his involvement in the plot to assassinate Hitler.",
+    "releaseDate": "1951-10-16",
+    "runtime": 88
+  },
+  {
+    "id": 30529,
+    "title": "The Truce",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Although liberated from Auschwitz on January 27, 1945, Levi did not reach Turin until October 19 of that year. After spending some time in a Soviet camp for former concentration camp inmates, he embarked on an arduous journey home in the company of Italian former prisoners of war from the Italian Army in Russia. His long railway journey home to Turin took him on a circuitous route from Poland, through Russia, Romania, Hungary, Austria and Germany.",
+    "releaseDate": "1997-02-10",
+    "runtime": 125
+  },
+  {
+    "id": 4708,
+    "title": "Is Paris Burning?",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The title is Adolf Hitler's question to his chief of staff Alfred Jodl on the eve of the liberation of Paris (August 25): the military governor of Paris, General Dietrich von Choltitz, had been ordered to destroy Paris rather than let it fall undamaged into the hands of the Allies, but von Choltitz disobeyed.The film follows historical events as U.S. General Dwight D. Eisenhower, head of the Allied invasion, refuses to divert troops to liberate Paris. His hand is forced by the French military leader, Philippe Leclerc, and by a Resistance uprising in the city. Von Choltitz keeps details of the uprising from the German high command in an effort to save the city being destroyed in retaliation. The film follows his turmoil as a soldier and as the man who doesn't wish to be seen by history as the cause of a beautiful city's destruction.",
+    "releaseDate": "1966-10-26",
+    "runtime": 175
+  },
+  {
+    "id": 11046,
+    "title": "Where Eagles Dare",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "World War II is raging, and an American general has been captured and is being held hostage in the Schloss Adler, a Bavarian castle that's nearly impossible to breach. It's up to a group of skilled Allied soldiers to liberate the general before it's too late.",
+    "releaseDate": "1968-12-04",
+    "runtime": 155
+  },
+  {
+    "id": 25237,
+    "title": "Come and See",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The invasion of a village in Byelorussia by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+    "releaseDate": "1985-07-01",
+    "runtime": 142
+  },
+  {
+    "id": 5336,
+    "title": "Salò, or the 120 Days of Sodom",
+    "genres": [
+      "History",
+      "War",
+      "Drama",
+      "Horror"
+    ],
+    "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
+    "releaseDate": "1975-11-22",
+    "runtime": 116
+  },
+  {
+    "id": 618,
+    "title": "The Birth of a Nation",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The Birth of A Nation is a silent film from 1915 and the highest grossing silent film in film history. The film tells a romance story during the American civil war. D.W. Griffith invested heavily in its high production values, pioneering many new camera effects. The Birth of a Nation was strongly protested for its negative portrayal of newly freed slaves (mostly white actors in blackface), which went on to create and propagate negative images of blacks of the early 20th century in the United States. The film was used as a recruiting propaganda by the KKK until the 1940s.",
+    "releaseDate": "1915-02-08",
+    "runtime": 193
+  },
+  {
+    "id": 11316,
+    "title": "The Tragedy of Macbeth",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "A ruthlessly ambitious Scottish lord siezes the throne with the help of his scheming wife and a trio of witches.",
+    "releaseDate": "1971-10-13",
+    "runtime": 140
+  },
+  {
+    "id": 616,
+    "title": "The Last Samurai",
+    "genres": [
+      "Drama",
+      "Action",
+      "War",
+      "History"
+    ],
+    "overview": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
+    "releaseDate": "2003-12-05",
+    "runtime": 154
+  },
+  {
+    "id": 12698,
+    "title": "The Fog of War",
+    "genres": [
+      "War",
+      "Documentary",
+      "History"
+    ],
+    "overview": "Using archival footage, United States Cabinet conversation recordings, and an interview of the eighty-five-year-old Robert McNamara, 'The Fog of War' depicts his life, from working as a WWII Whiz Kid military officer, to being the Ford Motor Company's president, to managing the American Vietnam War, as defense secretary for presidents Kennedy and Johnson.",
+    "releaseDate": "2003-12-09",
+    "runtime": 95
+  },
+  {
+    "id": 27329,
+    "title": "The Legend of Suriyothai",
+    "genres": [
+      "Drama",
+      "Foreign",
+      "History",
+      "War"
+    ],
+    "overview": "During the 16th century, as Thailand contends with both a civil war and Burmese invasion, a beautiful princess rises up to help protect the glory of the Kingdom of Ayothaya. Based on the life of Queen Suriyothai.",
+    "releaseDate": "2001-08-17",
+    "runtime": 185
+  },
+  {
+    "id": 10733,
+    "title": "The Alamo",
+    "genres": [
+      "Western",
+      "History",
+      "War"
+    ],
+    "overview": "Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna's forces at the Alamo in San Antonio, Texas.",
+    "releaseDate": "2004-04-07",
+    "runtime": 137
+  },
+  {
+    "id": 2587,
+    "title": "Brother Sun, Sister Moon",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "This is a dramatization of events in the life of St. Francis of Assisi from before his conversion experience through his audience with the pope, including his friendship with St. Clare.",
+    "releaseDate": "1972-03-03",
+    "runtime": 135
+  },
+  {
+    "id": 633,
+    "title": "Soldier of Orange",
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "This film depicts World War II through the eyes of several Dutch students. It follows them through the beginning of the war, the Nazi occupation and the liberation.",
+    "releaseDate": "1977-09-22",
+    "runtime": 149
+  },
+  {
+    "id": 10235,
+    "title": "Alexander Nevsky",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "It is the 13th century, and Russia is overrun by foreign invaders. A Russian knyaz', or prince, Alexander Nevsky, rallies the people to form a ragtag army to drive back an invasion by the Teutonic knights. This is a true story based on the actual battle at a lake near Novgorod.  Soviet film-maker Sergei Eisenstein's only successfully-completed sound film project with producer acceptance, it was none-the-less pulled from release upon Josef Stalin's disastrous signing of the \"peace pact\" with the Third Reich just a few weeks after its premiere; but it was quickly put back into distribution when the Germans (also disastrously) decided to invade the USSR, pact or no pact, a few months later and it has remained an acclaimed example of Soviet film to the present time.",
+    "releaseDate": "1938-11-24",
+    "runtime": 112
+  },
+  {
+    "id": 39907,
+    "title": "Bang Rajan",
+    "genres": [
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "Set right before the fall of Thailand's old capital, Ayuttaya, Bang Rajan draws on the legend of a village of fighters who bravely fended off the Burmese armies. With no support from the Royal army, the villagers drives the invading Burmese away many times until their names have become legendary during the time. As each subsequent battles becomes fiercer, the villagers tries to forge a canon to battle the enemy in a final battle where everyone, women and children included, die in combat.",
+    "releaseDate": "2000-12-29",
+    "runtime": 113
+  },
+  {
+    "id": 16514,
+    "title": "To Hell and Back",
+    "genres": [
+      "Action",
+      "Romance",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The true WWII story of Audie Murphy, the most decorated soldier in U.S. history. Based on the autobiography of Audie Murphy who stars as himself in the film.",
+    "releaseDate": "1955-09-22",
+    "runtime": 106
+  },
+  {
+    "id": 5902,
+    "title": "A Bridge Too Far",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Tells the story of operation Market Garden. A failed attempt by the allies in the latter stages of WWII to end the war quickly by securing three bridges in Holland allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine) was doomed to failure.",
+    "releaseDate": "1977-06-15",
+    "runtime": 175
+  },
+  {
+    "id": 16914,
+    "title": "The Cruel Sea",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "At the start of World War II, Cmdr. Ericson is assigned to convoy escort HMS Compass Rose with inexperienced officers and men just out of training. The winter seas make life miserable enough, but the men must also harden themselves to rescuing survivors of U-Boat attacks, while seldom able to strike back. Traumatic events afloat and ashore create a warm bond between the skipper and his first officer",
+    "releaseDate": "1953-02-24",
+    "runtime": 126
+  },
+  {
+    "id": 73194,
+    "title": "Drums Along the Mohawk",
+    "genres": [
+      "Romance",
+      "Drama",
+      "History",
+      "War",
+      "Western"
+    ],
+    "overview": "Set in America's Colonial period, John Ford's adventure tale follows Gilbert (Henry Fonda) and Lana Martin (Claudette Colbert) as they try to survive the rugged frontier. After their settlement is repeatedly attacked by Indians, the couple is taken in by a spinster (Edna May Oliver). Lana bears a son, while Gilbert heads off to fight the Indians and the British. He returns, wounded, to find his family once again under attack by the Indians.",
+    "releaseDate": "1939-11-03",
+    "runtime": 104
+  },
+  {
+    "id": 31675,
+    "title": "Cromwell",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Disgusted with the policies of King Charles I, Oliver Cromwell plans to take his family to the New World. But on the eve of their departure, Cromwell is drawn into the tangled web of religion and politics that will result in the English Civil War.",
+    "releaseDate": "1970-09-16",
+    "runtime": 139
+  },
+  {
+    "id": 18712,
+    "title": "Sands of Iwo Jima",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The relationship between Sergeant Stryker and a group of rebellious recruits is made difficult by the Sergeant's tough training tactics. At Tarawa, the leathernecks have a chance to see Stryker in action, and begin to appreciate him.",
+    "releaseDate": "1949-12-14",
+    "runtime": 100
+  },
+  {
+    "id": 113290,
+    "title": "The Long Way Home",
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "overview": "The story of the post World War II Jewish refugee situation from liberation to the establishment of the modern state of Israel.",
+    "releaseDate": "1997-09-19",
+    "runtime": 120
+  },
+  {
+    "id": 31217,
+    "title": "The Human Condition I: No Greater Love",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The Human Condition is a Japanese epic film trilogy made between 1959 and 1961. The trilogy follows the life of Kaji, a Japanese pacifist and socialist, as he tries to survive in the fascist and oppressive world of WWII-era Japan. No Greater Love (1959) opens with Kaji marrying his sweetheart Michiko despite his misgivings about the future.",
+    "releaseDate": "1959-01-15",
+    "runtime": 208
+  },
+  {
+    "id": 44691,
+    "title": "The Scarlet and the Black",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance",
+      "TV Movie",
+      "War"
+    ],
+    "overview": "Fr. Hugh O'Flaherty is a Vatican official in 1943-45 who has been hiding downed pilots, escaped prisoners of war, and Italian resistance families. His diplomatic status in a Catholic country prevents Colonel Kappler from openly arresting him, but O'Flaherty's activities become so large that the Nazi's decide to assassinate him the next time he leaves the Vatican. O'Flaherty continues his work in a variety of disguises. Based on a true story. Written by John Vogel",
+    "releaseDate": "1983-02-02",
+    "runtime": 143
+  },
+  {
+    "id": 9477,
+    "title": "King Arthur",
+    "genres": [
+      "Adventure",
+      "War",
+      "History"
+    ],
+    "overview": "The story of the Arthurian legend, based on the 'Sarmatian hypothesis' which contends that the legend has a historical nucleus in the Sarmatian heavy cavalry troops stationed in Britain, and that the Roman-British military commander, Lucius Artorius Castus is the historical person behind the legend.",
+    "releaseDate": "2004-07-07",
+    "runtime": 126
+  },
+  {
+    "id": 36627,
+    "title": "The Deluge",
+    "genres": [
+      "History",
+      "Adventure",
+      "War"
+    ],
+    "overview": "Following With Fire and Sword', this is an adaptation of the second and most spectacular part of Sienkiewicz's trilogy of warfare, romance, and derring-do. With war raging across Europe in the 17th century, a dashing warrior fights for the heart of a young gentlewoman. With almost four hundred actors, thousands of extras and twenty three thousand costumes, this is one of the most popular films in Polish cineman and received an Oscar nomination for Best Foreign Feature.",
+    "releaseDate": "1974-09-02",
+    "runtime": 315
+  },
+  {
+    "id": 43443,
+    "title": "Joan of Arc",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "In the Fifteenth Century, France is a defeated and ruined nation after the One Hundred Years War against England. The fourteen years old farm girl Joan of Arc claims to hear voices from Heaven asking her to lead God's Army against Orleans and crowning the weak Dauphin Charles VII as King of France. Joan gathers the people with her faith, forms an army and conquerors Orleans. When her army is ready to attack Paris, the corrupt Charles sells his country to England and dismiss the army. Joan is arrested, sold to the Burgundians England and submitted to a shameful political trial in Rouen castle.",
+    "releaseDate": "1948-12-22",
+    "runtime": 145
+  },
+  {
+    "id": 15876,
+    "title": "The Enemy Below",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "The American destroyer escort, the USS Haynes commanded by Robert Mitchum, detects a German U-Boat, commanded by Curt Jürgens, resulting in a prolonged, deadly battle of wits.",
+    "releaseDate": "1957-12-25",
+    "runtime": 97
+  },
+  {
+    "id": 43885,
+    "title": "The Plainsman",
+    "genres": [
+      "Western",
+      "War",
+      "History",
+      "Romance"
+    ],
+    "overview": "Wild Bill Hickok (Gary Cooper), Calamity Jane (Jean Arthur) and Buffalo Bill (James Ellison) go up against Indians and a gunrunner.",
+    "releaseDate": "1936-11-16",
+    "runtime": 113
+  },
+  {
+    "id": 1966,
+    "title": "Alexander",
+    "genres": [
+      "War",
+      "History",
+      "Action",
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
+    "releaseDate": "2004-11-21",
+    "runtime": 175
+  },
+  {
+    "id": 42668,
+    "title": "Alexander the Great",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "He was a fierce military commander who led huge armies into battle without a single defeat; a magnificent warrior who many believed was part god - this was Alexander the Great (Richard Burton), the legendary Greek hero hailed by his countrymen as \"The King of Kings\". Born in 356 B.C. into a turbulent world of political unrest, educated by Aristotle (Barry Jones) and chosen to lead his people in the grand tradition of his powerful father (Fredric March), this glamorous world conqueror rose above all conflict to unite the continents of Europe and Asia to become one of the most celebrated rulers of all time! Written, produced and directed by Oscar - winner Robert Rossen and featuring the extraordinary Claire Bloom and a remarkable cast of thousands, this stunning portrait of one of history's most fascinating figures is colossal entertainment and an amazing spectacle.",
+    "releaseDate": "1956-03-28",
+    "runtime": 136
+  },
+  {
+    "id": 23336,
+    "title": "Why We Fight: Prelude to War",
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "overview": "Prelude to War was the first film of Frank Capra's Why We Fight propaganda film series, commissioned by the Pentagon and George C. Marshall. It was made to convince American troops of the necessity of combating the Axis Powers during World War II. This film examines the differences between democratic and fascist states.",
+    "releaseDate": "1942-05-27",
+    "runtime": 53
+  },
+  {
+    "id": 803,
+    "title": "Night and Fog",
+    "genres": [
+      "History",
+      "Documentary",
+      "War"
+    ],
+    "overview": "The documentary film from French director Resnais set ten years after the Second World War depicts the problems of Auschwitz with shocking images from the concentration camps.",
+    "releaseDate": "1955-01-01",
+    "runtime": 32
+  },
+  {
+    "id": 34528,
+    "title": "The Human Condition II: Road to Eternity",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Kaji, having lost his exemption from military service by protecting Chinese prisoners from unjust punishment, has now been conscripted into the Japanese Kwantung Army. Despite his anti-militarism, Kaji excels in his training and tries to implement his ideals in his dealings with other soldiers in the face of the prevailing brutality. The film ends with the Soviet army's victorious onslaught.",
+    "releaseDate": "1959-11-20",
+    "runtime": 181
+  },
+  {
+    "id": 34530,
+    "title": "The Human Condition III: A Soldier's Prayer",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The Japanese forces having been shattered, Kaji and some comrades embark on an epic journey on foot southward to where Kaji hopes to rejoin Michiko. After surviving many perils he is captured by the Red Army and subjected to treatment that echoes that meted out to the Chinese.",
+    "releaseDate": "1961-01-28",
+    "runtime": 191
+  },
+  {
+    "id": 3010,
+    "title": "The Cardinal",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A young Catholic priest from Boston confronts bigotry, Naziism, and his own personal conflicts as he rises to the office of cardinal.",
+    "releaseDate": "1963-12-12",
+    "runtime": 175
+  },
+  {
+    "id": 17295,
+    "title": "The Battle of Algiers",
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "Tracing the struggle of the Algerian Front de Liberation Nationale to gain freedom from French colonial rule as seen through the eyes of Ali from his start as a petty thief to his rise to prominence in the organisation and capture by the French in 1957. The film traces the rebels' struggle and the increasingly extreme measures taken by the French government to quell the revolt.",
+    "releaseDate": "1966-09-08",
+    "runtime": 121
+  },
+  {
+    "id": 16850,
+    "title": "The Heroes of Telemark",
+    "genres": [
+      "War",
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "overview": "Set in German-occupied Norway, this is an embellished account of the remarkable efforts of the Norwegian resistance to sabotage the German development of the atomic bomb. Resistance fighter Knut Straud enlists the reluctant physicist Rolf Pedersen in an effort to destroy the German heavy water production plant near the village of Rjukan in rural Telemark. In the process, Pedersen discovers that hi",
+    "releaseDate": "1965-11-22",
+    "runtime": 131
+  },
+  {
+    "id": 29710,
+    "title": "Khartoum",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "overview": "English General Charles George Gordon, a devout Christian, is appointed military governor of Anglo-Egyptian Sudan by the Prime Minister. Ordered to evacuate Egyptians from the Sudan, Gordon stays on to protect the people of Khartoum, who are under threat of being conquered by a Muslim army.",
+    "releaseDate": "1966-06-09",
+    "runtime": 134
+  },
+  {
+    "id": 29266,
+    "title": "War and Peace",
+    "genres": [
+      "War",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "overview": "Seven-hour epic based on the eponymous book by Leo Tolstoy. Two main story-lines are complex and intertwined. One is the love story of young Countess Natasha Rostova and Count Pierre Bezukhov, who is unhappy in his marriage. Another is the \"Great Patriotic War\" of 1812 against the invading Napoleon's Armies. The people of Russia from all classes of society stand up united against the enemy.",
+    "releaseDate": "1966-03-14",
+    "runtime": 422
+  },
+  {
+    "id": 31010,
+    "title": "Uprising",
+    "genres": [
+      "TV Movie",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Jews rise up in the Warsaw Ghetto against the Nazis in 1943.",
+    "releaseDate": "2001-01-01",
+    "runtime": 177
+  },
+  {
+    "id": 35583,
+    "title": "The Lost Battalion",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "overview": "Fact-based war drama about an American battalion of over 500 men which gets trapped behind enemy lines in the Argonne Forest in October 1918 France during the closing weeks of World War I. Based on a true story, The Lost Battalion is set in 1918 during the final months of WWI. Assigned to capture an enemy stronghold in Charlvaux at the height of the Argonne campaign, the men of the AEF 308th Battalion, 77th Division, are led by young American major Charles Whittlesey, an inexperienced but dedicated \"citizen soldier.\" Totally cut off from the other allied troops, unaware of their vulnerability, and barraged by \"friendly fire,\" the 500-plus men of the 308th bravely hold their position, suffering incredible losses and unspeakable deprivations in the process -- while the battalion's superior officers, far from the firing line, callously prepare to write off the men as expendable casualties.",
+    "releaseDate": "2001-12-02",
+    "runtime": 92
+  },
+  {
+    "id": 24241,
+    "title": "And Starring Pancho Villa as Himself",
+    "genres": [
+      "Drama",
+      "History",
+      "War",
+      "Western"
+    ],
+    "overview": "In 1914, the Mexican revolutionary Pancho Villa (Antonio Banderas) invites studios to shoot his actual battles against Porfírio Diaz army to raise funds for financing guns and ammunition. The Mutual Film Corporation, through producer D.W. Griffith (Colm Feore), interests for the proposition and sends the filmmaker Frank Thayer (Eion Bailey) to negotiate a contract with Pancho Villa himself.",
+    "releaseDate": "2003-09-07",
+    "runtime": 112
+  },
+  {
+    "id": 95536,
+    "title": "A Talking Picture",
+    "genres": [
+      "War",
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "overview": "A meditation on civilization. July, 2001: friends wave as a cruise ship departs Lisbon for Mediterranean ports and the Indian Ocean. On board and on day trips in Marseilles, Pompeii, Athens, Istanbul, and Cairo, a professor tells her young daughter about myth, history, religion, and wars. Men approach her; she's cool, on her way to her husband in Bombay. After Cairo, for two evenings divided by a stop in Aden, the captain charms three successful, famous (and childless) women, who talk with wit and intellect, each understanding the others' native tongue, a European union. The captain asks mother and child to join them. He gives the girl a gift. Helena sings. Life can be sweet.",
+    "releaseDate": "2003-08-31",
+    "runtime": 96
+  },
+  {
+    "id": 10105,
+    "title": "Saints and Soldiers",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Five American soldiers fighting in Europe during World War II struggle to return to Allied territory after being separated from U.S. forces during the historic Malmedy Massacre.",
+    "releaseDate": "2003-09-11",
+    "runtime": 90
+  },
+  {
+    "id": 11658,
+    "title": "Tae Guk Gi: The Brotherhood of War",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In 1950, in South Korea, shoe-shiner Jin-tae Lee and his 18-year-old old student brother, Jin-seok Lee, form a poor but happy family with their mother, Jin-tae's fiancé Young-shin Kim, and her young sisters. Jin-tae and his mother are tough workers, who sacrifice themselves to send Jin-seok to the university. When North Korea invades the South, the family escapes to a relative's house in the country, but along their journey, Jin-seok is forced to join the army to fight in the front, and Jin-tae enlists too to protect his young brother. The commander promises Jin-tae that if he gets a medal he would release his brother, and Jin-tae becomes the braver soldier in the company. Along the bloody war between brothers, the relationship of Jin-seok with his older brother deteriorates leading to a dramatic and tragic end.",
+    "releaseDate": "2004-02-05",
+    "runtime": 140
+  },
+  {
+    "id": 205,
+    "title": "Hotel Rwanda",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+    "releaseDate": "2004-09-11",
+    "runtime": 121
+  },
+  {
+    "id": 58097,
+    "title": "Freedomfighters",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "At the outbreak of the Spanish Civil War, the nun Maria is forced to flee her convent. She takes refuge in a brothel, until it is liberated by a woman's anarchist group. Maria joins the group and eventually goes to the front. The women's group faces the problems of fighting not only the nationalists, but also factions on the left seeking to impose a more traditional military structure. Written by Brian Rawnsley",
+    "releaseDate": "1996-04-19",
+    "runtime": 125
+  },
+  {
+    "id": 16442,
+    "title": "Sergeant York",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Alvin York a hillbilly sharpshooter transforms himself from ruffian to religious pacifist. He is then called to serve his country and despite deep religious and moral objections to fighting becomes one of the most celebrated American heroes of WWI.",
+    "releaseDate": "1941-07-02",
+    "runtime": 134
+  },
+  {
+    "id": 43504,
+    "title": "The Fighting Sullivans",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The lives of a close-knit group of brothers growing up in Iowa during the days of the Great Depression and of World War II and their eventual deaths in action in the Pacific theater are chronicled in this film based on a true story.",
+    "releaseDate": "1944-02-03",
+    "runtime": 112
+  },
+  {
+    "id": 613,
+    "title": "Downfall",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+    "releaseDate": "2004-09-08",
+    "runtime": 156
+  },
+  {
+    "id": 34561,
+    "title": "Purple Butterfly",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Ding Hui is a member of Purple Butterfly, a powerful resistance group in Japanese occupied Shanghai. An unexpected encounter reunites her with Itami, an ex-lover... and officer with a secret police unit tasked with dismantling Purple Butterfly.",
+    "releaseDate": "2003-05-22",
+    "runtime": 127
+  },
+  {
+    "id": 16638,
+    "title": "El Cid",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "Epic film of the legendary Spanish hero, Rodrigo Diaz (\"El Cid\" to his followers), who, without compromising his strict sense of honour, still succeeds in taking the initiative and driving the Moors from Spain.",
+    "releaseDate": "1961-10-24",
+    "runtime": 182
+  },
+  {
+    "id": 30856,
+    "title": "Gunner Palace",
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "overview": "American soldiers of the 2/3 Field Artillery, a group known as the \"Gunners,\" tell of their experiences in Baghdad during the Iraq War. Holed up in a bombed out pleasure palace built by Sadaam Hussein, the soldiers endured hostile situations some four months after President George W. Bush declared the end of major combat operations in the country.",
+    "releaseDate": "2004-01-01",
+    "runtime": 85
+  },
+  {
+    "id": 54380,
+    "title": "Captains of April",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Story of the 1974 coup that overthrew the right-wing Portuguese dictatorship--which continued the fascist policies of long-time dictator Antonio Salazar--and of two young army captains who were involved in it.",
+    "releaseDate": "2000-04-21",
+    "runtime": 123
+  },
+  {
+    "id": 18770,
+    "title": "Thirty Seconds Over Tokyo",
+    "genres": [
+      "History",
+      "War",
+      "Drama"
+    ],
+    "overview": "In the wake of Pearl Harbor, a young lieutenant leaves his expectant wife to volunteer for a secret bombing mission which will take the war to the Japanese homeland.",
+    "releaseDate": "1944-11-15",
+    "runtime": 138
+  },
+  {
+    "id": 37214,
+    "title": "Go for Broke!",
+    "genres": [
+      "Action",
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "A tribute to the U.S. 442nd Regimental Combat Team, formed in 1943 by Presidential permission with Japanese-American volunteers. We follow the training of a platoon under the rueful command of Lt. Mike Grayson who shares common prejudices of the time. The 442nd serve in Italy, then France, distinguishing themselves in skirmishes and battles; gradually and naturally, Grayson's prejudices evaporate with dawning realization that his men are better soldiers than he is.",
+    "releaseDate": "1951-05-04",
+    "runtime": 92
+  },
+  {
+    "id": 13524,
+    "title": "Battle of the Bulge",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In the winter of 1944, the Allied Armies stand ready to invade Germany at the coming of a New Year. To prevent this occurrence, Hitler orders an all out offensive to re-take French territory and capture the major port city of Antwerp. \"The Battle of the Bulge\" shows this conflict from the perspective of an American intelligence officer as well as from a German Panzer Commander.",
+    "releaseDate": "1965-04-02",
+    "runtime": 167
+  },
+  {
+    "id": 42611,
+    "title": "The Sorrow and the Pity",
+    "genres": [
+      "Documentary",
+      "History",
+      "War",
+      "Foreign"
+    ],
+    "overview": "From 1940 to 1944, France's Vichy government collaborated with Nazi Germany. Marcel Ophüls mixes archival footage with 1969 interviews of a German officer and of collaborators and resistance fighters from Clermont-Ferrand. They comment on the nature, details and reasons for the collaboration, from anti-Semitism, xenophobia, and fear of Bolsheviks, to simple caution. Part one, \"The Collapse,\" includes an extended interview with Pierre Mendès-France, jailed for anti-Vichy action and later France's Prime Minister. At the heart of part two, \"The Choice,\" is an interview with Christian de la Mazière, one of 7,000 French youth to fight on the eastern front wearing German uniforms.",
+    "releaseDate": "1969-09-18",
+    "runtime": 251
+  },
+  {
+    "id": 1495,
+    "title": "Kingdom of Heaven",
+    "genres": [
+      "Drama",
+      "Action",
+      "Adventure",
+      "History",
+      "War"
+    ],
+    "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+    "releaseDate": "2005-05-03",
+    "runtime": 144
+  },
+  {
+    "id": 1566,
+    "title": "The Bridge",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A group of German boys are ordered to protect a small bridge in their home village during the waning months of the second world war. Truckloads of defeated, cynical Wehrmacht soldiers flee the approaching American troops, but the boys, full of enthusiasm for the \"blood and honor\" Nazi ideology, stay to defend the useless bridge.",
+    "releaseDate": "1959-10-21",
+    "runtime": 103
+  },
+  {
+    "id": 100605,
+    "title": "December 7th",
+    "genres": [
+      "History",
+      "War",
+      "Action"
+    ],
+    "overview": "\"Docudrama\" about the bombing of Pearl Harbor on December 7th, 1941 and its results, the recovering of the ships, the improving of defense in Hawaii and the US efforts to beat back the Japanese reinforcements.  This film exists in two versions. This longer, unreleased cut (which is rarely screened) brackets this material fictional sequences. The introductory sequence shows Uncle Sam on vacation in Hawaii on December 6th. A character embodying the Voice of Responsibility warns him that ignoring Japanese immigrant Fifth Column activity will lead to disaster. The concluding sequence the ghost of a serviceman killed in the attack discussing how the US will beat the Japanese with the ghost of a Revolutionary War soldier in Arlington National Cemetery.",
+    "releaseDate": "1943-01-01",
+    "runtime": 75
+  },
+  {
+    "id": 73376,
+    "title": "The Inner Circle",
+    "genres": [
+      "Drama",
+      "War",
+      "History",
+      "Romance"
+    ],
+    "overview": "The true story of Ivan Sanchin, the KGB officer who was Stalin's private film projectionist from 1939 until the dictator's death. Told from Sanchin's view, the sympathetic but tragically flawed hero maintains unwavering faith in his \"Master\" despite the arrest of his neighbors and his involvement with their daughter, his wife's affair with the chilling State Security chief Lavrentii Beria and her tragic decline, and the deadly political machinations within the Kremlin he witnesses firsthand. Written by Martin H. Booda",
+    "releaseDate": "1991-12-25",
+    "runtime": 137
+  },
+  {
+    "id": 13922,
+    "title": "The Great Raid",
+    "genres": [
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "As World War II rages, the elite Sixth Ranger Battalion is given a mission of heroic proportions: push 30 miles behind enemy lines and liberate over 500 American prisoners of war.",
+    "releaseDate": "2005-08-12",
+    "runtime": 132
+  },
+  {
+    "id": 18976,
+    "title": "Attila",
+    "genres": [
+      "War",
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "overview": "A romanced story of Attila the Hun, since his childhood, when he lost his parents until his death. Attila is disclosed as a great leader, strategist and lover and the movie shows his respect to the great Roman strategist Flavius Aetius, his loves and passions, the gossips, intrigues and betrayals in Rome, all of these feelings evolved by magic and mysticism.",
+    "releaseDate": "2001-01-01",
+    "runtime": 177
+  },
+  {
+    "id": 16374,
+    "title": "Sometimes in April",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Debra Winger, Oris Erhuero and Idris Elba star in this drama framed by the Rwandan genocide.",
+    "releaseDate": "2005-02-17",
+    "runtime": 140
+  },
+  {
+    "id": 56798,
+    "title": "The Profession of Arms",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In autumn of 1526, the Emperor, Charles V, sends his German landsknechts led by Georg von Frundsberg to march towards Rome. The inferior papal armies, commanded by Giovanni de'Medici, try to chase them in the midst of a harsh winter. Nevertheless, the Imperial armies manage to cross the rivers along their march and get cannons thanks to the maneuvers of its Lords. In a skirmish, Giovanni de'Medici is wounded in the leg by a falconet shot. The attempts to cure him fail and he dies. The Imperial armies assault Rome. The film is beautifully but unassumingly set, and shows the hard conditions in which war is waged and its lack of glory. It ends straightforwardly with the declaration made after the death of Giovanni de'Medici by the commanders of the armies in Europe of not using again fire weapons because of their cruelty.",
+    "releaseDate": "2001-05-11",
+    "runtime": 105
+  },
+  {
+    "id": 11661,
+    "title": "Joyeux Noël",
+    "genres": [
+      "Romance",
+      "Drama",
+      "History",
+      "War",
+      "Music"
+    ],
+    "overview": "In 1914, World War I, the bloodiest war ever at that time in human history, was well under way. However on Christmas Eve, numerous sections of the Western Front called an informal, and unauthorized, truce where the various front-line soldiers of the conflict peacefully met each other in No Man's Land to share a precious pause in the carnage with a fleeting brotherhood.",
+    "releaseDate": "2005-11-09",
+    "runtime": 116
+  },
+  {
+    "id": 253250,
+    "title": "A Southern Yankee",
+    "genres": [
+      "Comedy",
+      "History",
+      "War"
+    ],
+    "overview": "Red Skelton plays Aubrey Filmore, a feather-brained but lovable bellboy who dreams of becoming an agent for the Union's secret service during the Civil War.",
+    "releaseDate": "1948-08-05",
+    "runtime": 90
+  },
+  {
+    "id": 12701,
+    "title": "Revolution",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "New York trapper Tom Dobb becomes an unwilling participant in the American Revolution after his son Ned is drafted into the Army by the villainous Sergeant Major Peasy. Tom attempts to find his son, and eventually becomes convinced that he must take a stand and fight for the freedom of the Colonies, alongside the aristocratic rebel Daisy McConnahay. As Tom undergoes his change of heart, the events of the war unfold in large-scale grandeur.",
+    "releaseDate": "1985-12-25",
+    "runtime": 126
+  },
+  {
+    "id": 31894,
+    "title": "The Tuskegee Airmen",
+    "genres": [
+      "TV Movie",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "During the Second World War, a special project is begun by the US Army Air Corps to integrate African American pilots into the Fighter Pilot Program. Known as the \"Tuskegee Airman\" for the name of the airbase at which they were trained, these men were forced to constantly endure harassement, prejudice, and much behind the scenes politics until at last they were able to prove themselves in combat.",
+    "releaseDate": "1995-08-25",
+    "runtime": 106
+  },
+  {
+    "id": 10912,
+    "title": "All Quiet on the Western Front",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "At the start of World War I, Paul Baumer is a young German patriot, eager to fight. Indoctrinated with propaganda at school, he and his friends eagerly sign up for the army soon after graduation. But when the horrors of war soon become too much to bear, and as his friends die or become gravely wounded, Paul questions the sanity of fighting over a few hundreds yards of war-torn countryside.",
+    "releaseDate": "1979-11-14",
+    "runtime": 150
+  },
+  {
+    "id": 1116,
+    "title": "The Wind That Shakes the Barley",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In 1920s Ireland young doctor Damien O'Donovan prepares to depart for a new job in a London hospital. As he says his goodbyes at a friend's farm, British Black and Tans arrive, and a young man is killed. Damien joins his brother Teddy in the Irish Republican Army, but political events are soon set in motion that tear the brothers apart.",
+    "releaseDate": "2006-06-23",
+    "runtime": 124
+  },
+  {
+    "id": 55343,
+    "title": "Overlord",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "During the war a young lad is called up and, with an increasing sense of foreboding, undertakes his army training ready for D-day.",
+    "releaseDate": "1975-07-01",
+    "runtime": 83
+  },
+  {
+    "id": 1595,
+    "title": "Land of Plenty",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "After living abroad, Lana returns to the United States, and finds that her uncle is a reclusive vagabond with psychic wounds from the Vietnam War.",
+    "releaseDate": "2004-09-10",
+    "runtime": 123
+  },
+  {
+    "id": 9664,
+    "title": "Flyboys",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "The adventures of the Lafayette Escadrille, young Americans who volunteered for the French military before the U.S. entered World War I, and became the country's first fighter pilots.",
+    "releaseDate": "2006-09-22",
+    "runtime": 140
+  },
+  {
+    "id": 52360,
+    "title": "The Howards of Virginia",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Beautiful young Virginian Jane steps down from her proper aristocratic upbringing when she marries down-to-earth surveyor Matt Howard. Matt joins the Colonial forces in their fight for freedom against England. Matt will meet Jane's father in the battlefield.",
+    "releaseDate": "1940-09-19",
+    "runtime": 116
+  },
+  {
+    "id": 46774,
+    "title": "Chapayev",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "This film is based on the book about Vasili Ivanovich Chapaev (1887 - 1919) who was in real life the Commander of the 25th Division of the Red Army. Chapaev is an uneducated peasant and a decorated hero in the World War I and later in the Russian Civil War, that followed the Russian revolution. This man of action is fighting on the side of the poor people. His troops consist of peasants, just like him. Unable to write, he can brilliantly demonstrate various battle tactics by moving potatoes on the table. He is street smart. He never lost a battle against the experienced Generals of the Tzar's Army.",
+    "releaseDate": "1934-11-07",
+    "runtime": 93
+  },
+  {
+    "id": 3683,
+    "title": "Flags of Our Fathers",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "There were five Marines and one Navy Corpsman photographed raising the U.S. flag on Mt. Suribachi by Joe Rosenthal on February 23, 1945. This is the story of three of the six surviving servicemen – John 'Doc' Bradley, Pvt. Rene Gagnon and Pvt. Ira Hayes, who fought in the battle to take Iwo Jima from the Japanese.",
+    "releaseDate": "2006-10-18",
+    "runtime": 132
+  },
+  {
+    "id": 14097,
+    "title": "9th Company",
+    "genres": [
+      "Drama",
+      "History",
+      "War",
+      "Action"
+    ],
+    "overview": "The picture opens in Krasnoyarsk, Siberia, in late 1988, when military trainees Petrovsky, Ryaba, Chugun, Stas, Pinochet, Lyutev and Vorobyev are whipped into shape at a training camp by the brutal, sadistic commander, Warrant Officer Dygalo - prior to being sent off to the front lines. After several one-by-one dalliances with the local whore, Snow White, and a cautionary lecture on the history, geography and culture of Afghanistan (which most of the men sleep through), the trainees head off to battle - first to the Bagram air base, then to the Afghani province of Khost to secure supply lines. But nothing can begin to prepare them for the brutal devastation into which they are plunged, or the relentless tide of slaughter that scatters thousands of Soviet victims in its wake.",
+    "releaseDate": "2005-09-19",
+    "runtime": 139
+  },
+  {
+    "id": 13210,
+    "title": "The Dam Busters",
+    "genres": [
+      "Drama",
+      "Action",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "Adapted by R.C. Sherriff from Guy Gibson's book Enemy Coast Ahead, The Dam Busters is a docudrama following the conception of a new British weapon for smashing the German dams in the Ruhr industrial complex and the execution of the raid by 617 Squadron 'The Dam Busters'",
+    "releaseDate": "1955-05-16",
+    "runtime": 124
+  },
+  {
+    "id": 43791,
+    "title": "The Man Who Never Was",
+    "genres": [
+      "Thriller",
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The true story of a British effort to trick the Germans into weakening Sicily's defenses before the 1943 attack. A dead soldier is dressed as a British officer and outfitted with faked papers showing that the Allies were intending to invade occupied Greece. His body is put into the sea where it will ultimately drift ashore and the papers be passed along to German Intelligence.",
+    "releaseDate": "1956-03-15",
+    "runtime": 103
+  },
+  {
+    "id": 2016,
+    "title": "Days of Glory",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "During WWII, four North African men enlist in the French army to liberate that country from Nazi oppression, and to fight French discrimination.",
+    "releaseDate": "2006-05-25",
+    "runtime": 128
+  },
+  {
+    "id": 19495,
+    "title": "Nomad: The Warrior",
+    "genres": [
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "The Nomad is a historical epic set in 18th-century Kazakhstan. The film is a fictionalised account of the youth and coming-of-age of Ablai Khan, as he grows and fights to defend the fortress at Hazrat-e Turkestan from Dzungar invaders.",
+    "releaseDate": "2005-07-17",
+    "runtime": 112
+  },
+  {
+    "id": 43798,
+    "title": "That Hamilton Woman",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "Sir William Hamilton, a widower of mature years, is British ambassador to the Court of Naples. Emma who comes for a visit with her mother wouldn't cut the grade with London society but she gets along well with the Queen of Naples. Emma likes being Lady Hamilton and life goes smoothly until Lord Nelson pays a visit. Sir William decides at first to let his young wife have her fling and pretends not to know what is going on. But the real life lovers, whose first screen romance was in \"Fire Over England\" (1937) have an even more burning passion for each other in this film.",
+    "releaseDate": "1941-04-03",
+    "runtime": 128
+  },
+  {
+    "id": 22452,
+    "title": "The War on Democracy",
+    "genres": [
+      "History",
+      "Documentary",
+      "War",
+      "Foreign"
+    ],
+    "overview": "Set both in Latin America and the United States, the film explores the historic and current relationship of Washington with countries such as Venezuela, Bolivia and Chile. Pilger says that the film \"...tells a universal story... analysing and revealing, through vivid testimony, the story of great power behind its venerable myths. It allows us to understand the true nature of the so-called \"war on terror\". According to Pilger, the film’s message is that the greed and power of empire is not invincible and that people power is always the \"seed beneath the snow\".",
+    "releaseDate": "2007-06-15",
+    "runtime": 96
+  },
+  {
+    "id": 87541,
+    "title": "The Unknown Soldier",
+    "genres": [
+      "Drama",
+      "History",
+      "Documentary",
+      "War",
+      "Foreign"
+    ],
+    "overview": "In the wake of World War II, most Germans have been raised with the mistaken belief that the Holocaust had been planned and executed by just a tiny minority of Nazis, namely, the Gestapo and the SS. The sad truth, however, is that Hitler's philosophy of ethnic cleansing, as the Fuhrer so brazenly espoused in his frightening manifesto, Mein Kampf, had been enthusiastingly embraced not only by the entire military but also by most of the civilian population.  The long-suppressed proof of their widespread collaboration and participation was unveiled in The Wehrmacht Exhibition, a damning collection of photographs and film footage which toured Deutschland between 1999 and 2004. The show shook the country to its core, because it forced folks to face up to the fact that it took much more than a madman and his henchmen to wipe out six million.",
+    "releaseDate": "2006-09-21",
+    "runtime": 97
+  },
+  {
+    "id": 22905,
+    "title": "The Rape of Europa",
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "overview": "World War II was not just the most destructive conflict in humanity, it was also the greatest theft in history: lives, families, communities, property, culture and heritage were all stolen. The story of Nazi Germany's plundering of Europe's great works of art during World War II and Allied efforts to minimize the damage.",
+    "releaseDate": "2006-01-01",
+    "runtime": 117
+  },
+  {
+    "id": 14111,
+    "title": "Battle For Haditha",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "An investigation of the massacre of 24 men, women and children in Haditha, Iraq allegedly shot by 4 U.S. Marines in retaliation for the death of a U.S. Marine killed by a roadside bomb. The movie follows the story of the Marines of Kilo Company, an Iraqi family, and the insurgents who plant the roadside bomb.",
+    "releaseDate": "2007-09-11",
+    "runtime": 97
+  },
+  {
+    "id": 13614,
+    "title": "Katyn",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "An examination of the Soviet slaughter of thousands of Polish officers and citizens in the Katyn forest in 1940.",
+    "releaseDate": "2007-09-21",
+    "runtime": 118
+  },
+  {
+    "id": 4966,
+    "title": "Pan Tadeusz",
+    "genres": [
+      "War",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "overview": "A grand and patriotic tale of Poland's struggle for freedom just before Napoleon's war with Russia. Written in poetic style by Adam Mickiewicz, this story follows two feuding Polish families as they overcome their old conflicts and petty lives. However, they are able to unite as one with their patriotic and rebellious efforts to free the country they deeply love from Russian control.",
+    "releaseDate": "1999-10-18",
+    "runtime": 150
+  },
+  {
+    "id": 3097,
+    "title": "The Tulse Luper Suitcases, Part 1: The Moab Story",
+    "genres": [
+      "War",
+      "Drama",
+      "History",
+      "Adventure",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "The Tulse Luper Suitcases reconstructs the life of Tulse Luper, a professional writer and project-maker, caught up in a life of prisons. He was born in 1911 in Newport, South Wales and presumably last heard of in 1989. His life is reconstructed from the evidence of 92 suitcases found around the world - 92 being the atomic number of the element Uranium. The project includes three feature films, a TV series, 92 DVDs, CD-ROMs, and books.",
+    "releaseDate": "2003-05-24",
+    "runtime": 127
+  },
+  {
+    "id": 13506,
+    "title": "Admiral",
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "This is a story of a great love facing the greatest drama of the history of Russia. Admiral Kolchak is a true war hero and beloved husband and father. One day he meets Anna, the love of his life and the wife of his best friend. The revolution in his heart faces the revolution in his own country His destiny is to become the Supreme Rules of Russia.",
+    "releaseDate": "2008-06-06",
+    "runtime": 123
+  },
+  {
+    "id": 42664,
+    "title": "The War Lord",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance",
+      "War",
+      "Adventure"
+    ],
+    "overview": "A knight in the service of a duke goes to a coastal villiage where an earlier attempt to build a defensive castle has failed. He begins to rebuild the duke's authority in the face of the barbarians at the border and is making progress until he falls in love with one of the local women.",
+    "releaseDate": "1965-11-17",
+    "runtime": 123
+  },
+  {
+    "id": 8881,
+    "title": "Che: Part One",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The Argentine, begins as Che and a band of Cuban exiles (led by Fidel Castro) reach the Cuban shore from Mexico in 1956. Within two years, they mobilized popular support and an army and toppled the U.S.-friendly regime of dictator Fulgencio Batista.",
+    "releaseDate": "2008-09-05",
+    "runtime": 134
+  },
+  {
+    "id": 8880,
+    "title": "Che: Part Two",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "After the Cuban Revolution, Che is at the height of his fame and power. Then he disappears, re-emerging incognito in Bolivia, where he organizes a small group of Cuban comrades and Bolivian recruits to start the great Latin American Revolution. Through this story, we come to understand how Che remains a symbol of idealism and heroism that lives in the hearts of people around the world.",
+    "releaseDate": "2009-01-24",
+    "runtime": 131
+  },
+  {
+    "id": 79090,
+    "title": "Why We Fight: The Battle of Britain",
+    "genres": [
+      "Documentary",
+      "War",
+      "History"
+    ],
+    "overview": "Exciting newsreel footage highlights this award-winning documentary of Britain's gallant stand against the encroaching Nazi horde. As the British people fight bravely, Hitler orders the Luftwaffe to begin the London Blitz in the hope of bringing England to her knees.",
+    "releaseDate": "1943-10-10",
+    "runtime": 54
+  },
+  {
+    "id": 112912,
+    "title": "Why We Fight: The Battle of Russia",
+    "genres": [
+      "Documentary",
+      "War",
+      "History"
+    ],
+    "overview": "\"The Battle of Russia,\" Chapter V of Frank Capra's \"Why We Fight\" series, follows the beginning of the end for Adolph Hitler.",
+    "releaseDate": "1943-01-01",
+    "runtime": 83
+  },
+  {
+    "id": 2253,
+    "title": "Valkyrie",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "History",
+      "War"
+    ],
+    "overview": "Wounded in Africa during World War II, Nazi Col. Claus von Stauffenberg returns to his native Germany and joins the Resistance in a daring plan to create a shadow government and assassinate Adolf Hitler. When events unfold so that he becomes a central player, he finds himself tasked with both leading the coup and personally killing the Führer.",
+    "releaseDate": "2008-12-25",
+    "runtime": 121
+  },
+  {
+    "id": 13813,
+    "title": "Defiance",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Based on a true story, during World War II, four Jewish brothers escape their Nazi-occupied homeland of West Belarus in Poland and join the Soviet partisans to combat the Nazis. The brothers begin the rescue of roughly 1,200 Jews still trapped in the ghettos of Poland.",
+    "releaseDate": "2008-12-31",
+    "runtime": 137
+  },
+  {
+    "id": 13180,
+    "title": "Zeitgeist: Addendum",
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "overview": "Zeitgeist: Addendum premiered at the 5th Annual Artivist Film Festival. Director Peter Joseph stated: \"The failure of our world to resolve the issues of war, poverty, and corruption, rests within a gross ignorance about what guides human behavior to begin with. It address the true source of the instability in our society, while offering the only fundamental, long-term solution.\"",
+    "releaseDate": "2008-10-02",
+    "runtime": 123
+  },
+  {
+    "id": 31688,
+    "title": "The Soviet Story",
+    "genres": [
+      "Documentary",
+      "War",
+      "History"
+    ],
+    "overview": "“The Soviet Story” is a story of an Allied power, which helped the Nazis to fight Jews and which slaughtered its own people on an industrial scale. Assisted by the West, this power triumphed on May 9th, 1945. Its crimes were made taboo, and the complete story of Europe’s most murderous regime has never been told. Until now...",
+    "releaseDate": "2008-01-01",
+    "runtime": 86
+  },
+  {
+    "id": 14582,
+    "title": "Passchendaele",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War",
+      "History"
+    ],
+    "overview": "Sergeant Michael Dunne fights in the 10th Battalion, AKA The \"Fighting Tenth\" with the 1st Canadian Division and participated in all major Canadian battles of the war, and set the record for highest number of individual bravery awards for a single battle",
+    "releaseDate": "2008-10-17",
+    "runtime": 114
+  },
+  {
+    "id": 25405,
+    "title": "Taking Chance",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Lt. Col. Michael Strobl, a volunteer military escort accompanies the body of Lance Cpl. Chance Phelps to his hometown in Wyoming.",
+    "releaseDate": "2009-09-21",
+    "runtime": 77
+  },
+  {
+    "id": 15384,
+    "title": "Red Cliff Part II",
+    "genres": [
+      "War",
+      "Action",
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "overview": "In 208 A.D., in the final days of the Han Dynasty, shrewd Prime Minster Cao convinced the fickle Emperor Han the only way to unite all of China was to declare war on the kingdoms of Xu in the west and East Wu in the south. Thus began a military campaign of unprecedented scale. Left with no other hope for survival, the kingdoms of Xu and East Wu formed an unlikely alliance.",
+    "releaseDate": "2009-01-07",
+    "runtime": 136
+  },
+  {
+    "id": 8429,
+    "title": "Paisan",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "overview": "Six vignettes follow the Allied invasion from July 1943 to winter 1944, from Sicily north to Venice.",
+    "releaseDate": "1946-12-10",
+    "runtime": 125
+  },
+  {
+    "id": 8883,
+    "title": "Flame & Citron",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "During Nazi occupation, red-headed Bent Faurschou-Hviid (\"Flame\") and Jørgen Haagen Schmith (\"Citron\"), assassins in the Danish resistance, take orders from Winther, who's in direct contact with Allied leaders. One shoots, the other drives. Until 1944, they kill only Danes; then Winther gives orders to kill Germans. When a target tells Bent that Winther's using them to settle private scores, doubt sets in, complicated by Bent's relationship with the mysterious Kitty Selmer, who may be a double agent. Also, someone in their circle is a traitor. Can Bent and Jørgen kill an über-target, evade capture, and survive the war? And is this heroism, naiveté, or mere hatred?",
+    "releaseDate": "2008-03-25",
+    "runtime": 130
+  },
+  {
+    "id": 18061,
+    "title": "Zulu Dawn",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In 1879, the British suffer a great loss at the Battle of Isandlwana due to incompetent leadership. Cy Endfield co-wrote the epic prequel Zulu Dawn 15 years after his enormously popular Zulu. Set in 1879, this film depicts the catastrophic Battle of Isandhlwana, which remains the worst defeat of the British army by natives, with the British contingent outnumbered 16-to-1 by the Zulu tribesmen. The film's opinion of events is made immediately clear in its title sequence: ebullient African village life presided over by King Cetshwayo is contrasted with aristocratic artifice under the arrogant eye of General Lord Chelmsford (Peter O'Toole). Chelmsford is at the heart of all that goes wrong, initiating the catastrophic battle with an ultimatum made seemingly for the sake of giving his troops something to do. His detached  manner leads to one mistake after another.",
+    "releaseDate": "1979-05-14",
+    "runtime": 117
+  },
+  {
+    "id": 10821,
+    "title": "120",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "overview": "During the Sarikamis Battle, the Ottoman army runs out of ammunition and appeals to the people of Van for help, who happen to have supplies. However, the First World War is on and all men are fighting at four corners of the empire and therefore can not respond to to the appeal. The young children of Van want to do something...",
+    "releaseDate": "2008-02-15",
+    "runtime": 114
+  },
+  {
+    "id": 13752,
+    "title": "Max Manus: Man of War",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Max Manus is a Norwegian 2008 biographic war film based on the real events of the life of resistance fighter Max Manus (1914–96), after his contribution in the Winter War against the Soviet Union. The story follows Manus through the outbreak of World War II in Norway until peacetime in 1945.",
+    "releaseDate": "2008-12-18",
+    "runtime": 118
+  },
+  {
+    "id": 94663,
+    "title": "The Round-Up",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Set in a detention camp in Hungary in 1869 at a time of guerilla campaigns against the ruling Austrians.",
+    "releaseDate": "1966-01-06",
+    "runtime": 87
+  },
+  {
+    "id": 14968,
+    "title": "Welcome to Dongmakgol",
+    "genres": [
+      "War",
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "overview": "Based on the long running play by Jang Jin, the story is set in Korea during the Korean War in 1950. Soldiers from both the North and South, as well as an American pilot, find themselves in a secluded and naively idealistic village, its residents unaware of the outside world, including the war.",
+    "releaseDate": "2005-08-04",
+    "runtime": 133
+  },
+  {
+    "id": 24458,
+    "title": "The Age of Stupid",
+    "genres": [
+      "War",
+      "Documentary",
+      "History"
+    ],
+    "overview": "The Age of Stupid is the new movie from Director Franny Armstrong (McLibel) and producer John Battsek (One Day In September). Pete Postlethwaite stars as a man living alone in the devastated future world of 2055, looking at old footage from 2008 and asking: why didn’t we stop climate change when we had the chance?",
+    "releaseDate": "2009-09-21",
+    "runtime": 92
+  },
+  {
+    "id": 5707,
+    "title": "Shooting War",
+    "genres": [
+      "Documentary",
+      "Action",
+      "War",
+      "History"
+    ],
+    "overview": "A remarkable film that takes a special look at the first war to be truly reported and recorded by one of the more unsung heroes of World War II: the combat photographer. Through the unflinching eye of their camera's lenses, these courageous soldiers continually risked their lives in their brave attempts to capture history.",
+    "releaseDate": "2000-12-07",
+    "runtime": 88
+  },
+  {
+    "id": 15807,
+    "title": "Air Force",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The crew of an Air Force bomber arrives in Pearl Harbor in the aftermath of the Japanese attack and is sent on to Manila to help with the defense of the Philippines.",
+    "releaseDate": "1943-03-20",
+    "runtime": 124
+  },
+  {
+    "id": 47370,
+    "title": "Japan's Longest Day",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Following the detonation of the atomic bombs on Hiroshima and Nagasaki, the Japanese military and the government clash over the demand from the Allies for unconditional surrender. Minister of the Army Anami leads the military officers who propose to fight on, even to the death of every Japanese citizen. Emperor Hirohito, however, joins with his ministers in asking the unthinkable, the peaceful surrender of Japan. When the military plots a coup to overthrow the Emperor's civilian government, Anami must face the choice between his desires and loyalty to his Emperor.",
+    "releaseDate": "1967-08-12",
+    "runtime": 157
+  },
+  {
+    "id": 8349,
+    "title": "The Red Baron",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Richthofen goes off to war like thousands of other men. As fighter pilots, they become cult heroes for the soldiers on the battlefields. Marked by sportsmanlike conduct, technical exactitude and knightly propriety, they have their own code of honour. Before long he begins to understand that his hero status is deceptive. His love for Kate, a nurse, opens his eyes to the brutality of war.",
+    "releaseDate": "2008-03-29",
+    "runtime": 120
+  },
+  {
+    "id": 45988,
+    "title": "1066: The Battle for Middle Earth",
+    "genres": [
+      "War",
+      "History",
+      "Action"
+    ],
+    "overview": "October 14th, 1066 is the most famous date in English history. It is the year of TWO invasions of England, and in which three huge and bloody pitched battles were fought",
+    "releaseDate": "2009-05-18",
+    "runtime": 148
+  },
+  {
+    "id": 63195,
+    "title": "La Commune (Paris, 1871)",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "We are in the year 1871. A journalist for Versailles Television broadcasts a soothing and official view of events while a Commune television is set up to provide the perspectives of the Paris rebels. On a stage-like set, more than 200 actors interpret characters of the Commune, especially the Popincourt neighbourhood in the XIth arrondissement. They voice their own thoughts and feelings concerning the social and political reforms. The scenes consist mainly of long camera takes.",
+    "releaseDate": "2001-09-06",
+    "runtime": 345
+  },
+  {
+    "id": 17277,
+    "title": "The Fall of the Roman Empire",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Drawn from the same events that later inspired Gladiator, the film charts the power-hungry greed and father-son betrayal that led to Rome's collapse at the bloody hands of the Barbarians.",
+    "releaseDate": "1964-03-24",
+    "runtime": 188
+  },
+  {
+    "id": 4933,
+    "title": "The Buccaneer",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "During the War of 1812 against Britain: General Andrew Jackson has only 1,200 men left to defend New Orleans when he learns that a British fleet will arrive with 60 ships and 16,000 men to take the city. In this situation an island near the city becomes strategically important to both parties, but it's inhabited by the last big buccaneer: Jean Lafitte. Although Lafitte never attacks American ships, the governor hates him for selling merchandise without taxes - and is loved by the citizens for the same reason. When the big fight gets nearer, Lafitte is drawn between the fronts. His heart belongs to America, but his people urge him to join the party that's more likely to win.",
+    "releaseDate": "1958-12-11",
+    "runtime": 119
+  },
+  {
+    "id": 35939,
+    "title": "Glorious 39",
+    "genres": [
+      "War",
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "overview": "A mysterious tale set around a traditional British family on the eve of World War Two. Oblivious to the looming shadow of World War II, the wealthy Keyes maintain a confident façade in the British countryside until daughter Anne becomes an unexpected pawn. Her accidental discovery of secret recordings creates a rift in the family.",
+    "releaseDate": "2009-11-20",
+    "runtime": 129
+  },
+  {
+    "id": 21345,
+    "title": "City of Life and Death",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "City of Life and Death takes place in 1937, during the height of the Second Sino-Japanese War. The Imperial Japanese Army has just captured the then-capital of the Republic of China, Nanjing. What followed was known as the Nanking Massacre, or the Rape of Nanking, a period of several weeks wherein tens of thousands of Chinese soldiers and civilians were killed.",
+    "releaseDate": "2009-04-22",
+    "runtime": 132
+  },
+  {
+    "id": 111310,
+    "title": "Operator 13",
+    "genres": [
+      "Drama",
+      "Western",
+      "War",
+      "Romance",
+      "History"
+    ],
+    "overview": "Union spy Gail Loveless impersonates a black maid in the early days of the Civil War, but complications arise when she falls in love with a Confederate officer.",
+    "releaseDate": "1934-06-08",
+    "runtime": 85
+  },
+  {
+    "id": 25385,
+    "title": "Tobruk",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In September 1942, the German Afrika Korps under Rommel have successfully pushed the Allies back into Egypt. A counter-attack is planned, for which the fuel dumps at Tobruk are a critical impediment. In order to aid the attack, a group of British commandos and German Jews make their way undercover through 800 miles of desert, to destroy the fuel dumps starving the Germans of fuel.",
+    "releaseDate": "1967-02-07",
+    "runtime": 107
+  },
+  {
+    "id": 8929,
+    "title": "Johnny Mad Dog",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A cast of unknown performers are used in this drama about child soldiers fighting a war in an unnamed African country.",
+    "releaseDate": "2008-05-20",
+    "runtime": 97
+  },
+  {
+    "id": 44398,
+    "title": "The Black Rose",
+    "genres": [
+      "War",
+      "Adventure",
+      "History"
+    ],
+    "overview": "In the time of the crusades, a Saxon youth is forced to run away from England. He goes with his loyal retainer who brings along a British long bow. The two go all the way to China where they become involved in intrigues in the court of Kubla Kahn.",
+    "releaseDate": "1950-09-01",
+    "runtime": 116
+  },
+  {
+    "id": 61302,
+    "title": "Culloden",
+    "genres": [
+      "War",
+      "Documentary",
+      "Drama",
+      "History"
+    ],
+    "overview": "Culloden is a 1964 docudrama written and directed by Peter Watkins for BBC TV. It portrays the 1746 Battle of Culloden that resulted in the British Army's destruction of the Scottish Jacobite uprising and, in the words of the narrator, \"tore apart forever the clan system of the Scottish Highlands\". Described in its opening credits as \"an account of one of the most mishandled and brutal battles ever fought in Britain\", Culloden was hailed as a breakthrough for its cinematography as well as its use of non-professional actors and its presentation of an historical event in the style of modern TV war reporting. The film was based on John Prebble's study of the battle.",
+    "releaseDate": "1964-05-24",
+    "runtime": 69
+  },
+  {
+    "id": 45884,
+    "title": "Kapo",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A young Jewish girl leads an escape attempt from a concentration camp.",
+    "releaseDate": "1960-09-27",
+    "runtime": 120
+  },
+  {
+    "id": 72913,
+    "title": "Amigo",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Rafael, a village mayor caught in the murderous crossfire of the Philippine-American War. When U.S. troops occupy his village, Rafael comes under pressure from a tough-as-nails officer to help the Americans in their hunt for Filipino guerilla fighters. But Rafael's brother is the head of the local guerillas, and considers anyone who cooperates with the Americans to be a traitor. Rafael quickly finds himself forced to make the impossible, potentially deadly decisions faced by ordinary civilians in an occupied country.",
+    "releaseDate": "2010-07-14",
+    "runtime": 128
+  },
+  {
+    "id": 54720,
+    "title": "Killing Kasztner",
+    "genres": [
+      "War",
+      "Documentary",
+      "History"
+    ],
+    "overview": "How much should you negotiate with the enemy? In Israel, the debate over that question evoked fury to the point of assassination. Such was the case of Kasztner.  Dr Israel (Rezso) Kasztner, a Hungarian Jew who tried to rescue the last million Jews of Europe by negotiating face to face with Nazi leader Adolf Eichmann, was gunned down by another Jew who never set foot in Nazi Europe.  After 50 years, his assassin Ze'ev Eckstein breaks his silence on the fateful night he shot and killed Kasztner. (Storyville)",
+    "releaseDate": "2008-10-01",
+    "runtime": 129
+  },
+  {
+    "id": 48203,
+    "title": "The Desert of the Tartars",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Lieutenant Giovanni Drogo is assigned to the old Bastiani border fortress where he expects an imminent attack by nomadic fearsome Tartars.",
+    "releaseDate": "1976-01-01",
+    "runtime": 140
+  },
+  {
+    "id": 56448,
+    "title": "Stalin",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The life and career of the brutal Soviet dictator, Josef Stalin.",
+    "releaseDate": "1992-11-21",
+    "runtime": 166
+  },
+  {
+    "id": 50618,
+    "title": "Fortress of War",
+    "genres": [
+      "War",
+      "Drama",
+      "History",
+      "Action"
+    ],
+    "overview": "A war drama set during the Nazi invasion of the Soviet Union in June 1941, in which Russian troops held on to a border stronghold for nine days. The film shows the heroic defense of Brest Fortress, which has taken upon the first stroke of German fascist invaders on June 22 1941.",
+    "releaseDate": "2010-11-04",
+    "runtime": 138
+  },
+  {
+    "id": 8418,
+    "title": "Kolberg",
+    "genres": [
+      "War",
+      "History"
+    ],
+    "overview": "During Napoleon's victorious campaign in Germany, the city of Kolberg gets isolated from the retreating Prussian forces. The population of Kolberg refuses to capitulate and organizes the resistance against the French army, which immediately submits the city to massive bombardmentsKolberg\" is a unique document showing a well-oiled propaganda machine collapsing in the face of its immanent demise. It achieves the opposite of its intent. The stolid face at the end of the film with the proto-Nazi flag as a backdrop is supposed to convey a sense of determined conviction but there's fear in those eyes.",
+    "releaseDate": "1945-01-30",
+    "runtime": 110
+  },
+  {
+    "id": 81687,
+    "title": "Lloyd's of London",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "Blake is in love with an aristocratic woman whose husband seriously injures him. Blake's friendship with Lord Nelson provides the basis for Blake's part in the growth of Lloyd's insurance business following the Battle of Trafalgar. Only very slightly based on history.",
+    "releaseDate": "1936-11-29",
+    "runtime": 118
+  },
+  {
+    "id": 30432,
+    "title": "Army of Crime",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "This gripping historical drama recounts the story of Armenian-born Missak Manouchian, a woodworker and political activist who led an immigrant laborer division of the Parisian Resistance on 30 operations against the Nazis in 1943. The Nazis branded the group an Army of Crime, an anti-immigrant propaganda stunt that backfired as the team's members became martyrs for the Resistance.",
+    "releaseDate": "2009-05-17",
+    "runtime": 139
+  },
+  {
+    "id": 31890,
+    "title": "God on Trial",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "overview": "In the Jewish tradition of arguing with God, Jewish prisoners in Auschwitz decide to put God on Trial.",
+    "releaseDate": "2008-09-03",
+    "runtime": 86
+  },
+  {
+    "id": 43418,
+    "title": "Beneath Hill 60",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The true story of Australia's cat-and-mouse underground mine warfare – one of the most misunderstood, misrepresented and mystifying conflicts of WW I. It was a secret struggle BENEATH the Western Front that combined daring engineering, technology and science, and few on the surface knew of the brave, claustrophobic and sometimes barbaric work of these tunnellers.",
+    "releaseDate": "2010-04-15",
+    "runtime": 122
+  },
+  {
+    "id": 47904,
+    "title": "Outside the Law",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "After losing their family home in Algeria in the 1920s, three brothers and their mother are scattered across the globe. Messaoud joins the French army fighting in Indochina; Abdelkader becomes a leader of the Algerian independence movement in France and Saïd moves to Paris to make his fortune in the shady clubs and boxing halls of Pigalle.",
+    "releaseDate": "2010-09-21",
+    "runtime": 137
+  },
+  {
+    "id": 13507,
+    "title": "Intimate Enemies",
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "A drama following a French platoon during Algeria's war of independence",
+    "releaseDate": "2007-01-01",
+    "runtime": 108
+  },
+  {
+    "id": 5937,
+    "title": "John Rabe",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A true-story account of a German businessman who saved more than 200,000 Chinese during the Nanjing massacre in 1937-38.",
+    "releaseDate": "2009-04-02",
+    "runtime": 134
+  },
+  {
+    "id": 28039,
+    "title": "The New One-Armed Swordsman",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Lei Li lost his right-arm in a sword duel with the master of a martial arts school, long ago. Now, he is able to defend himself well with just his left arm, and kung fu techniques. That he proves with just the help of his friend Chung-Chieng, when he crosses his path with a beautiful girl in need, Pao Chiao. Even against impossible odds, he will prove a great warrior.",
+    "releaseDate": "1971-02-07",
+    "runtime": 102
+  },
+  {
+    "id": 31398,
+    "title": "Michael the Brave",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "An epic fresco depicting the reign (1593-1601) of Mihai Pätrascu (better known as \"Mihai Viteazul\" / \"Michael the Brave\"), the famous prince who united the three provinces: Transalpine Vallachia, Transylvania and Moldavia, into the country of Romania, at the end of the 16th century (1599-1601) against the opposition of the Ottoman and Austrian Empires, this movie features large scale battle scenes mixed with political intrigues, murderous treachery, and family drama.",
+    "releaseDate": "1970-01-01",
+    "runtime": 107
+  },
+  {
+    "id": 36662,
+    "title": "Dacii",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The great King of Dacia, Decebal (Decebalus), is disposed to make the ultimate sacrifice in order to keep the integrity of his people. His own son, Cotyso, is given to the god Zamolxis to the dismay of the King and his daughter Meda. Septimius Severus a young roman devoted to his adopted country, must make the choose between his blood origins and the culture he was raised to",
+    "releaseDate": "1967-05-31",
+    "runtime": 110
+  },
+  {
+    "id": 72431,
+    "title": "Red Tails",
+    "genres": [
+      "Drama",
+      "Action",
+      "Adventure",
+      "History",
+      "War"
+    ],
+    "overview": "The story of the Tuskegee Airmen, the first African-American pilots to fly in a combat squadron during World War II.",
+    "releaseDate": "2012-01-19",
+    "runtime": 125
+  },
+  {
+    "id": 76758,
+    "title": "The Flowers of War",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A Westerner finds refuge with a group of women in a church during Japan's rape of Nanking in 1937. Posing as a priest, he attempts to lead the women to safety.",
+    "releaseDate": "2011-12-15",
+    "runtime": 145
+  },
+  {
+    "id": 16564,
+    "title": "Winter in Wartime",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "During World War II in the freezing Netherlands winter of 1944/1945 the western Netherlands are in the grip of a famine.  Many people move east to provide for their families. Fourteen year old Michiel can't wait to join the Dutch resistance, to the dismay of his father, who, as mayor, works to prevent escalations in the village.",
+    "releaseDate": "2008-11-17",
+    "runtime": 103
+  },
+  {
+    "id": 41411,
+    "title": "The Round Up",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "1942. Joseph is eleven. And this June morning, he must go to school, a yellow star sown on his chest. He receives the support of a goods dealer. The mockery of a baker. Between kindness and contempt, Jo, his Jewish friends, their families, learn of life in an occupied Paris, on the Butte Montmartre, where they've taken shelter. At least that's what they think, until that morning on July 16th 1942, when their fragile happiness is toppled over.",
+    "releaseDate": "2010-03-10",
+    "runtime": 115
+  },
+  {
+    "id": 84569,
+    "title": "Chosin",
+    "genres": [
+      "History",
+      "Documentary",
+      "Drama",
+      "War"
+    ],
+    "overview": "After 60 years of silence, the survivors of the Chosin Reservoir Campaign of the Korean War take us on an emotional and heart-pounding journey through one of the most savage battles in American history.",
+    "releaseDate": "2010-09-10",
+    "runtime": 86
+  },
+  {
+    "id": 208988,
+    "title": "The War",
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "overview": "The War is a seven episode documentary miniseries, produced by Ken Burns and Lynn Novick, that examines the myriad ways in which the Second World War touched the lives of every family on every street in every town in America. By telling the stories of ordinary people in four quintessentially American towns – Waterbury, Connecticut; Mobile, Alabama; Sacramento, California; and the tiny farming town of Luverne, Minnesota – the series will portray this enormous worldwide catastrophe on an intimate, human scale. The War will intertwine vivid eyewitness accounts of the harrowing realities of life on the front lines with reminiscences of Americans who never left their home towns, and who tried their best to carry on with the business of daily life while their fathers and brothers and sons were overseas. The film will honor and celebrate the bravery, endurance, and sacrifice, of the generation of Americans who lived through what will always be known simply as The War.",
+    "releaseDate": "2007-09-23",
+    "runtime": 874
+  },
+  {
+    "id": 8266,
+    "title": "Female Agents",
+    "genres": [
+      "Action",
+      "Thriller",
+      "War",
+      "History"
+    ],
+    "overview": "May 1944, a group of French servicewomen and resistance fighters are enlisted into the British Special Operations Executive commando group under the command of Louise Desfontaines and her brother Pierre. Their mission, to rescue a British army geologist caught reconnoitering the beaches at Normandy.",
+    "releaseDate": "2008-02-08",
+    "runtime": 117
+  },
+  {
+    "id": 110525,
+    "title": "Four Sons",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Four Sons is a 1940 film directed by Archie Mayo. It stars Don Ameche and Eugenie Leontovich. It is a remake of the 1928 film of the same name.",
+    "releaseDate": "1940-06-14",
+    "runtime": 89
+  },
+  {
+    "id": 22969,
+    "title": "Fire Over England",
+    "genres": [
+      "War",
+      "Drama",
+      "Adventure",
+      "History",
+      "Romance"
+    ],
+    "overview": "The film is a historical drama set during the reign of Elizabeth I (Flora Robson), focusing on the English defeat of the Spanish Armada, whence the title. In 1588, relations between Spain and England are at the breaking point. With the support of Queen Elizabeth I, British sea raiders such as Sir Francis Drake regularly capture Spanish merchantmen bringing gold from the New World.",
+    "releaseDate": "1937-02-25",
+    "runtime": 92
+  },
+  {
+    "id": 76349,
+    "title": "1911",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "At the beginning of the 20th century, China is in a state of crisis. The country is split into warring factions, the citizens are starving, and recent political reforms have made matters worse, not better. The ruling Qing Dynasty, led by a seven-year-old emperor, and his ruthless mother, Empress Dowager Longyu is completely out of touch after 250 years of unquestioned power. Huang Xing has recently returned from Japan, where he has studied the art of modern warfare. When he finds his country falling apart, he feels he has no choice but to pick up the sword.",
+    "releaseDate": "2011-07-03",
+    "runtime": 125
+  },
+  {
+    "id": 94047,
+    "title": "My Way",
+    "genres": [
+      "Drama",
+      "Action",
+      "History",
+      "War"
+    ],
+    "overview": "Inspired by a true story. Jun Shik works for Tatsuo's grandfather's farm while Korea is colonized by Japan, but he has a dream to participate in Tokyo Olympics as a marathon runner. Tatsuo also aims to become a marathon runner, so the two are in rivalry. But war breaks out and they both are forced to enlist in the army. Tatsuo becomes the head of defense in Jun Shik's unit and he devises a scheme but fails. Jun Shik and Tatsuo are captured by the Soviets. They run away but soon are captured by Germans and forced to separate. In 1944, they meet again at the shores of Normandy.",
+    "releaseDate": "2011-12-21",
+    "runtime": 137
+  },
+  {
+    "id": 109475,
+    "title": "Ironclads",
+    "genres": [
+      "TV Movie",
+      "History",
+      "War"
+    ],
+    "overview": "Ironclads is a 1991 made-for-television movie produced by Ted Turner's TNT company about the events behind the creation of the CSS Virginia from the remains of the USS Merrimack and the battle between the Virginia and the USS Monitor in the Battle of Hampton Roads, March 8, 1862-March 9, 1862.",
+    "releaseDate": "1991-03-11",
+    "runtime": 94
+  },
+  {
+    "id": 127372,
+    "title": "Emperor",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "As the Japanese surrender at the end of WWII, Gen. Fellers is tasked with deciding if Emperor Hirohito will be hanged as a war criminal. Influencing his ruling is his quest to find Aya, an exchange student he met years earlier in the U.S.",
+    "releaseDate": "2012-09-14",
+    "runtime": 105
+  },
+  {
+    "id": 40878,
+    "title": "The Crossing",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A made-for-TV dramatization of George Washington's perilous gamble of crossing the Delaware River and attacking the British forces at Trenton.",
+    "releaseDate": "2000-01-10",
+    "runtime": 89
+  },
+  {
+    "id": 45562,
+    "title": "An Ungentlemanly Act",
+    "genres": [
+      "History",
+      "War",
+      "Drama"
+    ],
+    "overview": "Based on actual accounts, this film portrays the days and hours before and during the invasion of the Falkland Islands by Argentina, which eventually lead to the Falklands War. As the Argentine forces land on the main island and make their way towards Government House, the handful of British defenders batten down the hatches and prepare to defend the Governor Rex Hunt, his family and their fellow islanders from the invaders.",
+    "releaseDate": "1992-01-01",
+    "runtime": 130
+  },
+  {
+    "id": 27957,
+    "title": "The Breath",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A major who had just lost two people in his command in a combat with PKK militants arrives at the station and takes charge. He finds it very difficult to step out of the state of depression due to his recent loss and so intimidates his soldiers into bettering themselves to ensure that such a tragedy never happens again. During his stay there, he came across a PKK militant called the ‘Doctor’.",
+    "releaseDate": "2009-10-15",
+    "runtime": 128
+  },
+  {
+    "id": 113362,
+    "title": "Hitler's Children",
+    "genres": [
+      "War",
+      "Documentary",
+      "History"
+    ],
+    "overview": "Their family name alone evokes horror: Himmler, Frank, Goering, Hoess. This film looks at the descendants of the most powerful figures in the Nazi regime: men and women who were left a legacy that indelibly associates them with one of the greatest abominations in history. What is it like to have grown up with a name that immediately raises images of genocide? How do they live with the weight of their ancestors' crimes? Is it possible to move on from the crimes of their ancestors?",
+    "releaseDate": "2011-11-21",
+    "runtime": 83
+  },
+  {
+    "id": 2911,
+    "title": "The Last Drop",
+    "genres": [
+      "Action",
+      "Crime",
+      "History",
+      "War"
+    ],
+    "overview": "Different factions in WWII-era Holland race to find a stash of Nazi gold.",
+    "releaseDate": "2005-05-23",
+    "runtime": 103
+  },
+  {
+    "id": 100461,
+    "title": "The Christian Revolt",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In the year 1637 in Shimabara of Tokugawa-era Japan, oppressed peasant Christians revolt against the shogunate with the aid of a charismatic Christian rebel leader Shiro Amakusa.",
+    "releaseDate": "1962-03-21",
+    "runtime": 100
+  },
+  {
+    "id": 193212,
+    "title": "The Man Who Captured Eichmann",
+    "genres": [
+      "TV Movie",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Set in 1960, the story follows the efforts of the Mossad, the Israeli Secret Service, to find former SS Colonel Adolf Eichmann, who ran from Germany to Argentina and took the name Ricardo Clement. He was wanted for the murders of both Europeans and Jews during the Holocaust. Learning of Eichmann's living in Argentina, the Mossad sends a team to capture him, led by agent Peter Malkin. The standing order: bring Eichmann back alive to Israel for trial.",
+    "releaseDate": "1996-11-08",
+    "runtime": 96
+  },
+  {
+    "id": 129405,
+    "title": "World War II: When Lions Roared",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Based upon the actual cables between Washington, London and Moscow during the Second World War, this TV-movie examines the relationship between the leaders of these countries throughout the conflict. Franklin D. Roosevelt (John Lithgow), Winston Churchill (Bob Hoskins) and Joseph Stalin (Michael Caine), spring to life as real but imperfect people who nevertheless are great leaders fighting a great war.",
+    "releaseDate": "1994-04-18",
+    "runtime": 115
+  },
+  {
+    "id": 18619,
+    "title": "Ghetto",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "overview": "In 1942, in Vilna, the Nazi annihilate 55,000 Jews and squeeze the 15,000 survivors in a seven blocks ghetto. The twenty-two year old sadistic commander Kittel is assigned to administrate the ghetto in the capital of Lithuania, becoming the master of life or death. When he finds the gorgeous Hayyah sneaking with one kilo of beam stolen from the German army, he sentences her to death; but when he is informed that she was a former successful singer, he decides to activate the old theater and promote shows in the ghetto. The Jew Chief of Police Gens uses the theater and a sewing factory to save as much lives as he can; in his ambiguous position, he kills Jews to save lives of others.",
+    "releaseDate": "2006-06-08",
+    "runtime": 0
+  },
+  {
+    "id": 59993,
+    "title": "World War Three",
+    "genres": [
+      "War",
+      "Documentary",
+      "History",
+      "Drama",
+      "TV Movie"
+    ],
+    "overview": "This mock documentary uses archival footage, interviews and reports taken out of context and staged interviews to highlight a possible escalation into a nuclear war. In this feature, tension in East Germany, and an uprising triggered by a visit by Gorbachev sees a successful military coup taking place in the USSR. Western actions against brutal crack-downs on civilians involved increases tension between the sides, finally resulting in nuclear war.",
+    "releaseDate": "1998-12-01",
+    "runtime": 88
+  },
+  {
+    "id": 103742,
+    "title": "In the Fog",
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "Western frontiers of the USSR, 1942. The region is under German occupation. A man is wrongly accused of collaboration. Desperate to save his dignity, he faces an impossible moral choice.",
+    "releaseDate": "2012-11-22",
+    "runtime": 130
+  },
+  {
+    "id": 54102,
+    "title": "Generation Kill",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Marines prepare to invade Iraq at the beginning of Operation Iraqi Freedom; while the soldiers wait to receive their orders, they learn a Rolling Stone columnist will be embedded with them",
+    "releaseDate": "2008-07-13",
+    "runtime": 470
+  },
+  {
+    "id": 152760,
+    "title": "The Monuments Men",
+    "genres": [
+      "War",
+      "Drama",
+      "History",
+      "Action"
+    ],
+    "overview": "Based on the true story of the greatest treasure hunt in history, The Monuments Men is an action drama focusing on seven over-the-hill, out-of-shape museum directors, artists, architects, curators, and art historians who went to the front lines of WWII to rescue the world’s artistic masterpieces from Nazi thieves and return them to their rightful owners.  With the art hidden behind enemy lines, how could these guys hope to succeed?",
+    "releaseDate": "2014-01-24",
+    "runtime": 118
+  },
+  {
+    "id": 105945,
+    "title": "Memorial Day",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "History",
+      "War"
+    ],
+    "overview": "Memorial Day, 1993. When 13-year-old Kyle Vogel discovers the World War II footlocker belonging to his grandfather, Bud, everyone tells Kyle to put it back. Luckily, he ignores them. Although Bud has never talked about the war, he finds himself striking a deal with his grandson: Kyle can pick any three souvenirs, and Bud will tell him the stories behind each one. Memorial Day not only takes us on a journey into Bud's complicated wartime past, but also into Kyle's wartime future. As the two men share parallel experiences in combat, they come to realize how that magical day on the porch shaped both of their lives.",
+    "releaseDate": "2011-06-06",
+    "runtime": 108
+  },
+  {
+    "id": 148021,
+    "title": "Toward the Unknown",
+    "genres": [
+      "War",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "overview": "The story of a US Air Force major who was captured during the Korean War, and cracked signing a confession.  After his release he ultimately arrives at Edwards Air Force base and works for his old buddy, now base commander.  And runs into an old love forming the romantic triangle sub plot.  But the main story line is the testing of high speed aircraft and the two main characters restoring their trust in each other.  The aviation story line centers on the testing of the  testing of the Gilbert XF-120 fighter, which suffers structural problems.  And who will test the rocket powered X-2, designed to fly to the edge of space.",
+    "releaseDate": "1956-09-27",
+    "runtime": 115
+  },
+  {
+    "id": 279414,
+    "title": "Once My Mother",
+    "genres": [
+      "History",
+      "Documentary",
+      "War",
+      "Family"
+    ],
+    "overview": "Australian filmmaker Sophia Turkiewicz investigates why her Polish mother abandoned her and uncovers the truth behind her mother's wartime escape from a Siberian gulag, leaving Sophia to confront her own capacity for forgiveness.",
+    "releaseDate": "2014-07-24",
+    "runtime": 75
+  },
+  {
+    "id": 34469,
+    "title": "Julius Caesar",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Twenty year-old Julius Caesar flees Rome for his life during the reign of Sulla but through skill and ambition rises four decades later to become Rome's supreme dictator.",
+    "releaseDate": "2002-12-27",
+    "runtime": 240
+  },
+  {
+    "id": 25032,
+    "title": "Alexander: The Neva Battle",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Young prince Aleksandr has to hold out against two enemies - the Horde in the east and the Teutonic order and Sweden in the west. He discovers that some boyars are plotting against him and are ready to betray Novgorod to the Swedes and the Germans to boost their trade. Meanwhile, his best friend falls under suspicion, as somebody tries to poison the young prince at his own wedding feast. Aleksandr has no way out - to defend his people against the invaders and to find the true poisoner.",
+    "releaseDate": "2008-05-01",
+    "runtime": 110
+  },
+  {
+    "id": 162532,
+    "title": "Sarraounia",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "On January 2 1899, starting from the French Soudan, a french column under the commandment of the captains Voulet and Chanoine is send against the black Sultan Rabah in what is now the Cameroun. Those captains and their african mercenary troops destroy and kill everything they find on their path. The French autority try to stop them sending orders and a second troop but the captains even kill the emissaries who are reaching them. Sarraounia, queen of the Aznas, have heared about the exactions. Clever in war tactics and in witchcraft, she decides to resist and stop those mad men.",
+    "releaseDate": "1986-07-01",
+    "runtime": 120
+  },
+  {
+    "id": 212530,
+    "title": "The Great King",
+    "genres": [
+      "History",
+      "War",
+      "Drama"
+    ],
+    "overview": "King Frederick II (aka \"Frederick the Great\") of Prussia is engaged in a major battle against the Austrian army at Kunersdorf, and things aren't going well. The Austrians are inflicting major casualties, and his army is beginning to crumble. Defeat seems inevitable when a combination of events gives him hope that he may pull victory from the jaws of defeat after all",
+    "releaseDate": "1942-03-02",
+    "runtime": 118
+  },
+  {
+    "id": 12314,
+    "title": "The Bridge",
+    "genres": [
+      "TV Movie",
+      "History",
+      "War"
+    ],
+    "overview": "A group of German boys is ordered to protect a small bridge in their home village during the waning months of the second world war. Truckloads of defeated, cynical Wehrmacht soldiers flee the approaching American troops, but the boys, full of enthusiasm for the \"blood and honor\" Nazi ideology, stay to defend the useless bridge.",
+    "releaseDate": "2008-06-20",
+    "runtime": 100
+  },
+  {
+    "id": 141950,
+    "title": "Calm at Sea",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "A teenager joins the resistance in Nazi-occupied France during World War II.",
+    "releaseDate": "2012-03-21",
+    "runtime": 90
+  },
+  {
+    "id": 178446,
+    "title": "Generation War",
+    "genres": [
+      "Action",
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "Berlin, 1941. Five friends eager to become heroes in an adventure that will change the face of Europe - and that will forever change them as well.",
+    "releaseDate": "2013-03-17",
+    "runtime": 270
+  },
+  {
+    "id": 97414,
+    "title": "Auschwitz: The Nazis and the 'Final Solution'",
+    "genres": [
+      "War",
+      "Documentary",
+      "History"
+    ],
+    "overview": "An in-depth visual and verbal account of one of the most notorious episodes of World War 2. Using location shots and combining CGI, for a 3-D realism, this is a documentary, through a timeline, showing its conception, ideals, horrors and liberation of the Death Camp that is Auschwitz and its role in \"The Final Solution\". Using reconstructions of key events by actors playing major Nazi hierarchical roles and real interviews from parties of all sides; ex-prisoners, old Schutzstaffel (SS) members and witnesses. Using archive footage conjoined with reflective, contemporary imagery it is a vivid and thorough historical telling of the atrocities of a political ideology that gave nothing but fear and death.",
+    "releaseDate": "2005-01-11",
+    "runtime": 285
+  },
+  {
+    "id": 41497,
+    "title": "American Soldiers: A Day in Iraq",
+    "genres": [
+      "Drama",
+      "Action",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "Iraq, 2004: during a routine sortie a US patrol is ambushed and the young soldiers are forced to put their training and skills into action fast. A determined foe with superior local knowledge, the Fedayeen insurgents soon draw them into close quarter combat and a desperate fight for survival.",
+    "releaseDate": "2005-05-11",
+    "runtime": 103
+  },
+  {
+    "id": 29032,
+    "title": "The Secret Invasion",
+    "genres": [
+      "Action",
+      "Drama",
+      "War",
+      "History",
+      "Thriller"
+    ],
+    "overview": "During World War II, convicts are recruited by the Allies for an extremely hazardous mission.",
+    "releaseDate": "1964-09-16",
+    "runtime": 95
+  },
+  {
+    "id": 205596,
+    "title": "The Imitation Game",
+    "genres": [
+      "History",
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+    "releaseDate": "2014-11-14",
+    "runtime": 113
+  },
+  {
+    "id": 155130,
+    "title": "The Forgotten Faces",
+    "genres": [
+      "History",
+      "War",
+      "Drama"
+    ],
+    "overview": "“The Forgotten Faces (1961), a film reconstruction of the Hungarian revolution of 1956, won Watkins another amateur Oscar, and to this day, the film is praised in England as \"one of the most memorable amateur films ever made\".",
+    "releaseDate": "1961-01-01",
+    "runtime": 18
+  },
+  {
+    "id": 75137,
+    "title": "Sharpe's Battle",
+    "genres": [
+      "Action",
+      "Adventure",
+      "History",
+      "War"
+    ],
+    "overview": "When Sharpe is ordered to whip the King of Spain's Irish Royal Brigade into shape, he faces dissent from the men who believe the British are slaughtering their relatives in Ireland and a spy from within.",
+    "releaseDate": "1995-04-19",
+    "runtime": 100
+  },
+  {
+    "id": 69787,
+    "title": "Sharpe's Eagle",
+    "genres": [
+      "Action",
+      "Adventure",
+      "History",
+      "War"
+    ],
+    "overview": "Sharpe is a Captain saddled with the South Essex, a battalion run by incompetents and filled with soldiers who have never been in battle. When the South Essex loses its colours (its regimental flag), Sharpe vows to save the honor of the regiment by capturing a French Imperial standard: an eagle.",
+    "releaseDate": "1993-05-12",
+    "runtime": 98
+  },
+  {
+    "id": 151068,
+    "title": "The New Babylon",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In the early days of the industrial revolution, a young shop worker falls in love with a soldier before he goes off to war.",
+    "releaseDate": "1929-01-01",
+    "runtime": 120
+  },
+  {
+    "id": 33336,
+    "title": "Taxi for Tobruk",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "overview": "During World War II, French Commandos join forces with a German officer in order to survive the African desert.",
+    "releaseDate": "1961-05-09",
+    "runtime": 95
+  },
+  {
+    "id": 29996,
+    "title": "Solomon and Sheba",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "Under the rule of King David, Israel is united and prosperous although surrounded by enemies including Egypt and its allies. The aging King David favors his younger son, Solomon, as his successor, but David's  elder son Prince Adonijah, a warrior, declares himself King. When David learns of this, he publicly announces Solomon to be his successor. Adonijah and Joab, his general, withdraw in rage. Israel prospers under King Solomon's wise and benevolent rule and is seen as a threat to more tyrannical monarchs in the region. The Pharaoh of Egypt agrees to cede a Red Sea port to the Queen of Sheba in a plot to undermine Solomon's rule. Sheba is to seduce Solomon and introduce Sheban pagan worship into Jerusalem. Meanwhile, Prince Adonijah, now banished, also conspires with Pharaoh and is given an army to defeat Solomon. The film is a highly fictionalized dramatization of events depicted in The Bible -- First Kings chapter 10 and Second Chronicles chapter 9.",
+    "releaseDate": "1959-12-25",
+    "runtime": 139
+  },
+  {
+    "id": 156141,
+    "title": "Stalingrad",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The WWII pivotal battle of Stalingrad is shown through the eyes of the soldiers and officers on both sides of the war.",
+    "releaseDate": "1989-01-01",
+    "runtime": 196
+  },
+  {
+    "id": 86382,
+    "title": "They Fought for Their Motherland",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "In July 1942, in the Second World War, the rearguard of the Russian army protects the bridgehead of the Don River against the German army while the retreating Russian troops cross the bridge. While they move back to the Russian territory through the countryside, the soldiers show their companionship, sentiments, fears and heroism to defend their motherland.",
+    "releaseDate": "1975-11-01",
+    "runtime": 137
+  },
+  {
+    "id": 47536,
+    "title": "Hitler: The Last Ten Days",
+    "genres": [
+      "Drama",
+      "Foreign",
+      "War",
+      "History"
+    ],
+    "overview": "Hitler: The Last Ten Days takes us into the depths of der Furher’s Berlin bunker during his final days. Based on the book by Gerhard Boldt, it provides a bleak look at the goings-on within, and without.",
+    "releaseDate": "1973-04-19",
+    "runtime": 0
+  },
+  {
+    "id": 263510,
+    "title": "The Hornet's Nest",
+    "genres": [
+      "War",
+      "Documentary",
+      "History"
+    ],
+    "overview": "Armed only with their cameras, Peabody and Emmy Award-winning conflict Journalist Mike Boettcher, and his son, Carlos, provide unprecedented access into the longest war in U.S. history.",
+    "releaseDate": "2014-05-09",
+    "runtime": 93
+  },
+  {
+    "id": 65489,
+    "title": "Malta Story",
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "In 1942 Britain was clinging to the island of Malta since it was critical to keeping Allied supply lines open. The Axis also wanted it for their own supply lines. Plenty of realistic reenactments and archival combat footage as the British are beseiged and try to fight off the Luftwaffe. Against this background, a RAF reconnaissance photographer's romance with a local girl is endangered as he tries to plot enemy movements.",
+    "releaseDate": "1953-06-01",
+    "runtime": 97
+  },
+  {
+    "id": 77794,
+    "title": "I Was Monty's Double",
+    "genres": [
+      "War",
+      "History",
+      "Drama"
+    ],
+    "overview": "The incredible but true story of how an impersonator was recruited to impersonate General Montgomery to mislead the German's about his intentions before the North Africa campaign.",
+    "releaseDate": "1958-10-21",
+    "runtime": 101
+  },
+  {
+    "id": 98398,
+    "title": "The Lost Squadron",
+    "genres": [
+      "War",
+      "Drama",
+      "Action",
+      "History"
+    ],
+    "overview": "When WW1 comes to an end, three pilots find themselves on hard times but they wind up in Hollywood where they work as stunt fliers for a sadistic director.",
+    "releaseDate": "1932-03-12",
+    "runtime": 79
+  },
+  {
+    "id": 104214,
+    "title": "The Divine Lady",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "A partly fictionalized account of history begins with the arrival of slatternly Emma Hart, a cook's daughter, at the home of Charles Greville. Greville takes her as his lover and grooms her until their relationship becomes an inconvenience. Greville then dupes Emma into traveling to Naples to live with his uncle, Lord Hamilton, ambassador to the court at Naples. Realizing that Greville has abandoned her, Emma agrees to marry Lord Hamilton. Soon, however, she meets Admiral Horatio Nelson of the British Navy. Emma plays a crucial role in convincing Naples to open its ports to Nelson during his campaign against Napoleon's French fleet. Soon, Emma and the married Nelson become romantically involved -- a relationship which will have consequences for them both.",
+    "releaseDate": "1929-03-31",
+    "runtime": 99
+  },
+  {
+    "id": 149468,
+    "title": "War and Peace, Part IV: Pierre Bezukhov",
+    "genres": [
+      "Romance",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "As Moscow is set ablaze by the retreating Russians, the Rostovs flee their estate, taking wounded soldiers with them, and unbeknownst to them, also Andrei. Pierre, dressed as a peasant, tries to assassinate Napoleon but is taken prisoner. As the French are forced to retreat, he is marched for months with the Grande Armée, until being freed by a raiding party. The French are defeated by Kutuzov in the Battle of Krasnoi. Andrei is recognized and is brought to his estate. He forgives Natasha on his deathbed. She reunites with Pierre and they marry as Moscow is being rebuilt.",
+    "releaseDate": "1967-11-04",
+    "runtime": 100
+  },
+  {
+    "id": 219233,
+    "title": "The River Fuefuki",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "When the youngest members of a family of farmers decide to become warriors, the clan's troubles multiply.",
+    "releaseDate": "1960-10-19",
+    "runtime": 117
+  },
+  {
+    "id": 189197,
+    "title": "The Pacific",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A 10-part mini-series from the creators of \"Band of Brothers\" telling the intertwined stories of three Marines during America's battle with the Japanese in the Pacific during World War II.",
+    "releaseDate": "2010-03-15",
+    "runtime": 540
+  },
+  {
+    "id": 281230,
+    "title": "Fort McCoy",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Unable to serve in World War II because of a heart condition, a barber moves his family adjacent to a Wisconsin army base and prisoner-of-war camp to provide his services. But even in rural America -- far from the frontline -- the war finds victims.",
+    "releaseDate": "2014-01-01",
+    "runtime": 0
+  },
+  {
+    "id": 195834,
+    "title": "Defenders of Riga",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The film dramatizes November 11, 1919- a crucial date in the battle for Latvian independence. A year after the end of the official hostilities of WWI, a renegade German general and troops remain outside the Latvian capital. Latvian riflemen, most of them inexperienced volunteers, somehow managed to defeat a larger, better-armed force of German and Russian mercenaries.",
+    "releaseDate": "2007-01-01",
+    "runtime": 118
+  },
+  {
+    "id": 146563,
+    "title": "Under Ten Flags",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "overview": "\"Under Ten Flags\" is a WWII movie loosely  based on the true story of the German navy commerce raider Atlantis, a converted Auxilliary Cruiser, and her Captain Bernhard Rogge.  Atlantis, camouflaged as a merchant ship, cruised the South Seas ( Atlantic, Indian &amp; Pacific) and sank or captured 22 merchant ships from May 1940 through November 22, 1941 when she was sunk by the British Cruiser HMS Devonshire.  Rogge was one of the few German officers of flag rank who were not arrested by the Allies after the war ended. This was due to the very proper and ethical way he exercised his command of Atlantis. After the war he advanced to Rear Admiral in the West German Navy and became a high-ranking NATO commander.",
+    "releaseDate": "1960-09-15",
+    "runtime": 110
+  },
+  {
+    "id": 4274,
+    "title": "Fort Saganne",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "In 1911, a willful and determined man from peasant stock named Charles Saganne enlists in the military and is assigned to the Sahara Desert under the aristocratic Colonel Dubreuilh.",
+    "releaseDate": "1984-05-11",
+    "runtime": 180
+  },
+  {
+    "id": 131739,
+    "title": "Isoroku Yamamoto, the Commander-in-Chief of the Combined Fleet",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "overview": "Admiral Isoroku Yamamoto (1884-1943) was the Japanese Naval commander who was given the order to attack Pearl Harbour, an order he was duty bound to obey which went against his own personal beliefs. While this infamous attack is a low point in Japanese and US history it wouldn’t have happened if the Japanese government had listened to Yamamoto in 1939 and searched for a more peaceful way to end their war campaign, proving his many ominous presages of the outcomes of the attack to come true.",
+    "releaseDate": "2011-12-23",
+    "runtime": 135
+  },
+  {
+    "id": 31344,
+    "title": "The 317th Platoon",
+    "genres": [
+      "War",
+      "History",
+      "Foreign"
+    ],
+    "overview": "In Vietnam, 1954, a French platoon isolated behind enemy lines tries to come back. It is led by the inexperienced, idealistic sous-lieutenant Torrens, and by adjutant Willsdorf, a WWII veteran of the Werhmacht.",
+    "releaseDate": "1965-03-31",
+    "runtime": 100
+  },
+  {
+    "id": 139862,
+    "title": "Rommel",
+    "genres": [
+      "Action",
+      "War",
+      "History",
+      "Drama"
+    ],
+    "overview": "A new film about Erwin Rommel has been shown on German television, depicting the general as a weak man undone by his links to Adolf Hitler.",
+    "releaseDate": "2012-06-06",
+    "runtime": 120
+  },
+  {
+    "id": 262009,
+    "title": "In the Crosswind",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "overview": "June 14, 1941, 3 a.m. Over 40000 people from Estonia, Latvia and Lithuania are deported by Soviets to Siberia. Among them is a philosophy student Erna, a happily married mother of a little girl. Separated from her husband Erna and her daughter are dispatched together with other women and children to remote Siberian territories. Despite hunger, fear and brutal humiliation Erna never in next fifteen years loses her sense of freedom and hope of returning to homeland. The story is inspired by real events.",
+    "releaseDate": "2014-03-28",
+    "runtime": 86
+  },
+  {
+    "id": 89156,
+    "title": "Rose",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "This harrowing tale of survival centers on Rose, a Masurian woman, whose German soldier husband was killed in the war, leaving her alone on their farm. A single woman had no defense against Russian soldiers who raped as a form of revenge, nor against plundering Poles who found themselves in desperate straits. Help arrives for Rose in the form of Tadeusz, a former officer in the Polish Home Army who deserted after he saw his wife raped and murdered by Russian troops and is attempting to hide his identity.",
+    "releaseDate": "2011-06-09",
+    "runtime": 90
+  },
+  {
+    "id": 284689,
+    "title": "Testament of Youth",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "overview": "Testament of Youth is a powerful story of love, war and remembrance, based on the First World War memoir by Vera Brittain, which has become the classic testimony of that war from a woman’s point of view. A searing journey from youthful hopes and dreams to the edge of despair and back again, it’s a film about young love, the futility of war and how to make sense of the darkest times.",
+    "releaseDate": "2014-10-14",
+    "runtime": 129
+  },
+  {
+    "id": 208517,
+    "title": "The Coward",
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "Set during the American Civil War, Keenan stars as a Virginia colonel and Charles Ray as his weak-willed son. The son is forced, at gunpoint, by his father to enlist in the Confederate army. He is terrified by the war and deserts during a battle. The film focuses on the son's struggle to overcome his cowardice.",
+    "releaseDate": "1915-11-14",
+    "runtime": 77
+  },
+  {
+    "id": 95431,
+    "title": "The Flight",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The film is about a group of people who in other times wouldn't have anything in common, some of them innocent bystanders, some moral criminals. But nothing is straightforward and simple. From Russia \"the run\" continues to Constantinople, to Paris, back to Russia. Some of them have understood that they can't live outside Russia and go back maybe to be happy, maybe not, some go back to face sure death for their crimes, some don't go back and know that are going to miss homeland forever, some are comfortably well off (are they?) in exile. Sentimental without syrup, tragic and comical at the same time.",
+    "releaseDate": "1970-01-01",
+    "runtime": 196
+  },
+  {
+    "id": 53194,
+    "title": "Triumph Over Violence",
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "overview": "Romm's \"Ordinary Fascism\" pulls out all the stops in its selection of documentary material to draw the viewer not only into absolute horror about fascism and nazism in the 1920s-1940s Europe, but also to a firmest of convictions that nothing of the sort should be allowed to happen again anywhere in the world.",
+    "releaseDate": "1965-12-31",
+    "runtime": 138
+  },
+  {
+    "id": 207909,
+    "title": "Battle of Westerplatte",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "This harrowing war film is an epic dramatization of the first battle of World War II. The Battle of Westerplatte that began on 1 September 1939 will forever be remembered as the one that announced the beginning of the Second World War in Europe. Over one week, fewer than 200 Polish soldiers fought against heavy German bombardment and in the process came to symbolize the power of resistance. As the violence rages, a complex battle of a more personal nature plays out between two Polish commanders over how to best lead their men. Amid the bloodshed, they must ask themselves – should they fight until the last man standing or surrender in the face of overwhelming odds? What unfolds is a stirring exploration of the fight against the forces of tyranny.",
+    "releaseDate": "2013-07-04",
+    "runtime": 0
+  },
+  {
+    "id": 53774,
+    "title": "The Sinking of the Laconia",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Two-part drama based on the true story of the Allied ship Laconia, sunk in WWII by a German U-Boat, which then surfaced against orders to rescue the civilian crew",
+    "releaseDate": "2011-01-06",
+    "runtime": 180
+  },
+  {
+    "id": 49106,
+    "title": "The Dawns Here Are Quiet",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Based on the eponymous book by Boris Vasilyev, the film is set in Karelia (North-West of Russia, near Finland) in 1941 during WWII. In a beautiful and quiet wilderness far from the front-line there is an anti-aircraft artillery point, where corporal Vaskov is stationed with a group of many young women in training.",
+    "releaseDate": "1972-06-06",
+    "runtime": 188
+  },
+  {
+    "id": 225728,
+    "title": "Macbeth",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "overview": "Feature film adaptation of Shakespeare's Scottish play about General Macbeth whose ambitious wife urges him to use wicked means in order to gain power of the throne over the sitting king, Duncan.",
+    "releaseDate": "2015-08-16",
+    "runtime": 113
+  },
+  {
+    "id": 42140,
+    "title": "The Boat Is Full",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "During World War II, Switzerland severely limited refugees: \"Our boat is full.\" A train from Germany halts briefly in an isolated corner of Switzerland. Six people jump off seeking asylum: four Jews, a French child, and a German soldier. They seek temporary refuge with a couple who run a village inn. They pose as a family: the deserter as husband, Judith as his wife, an old man from Vienna as her father, his granddaughter and the French lad, whom they beg to keep silent, as their children. Judith's teenage brother poses as a soldier. The fabrication unravels through chance and the local constable's exact investigation. Whom will the Swiss allow to stay? Who gets deported?",
+    "releaseDate": "1981-04-25",
+    "runtime": 101
+  },
+  {
+    "id": 57709,
+    "title": "Battle of the Brave",
+    "genres": [
+      "Drama",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "In the mid-18th Century, as England and France battle over control of Canada, an epic romance between a peasant woman and a trapper unfurls",
+    "releaseDate": "2004-11-19",
+    "runtime": 143
+  },
+  {
+    "id": 300671,
+    "title": "13 Hours: The Secret Soldiers of Benghazi",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+    "releaseDate": "2016-01-13",
+    "runtime": 144
+  },
+  {
+    "id": 41614,
+    "title": "Jinnah",
+    "genres": [
+      "History",
+      "War",
+      "Drama"
+    ],
+    "overview": "Biography of Mohammed Ali Jinnah, the founder of modern Pakistan is told through flashbacks as his soul tries to find eternal rest. The flashbacks start in 1947 as Jinnah pleads for a separate nation from the Muslim regime, infuriating Lord Mountbatten. Mountbatten then tries to enlist Gandhi & Nehru to persuade Jinnah to stop his efforts. Gandhi sides with Jinnah, which upsets Nehru. However, Jinnah turns down the offer to become prime minister and the film takes another slide back to 1916, which reveals all of the political implications that have occurred.",
+    "releaseDate": "1998-11-07",
+    "runtime": 110
+  },
+  {
+    "id": 256040,
+    "title": "Baahubali: The Beginning",
+    "genres": [
+      "Action",
+      "Adventure",
+      "History",
+      "War"
+    ],
+    "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior/princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
+    "releaseDate": "2015-07-10",
+    "runtime": 159
+  },
+  {
+    "id": 65431,
+    "title": "The Hunley",
+    "genres": [
+      "TV Movie",
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "CSS Hunley tells the incredible true story of the crew of the manually propelled submarine CSS Hunley, during the siege of Charleston of 1864. It is a story of heroism in the face of adversity, the Hunley being the first submersible to sink an enemy boat in time of war. It also relates the human side of the story relating the uncommon and extaordinary temperament of the 9 men who led the Hunley into history and died valiantly accomplishing this feat.",
+    "releaseDate": "1999-07-11",
+    "runtime": 94
+  },
+  {
+    "id": 64735,
+    "title": "The One That Got Away",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Based on the true story of Oberleutnant Franz von Werra, the only german prisoner of war captured in Britain to escape back to Germany during the Second World War.",
+    "releaseDate": "1957-11-22",
+    "runtime": 106
+  },
+  {
+    "id": 75634,
+    "title": "Sharpe's Challenge",
+    "genres": [
+      "Action",
+      "Adventure",
+      "War",
+      "History"
+    ],
+    "overview": "Sean Bean is back as the swashbuckling hero in Sharpe's Challenge, an action packed mini-series to be shot on location in Rajasthan, India. Two years after the Duke of Wellington crushes Napoleon at Waterloo, dispatches from India tell of a local Maharaja, Khande Rao, who is threatening British interests there. Wellington sends Sharpe to investigate on what turns out to be his most dangerous mission to date. When a beautiful general's daughter is kidnapped by the Indian warlord, the tension mounts, leaving Sharpe no option but to pursue the enemy right into its deadly lair. Deep in the heart of enemy territory he also has to keep at bay the beautiful but scheming Regent, Madhuvanthi, who is out to seduce him. The fate of an Empire and the life of a General's daughter lie in one man's hands...",
+    "releaseDate": "2006-04-23",
+    "runtime": 138
+  },
+  {
+    "id": 107076,
+    "title": "A Hill in Korea",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Based on real events, A Hill in Korea charts the fortunes of a small group of British soldiers serving in the Korean War. Out on a routine patrol, the soldiers find that Chinese troop movements have cut them off from their own lines. They try to fight their way back to safety but with the enemy surrounding them on all sides, the prospects look bleak. Facing almost insurmountable odds, they decide to stand a fight.",
+    "releaseDate": "1956-09-18",
+    "runtime": 80
+  },
+  {
+    "id": 268009,
+    "title": "Days of Hope",
+    "genres": [
+      "War",
+      "Drama",
+      "TV Movie",
+      "History"
+    ],
+    "overview": "Four feature-length period dramas follow three young members of a Yorkshire farming family from the First World War to the General Strike of 1926: Ben, who volunteers for the army; his sister, Sarah and her husband, Phillip, a Christian Socialist and conscientious objector. As both men become scarred by their wartime experiences, Ben joins the Durham miners in a bitter struggle, while Phillip becomes a Labour MP. As the General Strike looms, the family find themselves at the heart of a pivotal moment in British politics.",
+    "releaseDate": "1975-09-11",
+    "runtime": 395
+  },
+  {
+    "id": 102155,
+    "title": "Hitler",
+    "genres": [
+      "History",
+      "War"
+    ],
+    "overview": "The private life of Hitler revealed for the first time!",
+    "releaseDate": "1962-03-21",
+    "runtime": 107
+  },
+  {
+    "id": 359105,
+    "title": "Heneral Luna",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A Filipino general who believes he can turn the tide of battle in the Philippine-American war. But little does he know that he faces a greatest threat to the country's revolution against the invading Americans.",
+    "releaseDate": "2015-09-09",
+    "runtime": 118
+  },
+  {
+    "id": 97108,
+    "title": "The Life and Times of Rosie the Riveter",
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "overview": "Documentary about women's experiences of labour, in factories, mines and dockyards, in the USA during the second World War and how it affected their work and career aspirations once they were encouraged to give up such employment in peacetime.",
+    "releaseDate": "1980-09-27",
+    "runtime": 65
+  },
+  {
+    "id": 62977,
+    "title": "The Lost Bladesman",
+    "genres": [
+      "History",
+      "Drama",
+      "Action",
+      "War"
+    ],
+    "overview": "During the warring period of the three kingdoms, ancient China is in turmoil. To unify the country, general Cao Cao (Jiang Wen), the real power behind the Emperor, enlists the aid of the greatest warrior in the land, Guan Yu (Donnie Yen). However, Guan Yu is a loyal friend of Cao Cao's enemy Liu Bei (Alex Fong) so to persuade the peerless warrior to fight, Cao Cao takes his beloved Qi Lan (Sun Li) hostage. After leading Cao Cao's forces to victory Guan Yu sets out with Qi Lan to rejoin Liu Bei. But now Cao Cao has deemed him too great a threat to live, and on the journey he must face all the forces at the Emperor's command sent to destroy him.",
+    "releaseDate": "2011-04-28",
+    "runtime": 107
+  },
+  {
+    "id": 64551,
+    "title": "The Soldier and the Lady",
+    "genres": [
+      "Adventure",
+      "History",
+      "Romance",
+      "War"
+    ],
+    "overview": "Based on a story by Jules Verne and featuring battle footage from a French film version of the tale, this epic action-adventure follows a courageous courier of the Czar Alexander II as he struggles to deliver vital information to Russian troops fighting a losing battle against the invading Tartar hoards in Siberia.",
+    "releaseDate": "1937-04-09",
+    "runtime": 85
+  },
+  {
+    "id": 339312,
+    "title": "A Nightingale Falling",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Set against a backdrop of a turbulent, war-torn Ireland in the early 1920’s, this is a story of three people and the unfolding events from a crucial time in their extradionary and tragic lives.",
+    "releaseDate": "2014-09-12",
+    "runtime": 110
+  },
+  {
+    "id": 79921,
+    "title": "Special Section",
+    "genres": [
+      "Drama",
+      "War",
+      "History",
+      "Mystery"
+    ],
+    "overview": "In occupied France during the WWII, a German officer is murdered. The collaborationist Vichy government decides to pin the murder on six petty criminals. Loyal judges are called in to convict them as quickly as possible.",
+    "releaseDate": "1975-04-23",
+    "runtime": 118
+  },
+  {
+    "id": 74405,
+    "title": "Sharpe's Company",
+    "genres": [
+      "Action",
+      "Adventure",
+      "War",
+      "History"
+    ],
+    "overview": "Spain 1812 The Duke of Wellington plans to lay siege to Badajoz. A murderous figure from Sharpe's past uses a beautiful woman revenge himself on Sharpe, now the father of her child. Sharpe has reason to be happy, he holds his daughter for the first time and is given command of the Light Company again, together with his captaincy. But will his happiness be short lived?",
+    "releaseDate": "1994-01-01",
+    "runtime": 100
+  },
+  {
+    "id": 75133,
+    "title": "Sharpe's Enemy",
+    "genres": [
+      "History",
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "overview": "Portugal 1813. A band of deserters, including Sharpe's old enemy, Obadiah Hakeswill, have captured two women, one the wife of a high-ranking English officer, and are holding them hostage for ransom. Sharpe is given the 60th Rifles and a Rocket troop, as well as his majority to rescue the women. But while Sharpe may be able to deal with his old enemy, he has yet to face a newer threat, the French Major Duclos.",
+    "releaseDate": "1994-06-01",
+    "runtime": 90
+  },
+  {
+    "id": 26651,
+    "title": "Tobruk",
+    "genres": [
+      "War",
+      "History"
+    ],
+    "overview": "It is the story of Jiri and Jan, two Czech soldiers, battling alongside the allied forces against the Germans, during World War II in Tobruk, Libya. Jiri Pospichal, eighteen years old, signs up as a volunteer in the Czechoslovak army. His naive ideas about heroism are rawly confronted with the hell of the African desert, complicated relationships in his unit and the ubiquitous threat of death.",
+    "releaseDate": "2008-09-04",
+    "runtime": 99
+  },
+  {
+    "id": 4228,
+    "title": "The French Revolution",
+    "genres": [
+      "Drama",
+      "War",
+      "History",
+      "Thriller"
+    ],
+    "overview": "A history of the French Revolution from the decision of the king to convene the Etats-Generaux in 1789 in order to deal with France's debt problem. The first part of the movie tells the story from 1789 until August 10, 1792 (when the King Louis XVI lost all his authority and was put in prison). The second part carries the story through the end of the terror in 1794, including the deaths by guillotine of Louis XVI, Marie-Antoinette, Danton, and Desmoulins.",
+    "releaseDate": "1989-10-01",
+    "runtime": 320
+  },
+  {
+    "id": 38430,
+    "title": "Seventeen Moments in Spring",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "The series is based on a true story of a Russian spy Colonel Isaev (Stirlitz) in Fascist Germany during 17 days in very end of WWII. Stirlitz has worked his way to the very top of the Fascist hierarchy without being caught. However, his \"colleagues\", top Hitler's officers Borman, Mueller, Schellenberg are beginning to suspect him. Stirlits is constantly walking on the edge between his two identities, sending information to Russia, while skillfully maintaining the appearance of loyalty to fascist regime.",
+    "releaseDate": "1973-01-01",
+    "runtime": 840
+  },
+  {
+    "id": 293982,
+    "title": "Warsaw 44",
+    "genres": [
+      "Drama",
+      "Romance",
+      "History",
+      "War"
+    ],
+    "overview": "A beautiful story about youth, love, friendship and the pursuit of adventure during the bloody and brutal reality of the Warsaw Uprising.",
+    "releaseDate": "2014-09-19",
+    "runtime": 130
+  },
+  {
+    "id": 333696,
+    "title": "Naked Among Wolves",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Naked Among Wolves (German: Nackt unter Wölfen) is a German drama film directed by Philipp Kadelbach in 2015. It is based on the novel of the same name by Bruno Apitz, which was published in 1958 by the East German Publishing house. It was created for television, it is the third film version of the literary text. The film takes place in the years 1944 and 1945 towards the end of World War II in the Buchenwald concentration camp.",
+    "releaseDate": "2015-04-01",
+    "runtime": 105
+  },
+  {
+    "id": 81409,
+    "title": "Fury of Achilles",
+    "genres": [
+      "War",
+      "Adventure",
+      "History",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "In the tenth year of the Trojan War, tensions between Achilles and Agamemnon divide the Greek camp while giving hope to the Trojans.",
+    "releaseDate": "1962-09-23",
+    "runtime": 118
+  },
+  {
+    "id": 362045,
+    "title": "Bajirao Mastani",
+    "genres": [
+      "War",
+      "History",
+      "Romance"
+    ],
+    "overview": "A historical account of the romance between the Maratha general, Baji Rao I and Mastani, a Muslim princess.",
+    "releaseDate": "2015-12-18",
+    "runtime": 150
+  },
+  {
+    "id": 287344,
+    "title": "Gaston's War",
+    "genres": [
+      "War",
+      "Romance",
+      "Drama",
+      "History"
+    ],
+    "overview": "Gaston Vandermeerssche is a young, resourceful Flemish action hero of the Belgian resistance during World War II: he coaches surviving allied pilots trough occupied Belgium and France to Spain so they can regain England, each time a dangerous adventure as their poor mastery of local languages and customs add to the ever-present risks of trying to outsmart the Nazi troops and Gestapo agents. After a mess-up in the coordination from London he himself gets caught by the dreaded secret police for ruthless interrogation...",
+    "releaseDate": "1997-10-23",
+    "runtime": 0
+  },
+  {
+    "id": 122198,
+    "title": "Lines of Wellington",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Passionate romance, brutal treachery, and selfless nobility are set against the background of Napoleon’s 1810 invasion of Portugal in Valeria Sarmiento’s intimate epic.",
+    "releaseDate": "2012-10-13",
+    "runtime": 151
+  },
+  {
+    "id": 291851,
+    "title": "Field of Lost Shoes",
+    "genres": [
+      "Drama",
+      "History",
+      "War",
+      "Action"
+    ],
+    "overview": "A group of teenage cadets sheltered from war at the Virginia Military Institute must confront the horrors of an adult world when they are called upon to defend the Shenandoah Valley.",
+    "releaseDate": "2015-03-30",
+    "runtime": 96
+  },
+  {
+    "id": 111988,
+    "title": "Alexander the Great",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Based on some historical events, the film gives a romanticized biography of Theodoros Kolokotronis, a Greek historical hero serving as a metaphor for Greece herself. Based on a circular view of history, the film presents conflicting ideologies - primitive communism, anarchism, chiefdom or kingdom, personality cult - and shows the institutions of property and power in a bad light.",
+    "releaseDate": "1980-04-16",
+    "runtime": 235
+  },
+  {
+    "id": 366736,
+    "title": "Friend",
+    "genres": [
+      "War",
+      "History",
+      "Drama"
+    ],
+    "overview": "The friendship of two boys is tested to its limits as they battle for survival during the Kosovo war.",
+    "releaseDate": "2015-04-10",
+    "runtime": 21
+  },
+  {
+    "id": 335578,
+    "title": "Land of Mine",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "In the days following the surrender of Germany in May 1945, a group of young German prisoners of war were handed over to the Danish authorities and subsequently sent out to the West Coast, where they were ordered to remove the more than two million mines that the Germans had placed in the sand along the coast. With their bare hands, crawling around in the sand, the boys were forced to perform the dangerous work under the leadership of the Danish sergeant, Carl Leopold Rasmussen.",
+    "releaseDate": "2015-12-03",
+    "runtime": 100
+  },
+  {
+    "id": 316152,
+    "title": "Free State of Jones",
+    "genres": [
+      "War",
+      "Action",
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "overview": "In 1863, Mississippi farmer Newt Knight serves as a medic for the Confederate Army. Opposed to slavery, Knight would rather help the wounded than fight the Union. After his nephew dies in battle, Newt returns home to Jones County to safeguard his family but is soon branded an outlaw deserter. Forced to flee, he finds refuge with a group of runaway slaves hiding out in the swamps. Forging an alliance with the slaves and other farmers, Knight leads a rebellion that would forever change history.",
+    "releaseDate": "2016-06-24",
+    "runtime": 139
+  },
+  {
+    "id": 113332,
+    "title": "The Shortest Day",
+    "genres": [
+      "Comedy",
+      "History",
+      "Foreign",
+      "War"
+    ],
+    "overview": "The Shortest Day (also known as Il giorno più corto ) is a 1962 Italian Comedy film. It is a parody of the war movie The Longest Day and stars the popular duo Ciccio Ingrassia and Franco Franchi in the leading roles. Dozens of many other well-known actors accepted to appear in the movie in cameo roles for free, to avert the bankruptcy of the production company Titanus.",
+    "releaseDate": "1963-02-14",
+    "runtime": 91
+  },
+  {
+    "id": 128396,
+    "title": "The Diary of Anne Frank",
+    "genres": [
+      "Animation",
+      "History",
+      "Drama",
+      "War"
+    ],
+    "overview": "This is the true story of Anne Frank, a Jewish girl living in Amsterdam during WW2. Anne's father realizes on time the danger the Jews face and hides his family (his wife Edith and his two daughters Margo (16) and Anne (13), along with four more people, in \"the house behind\". For two years the 8 people live in darkness and whispers, in fear of being discovered and sent to the German crematories. During that time young Anne writes a diary, describing her daily life in the cellar, her complicated relationship with her mother and the story of her first love - Peter, the young boy in the hiding place. Anne writes down her wishes to run out free and breath the air and flowers, her dreams to be free at last. But humanity is often a cruel mistress...",
+    "releaseDate": "1995-08-19",
+    "runtime": 102
+  },
+  {
+    "id": 75926,
+    "title": "Shaka Zulu",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Framed around Queen Victoria's decision on England's political stance towards the Zulu Nation, this mini-series details King Shaka's rise and fall with mythic detail. Prophecy is mixed with recorded fact regarding Shaka's birth, exile, innovations in warfare, assumption of the throne, building of the Zulu Empire, first contact with Europe and the events that lead to his downfall.",
+    "releaseDate": "1986-11-24",
+    "runtime": 523
+  },
+  {
+    "id": 259728,
+    "title": "Long Dark Night",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "\"Long Dark Night\" follows the life of the fictional character Iva Kolar: his experiences as a Croatian University student, his role as a Partisan fighting Hitler's troops during W.W. II, his involvement in his nation's post-war government, and his eventual downfall.",
+    "releaseDate": "2004-03-07",
+    "runtime": 194
+  },
+  {
+    "id": 103941,
+    "title": "Embajadores en el infierno",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Spanish right-wingers equally devoted to Catholic religion and Franco dictatorship, go soldiering as volunteers with the Germans when these started hostilities against Russia (1943), then under the Soviet regime. They lose, mostly are imprisoned, and will suffer eleven years in captivity - keeping their faith and their dignity. Written by Artemis-9",
+    "releaseDate": "1956-09-17",
+    "runtime": 103
+  },
+  {
+    "id": 314837,
+    "title": "The Emperor in August",
+    "genres": [
+      "History",
+      "War",
+      "Drama"
+    ],
+    "overview": "In July 1945, during the end of World War II, Japan is forced to accept the Potsdam Declaration. A cabinet meeting has continued through days and nights, but a decision cannot be made. The U.S. drops atomic bombs on the cities of Hiroshima and Nagasaki, Japan. General Korechika Anami is torn over making the proper decision and the Emperor of Japan worries about his people. Prime Minister Kantaro Suzuki leads the cabinet meeting, while Chief Secretary Hisatsune Sakomizu can't do anything, but watch the meeting. At this time, Major Kenji Hatanaka and other young commissioned officers, who are against Japan surrendering, move to occupy the palace and a radio broadcasting station. The radio station is set to broadcast Emperor Hirohito reading out the Imperial Rescript on the Termination of the War.",
+    "releaseDate": "2015-08-08",
+    "runtime": 136
+  },
+  {
+    "id": 112675,
+    "title": "The Immortals",
+    "genres": [
+      "History",
+      "Action",
+      "War",
+      "Adventure",
+      "Thriller"
+    ],
+    "overview": "",
+    "releaseDate": "1974-12-23",
+    "runtime": 103
+  },
+  {
+    "id": 247845,
+    "title": "The Great Martian War 1913 - 1917",
+    "genres": [
+      "Documentary",
+      "Drama",
+      "War",
+      "History"
+    ],
+    "overview": "Documentary-drama recounting the Martian War of 1913 - 1917. Europe was on tenterhooks in the 2nd decade of the 20th century, everyone was expecting a Great War between the major European powers. But then, in 1913, something crashed into the forests of SW Germany. Troops were sent to investigate but were wiped out. Martian fighting machines began making their way across Western Europe and the countries of Europe combined forces to resist them. With aspects taken from \"The War of the Worlds\" by H.G. Wells and from WWI itself, this dramatisation presents a documentary style look at events as they unfolded and the effect they had of our world today. Lots of references to real events including the mass attacks and defeats as men were thrown against machines on the Western front, the Christmas truce and the Angel of Mons, America's isolationism and late entry into the conflict, the worldwide \"Spanish\" flu epidemic that killed more people than the war, and many other things.",
+    "releaseDate": "2013-12-08",
+    "runtime": 120
+  },
+  {
+    "id": 351339,
+    "title": "Anthropoid",
+    "genres": [
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "In December 1941, Czech soldiers Jozef Gabčík and Jan Kubiš parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich.",
+    "releaseDate": "2016-08-12",
+    "runtime": 120
+  },
+  {
+    "id": 407887,
+    "title": "Operation Chromite",
+    "genres": [
+      "History",
+      "Drama",
+      "War",
+      "Action"
+    ],
+    "overview": "A squad of soldiers fight in the Korean War's crucial Battle of Incheon.",
+    "releaseDate": "2016-07-27",
+    "runtime": 110
+  },
+  {
+    "id": 324786,
+    "title": "Hacksaw Ridge",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+    "releaseDate": "2016-10-07",
+    "runtime": 140
+  },
+  {
+    "id": 395479,
+    "title": "City 40",
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "overview": "Behind the walls of a forbidden city, the only thing more dangerous than its secrets is the truth.",
+    "releaseDate": "2016-04-28",
+    "runtime": 89
+  },
+  {
+    "id": 42123,
+    "title": "Utu",
+    "genres": [
+      "War",
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "overview": "In New Zealand in the 1860s the native Maori people fought the British colonials to keep the land guaranteed to them by treaty. The warrior Te Wheke fights for the British until betrayal leads him to seek utu (revenge). The settler Williamson in turn seeks revenge after Te Wheke attacks his homestead. Meanwhile Wiremu, an officer for the British, seems to think that resistance is futile.",
+    "releaseDate": "1984-09-13",
+    "runtime": 118
+  },
+  {
+    "id": 396744,
+    "title": "Underfire: The Untold Story of Pfc. Tony Vaccaro",
+    "genres": [
+      "War",
+      "Documentary",
+      "Drama",
+      "History"
+    ],
+    "overview": "The remarkable story of WWII infantryman and photographer Tony Vaccaro, who created one of the most comprehensive, haunting and intimate photographic records of the war using a smuggled $47 camera while developing the negatives in his helmet at night.",
+    "releaseDate": "2016-10-06",
+    "runtime": 79
+  },
+  {
+    "id": 309929,
+    "title": "Soldat blanc",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "A muggy Saigon, late 1945. Stationed at a military camp in French Indochina, two young men--Robert and André--become close friends as they share the boredom and excitement of waiting for their first mission. But when they discover that instead of freeing Indochina from foreign aggressors, they will be fighting natives struggling for independence, their friendship is jeopardized.",
+    "releaseDate": "2014-09-08",
+    "runtime": 146
+  },
+  {
+    "id": 427342,
+    "title": "Panfilov's 28 Men",
+    "genres": [
+      "History",
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "overview": "USSR, Late November, 1941. Based on the account by reporter Vasiliy Koroteev that appeared in the Red Army's newspaper, Krasnaya Zvezda, shortly after the battle, this is the story of Panifilov's Twenty-Eight, a group of twenty-eight soldiers of the Red Army's 316th Rifle Division, under the command of General Ivan Panfilov, that stopped the advance on Moscow of a column of fifty-four Nazi tanks of the 11th Panzer Division for several days. Though armed only with standard issue Mosin-Nagant infantry rifles and DP and PM-M1910 machine guns, all useless against tanks, and with wholly inadequate RPG-40 anti-tank grenades and PTRD-41 anti-tank rifles, they fight tirelessly and defiantly, with uncommon bravery and unwavering dedication, to protect Moscow and their Motherland.",
+    "releaseDate": "2016-11-24",
+    "runtime": 105
+  },
+  {
+    "id": 210052,
+    "title": "Wolfskinder",
+    "genres": [
+      "History",
+      "Drama",
+      "War"
+    ],
+    "overview": "The story of a boy who, driven by the search for his lost brother in the turmoil of WWII, joins a group of children in order to survive the chaos of post-war anarchy in the haunted forests of Lithuania.",
+    "releaseDate": "2013-08-28",
+    "runtime": 91
+  },
+  {
+    "id": 403357,
+    "title": "1898. Our Last Men in the Philippines",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The Spanish troops in the Philippines Have to fight for their lives as they are forgot by the Spanish Empire",
+    "releaseDate": "2016-12-02",
+    "runtime": 105
+  },
+  {
+    "id": 412467,
+    "title": "Beyond Valkyrie: Dawn of the Fourth Reich",
+    "genres": [
+      "Action",
+      "War",
+      "History"
+    ],
+    "overview": "An intense thriller from the frontlines of World War II. As Operation Valkyrie prepares to assassinate Adolph Hitler, an Allied special ops team prepares to extract the man destined to lead post-war Germany. But after Valkyrie fails, everything changes. Now, unlikely allies must work together to stop a group of Nazi Officers from fleeing to Argentina and establishing the Fourth Reich.",
+    "releaseDate": "2016-10-03",
+    "runtime": 100
+  },
+  {
+    "id": 392271,
+    "title": "Rangoon",
+    "genres": [
+      "War",
+      "History",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Love triangle set against the backdrop of World War II.",
+    "releaseDate": "2017-02-24",
+    "runtime": 167
+  },
+  {
+    "id": 433082,
+    "title": "Across the Waters",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Fuglene Over Sundet is the gripping tale of the Danish Jews' escape to Sweden in October 1943.",
+    "releaseDate": "2016-10-27",
+    "runtime": 94
+  },
+  {
+    "id": 403390,
+    "title": "Bitter Harvest",
+    "genres": [
+      "War",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "overview": "Set between the two World Wars and based on true historical events, Bitter Harvest conveys the untold story of the Holodomor, the genocidal famine engineered by the tyrant Joseph Stalin. The film displays a powerful tale of love, honour, rebellion and survival at a time when Ukraine was forced to adjust to the horrifying territorial ambitions of the burgeoning Soviet Union.",
+    "releaseDate": "2017-02-23",
+    "runtime": 103
+  },
+  {
+    "id": 350312,
+    "title": "Baahubali 2: The Conclusion",
+    "genres": [
+      "Action",
+      "Adventure",
+      "History",
+      "War"
+    ],
+    "overview": "When Mahendra, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+    "releaseDate": "2017-04-27",
+    "runtime": 161
+  },
+  {
+    "id": 25998,
+    "title": "Men Behind the Sun",
+    "genres": [
+      "War",
+      "History"
+    ],
+    "overview": "The film is a graphic depiction of the war atrocities committed by the Japanese at Unit 731, the secret biological weapons experimentation unit of the Imperial Japanese Army during World War II. The film details the various cruel medical experiments Unit 731 inflicted upon the Chinese and Soviet prisoners at the tail-end of the war.",
+    "releaseDate": "1988-12-01",
+    "runtime": 105
+  },
+  {
+    "id": 406449,
+    "title": "Hatred",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Summer of 1939. Zosia is a young Polish girl who is deeply in love with Ukrainian Petro. Their great love will be put to the test when her father decides to marry her to a wealthy widower Skiba. Right after wedding she is left alone because her husband is drafted to the Polish army for the war with Germany. Meanwhile, tensions grow due to Jews, Poles, and Ukrainians living side by side.",
+    "releaseDate": "2016-10-07",
+    "runtime": 150
+  },
+  {
+    "id": 51275,
+    "title": "The Priest",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "",
+    "releaseDate": "2009-04-04",
+    "runtime": 129
+  },
+  {
+    "id": 68553,
+    "title": "Siberiade",
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "The evolution of a nation during six decades of turbulent history is dramatized via two families from opposing classes.",
+    "releaseDate": "1979-06-06",
+    "runtime": 275
+  },
+  {
+    "id": 70133,
+    "title": "Sharpe's Rifles",
+    "genres": [
+      "Action",
+      "Adventure",
+      "History",
+      "War"
+    ],
+    "overview": "During the Peninsular War in Spain against the French, Sergeant Richard Sharpe saves the life of Arthur Wellesley, the future Duke of Wellington and is promoted to Lieutenant. In order to pay the troops Wellesley needs a money draft from the banker Rothschild, but fears he has been captured by the French and sends Sharpe behind enemy lines to find him. Sharpe is given command of a platoon of crack riflemen, led by the surly Irishman Harper and including Hagman and Harris, who resent Sharpe as not being a 'proper officer'.",
+    "releaseDate": "1993-05-05",
+    "runtime": 102
+  },
+  {
+    "id": 326011,
+    "title": "The Battalion",
+    "genres": [
+      "War",
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "overview": "Russia, 1917, WWI. This is the story of the 1st Russian Women's Battalion of Death, formed as part of an ill-conceived propaganda ploy by the Russian Provisional Government in late May of 1917.",
+    "releaseDate": "2015-02-20",
+    "runtime": 120
+  },
+  {
+    "id": 104473,
+    "title": "The Surrender of Tournavos",
+    "genres": [
+      "Action",
+      "War",
+      "Drama",
+      "History"
+    ],
+    "overview": "Three military men, seen inside a fortification, are firing on an unseen enemy force. The call for reinforcements but ladders appear signalling the enemy is about to overrun this position.",
+    "releaseDate": "1897-01-01",
+    "runtime": 1
+  },
+  {
+    "id": 374720,
+    "title": "Dunkirk",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
+    ],
+    "overview": "The miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26th and June 4th 1940, during the Battle of France in World War II.",
+    "releaseDate": "2017-07-19",
+    "runtime": 107
+  },
+  {
+    "id": 441881,
+    "title": "Tubelight",
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "overview": "Laxman Singh Bisht (Salman) is nicknamed tube light by his neighbours because he is feeble-minded. Despite being special, Laxman lives by one life-lesson; keep your faith alive and you can do almost anything, even stop a war.",
+    "releaseDate": "2017-06-23",
+    "runtime": 136
+  }
+]

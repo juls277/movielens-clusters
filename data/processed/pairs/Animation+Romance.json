@@ -1,0 +1,946 @@
+[
+  {
+    "id": 15789,
+    "title": "A Goofy Movie",
+    "genres": [
+      "Romance",
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "overview": "Though Goofy always means well, his amiable cluelessness and klutzy pratfalls regularly embarrass his awkward adolescent son, Max. When Max's lighthearted prank on his high-school principal finally gets his longtime crush, Roxanne, to notice him, he asks her on a date. Max's trouble at school convinces Goofy that he and the boy need to bond over a cross-country fishing trip like the one he took with his dad when he was Max's age, which throws a kink in his son's plans to impress Roxanne.",
+    "releaseDate": "1995-04-07",
+    "runtime": 78
+  },
+  {
+    "id": 812,
+    "title": "Aladdin",
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "Princess Jasmine grows tired of being forced to remain in the palace and she sneaks out into the marketplace  in disguise where she meets street-urchin Aladdin and the two fall in love, although she may only marry a prince. After being thrown in jail, Aladdin and becomes embroiled in a plot to find a mysterious lamp with which the evil Jafar hopes to rule the land.",
+    "releaseDate": "1992-11-25",
+    "runtime": 90
+  },
+  {
+    "id": 10020,
+    "title": "Beauty and the Beast",
+    "genres": [
+      "Romance",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+    "releaseDate": "1991-11-13",
+    "runtime": 84
+  },
+  {
+    "id": 19042,
+    "title": "All Dogs Go to Heaven 2",
+    "genres": [
+      "Romance",
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "Charlie and Itchy return to Earth to find Gabriel's Horn, but along the way meet up with a young boy named David, who ran away from home.",
+    "releaseDate": "1996-03-29",
+    "runtime": 82
+  },
+  {
+    "id": 11224,
+    "title": "Cinderella",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Animation",
+      "Romance"
+    ],
+    "overview": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
+    "releaseDate": "1950-03-04",
+    "runtime": 74
+  },
+  {
+    "id": 11970,
+    "title": "Hercules",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Adventure",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
+    "releaseDate": "1997-06-26",
+    "runtime": 93
+  },
+  {
+    "id": 18937,
+    "title": "Quest for Camelot",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Drama",
+      "Romance",
+      "Family"
+    ],
+    "overview": "During the times of King Arthur, Kayley is a brave girl who dreams of following her late father as a Knight of the Round Table. The evil Ruber wants to invade Camelot and take the throne of King Arthur, and Kayley has to stop him.",
+    "releaseDate": "1998-05-15",
+    "runtime": 86
+  },
+  {
+    "id": 15969,
+    "title": "The Return of Jafar",
+    "genres": [
+      "Family",
+      "Adventure",
+      "Animation",
+      "Romance"
+    ],
+    "overview": "The evil Jafar escapes from the magic lamp as an all-powerful genie, ready to plot his revenge against Aladdin. From battling elusive villains atop winged horses, to dodging flames inside an exploding lava pit, it's up to Aladdin - with Princess Jasmine and the outrageously funny Genie by his side - to save the kingdom once and for all.",
+    "releaseDate": "1994-12-15",
+    "runtime": 69
+  },
+  {
+    "id": 10882,
+    "title": "Sleeping Beauty",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Romance",
+      "Family"
+    ],
+    "overview": "A beautiful princess born in a faraway kingdom is destined by a terrible curse to prick her finger on the spindle of a spinning wheel and fall into a deep sleep that can only be awakened by true love's first kiss. Determined to protect her, her parents ask three fairies to raise her in hiding. But the evil Maleficent is just as determined to seal the princess's fate.",
+    "releaseDate": "1959-01-28",
+    "runtime": 75
+  },
+  {
+    "id": 15173,
+    "title": "Jonah: A VeggieTales Movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "Get ready as Bob the Tomato, Larry the Cucumber and the rest of the Veggies set sail on a whale of an adventure in Big Idea's first full-length, 3-D animated feature film. This is the story of Jonah and the Whale as you've never seen it before - a story where we learn that one of the best gifts you can give - or get - is a second chance.",
+    "releaseDate": "2002-10-04",
+    "runtime": 82
+  },
+  {
+    "id": 10515,
+    "title": "Castle in the Sky",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Action",
+      "Family",
+      "Romance"
+    ],
+    "overview": "The orphan Sheeta inherited a mysterious crystal that links her to the mythical sky-kingdom of Laputa. With the help of resourceful Pazu and a rollicking band of sky pirates, she makes her way to the ruins of the once-great civilization. Sheeta and Pazu must outwit the evil Muska, who plans to use Laputa's science to make himself ruler of the world.",
+    "releaseDate": "1986-08-02",
+    "runtime": 124
+  },
+  {
+    "id": 32328,
+    "title": "Gay Purr-ee",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Music",
+      "Romance",
+      "Family"
+    ],
+    "overview": "Mouser Jaone Tom and housecat Mewsette are living in the French country side, but Mewsette wants to experience the refinement and excitement of the Paris living. But upon arrival she falls into the clutches of Meowrice. Jaune Tom and his friend Robespierre set off to Paris to find her.",
+    "releaseDate": "1962-10-24",
+    "runtime": 85
+  },
+  {
+    "id": 33320,
+    "title": "Millennium Actress",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "A movie studio is being torn down. TV interviewer Genya Tachibana has tracked down its most famous star, Chiyoko Fujiwara, who has been a recluse since she left acting some 30 years ago. Tachibana delivers a key to her, and it causes her to reflect on her career; as she's telling the story, Tachibana and his long-suffering cameraman are drawn in.",
+    "releaseDate": "2001-07-28",
+    "runtime": 87
+  },
+  {
+    "id": 47542,
+    "title": "Peter-No-Tail",
+    "genres": [
+      "Romance",
+      "Family",
+      "Animation",
+      "Drama"
+    ],
+    "overview": "Peter-No-Tail is a cat who's born without a proper tail on a farm by the Swedish countryside. Due to economical difficulties, the farmer is forced to get rid of Peter. The farmer can't bring himself to drown the cat, so he sneaks Peter inside the car of a family who are renting a house close to the farm for their summer vacation. When the family finally reach their home in Uppsala, Sweden, they find Peter and decide to keep him. Without a tail, he becomes the talk of the town among the other cats and, especially Mike, who teases him cruelly. Mean Mike and his two companions, Bill and Bull,  are notorious for the nasty tricks they like to play on other cats. Mike is currently trying to court Molly Silk-Nose, but his rough and silly approach does not impress her, since she becomes interested in the kind and gentle Peter. But Mike won't give up that easily and he has a plan for how he'll get his revenge.",
+    "releaseDate": "1981-12-25",
+    "runtime": 81
+  },
+  {
+    "id": 15080,
+    "title": "Only Yesterday",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "It’s 1982, and Taeko is 27 years old, unmarried, and has lived her whole life in Tokyo. She decides to visit her family in the countryside, and as the train travels through the night, memories flood back of her younger years: the first immature stirrings of romance, the onset of puberty, and the frustrations of math and boys. At the station she is met by young farmer Toshio, and the encounters with him begin to reconnect her to forgotten longings. In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
+    "releaseDate": "1991-07-20",
+    "runtime": 118
+  },
+  {
+    "id": 3933,
+    "title": "Corpse Bride",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Animation",
+      "Music"
+    ],
+    "overview": "Set in a 19th-century european village, this stop-motion animation feature follows the story of Victor, a young man whisked away to the underworld and wed to a mysterious corpse bride, while his real bride Victoria waits bereft in the land of the living.",
+    "releaseDate": "2005-09-09",
+    "runtime": 77
+  },
+  {
+    "id": 21057,
+    "title": "Ocean Waves",
+    "genres": [
+      "Romance",
+      "Animation",
+      "Drama"
+    ],
+    "overview": "At Kichijōji Station, Tokyo, Taku Morisaki glimpses a familiar woman on the platform opposite boarding a train. Later, her photo falls from a shelf as he exits his apartment before flying to Kōchi Prefecture. Picking it up, he looks at it briefly before leaving. As the aeroplane takes off he narrates the events that brought her into his life...",
+    "releaseDate": "1993-01-01",
+    "runtime": 76
+  },
+  {
+    "id": 12924,
+    "title": "The Place Promised in Our Early Days",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "The story takes place in a alternate postwar period, in 1996, where Japan is divided. Hokkaido is ruled by the \"Union\" while Honshu and other southern islands are under US authority. A tall tower was built on Hokkaido, which could even be seen from Tokyo. In the summer of 1996, three middle-school students make a promise that they'll cross the border with a self-constructed plane and unravel the tower's secret, but their project was abandoned after the girl, Sayuri Sawatari, became mysteriously ill and transferred to Tokyo. Years later on the brink of another war Hiroki Fujisawa finds out that Sayuri had been in coma since then, and he asks Takuya Shirakawa to help him finding a way to wake her up.",
+    "releaseDate": "2004-11-20",
+    "runtime": 91
+  },
+  {
+    "id": 14945,
+    "title": "Origin: Spirits of the Past",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Action"
+    ],
+    "overview": "It is 300 years into the future. Earth's environment had been devastated by mankind's own foolish plans and humankind is beleaguered by the sentient forests which they have awoken. The world balance is tipped when a young boy named Agito stumbles across a machine that glowed in a strange blue hue inside a forbidden sanctuary.",
+    "releaseDate": "2006-01-07",
+    "runtime": 95
+  },
+  {
+    "id": 38142,
+    "title": "5 Centimeters per Second",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Takaki and Akari are two classmates in elementary school. During their time together they have become close friends. Their relationship is tested when Akari moves to another city because of her parents' jobs. Both of them struggle to keep their friendship alive, as time and distance slowly pulls them apart. When Takaki finds out that he is moving further away, he decides to visit Akari one last time.",
+    "releaseDate": "2007-03-03",
+    "runtime": 63
+  },
+  {
+    "id": 16137,
+    "title": "Fear(s) of the Dark",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance"
+    ],
+    "overview": "Several scary black-and-white animated segments in different styles appeal to our fear(s) of the dark.",
+    "releaseDate": "2008-01-01",
+    "runtime": 85
+  },
+  {
+    "id": 20529,
+    "title": "Sita Sings the Blues",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "overview": "The movie is about Sita, the Hindu Goddess from the epic \"The Ramayana\", who accompanies Lord Rama on a 14 year exile in forest. Sita is abducted by Ravana, the ruler of Lanka. This movie tells the story of Rama and Sita, along-with a biographical account of the director's relationship with her husband. It intersperses events from the Ramayana, light-hearted but knowledgeable discussion of historical background by a trio of Indian shadow puppets, musical interludes voiced with archival tracks by Annette Hanshaw and scenes from the artist's own life. The ancient mythological and modern biographical plot are parallel tales, sharing numerous themes.",
+    "releaseDate": "2008-02-11",
+    "runtime": 82
+  },
+  {
+    "id": 37047,
+    "title": "Love Hina Christmas Special: Silent Eve",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "As another round of preliminary tests approach for Keitaro, so does Christmas. And as the first Christmas of the millennium, there is a rumor that if one confesses his love on this special eve it will come true. Keitaro has decided what he needs to do on this Christmas eve. But being a re-taker, can he afford taking attention away from the tests on the same day?",
+    "releaseDate": "2000-12-24",
+    "runtime": 46
+  },
+  {
+    "id": 44685,
+    "title": "Love Hina Spring Special - I Wish Your Dream",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Animation",
+      "Music"
+    ],
+    "overview": "The tests have come, and Keitaro can only hope to succeed. However, in the final stretch, he fails miserably and daydreams through the test. Assuming that he has failed, he runs away, so the rest of the cast hunts him down on a remote desert island to bring him back.",
+    "releaseDate": "2001-03-31",
+    "runtime": 48
+  },
+  {
+    "id": 10198,
+    "title": "The Princess and the Frog",
+    "genres": [
+      "Romance",
+      "Family",
+      "Animation",
+      "Music"
+    ],
+    "overview": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to do face the same problem after she kisses him.",
+    "releaseDate": "2009-12-08",
+    "runtime": 97
+  },
+  {
+    "id": 14173,
+    "title": "Princess",
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama",
+      "Foreign",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "The story of August who loses his beloved sister Christina, a former porn star known as The Princess. He adopts Christina's five-year-old daughter Mia. Weighed down by grief and guilt, August breaks down and with Mia in tow, he embarks on a mission of vengeance to erase Christina's pornographic legacy.",
+    "releaseDate": "2006-06-16",
+    "runtime": 90
+  },
+  {
+    "id": 18143,
+    "title": "She and Her Cat: Their Standing Points",
+    "genres": [
+      "Animation",
+      "Romance"
+    ],
+    "overview": "A cat reminisces about his life with and feelings for his owner, a single woman.",
+    "releaseDate": "1999-01-01",
+    "runtime": 5
+  },
+  {
+    "id": 63498,
+    "title": "Chico & Rita",
+    "genres": [
+      "Animation",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Chico is a young piano player with big dreams. Rita is a beautiful singer with an extraordinary voice. Music and romantic desire unites them, but their journey - in the tradition of the Latin ballad, the bolero - brings heartache and torment.",
+    "releaseDate": "2010-11-19",
+    "runtime": 94
+  },
+  {
+    "id": 36865,
+    "title": "The Disappearance of Haruhi Suzumiya",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ],
+    "overview": "It is mid-december, and SOS Brigade chief Haruhi Suzumiya announces that the Brigade is going to hold a Christmas party in their clubroom, with Japanese hotpot for dinner. The brigade members Kyon, Yuki Nagato, Mikuru Asahina and Itsuki Koizumi start preparing everything for the party, such as costumes and decorations. But a couple of days later, Kyon arrives at school only to find that Haruhi is missing. Not only that, but Mikuru claims she has never known Kyon before, Koizumi is also missing, and Yuki has become the sole member of the literature club. The SOS Brigade seems to have never existed, nor has Haruhi Suzumiya. No one in the school has ever heard about her… except for Kyon.",
+    "releaseDate": "2010-02-05",
+    "runtime": 162
+  },
+  {
+    "id": 13761,
+    "title": "Pocahontas II: Journey to a New World",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Romance",
+      "Family"
+    ],
+    "overview": "When news of John Smith's death reaches America, Pocahontas is devastated. She sets off to London with John Rolfe, to meet with the King of England on a diplomatic mission: to create peace and respect between the two great lands. However, Governor Ratcliffe is still around; he wants to return to Jamestown and take over. He will stop at nothing to discredit the young princess.",
+    "releaseDate": "1998-08-04",
+    "runtime": 72
+  },
+  {
+    "id": 14128,
+    "title": "Cinderella II: Dreams Come True",
+    "genres": [
+      "Family",
+      "Animation",
+      "Romance",
+      "Fantasy"
+    ],
+    "overview": "As a newly crowned princess, Cinderella quickly learns that life at the Palace - and her royal responsibilities - are more challenging than she had imagined. In three heartwarming tales, Cinderella calls on her animal friends and her Fairy Godmother to help as she brings her own grace and charm to her regal role and discovers that being true to yourself is the best way to make your dreams come true.",
+    "releaseDate": "2002-02-23",
+    "runtime": 74
+  },
+  {
+    "id": 140420,
+    "title": "Paperman",
+    "genres": [
+      "Animation",
+      "Family",
+      "Romance"
+    ],
+    "overview": "An urban office worker finds that paper airplanes are instrumental in meeting a girl in ways he never expected.",
+    "releaseDate": "2012-11-02",
+    "runtime": 7
+  },
+  {
+    "id": 200481,
+    "title": "The Blue Umbrella",
+    "genres": [
+      "Animation",
+      "Romance"
+    ],
+    "overview": "It is just another evening commute until the rain starts to fall, and the city comes alive to the sound of dripping rain pipes, whistling awnings and gurgling gutters.",
+    "releaseDate": "2013-02-12",
+    "runtime": 7
+  },
+  {
+    "id": 18269,
+    "title": "Lady and the Tramp II: Scamp's Adventure",
+    "genres": [
+      "Romance",
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "overview": "Lady and Tramp's mischievous pup, Scamp, gets fed up with rules and restrictions imposed on him by life in a family, and longs for a wild and free lifestyle. He runs away from home and into the streets where he joins a pack of stray dogs known as the \"Junkyard Dogs.\" Buster, the pack's leader, takes an instant disliking to the \"house-dog\" and considers him a rival. Angel, a junkyard pup Scamp's age, longs for the safety and comfort of life in a family and the two become instant companions. Will Scamp choose the wild and free life of a stray or the unconditional love of his family?",
+    "releaseDate": "2001-02-18",
+    "runtime": 69
+  },
+  {
+    "id": 153158,
+    "title": "Underdogs",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Romance"
+    ],
+    "overview": "In the small village where Amadeo lives there is no one good enough to challenge his skills at Table Football. But, while Amadeo may be a genius as a table football player in real life he's a loser. He's in love with Lara, his childhood friend, but he's so shy that he can't bring himself to confess his love for her. So he just hangs out in his quaint, timeless village. When Amadeo beats the village bully Flash at Table Football. The scene is set for an epic rivalry. Consumed with anger Flash vows to get even and 10 years later he returns as an International Superstar, a Football Icon and Galatico determined to wreak his revenge.",
+    "releaseDate": "2013-07-18",
+    "runtime": 106
+  },
+  {
+    "id": 84319,
+    "title": "An Oversimplification of Her Beauty",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "A quixotic artist hypothesizes about why he feels bad when a mystery girl stands him up. The event prompts him to ask: what's the content of a momentary feeling? Is it the sum of your experiences? And perhaps more importantly, are your experiences the sum of you?",
+    "releaseDate": "2012-01-30",
+    "runtime": 95
+  },
+  {
+    "id": 198375,
+    "title": "The Garden of Words",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Takao, who is training to become a shoemaker, skipped school and is sketching shoes in a Japanese-style garden. He meets a mysterious woman, Yukino, who is older than him. Then, without arranging the times, the two start to see each other again and again, but only on rainy days. They deepen their relationship and open up to each other. But the end of the rainy season soon approaches …",
+    "releaseDate": "2013-05-31",
+    "runtime": 46
+  },
+  {
+    "id": 69325,
+    "title": "Around June",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "A love story set in the shadow of the shipyards of San Francisco. A young woman living with her much adored uncle Henry and domineering, abusive father, meets a penniless illegal immigrant, whose love gives her the insight and courage to finally break free and live her own life.",
+    "releaseDate": "2011-09-30",
+    "runtime": 93
+  },
+  {
+    "id": 234284,
+    "title": "Time of Eve: The Movie",
+    "genres": [
+      "Animation",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "In the not-too-distant future, androids have come into common usage. Rikuo Sakisaka, who has taken robots for granted for his entire life, one day discovers that Sammy, his home android, has been acting independently and coming and going on her own. He finds a strange phrase recorded in her activity log, \"Are you enjoying the Time of Eve?\". He, along with his friend Masakazu Masaki, traces Sammy's movements and finds an unusual cafe, \"The Time of Eve\". Nagi, the barista, informs them that the cafe's main rule is to not discriminate between humans and androids. Within the cafe, androids do not display their status rings, and, when patrons depart, the door is automatically locked for two minutes to prevent someone from following them to discover their true nature.",
+    "releaseDate": "2010-03-05",
+    "runtime": 106
+  },
+  {
+    "id": 204436,
+    "title": "Jack and the Cuckoo-Clock Heart",
+    "genres": [
+      "Animation",
+      "Romance",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "overview": "In Scotland 1874, Jack is born on the coldest day ever. Because of the extreme cold, his heart stops beating. The responsible midwife in Edinburgh finds a way to save him by replacing his heart with a clock. So he lives and remains under the midwife's protective care. But he must not get angry or excited because that endangers his life by causing his clock to stop working. Worse than that, when he grows up, he has to face the fact he cannot fall in love because that too could stop his delicate heart.",
+    "releaseDate": "2013-11-17",
+    "runtime": 94
+  },
+  {
+    "id": 54113,
+    "title": "The Swan Princess: Escape from Castle Mountain",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Romance",
+      "Family"
+    ],
+    "overview": "The first wedding anniversary of Princess Odette and Prince Derek is distracted by field fires set by Knuckles. His master Clavius, wants to conquer the world, and he needs to capture a giant orb to do that. Clavius kidnaps Queen Uberta and Odette with Derek have to save her.",
+    "releaseDate": "1997-01-01",
+    "runtime": 71
+  },
+  {
+    "id": 228326,
+    "title": "The Book of Life",
+    "genres": [
+      "Romance",
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans three fantastical worlds where he must face his greatest fears.",
+    "releaseDate": "2014-10-01",
+    "runtime": 95
+  },
+  {
+    "id": 17234,
+    "title": "Summer Days With Coo",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "A small, lone Kappa miraculously survives over 200 years into modern day Japan, when he is found by young Koichi. Coo, who is secretly adopted by Koichi's family, searches with his new human friend for unpopulated places in hopes of finding any remaining of his kind.",
+    "releaseDate": "2007-07-28",
+    "runtime": 138
+  },
+  {
+    "id": 157305,
+    "title": "Head Over Heels",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "After many years of marriage, Walter and Madge have grown apart: he lives on the floor and she lives on the ceiling. When Walter tries to reignite their old romance, their equilibrium comes crashing down, and the couple that can't agree which way is up must find a way put their marriage back together.",
+    "releaseDate": "2012-05-24",
+    "runtime": 10
+  },
+  {
+    "id": 285532,
+    "title": "Bolidi sull'asfalto a tutta birra!",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Animation"
+    ],
+    "overview": "",
+    "releaseDate": "1970-08-08",
+    "runtime": null
+  },
+  {
+    "id": 92321,
+    "title": "Hotarubi no Mori e",
+    "genres": [
+      "Romance",
+      "Animation",
+      "Fantasy"
+    ],
+    "overview": "One hot summer day a little girl gets lost in an enchanted forest of the mountain god where spirits reside. A young boy appears before her, but she cannot touch him for fear of making him disappear. And so a wondrous adventure awaits...",
+    "releaseDate": "2011-09-17",
+    "runtime": 45
+  },
+  {
+    "id": 84617,
+    "title": "The Dot and the Line: A Romance in Lower Mathematics",
+    "genres": [
+      "Romance",
+      "Animation",
+      "Comedy"
+    ],
+    "overview": "A cartoon detailing the unrequited love that the line has for the dot, and the heartbreak that results due to the dot's feelings for the lively squiggle.",
+    "releaseDate": "1965-12-31",
+    "runtime": 10
+  },
+  {
+    "id": 31347,
+    "title": "Cardcaptor Sakura: The Sealed Card",
+    "genres": [
+      "Comedy",
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "All of the Clow Cards have been captured, and Sakura Kinomoto, the new Master of the Cards, is preparing to play the lead in the play for the town festival. However, a new evil force is causing mysterious events all over Tomoeda, including the disappearance of Sakura's cards. With Syaoran's help, Sakura must figure out the cause of these events, and save her town.",
+    "releaseDate": "2000-07-15",
+    "runtime": 80
+  },
+  {
+    "id": 16119,
+    "title": "Cinderella III: A Twist in Time",
+    "genres": [
+      "Animation",
+      "Romance",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "The evil stepmother conjures up a spell that reverses all that the fairy godmother had done. Everything that she made (the dress, the horses and the carriage) which was how Cinderella went to \"The Ball\". So when all the magic is gone will there be a happily ever after all? What will Cinderella do? Find out in Cinderella III.",
+    "releaseDate": "2007-02-06",
+    "runtime": 74
+  },
+  {
+    "id": 16962,
+    "title": "Barbie Fairytopia: Magic of the Rainbow",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "Elina goes to a fairy school to learn dancing and fairy magic. The spring of the fairy land is soon threatened by evil Laverna who intends to prevent fairies from performing the annual vital rainbow dance. Elina must stop quarreling with her fellow students and unite them to save the first bud of the spring.",
+    "releaseDate": "2007-01-01",
+    "runtime": 75
+  },
+  {
+    "id": 15906,
+    "title": "Barbie and the Magic of Pegasus 3-D",
+    "genres": [
+      "Animation",
+      "Family",
+      "Romance"
+    ],
+    "overview": "Princess Annika (Barbie) escapes the clutches of the evil wizard, explores the wonders of Cloud Kingdom, and teams up with a magnificent winged horse - who turns out to be her sister, Princess Brietta - to defeat the wizard and break the spells that imprisoned her family.",
+    "releaseDate": "2005-10-05",
+    "runtime": 85
+  },
+  {
+    "id": 44486,
+    "title": "Mars",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "",
+    "releaseDate": "2010-11-03",
+    "runtime": 90
+  },
+  {
+    "id": 255528,
+    "title": "Blank: A Vinylmation Love Story",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Animation",
+      "Romance"
+    ],
+    "overview": "In search of his lost soul mate, an unpainted Vinylmation finds himself on a quest that alters the destiny of his entire world.",
+    "releaseDate": "2014-02-14",
+    "runtime": 37
+  },
+  {
+    "id": 291270,
+    "title": "Anomalisa",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "A man crippled by the mundanity of his life experiences something out of the ordinary.",
+    "releaseDate": "2015-12-30",
+    "runtime": 90
+  },
+  {
+    "id": 42515,
+    "title": "The Man Called Flintstone",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Romance",
+      "Mystery"
+    ],
+    "overview": "In this feature-length film based on the \"Flintstones\" TV show, secret agent Rock Slag is injured during a chase in Bedrock. Slag's chief decides to replace the injured Slag with Fred Flintstone, who just happens to look like him. The trip takes Fred to Paris and Rome, which is good for Wilma, Barney, and Betty, but can Fred foil the mysterious Green Goose's evil plan for a destructive missile without letting his wife and friends in on his secret?",
+    "releaseDate": "1966-08-03",
+    "runtime": 89
+  },
+  {
+    "id": 37100,
+    "title": "Sailor Moon R: The Movie",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "While enjoying the flower gardens, Sailor Moon (Usagi) and friends encounter an old childhood friend of Mamoru's: an alien! He's come back to give Mamoru a special flower, but doesn't like Usagi and the rest of the planet's inhabitants. Sailor Moon must defend the earth from the evil Kisenian Flower he's brought back... before the evil vines and blossoms overrun the planet!",
+    "releaseDate": "1993-12-05",
+    "runtime": 61
+  },
+  {
+    "id": 12448,
+    "title": "The Hunchback of Notre Dame II",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Romance"
+    ],
+    "overview": "Now that Frollo is gone, Quasimodo rings the bell with the help of his new friend and Esmeralda's and Phoebus' little son, Zephyr. But when Quasi stops by a traveling circus owned by evil magician Sarousch, he falls for Madellaine, Sarouch's assistant.",
+    "releaseDate": "2002-02-05",
+    "runtime": 68
+  },
+  {
+    "id": 196761,
+    "title": "Hal",
+    "genres": [
+      "Animation",
+      "Romance"
+    ],
+    "overview": "Kurumi’s heart was broken by the sudden death of her boyfriend in a tragic airplane accident. By melding futuristic technology with the binary equivalent of human emotion, a brilliant scientist created an ultra-lifelike robotic surrogate to take Hal’s place – and lure Kurumi from her shroud of solitude.",
+    "releaseDate": "2013-06-08",
+    "runtime": 60
+  },
+  {
+    "id": 65592,
+    "title": "Princes and Princesses",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Drama",
+      "Science Fiction",
+      "Romance",
+      "Foreign",
+      "Family",
+      "Comedy"
+    ],
+    "overview": "This is a very fantastic and different world about love.",
+    "releaseDate": "2000-01-26",
+    "runtime": 70
+  },
+  {
+    "id": 317442,
+    "title": "The Last: Naruto the Movie",
+    "genres": [
+      "Action",
+      "Animation",
+      "Romance"
+    ],
+    "overview": "Two years after the events of the Fourth Great Ninja War, the moon that Hagoromo Otsutsuki created long ago to seal away the Gedo Statue begins to descend towards the world, threatening to become a meteor that would destroy everything on impact. Amidst this crisis, a direct descendant of Kaguya Otsutsuki named Toneri Otsutsuki attempts to kidnap Hinata Hyuga but ends up abducting her younger sister Hanabi. Naruto and his allies now mount a rescue mission before finding themselves embroiled in a final battle to decide the fate of everything.",
+    "releaseDate": "2014-12-06",
+    "runtime": 114
+  },
+  {
+    "id": 48661,
+    "title": "The Dog of Flanders",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Poor but happy, young Nello and his grandfather live alone, delivering milk as a livelihood, in the outskirts of Antwerp, a city in Flanders (the Flemish or Dutch-speaking part of modern-day Belgium). They discover a beaten dog (a Bouvier, a large sturdy dog native to Flanders) and adopt it and nurse it back to health, naming it Patrasche, the middle name of Nello's mother Mary, who died when Nello was very young. Nello's mother was a talented artist, and like his mother, he delights in drawing, and his friend Aloise is his model and greatest fan and supporter.",
+    "releaseDate": "1997-03-15",
+    "runtime": 93
+  },
+  {
+    "id": 165718,
+    "title": "Kick-heart",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "A love story between two people that each have a secret to hide. One a pro-wrestler, the other a Nun. Losing never felt so good.",
+    "releaseDate": "2013-05-01",
+    "runtime": 10
+  },
+  {
+    "id": 60964,
+    "title": "Macross Frontier: The Wings of Goodbye",
+    "genres": [
+      "Action",
+      "Animation",
+      "Romance"
+    ],
+    "overview": "Picking up from where the previous movie left off, Ranka's star career flourishes while Sheryl's health rapidly deteriorates after collapsing during a live performance. At the same time, separate factions are maneuvering behind the scenes seeking to control the Vajra horde by utilizing the singing abilities of the two songstresses. As the entire Macross Frontier fleet begins to wage its final war on the Vajra, Alto finally makes a choice between Ranka and Sheryl.",
+    "releaseDate": "2011-02-26",
+    "runtime": 115
+  },
+  {
+    "id": 131433,
+    "title": "Freedom",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "In the year 2041, mankind created their first space colony on the moon. But after a freak cataclysm devastated human civilisation on Earth, the republic of the moon built a domed megalopolis known as Eden. Now in the year 2267, a boy called Takeru spends his time engaging in hover-craft races against rival street gangs, unaware that he is about to embark in the journey of unearthing Eden's origin.",
+    "releaseDate": "2006-11-24",
+    "runtime": 189
+  },
+  {
+    "id": 173443,
+    "title": "Rio 2096: A Story of Love and Fury",
+    "genres": [
+      "Animation",
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "overview": "The film narrates the love between Janaina and a native warrior who, when dying, takes the form of a bird. For six centuries, the story of the couple survives through four stages in the history of Brazil: 1500, when the country was discovered by the Portuguese explorers, 1800, in events during slavery; 1970, during the high point of the military dictatorship, and 2096, when there will be a war over water.",
+    "releaseDate": "2013-03-07",
+    "runtime": 98
+  },
+  {
+    "id": 54821,
+    "title": "Adam",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "The hand of God fashions Adam out of the clay of Earth and places him on a small and empty planet. Each of Adam's actions - at first he can't stand up, then he barks like a dog, then he sleeps - requires God's intervention. After Adam discovers how small the planet is, how little there is to do, and God's unwillingness to let him leave the Earth, he is depressed, lonely and disconsolate. So God asks Adam's patience for a few minutes while He fashions a companion for Adam. Adam is delighted: he dons a bow tie, uses mouthwash, and finds a bouquet of flowers. Is God thinking what Adam is thinking?",
+    "releaseDate": "1992-10-05",
+    "runtime": 6
+  },
+  {
+    "id": 271706,
+    "title": "Big Fish & Begonia",
+    "genres": [
+      "Romance",
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "It is a world within our world, yet unseen by any human, and the beings here control time and tide and the changing of the seasons. On the day Chun turns sixteen, she is transformed into a dolphin to explore the human world. She is rescued from a vortex by a human boy at the cost of his own life. Chun is so moved by the boy's kindness and courage that she decides to give him life again. But to do this, she must protect the boy's soul, a tiny fish, and nurture it to grow. Through adventure and sacrifice, love grows, yet now she must release him back to the sea, back to life in the human world.",
+    "releaseDate": "2016-07-08",
+    "runtime": 100
+  },
+  {
+    "id": 372058,
+    "title": "Your Name.",
+    "genres": [
+      "Romance",
+      "Animation",
+      "Drama"
+    ],
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "releaseDate": "2016-08-26",
+    "runtime": 106
+  },
+  {
+    "id": 394759,
+    "title": "Sheep & Wolves",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "In a magical faraway land, in a picturesque little village nestled among green meadows and rolling hills, lives a flock of carefree sheep. But their pastoral and stress-free life is interrupted when a pack of wolves sets up camp in the nearby ravine.",
+    "releaseDate": "2016-04-28",
+    "runtime": 97
+  },
+  {
+    "id": 31501,
+    "title": "Samurai X: Trust & Betrayal",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Taken by slavers when he was a child, Himura Kenshin is rescued only when an encounter with bandits kills off everyone but him. He is found by a master of the Divine Justice School of Swordmanship, a school so deadly that to train in it, means death for either the master or student, there can only be one master....",
+    "releaseDate": "1999-01-01",
+    "runtime": 120
+  },
+  {
+    "id": 73799,
+    "title": "Other Worlds",
+    "genres": [
+      "Animation",
+      "Romance",
+      "Drama"
+    ],
+    "overview": "A man and a woman, talking over their relationship.",
+    "releaseDate": "1999-01-02",
+    "runtime": 2
+  },
+  {
+    "id": 455661,
+    "title": "In a Heartbeat",
+    "genres": [
+      "Family",
+      "Animation",
+      "Romance",
+      "Comedy"
+    ],
+    "overview": "A closeted boy runs the risk of being outed by his own heart after it pops out of his chest to chase down the boy of his dreams.",
+    "releaseDate": "2017-06-01",
+    "runtime": 4
+  }
+]

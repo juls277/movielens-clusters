@@ -1,0 +1,348 @@
+[
+  {
+    "id": 279,
+    "title": "Amadeus",
+    "genres": [
+      "Drama",
+      "History",
+      "Music"
+    ],
+    "overview": "The incredible story of genius musician Wolfgang Amadeus Mozart, told in flashback by his peer and secret rival Antonio Salieri – now confined to an insane asylum.",
+    "releaseDate": "1984-10-26",
+    "runtime": 160
+  },
+  {
+    "id": 8818,
+    "title": "Evita",
+    "genres": [
+      "History",
+      "Drama",
+      "Music"
+    ],
+    "overview": "The hit musical based on the life of Evita Duarte, a B-movie Argentinian actress who eventually became the wife of Argentinian president and dictator Juan Perón, and the most beloved and hated woman in Argentina.",
+    "releaseDate": "1996-12-14",
+    "runtime": 134
+  },
+  {
+    "id": 44258,
+    "title": "Marat/Sade",
+    "genres": [
+      "Music",
+      "Drama",
+      "History"
+    ],
+    "overview": "In Charenton Asylum, the Marquis de Sade directs a play about Jean Paul Marat's death, using the patients as actors. Based 'The Persecution and Assassination of Jean-Paul Marat as Performed by the Inmates of the Asylum of Charenton Under the Direction of the Marquis de Sade', a 1963 play by Peter Weiss.",
+    "releaseDate": "1967-01-01",
+    "runtime": 116
+  },
+  {
+    "id": 86463,
+    "title": "D.O.A.",
+    "genres": [
+      "Documentary",
+      "Music",
+      "History"
+    ],
+    "overview": "Documentary chronicaling the rise and fall of the punk movement with rare interview footage of Sid Vicious and Nancy Spungen. Also concert and news footage.",
+    "releaseDate": "1980-09-12",
+    "runtime": 95
+  },
+  {
+    "id": 14902,
+    "title": "1776",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "History",
+      "Music"
+    ],
+    "overview": "The film focuses on the representatives of the Thirteen original colonies who participated in the Second Continental Congress. 1776 depicts the three months of deliberation (and, oftentimes, acrimonious debate) that led up to the signing of one of the most important documents in the History of the United States, the Declaration of Independence.",
+    "releaseDate": "1972-11-09",
+    "runtime": 142
+  },
+  {
+    "id": 17729,
+    "title": "The Glenn Miller Story",
+    "genres": [
+      "History",
+      "Drama",
+      "Music"
+    ],
+    "overview": "A vibrant tribute to one of America's legendary bandleaders, charting Glenn Miller's rise from obscurity and poverty to fame and wealth in the early 1940s.",
+    "releaseDate": "1954-01-08",
+    "runtime": 115
+  },
+  {
+    "id": 12545,
+    "title": "Jesus Christ Superstar",
+    "genres": [
+      "Drama",
+      "History",
+      "Music"
+    ],
+    "overview": "Oscar-nominated film adaptation of the rock opera of the same name, based on the last weeks before the crucifixion of Jesus. The film was directed by Norman Jewison. Ted Neeley and Carl Anderson were nominated for two 1974 Golden Globe Award for their portrayals of Jesus and Judas, respectively.",
+    "releaseDate": "1973-08-15",
+    "runtime": 108
+  },
+  {
+    "id": 9459,
+    "title": "Woodstock",
+    "genres": [
+      "History",
+      "Documentary",
+      "Music"
+    ],
+    "overview": "An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000.",
+    "releaseDate": "1970-03-26",
+    "runtime": 225
+  },
+  {
+    "id": 10654,
+    "title": "Hair",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "History",
+      "Music"
+    ],
+    "overview": "\"Hair\" is a 1979 musical war comedy-drama film adaptation of the 1968 Broadway musical \"Hair: An American Tribal Love-Rock Musical\" about a Vietnam War draftee, Claude, who meets and befriends a tribe of long-haired hippies on his way to the army induction center.\n Claude heads to New York upon receiving his draft notice, leaving the family ranch in Oklahoma. He arrives in New York where he is rapidly indoctrinated into the youth subculture before reporting in for boot camp.",
+    "releaseDate": "1979-03-14",
+    "runtime": 121
+  },
+  {
+    "id": 14770,
+    "title": "Festival Express",
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ],
+    "overview": "The filmed account of a large Canadian rock festival train tour.",
+    "releaseDate": "2003-09-19",
+    "runtime": 90
+  },
+  {
+    "id": 84084,
+    "title": "Wilson",
+    "genres": [
+      "Romance",
+      "Drama",
+      "History",
+      "Music"
+    ],
+    "overview": "The political career of Woodrow Wilson is chronicled, beginning with his decision to leave his post at Princeton to run for Governor of New Jersey, and his subsequent ascent to the Presidency of the United States. During his terms in office, Wilson must deal with the death of his first wife, the onslaught of German hostilities leading to American involvement in the Great War, and his own country's reticence to join the League of Nations.",
+    "releaseDate": "1944-08-01",
+    "runtime": 154
+  },
+  {
+    "id": 42626,
+    "title": "Isadora",
+    "genres": [
+      "Drama",
+      "History",
+      "Music",
+      "Romance"
+    ],
+    "overview": "A biography of the dancer Isadora Duncan, the 1920s dancer who forever changed people's ideas of ballet. Her nude, semi-nude, and pro-Soviet dance projects as well as her attitudes on free love, debt, dress, and lifestyle shocked the public of her time.",
+    "releaseDate": "1968-09-14",
+    "runtime": 131
+  },
+  {
+    "id": 18651,
+    "title": "The Story of Vernon and Irene Castle",
+    "genres": [
+      "Drama",
+      "History",
+      "Music",
+      "Romance"
+    ],
+    "overview": "In 1911, Vernon Castle, minor stage comic meets stage-struck Irene Foote. A few misadventures later, they're married. They abandon comedy to attempt a dancing career, which lands them in Paris without a sou. Fortunately, agent Maggie Sutton hears them rehearse and starts them on their brilliant career as the world's foremost ballroom dancers. But at the height of their fame, World War I begins...",
+    "releaseDate": "1939-03-29",
+    "runtime": 93
+  },
+  {
+    "id": 11661,
+    "title": "Joyeux Noël",
+    "genres": [
+      "Romance",
+      "Drama",
+      "History",
+      "War",
+      "Music"
+    ],
+    "overview": "In 1914, World War I, the bloodiest war ever at that time in human history, was well under way. However on Christmas Eve, numerous sections of the Western Front called an informal, and unauthorized, truce where the various front-line soldiers of the conflict peacefully met each other in No Man's Land to share a precious pause in the carnage with a fleeting brotherhood.",
+    "releaseDate": "2005-11-09",
+    "runtime": 116
+  },
+  {
+    "id": 44947,
+    "title": "The King Is Dancing",
+    "genres": [
+      "Drama",
+      "History",
+      "Music"
+    ],
+    "overview": "Louis XIV, the French sun-king has two passions, establishing absolute rule over the realm -after decades of religious/civil wars- by divine right and artistic brilliancy as a dancer",
+    "releaseDate": "2000-12-06",
+    "runtime": 115
+  },
+  {
+    "id": 15934,
+    "title": "El cantante",
+    "genres": [
+      "History",
+      "Drama",
+      "Music"
+    ],
+    "overview": "The rise and fall of salsa singer, Héctor Lavoe (1946-1993), as told from the perspective of his wife Puchi, who looks back from 2002.",
+    "releaseDate": "2006-09-12",
+    "runtime": 116
+  },
+  {
+    "id": 14299,
+    "title": "Cadillac Records",
+    "genres": [
+      "Drama",
+      "History",
+      "Music"
+    ],
+    "overview": "The story of sex, violence, race and rock and roll in 1950s Chicago, and the exciting but turbulent lives of some of America's musical legends, including Muddy Waters, Leonard Chess, Little Walter, Howlin' Wolf, Etta James and Chuck Berry.",
+    "releaseDate": "2008-12-05",
+    "runtime": 109
+  },
+  {
+    "id": 29124,
+    "title": "Get Thrashed",
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ],
+    "overview": "Get Thrashed traces the rise, fall and impact of thrash metal; from its early years, through its influence on grunge, nu metal and today's heavy metal scene. It is the story of the heaviest, hardest music of the 80s and early 90s as told by the bands who lived it, the fans and bands that grew up on it and by the artists that carry the \"thrash metal\" flag today.",
+    "releaseDate": "2006-10-03",
+    "runtime": 100
+  },
+  {
+    "id": 139325,
+    "title": "Made in Mexico",
+    "genres": [
+      "Music",
+      "Foreign",
+      "Documentary",
+      "History"
+    ],
+    "overview": "From Diego Luna and Alejandro Fernandez, to Carla Morrison and Chavela Vargas, Duncan Bridgeman weaves a cinematic tapestry composed of original songs and insights from the most iconic artists and performers of contemporary Mexico. With striking visuals, the movie captures the rich diversity of Mexican geography, art, music, and culture. It is a rare look at the country's real identity, and an unparalleled celebration of what it truly means to be \"Hecho en Mexico.\"",
+    "releaseDate": "2012-09-21",
+    "runtime": 98
+  },
+  {
+    "id": 159151,
+    "title": "Muscle Shoals",
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ],
+    "overview": "In a tiny Alabama town with the curious name of Muscle Shoals, something miraculous sprang from the mud of the Tennessee River. A group of unassuming, yet incredibly talented, locals came together and spawned some of the greatest music of all time: “Mustang Sally,” “I Never Loved a Man,” “Wild Horses,” and many more. During the most incendiary periods of racial hostility, white folks and black folks came together to create music that would last for generations and gave birth to the incomparable “Muscle Shoals sound.”",
+    "releaseDate": "2013-09-27",
+    "runtime": 111
+  },
+  {
+    "id": 195068,
+    "title": "Hearts Divided",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music",
+      "History"
+    ],
+    "overview": "Napoleon Bonaparte's younger brother, visiting the United States, falls madly in love with a young woman he meets in Baltimore.",
+    "releaseDate": "1936-06-20",
+    "runtime": 76
+  },
+  {
+    "id": 43866,
+    "title": "The Firefly",
+    "genres": [
+      "History",
+      "Music",
+      "Drama"
+    ],
+    "overview": "Nina Maria Azara is the beautiful and alluring singing spy for Spain during the Napoleonic Wars. Her mission is to seduce French Officers, in order for them to reveal Napolean's intentions toward Spain. She is sent to Bayonne, France to gather military secrets. Prior to this, she meets, Don Diego while performing at a club. Unknown to her, Don Diego is actually Captain Andre, who is sent to Spain to spy on her. While in France, Nina discovers Diego's true identity, only after she has fallen in love with him. Nina Maria outwits her potential captors and returns to Spain, and goes into hiding. Napoleon's troops invade Spain, resulting in Nina's capture. In a strange twist of fate, Nina and Captain Andre are reunited, but, the 2 nations are now at war... Written by Kelly",
+    "releaseDate": "1937-11-05",
+    "runtime": 131
+  },
+  {
+    "id": 319071,
+    "title": "Fresh Dressed",
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ],
+    "overview": "Fresh Dressed chronicles the history of Hip-Hop | Urban fashion and its rise from southern cotton plantations to the gangs of 1970s in the South Bronx, to corporate America, and everywhere in-between. Supported by rich archival materials and in depth interviews with individuals crucial to the evolution of a way of life--and the outsiders who studied and admired them--Fresh Dressed goes to the core of where style was born on the black and brown side of town.",
+    "releaseDate": "2015-06-26",
+    "runtime": 90
+  },
+  {
+    "id": 233863,
+    "title": "Jimi Hendrix: Hear My Train A Comin'",
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ],
+    "overview": "Hear My Train A Comin’ unveils previously unseen performance footage and home movies taken by Hendrix and drummer Mitch Mitchell while sourcing an extensive archive of photographs, drawings, family letters and more to provide new insight into the musician’s personality and genius.  The two-hour film uses Hendrix’s own words to tell his story, illustrated through archival interviews and illuminated with commentary from family, well-known friends and musicians including Paul McCartney, band members Noel Redding, Mitch Mitchell, Billy Cox, long-time sound engineer Eddie Kramer; Steve Winwood, Vernon Reid, Billy Gibbons, Dweezil Zappa and Dave Mason.",
+    "releaseDate": "2013-11-05",
+    "runtime": 120
+  },
+  {
+    "id": 38877,
+    "title": "Not the Messiah (He's a Very Naughty Boy)",
+    "genres": [
+      "Comedy",
+      "Music",
+      "History"
+    ],
+    "overview": "Not The Messiah (He's a Very Naughty Boy) is a comic oratorio based on Monty Python's Life of Brian, which retells the tragic tale of Mandy, impregnated by a Roman soldier, giving birth to Brian, a reluctant revolutionary of the People's Front of Judea who falls in love with Judith, gets mistaken for a Messiah and is arrested by the Romans and sentenced to be crucified. It ranges in reference from Handel, through a naughty Mozart duet, to the Festival of Nine Carols, Bob Dylan, and the classic finale \"Always Look on the Bright Side of Life\".",
+    "releaseDate": "2010-03-25",
+    "runtime": 92
+  },
+  {
+    "id": 158675,
+    "title": "Les Misérables in Concert - The 25th Anniversary",
+    "genres": [
+      "History",
+      "Music"
+    ],
+    "overview": "This concert, recorded to celebrate the 25th anniversary of the landmark musical Les Miserables, gathers the casts of the show's 2010 original production at the Queen's Theatre, the 1985 original production by the London company, and the 2010 production at the Barbican together for one performance. Together with talents like Michael Ball, Hadley Fraser, and John Owen-Jones, the performers present the play's musical numbers in a semi-theatrical style, fully costumed and with all the emotion of the musical's heyday.",
+    "releaseDate": "2010-10-03",
+    "runtime": 178
+  },
+  {
+    "id": 253337,
+    "title": "The Winding Stream",
+    "genres": [
+      "Documentary",
+      "Family",
+      "History",
+      "Music"
+    ],
+    "overview": "The story of the American music dynasty, the Carters and Cashes, and their decades-long influence on popular music.",
+    "releaseDate": "2014-03-15",
+    "runtime": 87
+  },
+  {
+    "id": 56759,
+    "title": "Notre Dame de Paris",
+    "genres": [
+      "History",
+      "Music",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "A musical adaptation of Victor Hugo's novel \"Notre Dame de Paris\" which follows the gypsy dancer Esmeralda and the three men who vie for her love: the kind hunchback Quadimodo, the twisted priest Frollo, and the unfaithful soldier Phoebus.",
+    "releaseDate": "1998-09-18",
+    "runtime": 150
+  }
+]

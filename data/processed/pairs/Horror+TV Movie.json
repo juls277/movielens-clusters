@@ -1,0 +1,729 @@
+[
+  {
+    "id": 86889,
+    "title": "Bram Stoker's Dracula",
+    "genres": [
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "Dracula is searching for a woman who looks like his long dead wife.",
+    "releaseDate": "1974-02-08",
+    "runtime": 100
+  },
+  {
+    "id": 69234,
+    "title": "The Phantom of the Opera",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Music",
+      "Romance",
+      "TV Movie"
+    ],
+    "overview": "Count de Chagnie has discovered Christine's singing talent on a market place and sent her to his friend Carriere, the director of the Parisian opera. However just when she arrives Carriere's dismissed. His arrogant successor refuses to let a woman of low birth sing in his opera, but graciously employs Christine as gadrobiere for his wife Charlotta, who's installed as first singer. He also fights the phantom, an unknown guy who lives since many years in the catacombs below the opera and was granted privileges by Carriere. However the phantom knows how to defend himself and at the same time helps Christine to her career.",
+    "releaseDate": "1990-03-18",
+    "runtime": 168
+  },
+  {
+    "id": 7342,
+    "title": "Carrie",
+    "genres": [
+      "TV Movie",
+      "Drama",
+      "Horror"
+    ],
+    "overview": "Carrie White is a lonely and painfully shy teenage girl with telekinetic powers who is slowly pushed to the edge of insanity by frequent bullying from both classmates at her school, and her own religious, but abusive, mother.",
+    "releaseDate": "2002-11-04",
+    "runtime": 132
+  },
+  {
+    "id": 33641,
+    "title": "Frankenfish",
+    "genres": [
+      "TV Movie",
+      "Action",
+      "Horror",
+      "Comedy",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "When the body of a man is found completely destroyed in the swamps in Louisiana, the medical investigator Sam Rivers is assigned to investigate the murder. He travels with the biologist Mary Callahan to the location where the victim lived in a floating house and he meets his family and friends. They find that Chinese snake-heads genetically engineered that belong to a wealthy hunter are attacking and killing the locals. While the group fights to survive, the hunter Jeff arrives with his team to hunt the predators.",
+    "releaseDate": "2004-10-09",
+    "runtime": 84
+  },
+  {
+    "id": 52660,
+    "title": "Cast a Deadly Spell",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "TV Movie",
+      "Horror",
+      "Fantasy"
+    ],
+    "overview": "In a fantastical 40's where magic is used by everyone, a hard-boiled detective investigates the theft of a mystical tome.",
+    "releaseDate": "1991-01-01",
+    "runtime": 96
+  },
+  {
+    "id": 37865,
+    "title": "Buried Alive",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Thriller"
+    ],
+    "overview": "Clint is an every day working man whose wife Joanna is having an affair with a doctor. They plot to kill him and get the insurance money. Only trouble the drug overdose they give him doesn't kill him. Lucky for Clint he's buried in a cheap wooden box and he unburies himself. Just remember, Hell hath no fury like a man buried alive!",
+    "releaseDate": "1990-05-09",
+    "runtime": 93
+  },
+  {
+    "id": 43303,
+    "title": "Nora Roberts' Tribute",
+    "genres": [
+      "TV Movie",
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A former child star buys her grandmother's house to rescue it from ruin but her hope for serenity is soon eclipsed by haunting dreams of her famous grandmother, who died of a supposed overdose in the house more than 30 years ago.",
+    "releaseDate": "2009-04-11",
+    "runtime": 88
+  },
+  {
+    "id": 31578,
+    "title": "Body Bags",
+    "genres": [
+      "TV Movie",
+      "Horror"
+    ],
+    "overview": "Three tales are told, each one increasingly terrifying. The first tells the story of a woman being stalked by an axe-weilding maniac. The second is the story of a man who pays the ultimate price for a beautiful head of hair. The final tale shows what it is like to see life through the eyes of a killer.",
+    "releaseDate": "1993-08-07",
+    "runtime": 94
+  },
+  {
+    "id": 15360,
+    "title": "The Night Stalker",
+    "genres": [
+      "Mystery",
+      "Horror",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "Wisecracking reporter Carl Kolchak investigates a string of gruesome murders in Las Vegas. It seems that each victim has been bitten in the neck and drained of all their blood. Kolchak is sure that it is a vampire. He's hot on the trail, but nobody believes him. His editor thinks he's nuts and the police think he's a hindrance in the investigation, so Kolchak takes matters into his own hand.",
+    "releaseDate": "1972-01-11",
+    "runtime": 74
+  },
+  {
+    "id": 108788,
+    "title": "Out of Mind: The Stories of H.P. Lovecraft",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "TV Movie"
+    ],
+    "overview": "Haunted by disturbing dreams from an inherited book, a young man becomes interested in the writings of H.P. Lovecraft.",
+    "releaseDate": "1998-01-01",
+    "runtime": 56
+  },
+  {
+    "id": 31428,
+    "title": "Someone's Watching Me!",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "TV Movie",
+      "Thriller"
+    ],
+    "overview": "A woman is being watched in her apartment by a stranger, who also calls and torments her. A cat-and-mouse game begins.",
+    "releaseDate": "1978-11-27",
+    "runtime": 97
+  },
+  {
+    "id": 32021,
+    "title": "The Night Strangler",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Mystery",
+      "Crime"
+    ],
+    "overview": "After being run out of Las Vegas, Kolchak heads for Seattle and another reporting job with the local paper. It's not long before he is on the trail of another string of bizarre murders. It seems that every 21 years, for the past century, a killer kills a certain number of people, drains them of their blood and then disappears into the night. Kolchak is on his trail, but can he stop him?",
+    "releaseDate": "1973-01-16",
+    "runtime": 74
+  },
+  {
+    "id": 30931,
+    "title": "Dark Night of the Scarecrow",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "TV Movie"
+    ],
+    "overview": "Bubba, an intellectually disabled man, is falsely accused of attacking a young girl. Disguised as a scarecrow, he hides in a cornfield, only to be hunted down and shot by four vigilante men. After they are acquitted due to lack of evidence, the men find themselves being stalked by a mysterious scarecrow.",
+    "releaseDate": "1981-10-24",
+    "runtime": 96
+  },
+  {
+    "id": 56787,
+    "title": "Bad Ronald",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "A shy teenager accidentally kills a mocking peer, and his mother helps him hide in a spare room in their house. Problems arise when the mother goes for an operation and dies, and the house is sold to a new family, with the teen still living inside.",
+    "releaseDate": "1974-10-23",
+    "runtime": 74
+  },
+  {
+    "id": 117258,
+    "title": "Look What's Happened to Rosemary's Baby",
+    "genres": [
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "Having been adopted by the madam of a southwestern brothel, a now adult Adrian must cope with the fact that he's Satan's kid, and not living up to his expectations.",
+    "releaseDate": "1976-10-29",
+    "runtime": 100
+  },
+  {
+    "id": 63749,
+    "title": "Swamp Shark",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Thriller"
+    ],
+    "overview": "Open on gorgeous swamplands of the Atchafalaya Basin in the summer. Lots of beautiful teens are at the beach the weekend before Gator Fest. That night an animal smuggling deal goes wrong and a large sea creature escapes into a swampy backwoods river. At the McDaniel's \"Gator Shack\" restaurant, a local, Jackson is drunk, and gets mangled to bits. The town sheriff blames the carnage on the McDaniel's \"escaped\" pack of gators and tries hauling them off to jail. Rachel McDaniel, head of the family, claims to have seen the fin of a shark! Rachel and her family, along with the help of a mysterious stranger, Charlie, take on the Swampshark and the law to clear their names, save Rachel's kid sister Krystal and prevent the unwitting folks at the upcoming Gator Fest from being torn to shreds by a beast the likes of which no one has ever seen!",
+    "releaseDate": "2011-06-25",
+    "runtime": 85
+  },
+  {
+    "id": 48747,
+    "title": "Jekyll & Hyde",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "Henry Jekyll is a troubled man. His wife died of pneumonia. He wants his sister-in-law, but her father forbids any contact. And his experiments into the dual nature of man have yielded a personality-splitting drug that he has tested on himself, changing him into an uninhibited brute who seeks violent and undignified pleasures. Jekyll quickly becomes addicted to the sordid freedom induced by the drug. He can commit the most enjoyably revolting deeds, then return to his laboratory and use an antidote to change back to his original form, so that his lofty persona remains untarnished.",
+    "releaseDate": "1990-01-06",
+    "runtime": 96
+  },
+  {
+    "id": 38510,
+    "title": "How to Make a Monster",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "Video game developer Clayton Software enlists the talents of a misfit group of programmers to develop the scariest computer combat game: EVILUTION. With four weeks to bring the game to market and a million-dollar bonus on the line, they utilize a telemetry suit to render a 3-D version of the onscreen player. But when a power surge gives the hard drive a mind of its own, the suit comes to life to play the game for real and the programming tam find themselves in the middle of a chilling virtual nightmare beyond their wildest imagination.",
+    "releaseDate": "2001-10-14",
+    "runtime": 91
+  },
+  {
+    "id": 205321,
+    "title": "Sharknado",
+    "genres": [
+      "TV Movie",
+      "Horror"
+    ],
+    "overview": "A freak hurricane hits Los Angeles, causing man-eating sharks to be scooped up in tornadoes and flooding the city with shark-infested seawater. Surfer and bar-owner Fin sets out with his friends Baz and Nova to rescue his estranged wife April and teenage daughter Claudia",
+    "releaseDate": "2013-07-11",
+    "runtime": 86
+  },
+  {
+    "id": 19241,
+    "title": "Backwoods",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "While camping in Jasper Park up North California, the couple Tom Alan Smithee and Gwen Marie Holden are attacked by a group of strangers; Tom is immediately killed and Gwen is abducted by the men to an underground facility to breed.",
+    "releaseDate": "2008-01-03",
+    "runtime": 85
+  },
+  {
+    "id": 284711,
+    "title": "Sharktopus vs Pteracuda",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "TV Movie"
+    ],
+    "overview": "SHARKTOPUS VS PTERACUDA finds an American scientist up to no good (as usual) by creating the half-pterodactyl, half-barracuda: Pteracuda. When the creature inevitably escapes, it's up to Sharktopus to stop him.",
+    "releaseDate": "2014-08-02",
+    "runtime": 88
+  },
+  {
+    "id": 72270,
+    "title": "Cry Baby Lane",
+    "genres": [
+      "TV Movie",
+      "Drama",
+      "Horror"
+    ],
+    "overview": "Andrew (Jase Blankfort) and his older brother Carl (Trey Rogers) enjoy listening to ghost stories that the local undertaker (Frank Langella) tells them. One night he tells the tale of a local farmer whose wife gave birth to Siamese twins, one being good natured while the other was clearly evil. The farmer, ashamed of them, kept the twins locked in their room. Eventually the twins got sick and died together, so the farmer sawed them in half and buried the good twin in a cemetery and the bad twin in a shallow grave near the house. Later, Carl and his friends decide to hold a séance in the cemetery where the good twin is buried, but they unintentionally awaken the bad twin instead. Gradually, he possesses nearly everyone in town and it is up to young Andrew to stop him.",
+    "releaseDate": "2000-10-28",
+    "runtime": 96
+  },
+  {
+    "id": 48186,
+    "title": "The Boy Who Cried Werewolf",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "A Californian family inherits a castle in Romania. This is especially exciting to the son, who is obsessed with monsters. And he is not disappointed.",
+    "releaseDate": "2010-10-22",
+    "runtime": 97
+  },
+  {
+    "id": 29293,
+    "title": "House of the Dead 2",
+    "genres": [
+      "TV Movie",
+      "Horror"
+    ],
+    "overview": "In Guesta Verde University, the deranged Professor Curien is trying to bring back the dead, killing students for the experiment. There is an outbreak of zombies in the campus, and the government sends a NSA medical research team, formed by Dr. Alexandra Morgan a.k.a. Nightingale and lieutenant Ellis, with a special force leaded by lieutenant Dalton, trying to get the zero sample from the first generation zombie. The team has a very short time to accomplish their mission and leave the place before missiles are sent to destroy the area. However, the place is crowded of hyper sapiens and the group has to fight to survive.",
+    "releaseDate": "2005-10-14",
+    "runtime": 95
+  },
+  {
+    "id": 229839,
+    "title": "Grave Halloween",
+    "genres": [
+      "TV Movie",
+      "Horror"
+    ],
+    "overview": "After inadvertently unleashing an ancient curse, a documentary crew of American exchange students is haunted by angry spirits in Japan's infamous Suicide Forest.",
+    "releaseDate": "2013-10-19",
+    "runtime": 89
+  },
+  {
+    "id": 44811,
+    "title": "Mongolian Death Worm",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "TV Movie"
+    ],
+    "overview": "When an American oil company sets up an experimental drilling plant out in the vast deserts of Mongolia, they awaken a nest. The deadly creatures begin to breed and spread, devouring everyone in their path. The only person who can stop them is treasure hunter and adventure seeker who spent his life searching for a legendary tomb, fabled to be protected by the Death Worms. He knows he must do what he can to kill the creatures, but stopping these monsters may mean destroying his life's work forever!",
+    "releaseDate": "2010-04-08",
+    "runtime": 90
+  },
+  {
+    "id": 171292,
+    "title": "Desire: The Vampire",
+    "genres": [
+      "TV Movie",
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "overview": "A Coroner's assistant (who is also a law student) gets involved in a strange case involving his girlfriend's place of employment (a hospital) and Vampires after Milton King is drained of his blood. Strange things happen as a defrocked priest tries to thwart all efforts to solve this case.",
+    "releaseDate": "1982-11-15",
+    "runtime": 120
+  },
+  {
+    "id": 27850,
+    "title": "Halloweentown",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "On her 13th birthday, Marnie learns she's a witch, discovers a secret portal, and is transported to Halloweentown — a magical place where ghosts and ghouls, witches and werewolves live apart from the human world. But she soon finds herself battling wicked warlocks, evil curses, and endless surprises.",
+    "releaseDate": "1998-11-10",
+    "runtime": 81
+  },
+  {
+    "id": 3056,
+    "title": "Frankenstein",
+    "genres": [
+      "TV Movie",
+      "Drama",
+      "Horror",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "overview": "Two hundred years after Mary Shelley's novel the brilliant but mad Doctor has sustained his creature and himself over two centuries through genetic experimentation. In present-day America Detective O'Connor is investigating a series of horrific murders which leads her to the doctor and his creature. What she uncovers reveals the strange evolution the doctor and his creation undergo over the course of two centuries and the divergent paths creator and monster take in pursuing good or evil.  Detective Carson O'Conner and her partner Detective Michael Sloane are investigating murders of a serial-killer that mutilates and removes the internal organs of the victims. When they meet the mysterious and macabre Deucalion, they are informed that Dr. Frankenstein is alive with a legion of followers, using the name of Dr. Victor Helios.",
+    "releaseDate": "2004-10-09",
+    "runtime": 88
+  },
+  {
+    "id": 19792,
+    "title": "Firestarter 2: Rekindled",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "Charlie McGee is a young woman with the unwanted and often uncontrollable gift of psychokinesis, lighting fires by mere thought. Charlie has been in hiding for nearly all her life from a top-secret government fringe group headed by the maniacal John Rainbird, who wants to find and use Charlie as the ultimate weapon of war.",
+    "releaseDate": "2002-03-10",
+    "runtime": 168
+  },
+  {
+    "id": 331446,
+    "title": "Sharknado 3: Oh Hell No!",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Science Fiction"
+    ],
+    "overview": "The sharks take bite out of the East Coast when the sharknado hits Washington, D.C. and Orlando, Florida.",
+    "releaseDate": "2015-07-22",
+    "runtime": 88
+  },
+  {
+    "id": 70046,
+    "title": "Grave Secrets: The Legacy of Hilltop Drive",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "Jean and Shag Williams locate a newly built house and decide it's perfect for them to buy. One thing the developers forgot to tell them about was that it is built on a graveyard. Within days toilets start to flush by themselves and the garage door moves up and down by it's own accord. Will Jean and Shag realize that the place may be haunted by ghosts before it's too late.",
+    "releaseDate": "1992-03-02",
+    "runtime": 97
+  },
+  {
+    "id": 132894,
+    "title": "Aladdin and the Death Lamp",
+    "genres": [
+      "TV Movie",
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "Aladdin the adventurer and his friend Ali accidentally uncover a lamp that contains a genie. But unlike the story we know, this genie does not grant three wonderful wishes. This genie destroys everything in its way by turning the keeper’s thoughts into living nightmares. After witnessing the death of his fellow adventurers when the genie is released, Aladdin and surviving friend Ali turn to the village elder to uncover the history of the lamp, only to find the evil Shahir has been following them, hoping to take hold of the lamp and fulfill his own diabolical plans to have unlimited power. destroy their friend along with the ring.",
+    "releaseDate": "2012-09-15",
+    "runtime": 86
+  },
+  {
+    "id": 13204,
+    "title": "Hellboy Animated: Blood and Iron",
+    "genres": [
+      "TV Movie",
+      "Fantasy",
+      "Animation",
+      "Horror",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "overview": "When Hellboy, Liz Sherman, and Abe Sapien are assigned to investigate the ghost-infested mansion of a publicity-hound billionaire, they uncover a plot to resurrect a beautiful yet monstrous vampire from Professor Bruttenholm’s past. But before they can stop her bloodbath, Hellboy will have to battle harpies, hellhounds, a giant werewolf, and even the ferocious goddess Hecate herself.",
+    "releaseDate": "2007-03-10",
+    "runtime": 75
+  },
+  {
+    "id": 26015,
+    "title": "Don't Be Afraid of the Dark",
+    "genres": [
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "A young couple inherits an old mansion inhabited by small demon-like creatures who are determined to make the wife one of their own.",
+    "releaseDate": "1973-10-10",
+    "runtime": 74
+  },
+  {
+    "id": 30933,
+    "title": "Home for the Holidays",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "An ailing man summons his four daughters home for Christmas and asks them to kill his new wife, who he suspects is poisoning him.",
+    "releaseDate": "1974-07-13",
+    "runtime": 73
+  },
+  {
+    "id": 217085,
+    "title": "Night Slaves",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Science Fiction"
+    ],
+    "overview": "A man and his wife stumble upon a town whose inhabitants turn into zombies and head for the edge of town every night... he seems to be the only one unaffected. What is happening to the townsfolk? Who is the mysterious young women he keeps seeing? Why isn't he affected?",
+    "releaseDate": "1970-09-29",
+    "runtime": 72
+  },
+  {
+    "id": 37055,
+    "title": "Elephant",
+    "genres": [
+      "TV Movie",
+      "Crime",
+      "Drama",
+      "Horror",
+      "History"
+    ],
+    "overview": "A depiction of a series of violent killings in Northern Ireland with no clue as to exactly who is responsible.",
+    "releaseDate": "1989-02-13",
+    "runtime": 39
+  },
+  {
+    "id": 24563,
+    "title": "Mars Needs Women",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "TV Movie"
+    ],
+    "overview": "Tommy Kirk leads his fellow Martians to Earth on an interplanetary quest for females. Kirk proves that Martians have impeccable taste when one of his first conquests turns out to be sexy scientist Yvonne Craig.",
+    "releaseDate": "1967-01-01",
+    "runtime": 83
+  },
+  {
+    "id": 361042,
+    "title": "The Hollow",
+    "genres": [
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "It's Halloween eve on Shelter Island, and the small town is preparing for a killer storm. But the dark clouds gathering over the island are bringing with them a curse one-hundred years in waiting. As the woods give birth to an ungodly and insatiable creature of fire, bones, and earth, three sisters must scramble to stay alive through the long dark night of the Hollow. For it's not something you can kill. It's only something you can try and survive.",
+    "releaseDate": "2015-10-24",
+    "runtime": 90
+  },
+  {
+    "id": 26702,
+    "title": "Devil Dog: The Hound of Hell",
+    "genres": [
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "A dog that is a minion of Satan terrorizes a suburban family.",
+    "releaseDate": "1978-10-31",
+    "runtime": 95
+  },
+  {
+    "id": 137533,
+    "title": "Revenge of the Stepford Wives",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "TV Movie",
+      "Science Fiction"
+    ],
+    "overview": "A TV reporter arrives in the quiet town of Stepford to launch an investigation into why the town has the lowest divorce and crime rates in America. However, she begins to notice some bizarre behavior in the women of the town, discovering that Stepford is not as clean cut as it seems.",
+    "releaseDate": "1980-10-12",
+    "runtime": 96
+  },
+  {
+    "id": 57173,
+    "title": "Monsterwolf",
+    "genres": [
+      "TV Movie",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "A creature of ancient legend manifests, bound to protect the ecological balance of the land and killing anyone that threatens it. This elusive guardian is initially both feared and celebrated by the locals, but when a deadly curse affects them all, they must unite and recapture the monster wolf’s spirit or face their ultimate doom.",
+    "releaseDate": "2010-10-09",
+    "runtime": 86
+  },
+  {
+    "id": 206630,
+    "title": "Scream, Pretty Peggy",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "A sculptor hires young college girls to take care of his elderly mother and his supposedly insane sister, both of whom live in the old family mansion with him.",
+    "releaseDate": "1973-11-24",
+    "runtime": 74
+  },
+  {
+    "id": 335409,
+    "title": "Sharkansas Women's Prison Massacre",
+    "genres": [
+      "TV Movie",
+      "Science Fiction",
+      "Action",
+      "Horror"
+    ],
+    "overview": "When a fracking mishap accidentally rips apart the earth’s crust, the resulting hole opens up a gaping underground water way to a vast and mysterious ocean somewhere deep below. Instantly, giant prehistoric sharks begin wending their way upward toward a murky bog in the heart of the Arkansas Bayou. Unfortunately, for a group of female prisoners on a work detail in the swamp, the deadly sharks attack without warning – pinning a hapless group of intended victims in a small deserted cabin in the heart of the wetlands. Death may be the only means of escape!",
+    "releaseDate": "2015-11-04",
+    "runtime": 84
+  },
+  {
+    "id": 30641,
+    "title": "Grizzly Rage",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "No overview found.",
+    "releaseDate": "2007-06-07",
+    "runtime": 86
+  },
+  {
+    "id": 85483,
+    "title": "Something Evil",
+    "genres": [
+      "TV Movie",
+      "Horror"
+    ],
+    "overview": "A young couple moves into a farmhouse in rural Pennsylvania. What they don't know is that there is an unseen presence in the house, and that it wants to take possession of the wife.",
+    "releaseDate": "1972-01-21",
+    "runtime": 73
+  },
+  {
+    "id": 41025,
+    "title": "Gargoyles",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "After receiving word about a mysterious carcass/skeleton unearthed in the Arizona desert, a father and his daughter decide to remove it from the burial grounds for further study. Once they do so, they, as well as the town, are besieged by a colony of gargoyles living in some nearby caverns.",
+    "releaseDate": "1972-11-21",
+    "runtime": 74
+  },
+  {
+    "id": 24799,
+    "title": "Wolvesbayne",
+    "genres": [
+      "TV Movie",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "The film is pretty much a \"by the numbers\" thriller that follows Russel Bayne (London) - who is bitten by a werewolf and quickly finds himself in the middle of a supernatural war between vampires, werewolves, and human hunters. To make matters worse, it seems the vampires are having a civil war with a clan breaking from the others in a quest to return the vampire goddess back to power.",
+    "releaseDate": "2009-10-12",
+    "runtime": 87
+  },
+  {
+    "id": 377448,
+    "title": "The Rocky Horror Picture Show: Let's Do the Time Warp Again",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Comedy",
+      "Music",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "overview": "A straitlaced, square couple, seeking shelter from a storm, find themselves in the castle of a transsexual alien mad scientist intent on creating a buff bodybuilder.",
+    "releaseDate": "2016-10-20",
+    "runtime": 88
+  },
+  {
+    "id": 200549,
+    "title": "The Secret of Crickley Hall",
+    "genres": [
+      "Drama",
+      "Horror",
+      "TV Movie"
+    ],
+    "overview": "A year after their son goes missing, a family moves to Crickley Hall. When supernatural events begin to take place, Eve feels the house is somehow connected to her lost son.",
+    "releaseDate": "2012-10-28",
+    "runtime": 177
+  },
+  {
+    "id": 313896,
+    "title": "Von einem, der auszog, das Fürchten zu lernen",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "",
+    "releaseDate": "2014-11-13",
+    "runtime": 58
+  },
+  {
+    "id": 256166,
+    "title": "Murder by Natural Causes",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "TV Movie",
+      "Horror"
+    ],
+    "overview": "Allison, the unfaithful wife of a famous mentalist with a heart problem, together with her lover tries to kill him by scaring him to death, but the whole thing goes downhill when it turns out that he knew about it all along.",
+    "releaseDate": "1979-02-17",
+    "runtime": 100
+  },
+  {
+    "id": 37938,
+    "title": "Stranger in Our House",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "A country family of five takes in cousin Julia, whose parents recently perished in a car crash. Julia extends her influence over the family and those around them, fooling all except for Rachel, the teenaged girl who knows her cousin is up to no good.  This TV horror movie had the title \"Stranger in Our House\" when it was originally released by NBC on Halloween night in 1978. When released on VHS in the late 1980s, the title was changed to \"Summer of Fear\", which is the title of the Lois Duncan book on which it is based.",
+    "releaseDate": "1978-10-31",
+    "runtime": 100
+  },
+  {
+    "id": 30203,
+    "title": "Star Runners",
+    "genres": [
+      "TV Movie",
+      "Horror",
+      "Science Fiction"
+    ],
+    "overview": "Two space smuggles are caught by the government and told if they deliver a create to a certain location the charges will be forgotten. Turns out the create is the key to a cover up and other parties want it to.",
+    "releaseDate": "2009-06-13",
+    "runtime": 88
+  },
+  {
+    "id": 63088,
+    "title": "The Eye Creatures",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "TV Movie"
+    ],
+    "overview": "Alien \"eye\" creatures invade a small town in this uncredited remake of \"Invasion of the Saucer Men\".",
+    "releaseDate": "1965-10-29",
+    "runtime": 80
+  },
+  {
+    "id": 41237,
+    "title": "They Are Among Us",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "The film concerns a sleepy town that is populated mostly by aliens who have been pretending to be humans for a lengthy period of time in order to eventually strip the planet of resources they need to live.",
+    "releaseDate": "2004-05-14",
+    "runtime": 99
+  },
+  {
+    "id": 374430,
+    "title": "Black Mirror: White Christmas",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Science Fiction",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "This feature-length special consists of three interwoven stories. In a mysterious and remote snowy outpost, Matt and Potter share a Christmas meal, swapping creepy tales of their earlier lives in the outside world. Matt is a charismatic American trying to bring the reserved, secretive Potter out of his shell. But are both men who they appear to be? A woman gets thrust into a nightmarish world of 'smart' gadgetry. Plus a look at what would happen if you could 'block' people in real life.",
+    "releaseDate": "2014-12-16",
+    "runtime": 74
+  }
+]

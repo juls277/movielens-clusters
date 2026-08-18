@@ -1,0 +1,503 @@
+[
+  {
+    "id": 10874,
+    "title": "Muppet Treasure Island",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Music",
+      "Family",
+      "Adventure"
+    ],
+    "overview": "After telling the story of Flint's last journey to young Jim Hawkins, Billy Bones has a heart attack and dies just as Jim and his friends are attacked by pirates. The gang escapes into the town where they hire out a boat and crew to find the hidden treasure, which was revealed by Bones before he died. On their voyage across the seas, they soon find out that not everyone on board can be trusted.",
+    "releaseDate": "1996-02-16",
+    "runtime": 100
+  },
+  {
+    "id": 525,
+    "title": "The Blues Brothers",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Action",
+      "Crime"
+    ],
+    "overview": "Jake Blues is just out of jail, and teams up with his brother, Elwood on a 'mission from God' to raise funds for the orphanage in which they grew up. The only thing they can do is do what they do best – play music – so they get their old band together and they're on their way, while getting in a bit of trouble here and there.",
+    "releaseDate": "1980-06-17",
+    "runtime": 133
+  },
+  {
+    "id": 4485,
+    "title": "Diva",
+    "genres": [
+      "Action",
+      "Drama",
+      "Music",
+      "Thriller"
+    ],
+    "overview": "Jules, a young Parisian postman, secretly records a concert performance given by the opera singer Cynthia Hawkins, whom he idolises. The following day, Jules runs into a woman who is being pursued by armed thugs. Before she is killed, the woman slips an audio cassette into his mail bag...",
+    "releaseDate": "1981-03-11",
+    "runtime": 117
+  },
+  {
+    "id": 11568,
+    "title": "Blues Brothers 2000",
+    "genres": [
+      "Music",
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "overview": "Elwood, the now lone \"Blues Brother\" finally released from prison, is once again enlisted by Sister Mary Stigmata in her latest crusade to raise funds for a children's hospital. Once again hitting the road to re-unite the band and win the big prize at the New Orleans Battle of the Bands, Elwood is pursued cross-country by the cops, led by Cabel the Curtis' son",
+    "releaseDate": "1998-02-05",
+    "runtime": 123
+  },
+  {
+    "id": 11335,
+    "title": "Popeye",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "overview": "Popeye is a super-strong, spinach-scarfing sailor man who's searching for his father. During a storm that wrecks his ship, Popeye washes ashore and winds up rooming at the Oyl household, where he meets Olive. Before he can win her heart, he must first contend with Olive's fiancé, Bluto.",
+    "releaseDate": "1980-12-12",
+    "runtime": 114
+  },
+  {
+    "id": 619,
+    "title": "The Bodyguard",
+    "genres": [
+      "Thriller",
+      "Action",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "overview": "A former Secret Service agent grudgingly takes an assignment to protect a pop idol who's threatened by a crazed fan. At first, the safety-obsessed bodyguard and the self-indulgent diva totally clash. But before long, all that tension sparks fireworks of another sort, and the love-averse tough guy is torn between duty and romance.",
+    "releaseDate": "1992-11-25",
+    "runtime": 129
+  },
+  {
+    "id": 1496,
+    "title": "Cool as Ice",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Johnny, a freewheeling, motorcycle-riding musician, rolls into a small town with his band, and meets Kathy, an honor student who catches his eye. Meanwhile, Kathy's father, after being in the Witness Protection Program, is finally found by the two corrupt cops he escaped from years ago, who claim he owes them a lot of money.",
+    "releaseDate": "1991-10-18",
+    "runtime": 91
+  },
+  {
+    "id": 18644,
+    "title": "King Creole",
+    "genres": [
+      "Drama",
+      "Action",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Danny Fisher, young delinquent, flunks out of high school. He quits his job as a busboy in a nightclub, and one night he gets the chance to perform. Success is imminent and the local crime boss Maxie Fields wants to hire him to perform at his night club The Blue Shade. Danny refuses, but Fields won't take no for an answer.",
+    "releaseDate": "1958-07-02",
+    "runtime": 116
+  },
+  {
+    "id": 20391,
+    "title": "Paint Your Wagon",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Western",
+      "Music"
+    ],
+    "overview": "A Michigan farmer and a prospector form a partnership in the California gold country. Their adventures include buying and sharing a wife, hijacking a stage, kidnapping six prostitutes, and turning their mining camp into a boom town. Along the way there is plenty of drinking, gambling, and singing. They even find time to do some creative gold mining.",
+    "releaseDate": "1969-10-15",
+    "runtime": 158
+  },
+  {
+    "id": 21538,
+    "title": "The American Astronaut",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction",
+      "Music"
+    ],
+    "overview": "Samual Curtis's first mission in this bizarre science fiction musical comedy requires him to take a cat to a saloon on an asteroid. There, he meets his former dance partner (the Blueberry Pirate) and collects his payment: a device capable of producing a Real Live Girl. Including music by alternative rock group The Billy Nayer Show, this film began life as a live show with a loyal following.",
+    "releaseDate": "2001-01-20",
+    "runtime": 91
+  },
+  {
+    "id": 17130,
+    "title": "Crossroads",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Three friends get together and bury a box making a pact to open it at midnight at their high school graduation. In the little town in Georgia that they live in, things soon change. One is little miss perfect, one is an engaged prom queen, and the other is a pregnant outcast. The night of graduation, they open the box and they strike up a conversation. All of a sudden, one brings up the topic of her going to Los Angeles for a record contract audition. They all decide to go together and they leave. With a little money, they set out on the road with a guy named Ben. When one of them tells the other a rumor that he might be a homicidal maniac they are all scared of him. When they reach LA, Lucy falls in love with Ben and against her father's wishes, she stays and she goes to the audition.",
+    "releaseDate": "2002-02-15",
+    "runtime": 93
+  },
+  {
+    "id": 14117,
+    "title": "Calamity Jane",
+    "genres": [
+      "Action",
+      "Western",
+      "Music"
+    ],
+    "overview": "Doris Day and Howard Keel fuss, feud and fall in love as Calamity Jane and Wild Bill Hickok. At first curvaceous Calamity is too durned busy fighting Indians and cracking a bullwhip to pay mind to such girlie what-alls as dresses and perfume. She soon changes her mind when Katie Brown arrives in town.",
+    "releaseDate": "1953-11-04",
+    "runtime": 101
+  },
+  {
+    "id": 39833,
+    "title": "Love Me Tender",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Elvis Prestley's first film is a Civil War drama.",
+    "releaseDate": "1956-11-15",
+    "runtime": 89
+  },
+  {
+    "id": 10805,
+    "title": "Staying Alive",
+    "genres": [
+      "Drama",
+      "Action",
+      "Music",
+      "Romance"
+    ],
+    "overview": "It's five years later and Tony Manero's Saturday Night Fever is still burning. Now he's strutting toward his biggest challenger yet - making it as a dancer on the Broadway stage.",
+    "releaseDate": "1983-07-11",
+    "runtime": 93
+  },
+  {
+    "id": 1574,
+    "title": "Chicago",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Music"
+    ],
+    "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.",
+    "releaseDate": "2002-12-26",
+    "runtime": 113
+  },
+  {
+    "id": 25872,
+    "title": "The Pirate Movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Music",
+      "Romance"
+    ],
+    "overview": "A comedy/musical utilizing both new songs and parodies from the original (Gilbert and Sullivan's Pirates of Penzance), as well as references to popular films of the time, including Star Wars and Raiders of the Lost Ark. In your typical boy meets girl, boy loses girl, boy fights girl with swords plot, the story revolves around Mabel ...",
+    "releaseDate": "1982-08-06",
+    "runtime": 98
+  },
+  {
+    "id": 8446,
+    "title": "Bugsy Malone",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Music",
+      "Family"
+    ],
+    "overview": "A pint-sized cast illuminates this musical that is unlike any other ever made. Set in 1929 New York City, Bugsy Malone captures a flashy world of would-be hoodlums, showgirls, and dreamers - all played by child actors! As Tallulah, the sassy girlfriend of the owner of Fat Sam's Grand Slam Speakeasy, future superstar Jodie Foster dances and sings her way into our hearts.",
+    "releaseDate": "1976-06-26",
+    "runtime": 93
+  },
+  {
+    "id": 14746,
+    "title": "Streets of Fire",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Music"
+    ],
+    "overview": "Raven Shaddock and his gang of merciless biker friends kidnap rock singer Ellen Aim. Ellen's former lover, soldier-for-hire Tom Cody, happens to be passing through town on a visit. In an attempt to save his star act, Ellen's manager hires Tom to rescue her. Along with a former soldier, they battle through dangerous cityscapes, determined to get Ellen back.",
+    "releaseDate": "1984-06-01",
+    "runtime": 93
+  },
+  {
+    "id": 45793,
+    "title": "Man of La Mancha",
+    "genres": [
+      "Action",
+      "Music"
+    ],
+    "overview": "In the sixteenth century, Miguel de Cervantes, poet, playwright, and part-time actor, has been arrested, together with his manservant, by the Spanish Inquisition. They are accused of presenting an entertainment offensive to the Inquisition. Inside the huge dungeon into which they have been cast, the other prisoners gang up on Cervantes and his manservant, and begin a mock trial, with the intention of stealing or burning his possessions. Cervantes wishes to desperately save a manuscript he carries with him and stages, with costumes, makeup, and the participation of the other prisoners, an unusual defense--the story of Don Quixote.",
+    "releaseDate": "1972-12-20",
+    "runtime": 132
+  },
+  {
+    "id": 18693,
+    "title": "Speedway",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Music"
+    ],
+    "overview": "A race car driver tries to outrun the beautiful tax auditor out to settle his account.",
+    "releaseDate": "1968-01-01",
+    "runtime": 94
+  },
+  {
+    "id": 3989,
+    "title": "Team America: World Police",
+    "genres": [
+      "Music",
+      "Adventure",
+      "Animation",
+      "Action",
+      "Comedy"
+    ],
+    "overview": "Team America World Police follows an international police force dedicated to maintaining global stability. Learning that dictator Kim Jong il is out to destroy the world, the team recruits Broadway star Gary Johnston to go undercover. With the help of Team America, Gary manages to uncover the plan to destroy the world. Will Team America be able to save it in time? It stars… Samuel L Jackson, Tim Robbins, Sean Penn, Michael Moore, Helen Hunt, Matt Damon, Susan Sarandon, George Clooney, Danny Glover, Ethan Hawke, Alec Baldwin… or does it?",
+    "releaseDate": "2004-10-10",
+    "runtime": 98
+  },
+  {
+    "id": 25209,
+    "title": "Annie Get Your Gun",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Music",
+      "Romance",
+      "Western"
+    ],
+    "overview": "This film adaptation of Irving Berlin's classic musical stars Betty Hutton as gunslinger Annie Oakley, who romances fellow sharpshooter Frank Butler (Howard Keel) as they travel with Buffalo Bill's Wild West Show. Previously off target when it comes to love, Annie proves you can get a man with a gun in this battle-of-the-sexes extravaganza, which features timeless numbers like \"Anything You Can Do\" and \"There's No Business Like Show Business.\"",
+    "releaseDate": "1950-05-17",
+    "runtime": 107
+  },
+  {
+    "id": 23825,
+    "title": "Rock School",
+    "genres": [
+      "Action",
+      "Documentary",
+      "Music"
+    ],
+    "overview": "It is about a music school in Philadelphia, The Paul Green School of Rock Music, run by Paul Green that teaches kids ages 9 to 17 how to play rock music and be rock stars. Paul Green teaches his students how to play music such as Black Sabbath and Frank Zappa better than anyone expects them to by using a unique style of teaching that includes getting very angry and acting childish.",
+    "releaseDate": "2005-02-27",
+    "runtime": 93
+  },
+  {
+    "id": 14301,
+    "title": "Dr. Horrible's Sing-Along Blog",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Science Fiction",
+      "Music"
+    ],
+    "overview": "Dr. Horrible, an aspiring supervillain with his own video blog, is attempting to join the prestigious Evil League of Evil (led by the legendary \"thoroughbred of sin\", Bad Horse), but his plans are usually foiled by the egotistical superhero Captain Hammer. Dr. Horrible's life is thrown for a loop when he falls in love with Penny, a beautiful and optimistic advocate for the homeless he meets at the laundromat.",
+    "releaseDate": "2008-07-15",
+    "runtime": 42
+  },
+  {
+    "id": 21724,
+    "title": "Dance Flick",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Music"
+    ],
+    "overview": "Street dancer, Thomas Uncles is from the wrong side of the tracks, but his bond with the beautiful Megan White might help the duo realize their dreams as they enter in the mother of all dance battles.",
+    "releaseDate": "2009-05-22",
+    "runtime": 83
+  },
+  {
+    "id": 43321,
+    "title": "Pete Kelly's Blues",
+    "genres": [
+      "Drama",
+      "Action",
+      "Music"
+    ],
+    "overview": "In 1927 Kansas City Pete Kelly and his jazz band play nightly at a speakeasy. A local gangster starts to move in on them and when their drummer is killed Kelly gives in...",
+    "releaseDate": "1955-07-31",
+    "runtime": 95
+  },
+  {
+    "id": 44323,
+    "title": "Belle of the Yukon",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Western",
+      "Music"
+    ],
+    "overview": "Left by a con man (Randolph Scott), a dancer (Gypsy Rose Lee) finds him in gold-rush Alaska running an honest casino/dance hall.",
+    "releaseDate": "1944-12-27",
+    "runtime": 83
+  },
+  {
+    "id": 27805,
+    "title": "Stunt Rock",
+    "genres": [
+      "Action",
+      "Drama",
+      "Music"
+    ],
+    "overview": "Australian stuntman Grant Page goes to Los Angeles to work on a television series. He uses his spare time to lend his expertise to rock band Sorcer. Page helps the band develop pyrotechnic magic tricks for their shows, and also recounts to his own exploits as a stuntman and daredevil as well as various stunts by other greats.",
+    "releaseDate": "1978-01-01",
+    "runtime": 86
+  },
+  {
+    "id": 88107,
+    "title": "Double Trouble",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Two beefed-up twins (played by the Paul brothers, Peter and David, who have appeared in several programmers as The Barbarian Brothers) operating on opposing sides of the law, team up to stop a nefarious crook in this actioner. Peter Jade is a notoriously arrogant burglar who ends up with the key to an enormous underground cache of diamonds. David Jade is a cop who joins forces with Peter after greedy Philip Chamberlain, wanting the diamonds for himself, kills David's partner",
+    "releaseDate": "1992-02-14",
+    "runtime": 86
+  },
+  {
+    "id": 49776,
+    "title": "Stay Away, Joe",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Joe Lightcloud persuades his Congressman to give him 20 heifers and a prize bull so he and his father, Charlie, can prove that the Navajos can successfully raise cattle on the reservation. If their experiment is successful, then the government will help all the Navajo people. But Joe's friend, Bronc Hoverty, accidentally barbecues the prize bull, while Joe sells the heifers to buy plumbing and other home improvements for his stepmother.",
+    "releaseDate": "1968-03-08",
+    "runtime": 102
+  },
+  {
+    "id": 69499,
+    "title": "Naan Kadavul",
+    "genres": [
+      "Music",
+      "Drama",
+      "Action",
+      "Mystery"
+    ],
+    "overview": "For astrological reasons, a father leaves his son Rudran (Arya) in Kasi. Nevertheless he brings him back to Tamil Nadu. The story takes a turn here and introduces us to the world of physically and mentally challenged beggars. A world controlled by the cruel Thandavan (Rajendran). Meanwhile, Rudran leaves his house to find his place on a small cave, and soon meets Hamsavalli, who tries her best to convince him to return home, but fails. Thandavan then takes a deal with a Malayali man of the same profession and decides to force Hamsavalli to marry an ugly, deformed man for 10-lakhs worth of money. On one incident, Hamsavalli angers the deformative, who runs away without marrying her. This angers Thandavan, who deeply wounds her. She later goes crying to Rudran to somehow free from this curse. The aghori then kills her and grants her moksha.",
+    "releaseDate": "2009-02-06",
+    "runtime": 150
+  },
+  {
+    "id": 240566,
+    "title": "Tokyo Tribe",
+    "genres": [
+      "Music",
+      "Science Fiction",
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "overview": "In an alternate Japan, territorial street gangs form opposing factions collectively known as the Tokyo Tribes. The simmering tension between them is about to boil over into all-out war.",
+    "releaseDate": "2014-08-30",
+    "runtime": 116
+  },
+  {
+    "id": 325712,
+    "title": "Cool Cat Saves the Kids",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Music",
+      "Thriller"
+    ],
+    "overview": "Cool Cat is the coolest cat in town. All the kids love him. Except for the bully Butch, who hates Cool Cat for his coolness. He terrorizes Cool Cat, his friends and family with threats, taunting, and the internet. Can Cool Cat face his fears and defeat the bully Derrick.",
+    "releaseDate": "2015-02-01",
+    "runtime": 72
+  },
+  {
+    "id": 72790,
+    "title": "Ride or Die",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Crime",
+      "Music",
+      "Romance"
+    ],
+    "overview": "A slick private eye (Duane Martin) set out to investigate the death of a young rapper, only to find himself knee-deep in drugs, guns, and double crosses. Vivica A. Fox and real-life rappers Jadakiss and Sticky Fingaz co-star.",
+    "releaseDate": "2003-11-04",
+    "runtime": 84
+  },
+  {
+    "id": 24603,
+    "title": "All The Best",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Foreign",
+      "Music"
+    ],
+    "overview": "All The Best is a rib-tickling comedy based on hilarious situations resulting from mistaken identities and goof ups.",
+    "releaseDate": "2009-10-16",
+    "runtime": 144
+  },
+  {
+    "id": 87296,
+    "title": "Oh, Bomb!",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Action",
+      "Crime"
+    ],
+    "overview": "During the mayoral election, two ex-prisoners decide to replace the lucky pen of an annoying candidate with a mini-bomb",
+    "releaseDate": "1964-04-18",
+    "runtime": 95
+  },
+  {
+    "id": 417320,
+    "title": "Descendants 2",
+    "genres": [
+      "TV Movie",
+      "Family",
+      "Action",
+      "Comedy",
+      "Music",
+      "Adventure"
+    ],
+    "overview": "When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula's daughter, has taken her spot as self-proclaimed queen.",
+    "releaseDate": "2017-07-21",
+    "runtime": 111
+  }
+]

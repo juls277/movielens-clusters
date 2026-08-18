@@ -1,0 +1,4430 @@
+[
+  {
+    "id": 65796,
+    "title": "Wild Bill",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Biopic about famous gunslinger Wild Bill Hickock. The early career of legendary lawman is telescoped and culminates in his relocation in Deadwood and a reunion with Calamity Jane.",
+    "releaseDate": "1995-12-01",
+    "runtime": 98
+  },
+  {
+    "id": 12106,
+    "title": "The Quick and the Dead",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A mysterious woman comes to compete in a quick-draw elimination tournament, in a town taken over by a notorious gunman.",
+    "releaseDate": "1995-02-09",
+    "runtime": 107
+  },
+  {
+    "id": 9359,
+    "title": "Maverick",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Maverick is a gambler who would rather con someone than fight them. He needs an additional three thousand dollars in order to enter a Winner Take All poker game that begins in a few days. He tries to win some, tries to collect a few debts, and recover a little loot for the reward. He joins forces with a woman gambler with a marvelous southern accent as the two both try and enter the game.",
+    "releaseDate": "1994-05-20",
+    "runtime": 127
+  },
+  {
+    "id": 12160,
+    "title": "Wyatt Earp",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "Covering the life and times of one of the West's most iconic heroes Wyatt Earp weaves an intricate tale of Earp and his friends and family. With a star studded cast, sweeping cinematography and authentic costumes Wyatt Earp led the way during the Western revival in the 90's.",
+    "releaseDate": "1994-06-24",
+    "runtime": 191
+  },
+  {
+    "id": 11853,
+    "title": "Bad Girls",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Four former harlots try to leave the wild west (Colorado, to be exact) and head north to make a better life for themselves. Unfortunately someone from Cody's past won't let it happen that easily.",
+    "releaseDate": "1994-04-22",
+    "runtime": 99
+  },
+  {
+    "id": 11310,
+    "title": "City Slickers II: The Legend of Curly's Gold",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "overview": "On Mitch Robbins 40th birthday begins quite well until he returns home and finds his brother Glen, the black sheep of the family, in his sofa. Nevertheless he is about to have a wonderful birthday-night with his wife when he discovers a treasure map of Curly by chance. Together with Phil and unfortunately with Glen he tries to find the hidden gold of Curly's father in the desert of Arizona.",
+    "releaseDate": "1994-06-10",
+    "runtime": 116
+  },
+  {
+    "id": 19176,
+    "title": "The Cowboy Way",
+    "genres": [
+      "Western",
+      "Action",
+      "Comedy"
+    ],
+    "overview": "Two championship rodeo partners travel to New York to find their missing friend, Nacho Salazar who went missing there.",
+    "releaseDate": "1994-06-03",
+    "runtime": 102
+  },
+  {
+    "id": 35588,
+    "title": "Geronimo: An American Legend",
+    "genres": [
+      "History",
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "The Apache Indians have reluctantly agreed to settle on a US Government approved reservation. Not all the Apaches are able to adapt to the life of corn farmers. One in particular, Geronimo, is restless. Pushed over the edge by broken promises and necessary actions by the government, Geronimo and thirty or so other warriors form an attack team which humiliates the government by evading capture, whi",
+    "releaseDate": "1993-12-10",
+    "runtime": 115
+  },
+  {
+    "id": 22317,
+    "title": "Lightning Jack",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Lightning Jack Kane is an Australian outlaw in the wild west. During a bungled bank robbery he picks up mute Ben Doyle as a hostage. The two become good friends, with Jack teaching Ben how to rob banks, while they plan Jack's last heist.",
+    "releaseDate": "1994-03-11",
+    "runtime": 98
+  },
+  {
+    "id": 11969,
+    "title": "Tombstone",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "Western"
+    ],
+    "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+    "releaseDate": "1993-12-25",
+    "runtime": 130
+  },
+  {
+    "id": 32093,
+    "title": "The Mark of Zorro",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Around 1820 the son of a California nobleman comes home from Spain to find his native land under a villainous dictatorship. On the one hand he plays the useless fop, while on the other he is the masked avenger Zorro.",
+    "releaseDate": "1940-11-08",
+    "runtime": 94
+  },
+  {
+    "id": 1712,
+    "title": "Giant",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Sprawling epic covering the life of a Texas cattle rancher and his family and associates.",
+    "releaseDate": "1956-10-10",
+    "runtime": 201
+  },
+  {
+    "id": 22613,
+    "title": "The Outlaw",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "Newly appointed sheriff Pat Garrett is pleased when his old friend Doc Holliday arrives in Lincoln, New Mexico on the stage. Doc is trailing his stolen horse, and it is discovered in the possession of Billy the Kid. In a surprising turnaround, Billy and Doc become friends. This causes the friendship between Doc and Pat to cool. The odd relationship between Doc and Billy grows stranger when Doc hides Billy at his girl, Rio's, place after Billy is shot.",
+    "releaseDate": "1943-02-05",
+    "runtime": 116
+  },
+  {
+    "id": 35115,
+    "title": "Davy Crockett, King of the Wild Frontier",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Western"
+    ],
+    "overview": "Legends (and myths) from the life of famed American frontiersman Davey Crockett are depicted in this feature film edited from television episodes. Crockett and his friend George Russell fight in the Creek Indian War. Then Crockett is elected to Congress and brings his rough-hewn ways to the House of Representatives. Finally, Crockett and Russell journey to Texas and the last stand at the Alamo.",
+    "releaseDate": "1955-05-25",
+    "runtime": 93
+  },
+  {
+    "id": 200383,
+    "title": "North Star",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Set during the Alaskan gold rush of the late 1800's. In his efforts to gain control of a small mining town, Sean McLennon is buying up every mining claim that becomes available, usually after the deaths of the previous owners at the hands of McLennon's 'assistants'. One of the miners targeted by McLennon, a half-Indian hunter named Hudson Saanteek, manages to escape his hired thugs and comes back into town looking to re-establish his claim and get revenge. McLennon and his men have the advantange of numbers and weapons, but Saanteek has his survival skills and knowledge of the Alaskan wilderness.",
+    "releaseDate": "1996-01-03",
+    "runtime": 90
+  },
+  {
+    "id": 3090,
+    "title": "The Treasure of the Sierra Madre",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.",
+    "releaseDate": "1948-01-24",
+    "runtime": 126
+  },
+  {
+    "id": 11967,
+    "title": "Young Guns",
+    "genres": [
+      "Crime",
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+    "releaseDate": "1988-08-12",
+    "runtime": 107
+  },
+  {
+    "id": 46681,
+    "title": "Terror in a Texas Town",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Armed with a harpoon, a Swedish whaler is out for revenge after the death of his father. A greedy oil man trying to buy up the Swede's land might be the guilty party.",
+    "releaseDate": "1958-09-01",
+    "runtime": 80
+  },
+  {
+    "id": 14342,
+    "title": "Almost Heroes",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Two hapless explorers lead an ill-fated 1804 expedition through the Pacific Northwest in a hopeless, doomed effort to reach the Pacific Ocean before Lewis and Clark.",
+    "releaseDate": "1998-05-29",
+    "runtime": 90
+  },
+  {
+    "id": 28736,
+    "title": "Hot Lead & Cold Feet",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Western"
+    ],
+    "overview": "Twin brothers -- one rough and tough, the other a city-bred milquetoast -- compete for their father's fortune.",
+    "releaseDate": "1978-07-05",
+    "runtime": 90
+  },
+  {
+    "id": 69848,
+    "title": "One Man's Hero",
+    "genres": [
+      "Western",
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "overview": "One Man's Hero tells the little-known story of the \"St. Patrick's Battalion\" or \"San Patricios,\" a group of mostly Irish and other immigrants of the Catholic faith who deserted to Mexico after encountering religious and ethnic prejudice in the U.S. Army during the Mexican-American War. The plot centers around the personal story of John Riley, an Irishman who had been a sergeant in the American Army who is commissioned as a captain in the Mexican army and commands the battalion, as he leads his men in battle and struggles with authorities on both sides of the border",
+    "releaseDate": "1999-08-02",
+    "runtime": 121
+  },
+  {
+    "id": 1363,
+    "title": "The Hi-Lo Country",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western",
+      "Romance"
+    ],
+    "overview": "An intimate story of the enduring bond of friendship between two hard-living men, set against a sweeping backdrop: the American West, post-World War II, in its twilight. Pete and Big Boy are masters of the prairie, but ultimately face trickier terrain: the human heart.",
+    "releaseDate": "1998-12-30",
+    "runtime": 114
+  },
+  {
+    "id": 2362,
+    "title": "Westworld",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Horror",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "In a futuristic resort, wealthy patrons can visit recreations of different time periods and experience their wildest fantasies with life-like robots. But when Richard Benjamin opts for the wild west, he gets more than he bargained for when a gunslinger robot goes berserk.",
+    "releaseDate": "1973-10-22",
+    "runtime": 88
+  },
+  {
+    "id": 8487,
+    "title": "Wild Wild West",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Science Fiction",
+      "Western"
+    ],
+    "overview": "Legless Southern inventor Dr. Arliss Loveless plans to rekindle the Civil War by assassinating President U.S. Grant. Only two men can stop him: gunfighter James West and master-of-disguise and inventor Artemus Gordon. The two must team up to thwart Loveless' plans.",
+    "releaseDate": "1999-06-29",
+    "runtime": 106
+  },
+  {
+    "id": 60285,
+    "title": "Alvarez Kelly",
+    "genres": [
+      "Action",
+      "War",
+      "Western"
+    ],
+    "overview": "A suave Mexican cattleman inadvertently gets involved in the Civil War.",
+    "releaseDate": "1966-10-01",
+    "runtime": 116
+  },
+  {
+    "id": 1718,
+    "title": "Santa Fe Trail",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "As a penalty for fighting fellow classmates days before graduating from West Point, J.E.B. Stuart, George Armstrong Custer and four friends are assigned to the 2nd Cavalry, stationed at Fort Leavenworth. While there they aid in the capture and execution of the abolitionist, John Brown following the Battle of Harper's Ferry.",
+    "releaseDate": "1940-12-13",
+    "runtime": 110
+  },
+  {
+    "id": 65134,
+    "title": "Zachariah",
+    "genres": [
+      "Western",
+      "Action",
+      "Comedy"
+    ],
+    "overview": "Two gunfighters separate and experience surreal visions on their journey through the west.",
+    "releaseDate": "1971-01-12",
+    "runtime": 93
+  },
+  {
+    "id": 26928,
+    "title": "Buck and the Preacher",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "A wagon master and a con-man preacher help freed slaves dogged by cheap-labor agents out West.",
+    "releaseDate": "1972-03-17",
+    "runtime": 102
+  },
+  {
+    "id": 24748,
+    "title": "Hud",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Hud Bannon is a ruthless young man who tarnishes everything and everyone he touches. Hud represents the perfect embodiment of alienated youth, out for kicks with no regard for the consequences. There is bitter conflict between the callous Hud and his stern and highly principled father, Homer. Hud's nephew Lon admires Hud's cheating ways, though he soon becomes too aware of Hud's reckless amorality to bear him anymore. In the world of the takers and the taken, Hud is a winner. He's a cheat, but, he explains, \"I always say the law was meant to be interpreted in a lenient manner.\"",
+    "releaseDate": "1963-05-29",
+    "runtime": 112
+  },
+  {
+    "id": 8584,
+    "title": "Shanghai Noon",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Chon Wang, a clumsy imperial guard trails Princess Pei Pei when she is kidnapped from the Forbidden City and transported to America. Wang follows her captors to Nevada, where he teams up with an unlikely partner, outcast outlaw Roy O'Bannon, and tries to spring the princess from her imprisonment.",
+    "releaseDate": "2000-05-26",
+    "runtime": 110
+  },
+  {
+    "id": 40685,
+    "title": "In Old California",
+    "genres": [
+      "Action",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Boston pharmacist Tom Craig comes to Sacramento, where he runs afoul of local political boss Britt Dawson, who exacts protection payment from the citizenry. Dawson frames Craig with poisoned medicine, but Craig redeems himself during a Gold Rush epidemic.",
+    "releaseDate": "1942-05-31",
+    "runtime": 91
+  },
+  {
+    "id": 18118,
+    "title": "Mackenna's Gold",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Western"
+    ],
+    "overview": "The gangster Colorado kidnaps Marshal McKenna. He believes that McKenna has seen a map which leads to a rich vein of gold in the mountains and forces him to show him the way. But they're not the only ones who're after the gold; soon they meet a group of \"honorable\" citizens and the cavalry crosses their way too - and that is even before they enter Indian territory.",
+    "releaseDate": "1969-03-18",
+    "runtime": 128
+  },
+  {
+    "id": 21866,
+    "title": "Bronco Billy",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "An idealistic, modern-day cowboy struggles to keep his Wild West show afloat in the face of hard luck and waning interest.",
+    "releaseDate": "1980-06-11",
+    "runtime": 116
+  },
+  {
+    "id": 11209,
+    "title": "The Alamo",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "History",
+      "Western"
+    ],
+    "overview": "The legendary true story of a small band of soldiers who sacrificed their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+    "releaseDate": "1960-10-23",
+    "runtime": 167
+  },
+  {
+    "id": 42261,
+    "title": "Rancho Deluxe",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Jack McKee and Cecil Colson are two bumbling drifters who make a living by rustling cattle from other peoples herds in the wilds of Montana. Jack is from a wealthy background but left his parents as he resented their posh lives, and Cecil is a Native American half-breed seeking his own path in life away from his father. Both hustle and rustle their way in the world by targeting cattle owned by wealthy ranch owner John Brown. Frustrated that someone is killing his cattle, John hires a pair of ranch hands Burt and Curt to find the rustlers. When Brown realizes he cannot trust his two inept ranch hands, he turns to the grizzled former rustler Henry Beige to find the cattle thieves, while Jack and Cecil are always one step ahead of them, not realizing that their luck will eventually run out sometime.",
+    "releaseDate": "1975-01-01",
+    "runtime": 93
+  },
+  {
+    "id": 20287,
+    "title": "Extreme Prejudice",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A Texas Ranger and a ruthless narcotics kingpin - they were childhood friends, now they are adversaries.",
+    "releaseDate": "1987-04-24",
+    "runtime": 101
+  },
+  {
+    "id": 43329,
+    "title": "Apache",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Following the surrender of Geronimo, Massai, the last Apache warrior is captured and scheduled for transportation to a Florida reservation. On the way he manages to escape and heads for his homeland to win back his girl and settle down to grow crops. His pursuers have other ideas though.",
+    "releaseDate": "1954-07-09",
+    "runtime": 91
+  },
+  {
+    "id": 1406,
+    "title": "City Slickers",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "overview": "New York meets the west in this comedy starring Billy Crystal. Three New York business men decide to take a 'Wild West' vacation that turns out to not be the relaxing vacation they had envisioned.",
+    "releaseDate": "1991-06-07",
+    "runtime": 112
+  },
+  {
+    "id": 66035,
+    "title": "The Kentuckian",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A frontiersman and his son fight to build a new home in Texas.",
+    "releaseDate": "1955-08-01",
+    "runtime": 104
+  },
+  {
+    "id": 24470,
+    "title": "South of Heaven, West of Hell",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Valentine Casey is a Marshal in the desolate Tucson territory of the early 1900's. On Christmas Eve, his outlaw family pays him a disturbing visit. He must confront the sins of his past. He and his partner, U.S. Christmas, journey through the desert to a small town that the ruthless Henry Clan has hit in order to save Casey's love, Adelyne.",
+    "releaseDate": "2000-01-01",
+    "runtime": 104
+  },
+  {
+    "id": 13965,
+    "title": "Return to Snowy River",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Western",
+      "Family"
+    ],
+    "overview": "After a few years trying to earn money to marry Jessica Harrison (Sigrid Thornton), Jim Craig (Tom Burlinson) returns to Snowy River. But he finds that a lot of things have changed.",
+    "releaseDate": "1988-03-24",
+    "runtime": 110
+  },
+  {
+    "id": 24266,
+    "title": "The Man from Snowy River",
+    "genres": [
+      "Family",
+      "Drama",
+      "Action",
+      "Western",
+      "Romance"
+    ],
+    "overview": "Jim Craig has lived his first 18 years in the mountains of Australia on his father's farm. The death of his father forces him to go to the low lands to earn enough money to get the farm back on its feet. Kirk Douglas plays two roles as twin brothers who haven't spoken for years, one of whom was Jim's father's best friend and the other of whom is the father of the girl he wants to marry.",
+    "releaseDate": "1982-03-02",
+    "runtime": 104
+  },
+  {
+    "id": 19317,
+    "title": "Zorro, The Gay Blade",
+    "genres": [
+      "Western",
+      "Action",
+      "Comedy",
+      "Adventure",
+      "Romance"
+    ],
+    "overview": "George Hamilton stars in a dueling dual role as twin sons of the legendary Zorro. Soon after the dashing Don Diego Vega inherits his father's famous sword and costume, a broken ankle prevents the masked avenger from fulfilling his heroic duties. When his flamboyantly fashion-conscious brother assumes the secret identity to continue an ongoing fight for justice, the results are nothing short of hilarious!",
+    "releaseDate": "1981-07-17",
+    "runtime": 93
+  },
+  {
+    "id": 20391,
+    "title": "Paint Your Wagon",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Western",
+      "Music"
+    ],
+    "overview": "A Michigan farmer and a prospector form a partnership in the California gold country. Their adventures include buying and sharing a wife, hijacking a stage, kidnapping six prostitutes, and turning their mining camp into a boom town. Along the way there is plenty of drinking, gambling, and singing. They even find time to do some creative gold mining.",
+    "releaseDate": "1969-10-15",
+    "runtime": 158
+  },
+  {
+    "id": 12584,
+    "title": "The Shootist",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Afflicted with a terminal illness John Bernard Brooks, the last of the legendary gunfighters, quietly returns to Carson City for medical attention from his old friend Dr. Hostetler. Aware that his days are numbered, the troubled man seeks solace and peace in a boarding house run by a widow and her son.However, it is not Brooks' fate to die in peace, as he becomes embroiled in one last valiant battle.",
+    "releaseDate": "1976-08-11",
+    "runtime": 100
+  },
+  {
+    "id": 13496,
+    "title": "American Outlaws",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "When a Midwest town learns that a corrupt railroad baron has captured the deeds to their homesteads without their knowledge, a group of young ranchers join forces to take back what is rightfully theirs. They will become the object of the biggest manhunt in the history of the Old West and, as their fame grows, so will the legend of their leader, a young outlaw by the name of Jessie James.",
+    "releaseDate": "2001-08-17",
+    "runtime": 94
+  },
+  {
+    "id": 9028,
+    "title": "The Great Silence",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "A mute gunslinger fights in the defense of a group of outlaws and a vengeful young widow, against a group of ruthless bounty hunters.",
+    "releaseDate": "1968-02-21",
+    "runtime": 100
+  },
+  {
+    "id": 35200,
+    "title": "The Return of a Man Called Horse",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Lord John Morgan has returned to civilized life in England, but finds he has nothing but disdain for that life. Yearning to embrace the simplicity of the American West-and the Yellow Hands Sioux tribe he left behind, Morgan returns to the tribe's land only to discover that they've been decimated by ruthless, government-backed fur traders. They must regain their land, led by Horse.",
+    "releaseDate": "1976-06-28",
+    "runtime": 129
+  },
+  {
+    "id": 32014,
+    "title": "Timerider: The Adventure of Lyle Swann",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Western"
+    ],
+    "overview": "Lyle Swann is a successful off-road racer who mistakenly gets sent back in time 100 years. When a band of outlaws robs Swann of his motorcycle, he's forced to outfox the gangsters and give in to the seductions of a gorgeous local lady. With only his smarts and a map from an Exxon station, Lyle must try to make it out of the Old West alive and find a way back to modern times.",
+    "releaseDate": "1982-12-11",
+    "runtime": 94
+  },
+  {
+    "id": 14854,
+    "title": "Lone Wolf McQuade",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Romance",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "The archetypical renegade Texas Ranger wages war against a drug kingpin with automatic weapons, his wits and martial arts after a gun battle leaves his partner dead. All of this inevitably culminates a martial arts showdown between the drug lord and the ranger, and involving the woman they both love.",
+    "releaseDate": "1983-04-14",
+    "runtime": 107
+  },
+  {
+    "id": 13503,
+    "title": "Texas Rangers",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Ten years after the Civil War has ended, the Governor of Texas asks Leander McNelly (McDermott) to form a company of Rangers to help uphold the law along the Mexican border. With a few veterans of the war (Patrick, Travis), most of the recruits are young men (Van Der Beek, Kutcher, Raymond) who have little or no experience with guns or policing crime.",
+    "releaseDate": "2001-11-30",
+    "runtime": 110
+  },
+  {
+    "id": 18647,
+    "title": "One-Eyed Jacks",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "Running from the law after a bank robbery in Mexico, Dad Longworth finds an opportunity to take the stolen gold and leave his partner Rio to be captured. Years later, Rio escapes from the prison where he has been since, and hunts down Dad for revenge. Dad is now a respectable sheriff in California, and has been living in fear of Rio's return.",
+    "releaseDate": "1961-03-30",
+    "runtime": 141
+  },
+  {
+    "id": 108267,
+    "title": "The Lone Ranger and the Lost City of Gold",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "Three Indians were brutally murdered by a gang of hooded outlaws. Each one possessed a silver medallion, which were sections cut off from a large silver plaque which served as a treasure map to a secret location where a large amount of gold is reputedly stashed. Two more medallions are unaccounted for, and the The Lone Ranger and his friend Tonto must use all their resources to intercept the gang, prevent further carnage and save the owners of the medallions.",
+    "releaseDate": "1958-01-01",
+    "runtime": 81
+  },
+  {
+    "id": 10935,
+    "title": "Heaven's Gate",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Western"
+    ],
+    "overview": "Harvard graduate James Averill (Kris Kristofferson) is the sheriff of prosperous Jackson County, Wyo., when a battle erupts between the area's poverty-stricken immigrants and its wealthy cattle farmers. The politically connected ranch owners fight the immigrants with the help of Nathan Champion (Christopher Walken), a mercenary competing with Averill for the love of local madam Ella Watson (Isabelle Huppert). As the struggle escalates, Averill and Champion begin to question their decisions.",
+    "releaseDate": "1980-11-19",
+    "runtime": 219
+  },
+  {
+    "id": 75552,
+    "title": "The Mountain Men",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "The story concerns two grizzled mountain men -- Bill Tyler and Henry Frapp -- during the dying days of the fur-trapping era. The plot begins when Running Moon runs away from her abusive husband Heavy Eagle and comes across the two seedy fur trappers. The mountain men take her in, unaware that Heavy Eagle has dispatched an army of Indian braves to reclaim her.",
+    "releaseDate": "1980-05-01",
+    "runtime": 102
+  },
+  {
+    "id": 32617,
+    "title": "Bite the Bullet",
+    "genres": [
+      "Action",
+      "Western",
+      "Adventure"
+    ],
+    "overview": "At the beginning of the 20th century, a newspaper organizes an endurance horse race : 700 miles to run in a few days. 9 adventurers are competing, among them a woman, Miss Jones, a Mexican, an Englishman, a young cow-boy, an old one and two friends, Sam Clayton and Luke Matthews. All those individualists will learn to respect each other.",
+    "releaseDate": "1975-09-26",
+    "runtime": 132
+  },
+  {
+    "id": 14117,
+    "title": "Calamity Jane",
+    "genres": [
+      "Action",
+      "Western",
+      "Music"
+    ],
+    "overview": "Doris Day and Howard Keel fuss, feud and fall in love as Calamity Jane and Wild Bill Hickok. At first curvaceous Calamity is too durned busy fighting Indians and cracking a bullwhip to pay mind to such girlie what-alls as dresses and perfume. She soon changes her mind when Katie Brown arrives in town.",
+    "releaseDate": "1953-11-04",
+    "runtime": 101
+  },
+  {
+    "id": 4993,
+    "title": "5 Card Stud",
+    "genres": [
+      "Action",
+      "Western",
+      "Thriller"
+    ],
+    "overview": "The players in an ongoing poker game are being mysteriously killed off, one by one.",
+    "releaseDate": "1968-07-28",
+    "runtime": 103
+  },
+  {
+    "id": 27945,
+    "title": "Hombre",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "John Russell, disdained by his \"respectable\" fellow stagecoach passengers because he was raised by Indians, becomes their only hope for survival when they are set upon by outlaws.",
+    "releaseDate": "1967-03-21",
+    "runtime": 111
+  },
+  {
+    "id": 18639,
+    "title": "Flaming Star",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Sam Burton's second wife Neddy is Indian, their son Pacer a half-breed. As struggle starts between the whites and the Kiowas, the Burton family is split between loyalties.",
+    "releaseDate": "1960-12-20",
+    "runtime": 101
+  },
+  {
+    "id": 39833,
+    "title": "Love Me Tender",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Elvis Prestley's first film is a Civil War drama.",
+    "releaseDate": "1956-11-15",
+    "runtime": 89
+  },
+  {
+    "id": 10772,
+    "title": "Django",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Django is a 1966 Italian spaghetti Western film directed by Sergio Corbucci and starring Franco Nero in the eponymous role. The film earned a reputation as being one of the most violent films ever made up to that point and was subsequently refused a certificate in Britain until 1993, when it was eventually issued an 18 certificate. Subsequent to this the film was downgraded to a 15 certificate in 2004. Although the name is referenced in over thirty \"sequels\" from the time of the film's release until the mid 1980s in an effort to capitalize on the success of the original, none of these films were official, featuring neither Corbucci nor Nero. Nero did reprise his role as Django in 1987's Django 2: Il Grande Ritorno (Django Strikes Again), in the only official sequel to be written by Corbucci.",
+    "releaseDate": "1966-04-05",
+    "runtime": 93
+  },
+  {
+    "id": 5917,
+    "title": "Tom Horn",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "A renowned former army scout is hired by ranchers to hunt down rustlers but finds himself on trial for the murder of a boy when he carries out his job too well. Tom Horn finds that the simple skills he knows are of no help in dealing with the ambitions of ranchers and corrupt officials as progress marches over him and the old west.",
+    "releaseDate": "1980-03-28",
+    "runtime": 94
+  },
+  {
+    "id": 38665,
+    "title": "The Legend of the Lone Ranger",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance",
+      "Western"
+    ],
+    "overview": "When the young Texas Ranger, John Reid, is the sole survivor of an ambush arranged by the militaristic outlaw leader, Butch Cavendich, he is rescued by an old childhood Comanche friend, Tonto. When he recovers from his wounds, he dedicates his life to fighting the evil that Cavendich represents. To this end, John Reid becomes the great masked western hero, The Lone Ranger. With the help of Tonto, the pair go to rescue President Grant when Cavendich takes him hostage.",
+    "releaseDate": "1981-08-20",
+    "runtime": 98
+  },
+  {
+    "id": 31665,
+    "title": "Barbarosa",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Karl Westover, an inexperienced farm boy, runs away after unintentionally killing a neighbor, whose family pursues him for vengeance. He meets Barbarosa, a gunman of near-mythical proportions, who is himself in danger from his father-in-law Don Braulio, a wealthy Mexican rancher. Don Braulio wants Barbarosa dead for marrying his daughter against the father's will. Barbarosa reluctantly takes the clumsy Karl on as a partner, as both of them look to survive the forces lining up against them.",
+    "releaseDate": "1982-01-01",
+    "runtime": 90
+  },
+  {
+    "id": 42136,
+    "title": "The Grey Fox",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "Old West highwayman Bill Miner, known to Pinkertons as \"The Gentleman Bandit,\" is released in 1901 after 33 years in prison, a genial and charming old man. He goes to Washington to live and work with his sister's family. But the world has changed much while he has been away, and he just can't adjust. So he goes to Canada and returns to the only thing familiar to him -- robbery (with stagecoaches changed to trains).",
+    "releaseDate": "1982-12-16",
+    "runtime": 110
+  },
+  {
+    "id": 6038,
+    "title": "Shanghai Knights",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "The dynamic duo of Chon Wang and Roy O'Bannon return for another crazy adventure. This time, they're in London to avenge the murder of Chon's father, but end up on an even bigger case. Chon's sister is there to do the same, but instead unearths a plot to kill the royal family. No one believes her, though, and it's up to Chon and Roy (who has romance on his mind) to prove her right.",
+    "releaseDate": "2003-02-06",
+    "runtime": 115
+  },
+  {
+    "id": 59401,
+    "title": "The Red Badge of Courage",
+    "genres": [
+      "Action",
+      "Drama",
+      "War",
+      "Western"
+    ],
+    "overview": "Truncated adaptation of Stephen Crane's novel about a Civil War Union soldier who stuggles to find the courage to fight in the heat of battle.",
+    "releaseDate": "1951-03-16",
+    "runtime": 69
+  },
+  {
+    "id": 5921,
+    "title": "Nevada Smith",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Nevada Smith is the young son of an Indian mother and white father. When his father is killed by three men over gold, Nevada sets out to find them and kill them. The boy is taken in by a gun merchant. The gun merchant shows him how to shoot and to shoot on time and correct.",
+    "releaseDate": "1966-06-10",
+    "runtime": 128
+  },
+  {
+    "id": 14676,
+    "title": "A Man Called Horse",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "In 1825 an English aristocrat is captured by Indians. He lives with them and begins to understand/accept their lifestyles. Eventually he is accepted as part of the tribe and becomes their leader.",
+    "releaseDate": "1970-05-01",
+    "runtime": 114
+  },
+  {
+    "id": 43828,
+    "title": "Destry Rides Again",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "When a tough western town needs taming, the mild-mannered son of a hard-nosed sheriff gets the job.",
+    "releaseDate": "1939-11-30",
+    "runtime": 94
+  },
+  {
+    "id": 25381,
+    "title": "Night Passage",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Grant MacLaine, a former railroad troubleshooter, lost his job after letting his outlaw brother, the Utica Kid, escape. After spending five years wandering the west and earning his living playing the accordion, he is given a second chance by his former boss.",
+    "releaseDate": "1957-07-24",
+    "runtime": 90
+  },
+  {
+    "id": 21027,
+    "title": "Shenandoah",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Charlie Anderson, a farmer in Shenandoah, Virginia, finds himself and his family in the middle of the Civil War he wants nothing to do with. When his youngest boy is taken prisoner by the North the Civil War is forced upon him.",
+    "releaseDate": "1965-06-03",
+    "runtime": 105
+  },
+  {
+    "id": 1403,
+    "title": "Duel at Diablo",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "While crossing the desert, a frontier scout, Jess Remsberg (Garner), rescues Ellen Grange (Andersson) from a pursuing band of Apaches, and returns her to her husband, Willard Grange (Weaver). He is contracted to act as a scout for an Army cavalry unit. Willard, Ellen, and her infant son are along for the ride, as is horse trader Toller (Poitier), a veteran of the 10th Cavalry (the \"Buffalo Soldiers\"). The party is trapped in a canyon by Chata, an Apache chief and grandfather of Ellen's baby. Willard is captured and tortured. Jess sneaks away and brings reinforcements just in time to save the day. Jess learns that the man he has been hunting is none other than Willard Grange.",
+    "releaseDate": "1966-06-15",
+    "runtime": 103
+  },
+  {
+    "id": 33638,
+    "title": "The Life and Times of Judge Roy Bean",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Outlaw and self-appointed lawmaker, Judge Roy Bean, rules over an empty stretch of the West that gradually grows, under his iron fist, into a thriving town, while dispensing his his own quirky brand of frontier justice upon strangers passing by.",
+    "releaseDate": "1972-12-18",
+    "runtime": 120
+  },
+  {
+    "id": 23395,
+    "title": "The Red Pony",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Peter Miles stars as Tom Tiflin, the little boy at the heart of this John Steinbeck story set in Salinas Valley. With his incompatible parents -- the city-loving Fred (Shepperd Strudwick) and country-happy Alice (Myrna Loy) -- constantly bickering, Tom looks to cowboy Billy Buck (Robert Mitchum) for companionship and paternal love.",
+    "releaseDate": "1949-03-28",
+    "runtime": 91
+  },
+  {
+    "id": 16405,
+    "title": "Dust",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Two parallel tales of redemption, a century apart. In the New York storyline, Edge hunts for Angela's gold to pay back a debt, and gradually grows closer to her. In the Macedonian story, the brothers end up fighting for opposite sides of a revolution, with the religious Elijah taking up sides with the Ottoman sultan and gunslinger Luke joining \"the Teacher\" , a Macedonian rebel.",
+    "releaseDate": "2001-08-29",
+    "runtime": 127
+  },
+  {
+    "id": 11509,
+    "title": "Silverado",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Four unwitting heroes cross paths on their journey to the sleepy town of Silverado. Little do they know the town where their family and friends reside has been taken over by a corrupt sheriff and a murderous posse. It's up to the sharp-shooting foursome to save the day, but first they have to break each other out of jail, and learn who their real friends are.",
+    "releaseDate": "1985-07-10",
+    "runtime": 127
+  },
+  {
+    "id": 980,
+    "title": "The Ox-Bow Incident",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Gil Carter and Art Croft ride into a small Nevada town plagued by cattle thieves. Initially suspected of being the rustlers themselves, Carter and Croft eventually join a posse out to get the criminals, who also may be involved in a recent shooting. When the posse closes in on a group that could be the fugitives, they must decide on a course of action, with numerous lives hanging in the balance.",
+    "releaseDate": "1943-03-11",
+    "runtime": 75
+  },
+  {
+    "id": 41857,
+    "title": "Bandolero!",
+    "genres": [
+      "Western",
+      "Action",
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "Posing as a hangman, Mace Bishop arrives in town with the intention of freeing a gang of outlaws, including his brother, from the gallows. Mace urges his younger brother to give up crime. The sheriff chases the brothers to Mexico. They join forces, however, against a group of Mexican bandits.",
+    "releaseDate": "1968-06-01",
+    "runtime": 106
+  },
+  {
+    "id": 38978,
+    "title": "Ned Kelly",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "Unable to support his family in the Australian outback, a man turns to stealing horses in order to make money. He gets more deeply drawn into the outlaw life, and eventually becomes involved in murders. Based on the life of famed 19th-century Australian outlaw Ned Kelly.",
+    "releaseDate": "1970-07-01",
+    "runtime": 99
+  },
+  {
+    "id": 9698,
+    "title": "Straight to Hell",
+    "genres": [
+      "Action",
+      "Western",
+      "Comedy",
+      "Crime"
+    ],
+    "overview": "A gang of bank robbers with a suitcase full of money go to the desert to hide out. After burying the loot, they find their way to a surreal town full of cowboys who drink an awful lot of coffee.",
+    "releaseDate": "1986-01-01",
+    "runtime": 86
+  },
+  {
+    "id": 42402,
+    "title": "The Left Handed Gun",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "When a crooked sheriff murder his employer, William \"Billy the Kid\" Bonney decides to avenge the death by killing the man responsible, throwing the lives of everyone around him into turmoil, and endangering the General Amnesty set up by Governor Wallace to bring peace to the New Mexico Territory.",
+    "releaseDate": "1958-05-07",
+    "runtime": 102
+  },
+  {
+    "id": 11942,
+    "title": "Bring Me the Head of Alfredo Garcia",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "An American bartender and his prostitute girlfriend go on a road trip through the Mexican underworld to collect a $1 million bounty on the head of a dead gigolo.",
+    "releaseDate": "1974-08-14",
+    "runtime": 112
+  },
+  {
+    "id": 36206,
+    "title": "Ride the High Country",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "An ex-lawman is hired to transport gold from a mining community through dangerous territory. But what he doesn't realize is that his partner and old friend is plotting to double-cross him.",
+    "releaseDate": "1962-06-20",
+    "runtime": 94
+  },
+  {
+    "id": 23330,
+    "title": "The Ballad of Cable Hogue",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Double-crossed and left without water in the desert, Cable Hogue is saved when he finds a spring. It is in just the right spot for a much needed rest stop on the local stagecoach line, and Hogue uses this to his advantage. He builds a house and makes money off the stagecoach passengers. Hildy, a prostitute from the nearest town, moves in with him. Hogue has everything going his way until the advent of the automobile ends the era of the stagecoach.",
+    "releaseDate": "1970-05-13",
+    "runtime": 121
+  },
+  {
+    "id": 5927,
+    "title": "Junior Bonner",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "McQueen is Junior Bonner, an aging rodeo champ who returns to his home town to participate in the annual rodeo. He finds his family estranged, does what he can to help, and then moves on ... after some good rodeo riding and a few brawls.",
+    "releaseDate": "1972-08-02",
+    "runtime": 100
+  },
+  {
+    "id": 15573,
+    "title": "The Cowboys",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "When his cattlemen abandon him for the gold fields, rancher Wil Andersen is forced to take on a collection of young boys as his cowboys in order to get his herd to market in time to avoid financial disaster. The boys learn to do a man's job under Andersen's tutelage; however, neither Andersen nor the boys know that a gang of cattle thieves is stalking them.",
+    "releaseDate": "1972-01-13",
+    "runtime": 131
+  },
+  {
+    "id": 61391,
+    "title": "Distant Drums",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "After destroying a Seminole fort, American soldiers and their rescued companions must face the dangerous Everglades and hostile Indians in order to reach safety",
+    "releaseDate": "1951-12-25",
+    "runtime": 101
+  },
+  {
+    "id": 19014,
+    "title": "Rustlers' Rhapsody",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "While the audience watches a black and white horse opera, a narrator's voice wonders what such a movie would be like today. Rex O'Herlehan, The Singing Cowboy, finds himself in color and enters a cliche ridden town, in which the evil cattle baron (Andy Griffith) and the new Italian cowboys (who always wear raincoats no matter how hot it gets) join forces to get him and the sheep ranchers to leave.",
+    "releaseDate": "1985-05-10",
+    "runtime": 88
+  },
+  {
+    "id": 30054,
+    "title": "The Tin Star",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western",
+      "Romance"
+    ],
+    "overview": "An experienced bounty hunter helps a young sheriff learn the meaning of his badge.",
+    "releaseDate": "1957-10-23",
+    "runtime": 93
+  },
+  {
+    "id": 12625,
+    "title": "Guns of the Magnificent Seven",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "In this third remake of legendary Japanese director Akira Kurosawa's hugely influential The Seven Samurai, the seven gunslingers (George Kennedy, Michael Ansara, Joe Don Baker, Bernie Casey, Monte Markham, Fernando Rey and Reni Santoni) liberate Mexican political prisoners, train them as fighters and assist them in a desperate attack on a Mexican fortress in an attempt to free a revolutionary leader.",
+    "releaseDate": "1969-07-14",
+    "runtime": 105
+  },
+  {
+    "id": 43417,
+    "title": "The Magnificent Seven Ride!",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Marshal Chris Adams turns down a friend's request to help stop the depredations of a gang of Mexican bandits. When his wife is killed by bank robbers and his friend is killed capturing the last thief, Chris feels obligated to take up his friend's cause and recruits a writer and five prisoners to destroy the desperadoes.The last in the original series of four \"Magnificent Seven\" movies.",
+    "releaseDate": "1972-08-01",
+    "runtime": 100
+  },
+  {
+    "id": 51997,
+    "title": "No Name on the Bullet",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Cool, cultured John Gant rides into Lordsburg. Gant is a professional killer, and although no one knows who he is there to kill, they are all worried. Everyone has enemies, and maybe Gant is in town for them. While they wait for him to make his move, paranoia starts taking over... Written by Ken Yousten John Gant, hired assassin rides into town. No one is sure of the identity of his intended victim. Townsfolk have shady pasts that make each one believe that John Gant is there to kill them. While each townsperson is falling apart from guilt, Gant is waiting in the hotel but is still given the blame for the shootings and the suicide of the Banker. Written by Carol Johnson",
+    "releaseDate": "1959-02-01",
+    "runtime": 77
+  },
+  {
+    "id": 43785,
+    "title": "The Spoilers",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "When honest ship captain Roy Glennister gets swindled out of his mine claim, he turns to saloon singer Cherry Malotte for assistance in his battle with no-good town kingpin Alexander McNamara.",
+    "releaseDate": "1942-05-08",
+    "runtime": 87
+  },
+  {
+    "id": 17818,
+    "title": "San Antonio",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Rancher Clay Hardin arrives in San Antonio to search for and capture Roy Stuart, notorious leader of a gang of cattle rustlers. The vicious outlaw is indeed in the Texan town, intent on winning the affections of a beautiful chanteuse named Jeanne Starr. When the lovely lady meets and falls in love with the charismatic Hardin, the stakes for both men become higher.",
+    "releaseDate": "1945-11-29",
+    "runtime": 109
+  },
+  {
+    "id": 49640,
+    "title": "The Lawless Frontier",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Tobin is after the bandit Zanti who killed his parents. He finds him just as Zanti is about to kill Dusty and kidnap Ruby. Saving the two, he goes after Zanti. He catches him but Zanti escapes the Sheriff's handcuff's and this time Tobin has to chase him into the desert.",
+    "releaseDate": "1934-11-22",
+    "runtime": 59
+  },
+  {
+    "id": 29244,
+    "title": "3 Godfathers",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Three outlaws on the run discover a dying woman and her baby. They swear to bring the infant to safety across the desert, even at the risk of their own lives.",
+    "releaseDate": "1948-12-01",
+    "runtime": 106
+  },
+  {
+    "id": 25209,
+    "title": "Annie Get Your Gun",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Music",
+      "Romance",
+      "Western"
+    ],
+    "overview": "This film adaptation of Irving Berlin's classic musical stars Betty Hutton as gunslinger Annie Oakley, who romances fellow sharpshooter Frank Butler (Howard Keel) as they travel with Buffalo Bill's Wild West Show. Previously off target when it comes to love, Annie proves you can get a man with a gun in this battle-of-the-sexes extravaganza, which features timeless numbers like \"Anything You Can Do\" and \"There's No Business Like Show Business.\"",
+    "releaseDate": "1950-05-17",
+    "runtime": 107
+  },
+  {
+    "id": 43348,
+    "title": "Gun Fury",
+    "genres": [
+      "Crime",
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "After a stagecoach holdup, Frank Slayton's notorious gang leave Ben Warren for deasd and head off with his fiancée. Warren follows, and although none of the townspeople he comes across are prepared to help, he recruits two others who have sworn revenge on the ruthless Slayton.",
+    "releaseDate": "1953-10-30",
+    "runtime": 83
+  },
+  {
+    "id": 18449,
+    "title": "The Deadly Companions",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "Ex-army officer accidentally kills a woman's son, tries to make up for it by escorting the funeral procession through dangerous Indian territory.",
+    "releaseDate": "1961-06-06",
+    "runtime": 93
+  },
+  {
+    "id": 42500,
+    "title": "Lawman",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "While passing through the town of Bannock, a bunch of drunken cattlemen go overboard with their celebrating and accidentally kill an old man with a stray shot. They return home to Sabbath unaware of his death. Bannock lawman Jered Maddox later arrives there to arrest everyone involved on a charge of murder. Sabbath is run by land baron Vince Bronson, a benevolent despot, who, upon hearing of the death, offers restitution for the incident.",
+    "releaseDate": "1971-01-01",
+    "runtime": 99
+  },
+  {
+    "id": 9394,
+    "title": "They Call Me Trinity",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "The simple story has the pair coming to the rescue of peace-loving Mormons when land-hungry Major Harriman sends his bullies to harass them into giving up their fertile valley. Trinity and Bambino manage to save the Mormons and send the bad guys packing with slapstick humor instead of excessive violence, saving the day.",
+    "releaseDate": "1970-12-22",
+    "runtime": 106
+  },
+  {
+    "id": 18287,
+    "title": "Support Your Local Gunfighter",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "A con artist arrives in a mining town controlled by two competing companies. Both companies think he's a famous gunfighter and try to hire him to drive the other out of town.",
+    "releaseDate": "1971-05-26",
+    "runtime": 91
+  },
+  {
+    "id": 13041,
+    "title": "El Topo",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "El Topo decides to confront warrior Masters on a trans-formative desert journey he begins with his 6 year old son, who must bury his childhood totems to become a man. El Topo (the mole) claims to be God, while dressed as a gunfighter in black, riding a horse through a spiritual, mystical landscape strewn with old Western movie, and ancient Eastern religious symbols. Bandits slaughtered a village on his path, so El Topo avenges the massacred, then forcibly takes their leader's woman Mara as his. El Topo's surreal way is bloody, sexual and self-reflective, musing of his own demons, as he tries to vanquish those he encounters.",
+    "releaseDate": "1970-12-18",
+    "runtime": 125
+  },
+  {
+    "id": 9588,
+    "title": "Quigley Down Under",
+    "genres": [
+      "Romance",
+      "Action",
+      "Adventure",
+      "Western",
+      "Drama"
+    ],
+    "overview": "American Matt Quigley answers Australian land baron Elliott Marston's ad for a sharpshooter to kill the dingoes on his property. But when Quigley finds out that Marston's real target is the aborigines, Quigley hits the road. Now, even American expatriate Crazy Cora can't keep Quigley safe in his cat-and-mouse game with the homicidal Marston.",
+    "releaseDate": "1990-10-17",
+    "runtime": 119
+  },
+  {
+    "id": 23356,
+    "title": "Purgatory",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Western",
+      "Science Fiction"
+    ],
+    "overview": "An outlaw band flees a posse and rides into Refuge, a small town where no one carries a gun, drinks, or swears. The town is actually Purgatory, and the peaceful inhabitants are all famous dead outlaws and criminals such as Doc Holiday and Wild Bill Hickok who must redeem themselves before gaining admittance to Heaven...or screw up and go to Hell.",
+    "releaseDate": "1999-01-10",
+    "runtime": 94
+  },
+  {
+    "id": 10891,
+    "title": "Tremors 4: The Legend Begins",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Western"
+    ],
+    "overview": "This prequel of the bone-chilling Tremors begins in the town of Rejection, Nev., in 1889, where 17 men die under mysterious circumstances. Spooked by recent events, the miners who populate the town leave in droves until there's nothing left but a shell of a community. It's up to the remaining residents to get to the bottom of the deaths -- but they must do so before they, too, are eradicated off the face of the planet.",
+    "releaseDate": "2004-01-02",
+    "runtime": 101
+  },
+  {
+    "id": 61049,
+    "title": "Arrowhead",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Director Charles Marquis Warren's 1953 western stars Charlton Heston and Jack Palance.",
+    "releaseDate": "1953-08-03",
+    "runtime": 105
+  },
+  {
+    "id": 14677,
+    "title": "Last Train from Gun Hill",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "A marshal tries to bring the son of an old friend, an autocratic cattle baron, to justice for the rape and murder of his wife.",
+    "releaseDate": "1959-07-29",
+    "runtime": 98
+  },
+  {
+    "id": 22383,
+    "title": "The Professionals",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "The Professionals is a 1966 American Western film directed by Richard Brooks. A kidnap-rescue adventure set in about 1917, it features a small group of experts heading into Mexico to free the Mexican-born wife of a wealthy Texan from several hundred bandits. The film is based on the novel A Mule for the Marquesa by Frank O'Rourke.",
+    "releaseDate": "1966-11-01",
+    "runtime": 117
+  },
+  {
+    "id": 20628,
+    "title": "Skin Game",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Quincy Drew (Garner) and Jason O'Rourke (Gossett) travel from town to town in the south of the United States during the slavery era. Drew claims to be a down-on-his-luck slave owner who is selling O'Rourke as a slave. Quincy gets the bidding rolling, sells Jason, and the two later meet up to split the profit. Jason was born a free man in New Jersey and is very well educated.",
+    "releaseDate": "1971-09-30",
+    "runtime": 102
+  },
+  {
+    "id": 43260,
+    "title": "Jubal",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Jubal Troop is a cowboy who is found in a weakened condition, without a horse. He is given shelter at Shep Horgan's large ranch, where he quickly makes an enemy in foreman Pinky, a cattleman who accuses Jubal of carrying the smell of sheep.",
+    "releaseDate": "1956-04-06",
+    "runtime": 100
+  },
+  {
+    "id": 42491,
+    "title": "Ulzana's Raid",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Report reaches the US cavalry that the Apache leader Ulzana has left his reservation with a band of followers. A compassionate young officer, Lieutenant DeBuin, is given a small company to find him and bring him back; accompanying the troop is McIntosh, an experienced scout, and Ke-Ni-Tay, an Apache guide. Ulzana massacres, rapes and loots across the countryside; and as DeBuin encounters the remains of his victims, he is compelled to learn from McIntosh and to confront his own naivity and hidden prejudices.",
+    "releaseDate": "1972-01-01",
+    "runtime": 103
+  },
+  {
+    "id": 14674,
+    "title": "Man of the West",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Heading east to Fort Worth to hire a schoolteacher for his frontier town home, Link Jones is stranded with singer Billie Ellis and gambler Sam Beasley when their train is held up. For shelter, Jones leads them to his nearby former home, where he was brought up an outlaw. Finding the gang still living in the shack, Jones pretends to be ready to return to a life crime.",
+    "releaseDate": "1958-09-30",
+    "runtime": 100
+  },
+  {
+    "id": 61044,
+    "title": "Companeros",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Arms dealer Yolaf Peterson aims to make a sale to guerilla Mongo, but the money is locked in a bank safe, the combination known only to Professor Xantos, a prisoner of the Americans. Yolaf agrees to free Xantos, accompanied by reluctant guerilla Basco, but a former business partner of Yolaf's- John 'The Wooden Hand', has other ideas.",
+    "releaseDate": "1970-12-18",
+    "runtime": 118
+  },
+  {
+    "id": 16608,
+    "title": "The Proposition",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Set in the Australian outback in the 1880s, the movie follows the series of events following the horrific rape and murder of the Hopkins family, allegedly committed by the infamous Burns brothers gang. Captain Morris Stanley captures Charlie Burns and gives him 9 days to kill his older dangerous psychopathic brother, or else they'll hang his younger mentally slow brother on Christmas Day.",
+    "releaseDate": "2005-10-06",
+    "runtime": 104
+  },
+  {
+    "id": 14837,
+    "title": "Forty Guns",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "An authoritarian rancher, Barbara Stanwyck, who rules an Arizona county with her private posse of hired guns. When a new Marshall arrives to set things straight, the cattle queen finds herself falling, brutally for the avowedly non-violent lawman. Both have itchy-fingered brothers, a female gunman enters the picture, and things go desperately wrong.",
+    "releaseDate": "1957-09-01",
+    "runtime": 79
+  },
+  {
+    "id": 1969,
+    "title": "Bandidas",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western",
+      "Crime"
+    ],
+    "overview": "Set in the late 19th century. When a ruthless robber baron takes away everything they cherish, a rough-and-tumble, idealistic peasant and a sophisticated heiress embark on a quest for justice, vengeance…and a few good heists.",
+    "releaseDate": "2006-01-18",
+    "runtime": 93
+  },
+  {
+    "id": 20442,
+    "title": "The Naked Spur",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Stewart is a bounty hunter in Colorado territory after killer Robert Ryan. Stewart's efforts to bring in Ryan and collect the reward are compromised by the presence of Ryan's loyal girl friend Janet Leigh and Stewart's two disreputable sidekicks, wily prospector Millard Mitchell and disgraced Union-officer Ralph Meeker.",
+    "releaseDate": "1953-02-06",
+    "runtime": 91
+  },
+  {
+    "id": 14384,
+    "title": "Soldier Blue",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "After a cavalry group is massacred by the Cheyenne, only two survivors remain: Honus, a naive private devoted to his duty, and Cresta, a young woman who had lived with the Cheyenne two years and whose sympathies lie more with them than with the US government. Together, they must try to reach the cavalry's main base camp. As they travel onward, Honus is torn between his growing affection for Cresta.",
+    "releaseDate": "1970-08-12",
+    "runtime": 112
+  },
+  {
+    "id": 12766,
+    "title": "Vera Cruz",
+    "genres": [
+      "Action",
+      "Western",
+      "Romance"
+    ],
+    "overview": "After the American Civil War, mercenaries travel to Mexico to fight in their revolution for money. The former soldier and gentleman Benjamin Trane meets the gunman and killer Joe Erin and his men, and together they are hired by the Emperor Maximillian and the Marquis Henri de Labordere to escort the Countess Marie Duvarre to the harbor of Vera Cruz.",
+    "releaseDate": "1954-12-25",
+    "runtime": 94
+  },
+  {
+    "id": 60269,
+    "title": "Mad Dog Morgan",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Western"
+    ],
+    "overview": "The true story of Irish outlaw Daniel Morgan, who is wanted, dead or alive, in Australia during the 1850s.",
+    "releaseDate": "1976-07-09",
+    "runtime": 102
+  },
+  {
+    "id": 26502,
+    "title": "Seven Men from Now",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Aging lawman Ben Stride burns a trail of murderous revenge across a hardscrabble landscape searching for his wife's murderers.",
+    "releaseDate": "1956-08-04",
+    "runtime": 78
+  },
+  {
+    "id": 29966,
+    "title": "Blood on the Moon",
+    "genres": [
+      "Action",
+      "Western",
+      "Drama"
+    ],
+    "overview": "Mitchum plays drifter cowboy Jim Garry. After receiving a job-offer letter from smooth-talking Tate Riling (Preston), Garry rides into an Indian reservation and finds himself in the middle of a feud between cattle ranchers and homesteaders. What Garry doesn't realize is that Riling, the man he now works for, is crooked.",
+    "releaseDate": "1948-11-09",
+    "runtime": 88
+  },
+  {
+    "id": 61564,
+    "title": "The Bravados",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "The CinemaScope film was based on a novel of the same name written by Frank O'Rourke.  Jim Douglas (Gregory Peck) is a rancher who has been pursuing the four outlaws who murdered his wife for six months. He rides into the town of Rio Arriba, where four men, Alfonso Parral (Lee Van Cleef), Bill Zachary (Stephen Boyd), Ed Taylor (Albert Salmi) and Lujan (Henry Silva), fitting the description are in jail awaiting execution, so that he can see the hanging. The town has issued instructions to only allow the hangman (Joe DeRita) to enter, so Jim is taken to Sheriff Eloy Sanchez's (Herbert Rudley) office to state his business. The town has never had an execution before, so they have brought in a man from outside town to do the job. The sheriff allows Jim into the jail to see the men. They claim they had never seen him before, but he has the face of a hunter.",
+    "releaseDate": "1958-06-25",
+    "runtime": 98
+  },
+  {
+    "id": 5698,
+    "title": "The Great Train Robbery",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "The clerk at the train station is assaulted and left tied by four men, then they rob the train threatening the operator. (They) take all the money and shoot a passenger when trying to run away. A little girl discovers the clerk tied and gives notice to the sheriff, who at once goes along with his men hunting the bandits.",
+    "releaseDate": "1903-12-01",
+    "runtime": 12
+  },
+  {
+    "id": 14710,
+    "title": "The Westerner",
+    "genres": [
+      "Action",
+      "Western",
+      "Romance"
+    ],
+    "overview": "Drifter Cole Harden is accused of stealing a horse and faces hanging by self-appointed Judge Roy Bean, but Harden manages to talk his way out of it by claiming to be a friend of stage star Lillie Langtry, with whom the judge is obsessed, even though he has never met her. Tensions rise when Harden comes to the defense of a group of struggling homesteaders who Judge Bean is trying to drive away.",
+    "releaseDate": "1940-09-18",
+    "runtime": 100
+  },
+  {
+    "id": 17660,
+    "title": "Dodge City",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Michael Curtiz's epic Western stars Errol Flynn as Wade Hatton, a wagon master turned sheriff who tames a cow town at the end of a railroad line.",
+    "releaseDate": "1939-03-31",
+    "runtime": 104
+  },
+  {
+    "id": 14877,
+    "title": "September Dawn",
+    "genres": [
+      "Drama",
+      "Action",
+      "History",
+      "Western",
+      "Romance"
+    ],
+    "overview": "A story set against the Mountain Meadows Massacre, the film is based upon the tragedy which occurred in Utah in 1857. A group of settlers, traveling on wagons, was murdered by the native Mormons. All together, about 140 souls of men, women and children, were taken.",
+    "releaseDate": "2007-05-17",
+    "runtime": 110
+  },
+  {
+    "id": 6609,
+    "title": "Keoma",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Half-breed Keoma returns to his border hometown after service in the Civil War and finds it under the control of Caldwell, an ex-Confederate raider, and his vicious gang of thugs. To make matters worse, Keoma's three half-brothers have joined forces with Caldwell, and make it painfully clear that his return is an unwelcome one. Determined to break Caldwell and his brothers' grip on the town, Keoma partners with his father's former ranch hand to exact violent revenge.",
+    "releaseDate": "1976-11-25",
+    "runtime": 105
+  },
+  {
+    "id": 48169,
+    "title": "The Mercenary",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "While a Mexican revolutionary lies low as a U.S. rodeo clown, the cynical Polish mercenary who tutored the idealistic peasant tells how he and a dedicated female radical fought for the soul of the guerrilla general Paco, as Mexicans threw off repressive government and all-powerful landowners in the 1910s. Tracked by the vengeful Curly, Paco liberates villages, but is tempted by social banditry's treasures, which Kowalski revels in.",
+    "releaseDate": "1968-08-28",
+    "runtime": 110
+  },
+  {
+    "id": 4512,
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Outlaw Jesse James is rumored be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+    "releaseDate": "2007-09-02",
+    "runtime": 160
+  },
+  {
+    "id": 53827,
+    "title": "The Dawn Rider",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "When John Mason's father is killed, John is wounded. Attracted to his nurse Alice, a conflict arises between him and his friend Ben who plans to marry Alice. John later finds the killer of his father but goes to face him not knowing Ben has removed the bullets from his gun.",
+    "releaseDate": "1935-06-20",
+    "runtime": 52
+  },
+  {
+    "id": 22606,
+    "title": "Texas Terror",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Sheriff John Higgins quits and goes into prospecting after he thinks he has killed his best friend in shooting it out with robbers. He encounters his dead buddy's sister and helps her run her ranch. Then she finds out about his past.",
+    "releaseDate": "1935-10-17",
+    "runtime": 50
+  },
+  {
+    "id": 40682,
+    "title": "The Train Robbers",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A gunhand named Lane is hired by a widow, Mrs. Lowe, to find gold stolen by her husband so that she may return it and start fresh.",
+    "releaseDate": "1973-02-07",
+    "runtime": 92
+  },
+  {
+    "id": 28303,
+    "title": "The Cheyenne Social Club",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Two cowboys inherit a \"social club\" specializing in satisfying men.",
+    "releaseDate": "1970-06-12",
+    "runtime": 103
+  },
+  {
+    "id": 37308,
+    "title": "100 Rifles",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Western",
+      "War"
+    ],
+    "overview": "When half-breed Indian Yaqui Joe robs an Arizona bank, he is pursued by dogged lawman Lyedecker. Fleeing to Mexico, Joe is imprisoned by General Verdugo, who is waging a war against the Yaqui Indians. When Lyedecker attempts to intervene, he is thrown into prison as well. Working together, the two escape and take refuge in the hills, where Lyedecker meets beautiful Yaqui freedom fighter Sarita and begins to question his allegiances.",
+    "releaseDate": "1969-03-26",
+    "runtime": 110
+  },
+  {
+    "id": 26119,
+    "title": "Chato's Land",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "A posse pursues Pardon Chato (Charles Bronson) a mestizo indian after he killed a US marshal in self-defense. As they get deeper into Indian territory, just who is hunting who.",
+    "releaseDate": "1972-01-01",
+    "runtime": 110
+  },
+  {
+    "id": 48564,
+    "title": "Villa Rides",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Pulled into the Mexican Revolution by his own greed, Texas gunrunner &amp; pilot Lee Arnold joins bandit-turned-patriot Pancho Villa &amp; his band of dedicated men in a march across Mexico battling the Colorados &amp; stealing women's hearts as they go. But each has a nemesis among his friends: Arnold is tormented by Fierro, Villa's right-hand-man; and Villa must face possible betrayal by his own president's naiveté",
+    "releaseDate": "1968-05-29",
+    "runtime": 125
+  },
+  {
+    "id": 42657,
+    "title": "The Mark of Zorro",
+    "genres": [
+      "Western",
+      "Adventure",
+      "Drama",
+      "Action",
+      "Romance"
+    ],
+    "overview": "The adventures of the masked hero continues.",
+    "releaseDate": "1920-12-05",
+    "runtime": 107
+  },
+  {
+    "id": 45512,
+    "title": "Pocket Money",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Broke and in debt, an otherwise honest cowboy gets mixed up in some shady dealings with a crooked rancher.",
+    "releaseDate": "1972-01-01",
+    "runtime": 102
+  },
+  {
+    "id": 72163,
+    "title": "Along Came Jones",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western",
+      "Romance"
+    ],
+    "overview": "An easy-going cowboy is mistaken by the townsfolk for a notorious gunman. The cowboy decides it would be best to leave town, until he meets the gunman's girlfriend.",
+    "releaseDate": "1945-07-19",
+    "runtime": 90
+  },
+  {
+    "id": 31658,
+    "title": "Hour of the Gun",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Marshal Wyatt Earp kills a couple of men of the Clanton-gang in a fight. In revenge Clanton's thugs kill the marshal's brother. Thus, Wyatt Earp starts to chase the killers together with his friend Doc Holliday.",
+    "releaseDate": "1967-11-01",
+    "runtime": 100
+  },
+  {
+    "id": 13637,
+    "title": "Sukiyaki Western Django",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Western",
+      "Thriller"
+    ],
+    "overview": "Several hundred years after the Battle of Dannoura, the Genji and Heike clans face off again in a poor mountain town with a buried treasure legend. A revolver-wielding stranger, a lone gunman, burdened with emotional scars and blessed with incredible skill, drifts into town and crosses paths with two warring clans who are both on the hunt for a hidden treasure in a remote western town. Knowing his services are valuable to either side, he offers himself to the clan who will offer up the largest share of the wealth.  Yoshitsune commands his Genji gang in white while Kiyomori leads his Heike gang in red. Expectations collide as the key players wonder which gang the gunman will join. Dirty tricks, betrayal, desire and finally, love, get jumbled together, as the situation erupts into a showdown.",
+    "releaseDate": "2007-09-15",
+    "runtime": 121
+  },
+  {
+    "id": 11874,
+    "title": "Ace High",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "After Cacopoulos manages to save himself from being hung on a false charge, he robs Cat Stevens and Hutch Bessy of a lot of money and steals their horses. This results in a merry chase and Stevens and Bessy become unwilling allies in Cacopoulus' revenge against the people who deserted him and framed him to get their money back.",
+    "releaseDate": "1968-10-02",
+    "runtime": 132
+  },
+  {
+    "id": 71206,
+    "title": "Adios Sabata",
+    "genres": [
+      "Action",
+      "Western",
+      "War"
+    ],
+    "overview": "Set in Mexico under the rule of Emperor Maximilian I, Sabata is hired by the guerrilla leader Señor Ocaño to steal a wagonload of gold from the Austrian army. However, when Sabata and his partners Escudo and Ballantine obtain the wagon, they find it is not full of gold but of sand, and that the gold was taken by Austrian Colonel Skimmel. So Sabata plans to steal back the gold.",
+    "releaseDate": "1970-09-30",
+    "runtime": 104
+  },
+  {
+    "id": 37327,
+    "title": "Wagon Master",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Two young drifters guide a Mormon wagon train to the San Juan Valley and encounter cutthroats, Indians, geography, and moral challenges on the journey.",
+    "releaseDate": "1950-04-19",
+    "runtime": 86
+  },
+  {
+    "id": 39558,
+    "title": "Face of a Fugitive",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A man who was falsly accused for murder escapes the sheriffs and starts a new life in a town at the border of the States to Mexico. But he cannot settle in peace as his chasers are trying to find him.",
+    "releaseDate": "1959-05-01",
+    "runtime": 81
+  },
+  {
+    "id": 70191,
+    "title": "The Good Guys and the Bad Guys",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Marshal Flagg, an aging lawman about to be retired, hears that his old nemesis, the outlaw McKaye, is back in the area and planning a robbery. Riding out to hunt down McKaye, Flagg is captured by McKaye's gang and finds out that McKaye is no longer the leader of the gang, but is considered just an aging relic by the new leader, a youngster named Waco. Waco orders Mackaye to shoot Flagg, and when Mackaye refuses Waco abandons both of them. Flagg then takes Mackaye back to town only to find out that he has been \"retired\", and when he sees how clueless and incompetent the new marshal and the city fathers are, he persuades Mackaye that it is up to the two of them to stop Waco and his gang from ravaging the town.",
+    "releaseDate": "1969-11-19",
+    "runtime": 91
+  },
+  {
+    "id": 113921,
+    "title": "Dallas",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Land, a family, a future. They're \"dreams, fried up, short order\" for Blayde Hollister (Gary Cooper). Rightly or wrongly, this ex-Confederate from Georgia has waged his own war to settle past injustices. Now he's a wanted man. And he can feel the law closing in on him.  Posing as a Boston dandy, he comes to the boom town with a gun and a plan: to smoke out the notorious Marlow brothers (including Steve Cochran and Raymond Massey), then give 'em a whiff of gunsmoke. Director Stuart Heisler (Along Came Jones) keeps the pace flowing like the local saloon's liquor. Max Steiner's score gallops like a hell-for-leather posse and screenwriter John Twist fires scene after scene with lines like \"you'll get your pockets picked in a graveyard\". Dallas, here we come!",
+    "releaseDate": "1950-12-30",
+    "runtime": 94
+  },
+  {
+    "id": 60547,
+    "title": "The Duel at Silver Creek",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A gang of claim jumpers is infesting the territory, gaining ownership of undermanned mining operations through extortion...and leaving no live witnesses. But one victim, quick-drawing gambler Luke Cromwell, escapes. Meanwhille, Marshal Lightnin' Tyrone is also after the gang; recovering from one raid, he meets femme fatale Opal Lacy, who may not be healthy for him to know. When Luke, now calling himself the Silver Kid, joins forces with Marshal Tyrone, the gang had better watch out ...unless something drives a wedge between the new allies.",
+    "releaseDate": "1952-08-01",
+    "runtime": 77
+  },
+  {
+    "id": 86363,
+    "title": "Gun The Man Down",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "An outlaw is left for dead by his gang after being shot. A year later, he is released from jail with one thing on his mind: Revenge.",
+    "releaseDate": "1956-11-15",
+    "runtime": 76
+  },
+  {
+    "id": 60542,
+    "title": "Albuquerque",
+    "genres": [
+      "Action",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Cole Armin comes to Albuquerque to work for his uncle, John Armin, a despotic and hard-hearted czar who operates an ore-hauling freight line, and whose goal is to eliminate a competing line run by Ted Wallace and his sister Celia. Cole tires of his uncle's heavy-handed tactics and switches over to the Wallace side. Lety Tyler, an agent hired by the uncle, also switches over by warning Cole and Ted of a trap set for them by the uncle and his henchman.",
+    "releaseDate": "1948-02-20",
+    "runtime": 90
+  },
+  {
+    "id": 80193,
+    "title": "The Big Stampede",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Deputy Sheriff John Steele recruits bandit Sonora Joe to help him find out who's been bumping off all the local lawmen and rustling the cattle.",
+    "releaseDate": "1932-10-08",
+    "runtime": 54
+  },
+  {
+    "id": 94405,
+    "title": "The Far Horizons",
+    "genres": [
+      "Action",
+      "History",
+      "Western",
+      "Romance"
+    ],
+    "overview": "United States has just acquired Louisiana from France. An expedition led by Lewis and Clark is sent to survey the territory and go where no white man has gone before. Are they able to overcome the dangers with the help of Sacajawea?",
+    "releaseDate": "1955-05-20",
+    "runtime": 108
+  },
+  {
+    "id": 79331,
+    "title": "The Gunfight at Dodge City",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Fleeing to Dodge City after killing a man in self defence Masterson finds his brother Ed (Harry Lauter) running for sheriff of the town. When Ed is killed by hired guns of the corrupt incumbent Bat is determined to settle the score with violence but he is convinced by the townspeople that the best way to avenge his brother's death is by taking Ed's place on the ballot. Bat agrees and wins the election but his new role on the right side of the law will lead him to unexpected confrontations as he finds himself torn between his loyalties to his friends and his duties as sheriff.",
+    "releaseDate": "1959-05-01",
+    "runtime": 81
+  },
+  {
+    "id": 15067,
+    "title": "The Good, The Bad, The Weird",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "The story of three Korean outlaws in 1930s Manchuria and their dealings with the Japanese army and Chinese and Russian bandits. The Good (a Bounty hunter), the Bad (a hitman), and the Weird (a thief) battle the army and the bandits in a race to use a treasure map to uncover the riches of legend.",
+    "releaseDate": "2008-07-16",
+    "runtime": 130
+  },
+  {
+    "id": 26939,
+    "title": "The Quick and the Dead",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "In 1876 Wyoming, the gun is the only law. And for Duncan and Suzanna McKaskel (Tom Conti and Kate Capshaw), newly arrived settlers beset by outlaws, rugged frontiersman Con Vallian (Sam Elliot) is the only hope.From the book by famed Western author Louis L'Amor, the Quick and the Dead is a rousing adventure recalling all-time greats like Shane and Pale Rider. It shares tried-and-true ingredients of those sagebrush sagas: a tale of peacable folk driven to action under the guidance of a mysterious stranger, rich outdorr cinematography and a stellar cast led by the peerless Elliot.",
+    "releaseDate": "1987-02-28",
+    "runtime": 90
+  },
+  {
+    "id": 53651,
+    "title": "Hangman's Knot",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "In 1865, a troop of Confederate soldiers led by Major Matt Stewart attack the wagon of gold escorted by Union cavalry and the soldiers are killed. The only wounded survivor tells that the war ended one month ago, and the group decides to take the gold and meet their liaison that knew that the war ended but did not inform the troop. The harsh Rolph Bainter kills the greedy man and the soldiers flee in his wagon driven by Major Stewart. When they meet a posse chasing them, Stewart gives wrong information to misguide the group; however, they have an accident with the wagon and lose the horses. They decide to stop a stagecoach and force the driver to transport them, but the posse returns and they are trapped in the station with the passenger. They realize that the men are not deputies and have no intention to bring them to justice but take the stolen gold.",
+    "releaseDate": "1952-11-15",
+    "runtime": 81
+  },
+  {
+    "id": 53828,
+    "title": "Blue Steel",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "When Sheriff Jake sees a man at the safe and then finds the payroll gone, he trails him. Just as he is about to arrest him, the man saves his life. Still suspicious, he joins up with the man and later they learn that Melgrove, the towns leading citizen, is trying to take over the area's ranches by having his gang stop all incoming supply wagons. With the ranchers about to sell to Melgrove, the two newcomers say they will bring in provisions.",
+    "releaseDate": "1934-05-10",
+    "runtime": 59
+  },
+  {
+    "id": 97421,
+    "title": "Kansas Raiders",
+    "genres": [
+      "Action",
+      "Adventure",
+      "War",
+      "Western"
+    ],
+    "overview": "Outraged by Redleg atrocities, the James and Younger Brothers along with Kit Dalton join Quantrill's Raiders and find themselves participating in even worse war crimes.",
+    "releaseDate": "1950-08-19",
+    "runtime": 80
+  },
+  {
+    "id": 43250,
+    "title": "The Lonely Man",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Aging gunslinger Jacob Wade hopes to settle down with his estranged son, but his old enemies have other plans for him. Gunslinger Jacob Wade finds his long-abandoned son Riley, now a young man who hates his father but has nowhere else to go. Hoping to settle down, Jacob finds no town will have him. They end at Monolith, the ranch of Jacob's former girlfriend Ada, to whom he had no intention of returning. A mustang hunt finds Riley himself attracted to the shapely Ada...and Jacob having trouble with his eyesight. And his visions of a quiet life are doomed by the re-appearance of enemies from his past...",
+    "releaseDate": "1957-06-21",
+    "runtime": 88
+  },
+  {
+    "id": 93562,
+    "title": "Law and Order",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Frame Johnson's attempt to settle down in Tombstone is interrupted when a mob tries to mete out some frontier justice.",
+    "releaseDate": "1953-05-13",
+    "runtime": 80
+  },
+  {
+    "id": 83099,
+    "title": "Escape from Fort Bravo",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A Southern belle (Eleanor Parker) frees a Rebel officer (John Forsythe) and his men from a Union captain's (William Holden) Arizona fort.",
+    "releaseDate": "1953-12-04",
+    "runtime": 99
+  },
+  {
+    "id": 27644,
+    "title": "Ride Lonesome",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A wanted murderer, Billy John, is captured by Ben Brigade, a bounty hunter, who intends to take him to Santa Cruz to be hanged. Brigade stops at a staging post, where he saves the manager's wife from an Indian attack, and enlists the help of two outlaws to continue his journey more safely.",
+    "releaseDate": "1959-02-15",
+    "runtime": 73
+  },
+  {
+    "id": 99224,
+    "title": "The Lawless Breed",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "After being released from prison, ex-gunfighter John Wesley Hardin hopes to have his autobiography published in order to rehabilitate his tarnished reputation.",
+    "releaseDate": "1953-01-03",
+    "runtime": 83
+  },
+  {
+    "id": 94139,
+    "title": "Lust for Gold",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A Dutch miner (Glenn Ford) and an Old West couple (Ida Lupino, Gig Young) die fighting over an Arizona gold mine lost in an earthquake.",
+    "releaseDate": "1949-06-10",
+    "runtime": 90
+  },
+  {
+    "id": 53624,
+    "title": "The Desert Trail",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Rodeo star John Scott and his gambler friend Kansas Charlie are wrongly accused of armed robbery. They leave town as fast as they can to go looking for their own suspects in Poker City.",
+    "releaseDate": "1935-04-21",
+    "runtime": 54
+  },
+  {
+    "id": 23391,
+    "title": "Riders of Destiny",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "John Wayne portrays Singin' Sandy Saunders and has a reputation as the most notorious gunman since Billy the Kid. That's somewhat ironic though, since it's later revealed that he's a special Secret Service agent sent from Washington to investigate a land swindle scheme under the direction of town boss James Kincaid (Forrest Taylor).",
+    "releaseDate": "1933-10-10",
+    "runtime": 53
+  },
+  {
+    "id": 92312,
+    "title": "Django the Bastard",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A Union soldier returns from the dead to take revenge on three officers who betrayed his unit in battle.",
+    "releaseDate": "1969-11-08",
+    "runtime": 107
+  },
+  {
+    "id": 80592,
+    "title": "The Man from Monterey",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A cavalry officer helps save a family's ranch from land grabbers",
+    "releaseDate": "1933-07-15",
+    "runtime": 57
+  },
+  {
+    "id": 122160,
+    "title": "More Dead Than Alive",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "When the multiple murderer Cain is released from prison after 18 years, he wants to settle down as a rancher and never touch a gun again. But his former life haunts him; not only that nobody wants to give him a job, some villains also want to pay him back. So he has to accept the offer of showman Ruffalo to perform as \"Killer Cain\" in his traveling shooting show. However after 18 years without practice even Ruffalo's young assistant Billy shoots better than Cain.",
+    "releaseDate": "1969-01-15",
+    "runtime": 101
+  },
+  {
+    "id": 121707,
+    "title": "Montana",
+    "genres": [
+      "Western",
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "overview": "An Australian sheep man comes to Montana looking for grazing space, is opposed by local ranchers and a wealthy cattle-woman.",
+    "releaseDate": "1950-01-28",
+    "runtime": 76
+  },
+  {
+    "id": 81512,
+    "title": "Many Rivers to Cross",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Packaged and sold as an outdoor actioner, Many Rivers to Cross is as much a comedy as anything else. Robert Taylor stars as 18th century trapper Bushrod Gentry, who is himself entrapped into marriage by the spunky Mary Stuart Cherne (Eleanor Parker). Escaping his marital responsibilities (which were impressed upon him on threat of death), Gentry heads into the North Country, with Mary in hot pursuit. Hero and heroine spend the rest of the picture taking turns rescuing each other from hostile Indians. Some of the humor is predicated upon the wholesale slaughter of the \"redskins\", and as such is a bit hard to take when seen today. Supporting Taylor and Parker are Victor McLaglen as the heroine's burly father, and TV-stars-to be James Arness (Gunsmoke) and Russell Johnson and Alan Hale Jr. (Gilligan's Island).",
+    "releaseDate": "1955-02-04",
+    "runtime": 95
+  },
+  {
+    "id": 53622,
+    "title": "The Man From Utah",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "The Marshal sends John Weston to a rodeo to see if he can find out who is killing the rodeo riders who are about to win the prize money. Barton has organized the rodeo and plans to leave with all the prize money put up by the townspeople. When it appears that Weston will beat Barton's rider, he has his men prepare the same fate for him that befell the other riders.",
+    "releaseDate": "1934-05-15",
+    "runtime": 55
+  },
+  {
+    "id": 22612,
+    "title": "The Lucky Texan",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Jerry Mason, a young Texan, and Jake Benson, an old rancher, become partners and strike it rich with a gold mine. They then find their lives complicated by bad guys and a woman.",
+    "releaseDate": "1934-01-22",
+    "runtime": 61
+  },
+  {
+    "id": 53830,
+    "title": "'Neath the Arizona Skies",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Chris Morrell, the guardian of half-Indian girl Nina, is helping her find her missing white father. so she can cash in on her late mother's oil lease. Outlaw Sam Black is after the girl and her father as well. Besides dealing with the Black gang, Morrell has to find another robber, Jim Moore, who switches clothes with him after he finds Chris unconscious from a fight with Sam Black. Along the way, he meets a lady who's the sister of Jim Moore, another bad hombre who's in cahoots with Jim Moore, and an old friend who takes in Nina and helps Chris locate Nina's father and fight off the various desperadoes",
+    "releaseDate": "1934-12-05",
+    "runtime": 52
+  },
+  {
+    "id": 22408,
+    "title": "Rage at Dawn",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "In this film's version of the story, four of the Reno Brothers are corrupt robbers and killers while a fifth, Clint (Denver Pyle) is a respected Indiana farmer. A sister, Laura (Mala Powers), who has inherited the family home, serves the outlaw brothers as a housekeeper and cook. One brother is killed when they go after a bank, the men of the town appear to have been waiting for them…",
+    "releaseDate": "1955-03-26",
+    "runtime": 87
+  },
+  {
+    "id": 23286,
+    "title": "Paradise Canyon",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "John Wyatt is a government agent sent to smash a counterfeiting operation near the Mexican border. Joining Doc Carter's medicine show they arrive in the town where Curly Joe, who once framed Carter, resides.",
+    "releaseDate": "1935-07-19",
+    "runtime": 52
+  },
+  {
+    "id": 40797,
+    "title": "The Trail Beyond",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Rod Drew hunts for a missing girl and finds himself in a fight over a goldmine as well.",
+    "releaseDate": "1934-10-22",
+    "runtime": 55
+  },
+  {
+    "id": 40743,
+    "title": "Winds of the Wasteland",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "The arrival of the telegraph put Pony Express riders like John Blair and his pal Smoky out of work. A race will decide whether they or stageline owner Drake get the government mail contract.",
+    "releaseDate": "1936-07-06",
+    "runtime": 54
+  },
+  {
+    "id": 22602,
+    "title": "Randy Rides Alone",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Bandits lead by Matt the Mute enter a bar and kill multiple people. Randy Bowers comes to town and is framed by Matt the Mute, who is working with the sheriff (who doesn't know Matt is really a criminal). Randy escapes with the help of the niece of the dead owner of the bar. Bowers ends up running from the sheriff, and ends up in the cave in which the bandits have their hide-out…",
+    "releaseDate": "1934-06-05",
+    "runtime": 53
+  },
+  {
+    "id": 40799,
+    "title": "West of the Divide",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Ted Hayden impersonates a wanted man and joins Gentry's gang only to learn later that Gentry was the one who killed his father.",
+    "releaseDate": "1934-02-15",
+    "runtime": 54
+  },
+  {
+    "id": 38107,
+    "title": "The Star Packer",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "John Travers and Yak, his faithful Indian sidekick, pick up where a murdered sheriff leaves off, and try to nab the mysterious Shadow.",
+    "releaseDate": "1934-07-30",
+    "runtime": 53
+  },
+  {
+    "id": 43384,
+    "title": "Vengeance Valley",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A cattle baron takes in an orphaned boy and raises him, causing his own son to resent the boy. As they get older the resentment festers into hatred, and eventually the real son frames his stepbrother for fathering an illegitimate child that is actually his, seeing it as an opportunity to get his half-brother out of the way so he can have his father's empire all to himself.",
+    "releaseDate": "1951-02-06",
+    "runtime": 83
+  },
+  {
+    "id": 43370,
+    "title": "The Lusty Men",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Retired rodeo champion Jeff McCloud agrees to mentor novice rodeo contestant Wes Merritt against the wishes of Merritt's wife who fears the dangers of this rough sport.",
+    "releaseDate": "1952-10-24",
+    "runtime": 113
+  },
+  {
+    "id": 144089,
+    "title": "The Actress, the Dollars and the Transylvanians",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "",
+    "releaseDate": "1978-12-22",
+    "runtime": 0
+  },
+  {
+    "id": 17836,
+    "title": "Virginia City",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Union officer Kerry Bradford escapes from a Confederate prison and races to intercept $5 million in gold destined for Confederate coffers. A Confederate sympathizer and a Mexican bandit, each with their own stake in the loot, stand in his way.",
+    "releaseDate": "1940-03-23",
+    "runtime": 121
+  },
+  {
+    "id": 46623,
+    "title": "Cimarron",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "The epic story of a family that's involved in the Oklahoma Land Rush in 1889.",
+    "releaseDate": "1960-12-01",
+    "runtime": 147
+  },
+  {
+    "id": 36233,
+    "title": "Posse",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "A group of mostly black infantrymen return from the Spanish-American War with a cache of gold. They travel to the West where their leader searches for the men who lynched his father.",
+    "releaseDate": "1993-05-14",
+    "runtime": 111
+  },
+  {
+    "id": 15846,
+    "title": "The Burrowers",
+    "genres": [
+      "Action",
+      "Horror",
+      "Western"
+    ],
+    "overview": "It is 1879 in the Dakota Territories, a band of men who set out to find and recover a family of settlers that has mysteriously vanished from their home. Expecting the offenders to be a band of fierce natives, but they soon discover that the real enemy stalks them from below.",
+    "releaseDate": "2008-09-09",
+    "runtime": 96
+  },
+  {
+    "id": 121351,
+    "title": "Aces and Eights",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "A card sharp steps in when a Mexican family's ranch is threatened by swindlers and cheats.",
+    "releaseDate": "1936-06-06",
+    "runtime": 62
+  },
+  {
+    "id": 43090,
+    "title": "Gunless",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "A quiet and peaceful community in the Dominion of Canada is shaken up by the arrival of a wounded and stinky gun-toting American cowboy, simply known as The Montana Kid, wanted for the alleged killing of seven men. A subsequent clarification reveals that his real name is Sean Rafferty, and he admits to killing, not seven, but eleven men. Things only get worse after Sean gets in the bad books of the local militia, and with armed bounty hunters hot on his trail, challenges the local unarmed blacksmith, Jack Smith, to a duel - wild west style! Written by rAjOo",
+    "releaseDate": "2010-04-30",
+    "runtime": 89
+  },
+  {
+    "id": 20533,
+    "title": "Jonah Hex",
+    "genres": [
+      "Action",
+      "Western",
+      "Drama",
+      "Fantasy",
+      "Thriller"
+    ],
+    "overview": "Gunslinger Jonah Hex (Josh Brolin) is appointed by President Ulysses Grant to track down terrorist Quentin Turnbull (John Malkovich), a former Confederate officer determined on unleashing hell on earth. Jonah not only secures freedom by accepting this task, he also gets revenge on the man who slayed his wife and child. Megan Fox plays a prostitute as well as Jonah Hex's love interst in the film.",
+    "releaseDate": "2010-06-18",
+    "runtime": 80
+  },
+  {
+    "id": 32068,
+    "title": "The Scalphunters",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Trapper Joe is on his way to the town with all of his gain of hides of the last winter. However a group of Indians stops him and takes all of his hides, leaving him the escaped slave Joseph instead. But Joe has no use for Joseph and is determined to get his property back and follows them. Before he can do anything, the Indians are raided themselves by a group of scalphunters under the greedy Howie. Not only the hides, but also Joseph falls into their hands. Now Joe follows them alone and tries to trick the numerical superior group out of his hides",
+    "releaseDate": "1968-04-02",
+    "runtime": 102
+  },
+  {
+    "id": 43821,
+    "title": "The Return of Frank James",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Farmer Frank (Henry Fonda) and his ward (Jackie Cooper) hunt brother Jesse's killers, the back-shooting Fords.",
+    "releaseDate": "1940-08-16",
+    "runtime": 92
+  },
+  {
+    "id": 1673,
+    "title": "Comanche Station",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A man saves a woman who had been kidnapped by Comanches, then struggles to get both of them home alive.",
+    "releaseDate": "1960-03-01",
+    "runtime": 73
+  },
+  {
+    "id": 46757,
+    "title": "The Last Sunset",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Brendan O'Malley arrives at the Mexican home of old flame Belle Breckenridge to find her married to a drunkard getting ready for a cattle drive to Texas. Hot on O'Malley's heels is lawman Dana Stribling who has a personal reason for getting him back into his jurisdiction. Both men join Breckenridge and his wife on the drive. As they near Texas tensions mount, not least because Stribling is starting to court Belle and O'Malley is increasingly drawn by her daughter Missy.",
+    "releaseDate": "1961-06-06",
+    "runtime": 112
+  },
+  {
+    "id": 86608,
+    "title": "Track of the Cat",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "A family saga: In a stunning mountain valley ranch setting near Aspen, complex and dangerous family dynamics play out against the backdrop of the first big snowstorm of winter and an enormous panther with seemingly mythical qualities which is killing cattle.",
+    "releaseDate": "1954-11-27",
+    "runtime": 102
+  },
+  {
+    "id": 43114,
+    "title": "Buchanan Rides Alone",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A Texan pits a powerful family against itself to save a Mexican from hanging.",
+    "releaseDate": "1958-08-01",
+    "runtime": 78
+  },
+  {
+    "id": 61943,
+    "title": "Django, Kill! (If You Live Shoot!)",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A Mexican outlaw known as \"The Stranger\" is part of a band of thieves that steal a cargo of gold from a stagecoach. However, the Americans in the band betray him, and shoot all the Mexicans. The Stranger is not completely dead though, and crawls his way out of his shallow grave, continuing his pursuit of the gold, and exacting a bloody vengeance.",
+    "releaseDate": "1967-05-03",
+    "runtime": 100
+  },
+  {
+    "id": 6474,
+    "title": "Navajo Joe",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "The sole survivor of a bloody massacre vows revenge on his attackers and on the men who killed his wife.",
+    "releaseDate": "1966-11-25",
+    "runtime": 93
+  },
+  {
+    "id": 46528,
+    "title": "The Warrior's Way",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Western",
+      "Thriller"
+    ],
+    "overview": "An Asian assassin (Dong-gun Jang) is forced to hide in a small town in the American Badlands. Also starring Kate Bosworth, Danny Huston, Tony Cox and Academy Award winner Geoffrey Rush.",
+    "releaseDate": "2010-12-02",
+    "runtime": 100
+  },
+  {
+    "id": 49849,
+    "title": "Cowboys & Aliens",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A stranger stumbles into the desert town of Absolution with no memory of his past and a futuristic shackle around his wrist. With the help of mysterious beauty Ella and the iron-fisted Colonel Dolarhyde, he finds himself leading an unlikely posse of cowboys, outlaws, and Apache warriors against a common enemy from beyond this world in an epic showdown for survival.",
+    "releaseDate": "2011-07-29",
+    "runtime": 119
+  },
+  {
+    "id": 39557,
+    "title": "Decision at Sundown",
+    "genres": [
+      "Romance",
+      "Action",
+      "Western"
+    ],
+    "overview": "Bart Allison arrives in Sundown after a three year search for Tate Kimbrough. Although it is Kimbrough's wedding day, Allison makes it clear he blames him for the death of his wife and is out to kill him. A shoot-out in the church puts the wedding on hold and Allison and his trail-buddy hole up in the livery stable. But the reasons for his actions become increasingly unclear, while the town starts to wonder about the grip Kimbrough has over them.",
+    "releaseDate": "1957-11-10",
+    "runtime": 77
+  },
+  {
+    "id": 43825,
+    "title": "Allegheny Uprising",
+    "genres": [
+      "Western",
+      "Action",
+      "Adventure",
+      "History"
+    ],
+    "overview": "Allegheny Uprising is a 1939 film produced by RKO Pictures, starring Claire Trevor and John Wayne as pioneers of early American expansion in south central Pennsylvania. Clad in buckskin and a coonskin cap (as he would be a decade later in The Fighting Kentuckian), Wayne plays real-life James Smith, an American coping with British rule in colonial America. The film is loosely based on a historical event known as the Black Boys Rebellion during the 1760s.",
+    "releaseDate": "1939-11-10",
+    "runtime": 81
+  },
+  {
+    "id": 42531,
+    "title": "Wild Rovers",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Ross Bodine and Frank Post are cowhands on Walt Buckman's R-Bar-R ranch. Bodine is older and broods a bit about how he will get along when he's too old to cowboy. Post is young and rambunctious and ambitious for a better life than wrangling cows. When one of their fellow cowboys is killed in a corral accident, Post suggests a way into a better life for himself and his friend: robbing a bank. Bodine reluctantly joins in the plan and the two contrive to rob the local bank. They make good their escape initially, but Walt Buckman and his two sons, John and Paul, are incensed at this betrayal by their own trusted employees. John and Paul set out to bring Bodine and Post to justice.",
+    "releaseDate": "1971-06-23",
+    "runtime": 136
+  },
+  {
+    "id": 80027,
+    "title": "Kings of the Sun",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "In order to flee from powerful enemies, young Mayan king Balam leads his people north across the Gulf of Mexico to the coast of what will become the United States. They build a home in the new land but come into conflict with a tribe of Native Americans led by their chief, Black Eagle, while both Balam and Black Eagle fall in love the beautiful Mayan princess Ixchel.",
+    "releaseDate": "1963-12-18",
+    "runtime": 108
+  },
+  {
+    "id": 18928,
+    "title": "Run, Man, Run",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "The legendary Tomas Milian stars as Cuchillo, a knife-throwing thief on the run from murderous bandits, sadistic American agents, his hot-blooded fiancée and a sheriff turned bounty hunter, all of whom are gunning for a hidden fortune in gold that could finance the Mexican Revolution.",
+    "releaseDate": "1968-08-29",
+    "runtime": 120
+  },
+  {
+    "id": 83989,
+    "title": "In Old Arizona",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Army Sergeant Mickey Dunn sets out in pursuit of the Cisco Kid, a notorious if kind-hearted and charismatic bandit of the Old West. The Kid spends much of his loot on Tonia, the woman he loves, not realizing that she is being unfaithful to him in his absence. Soon, with her oblivious paramour off plying his trade, Tonia falls in with Dunn, drawn by the allure of a substantial reward for the Kid's capture -- dead or alive. Together, they concoct a plan to ambush and do away with the Cisco Kid once and for all.",
+    "releaseDate": "1928-12-25",
+    "runtime": 95
+  },
+  {
+    "id": 4938,
+    "title": "The Last Frontier",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Three trappers become scouts for a cavalry captain (Guy Madison) who loses his fort to a hated colonel (Robert Preston).",
+    "releaseDate": "1955-12-07",
+    "runtime": 98
+  },
+  {
+    "id": 83354,
+    "title": "The True Story of Jesse James",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Misfit Missouri brothers Jesse and Frank James (Robert Wagner, Jeffrey Hunter) turn to crime in the post-Civil War South.",
+    "releaseDate": "1957-03-22",
+    "runtime": 92
+  },
+  {
+    "id": 22396,
+    "title": "China 9, Liberty 37",
+    "genres": [
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "Gunslinger Clayton Drumm (Testi) is about to be hanged when he is given a chance to live if he will agree to murder Matthew (Oates), a miner who has steadfastly refused to sell his land to the railroad company. Matthew’s refusal is a major obstacle to the railroad’s plans for expansion.",
+    "releaseDate": "1978-08-04",
+    "runtime": 105
+  },
+  {
+    "id": 114975,
+    "title": "Wichita",
+    "genres": [
+      "Western",
+      "Action",
+      "Romance"
+    ],
+    "overview": "Former buffalo hunter and entrepreneur Wyatt Earp arrives in the lawless cattle town of Wichita Kansas. His skill as a gun-fighter make him a perfect candidate for Marshal but he refuses the job until he feels morally obligated to bring law and order to this wild town.",
+    "releaseDate": "1955-07-03",
+    "runtime": 81
+  },
+  {
+    "id": 85639,
+    "title": "Run for Cover",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Western that starts when a man (Matt Dow) is mistaken as a train robber. After the town's sheriff shoots the kid he's riding with, Dow clears his name and ends up as the new sheriff. He romances a Swedish woman and settles in to a peaceful life only to find that the boy has a few secrets of his own.",
+    "releaseDate": "1955-04-29",
+    "runtime": 93
+  },
+  {
+    "id": 45569,
+    "title": "Red Hill",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "Young police officer Shane Cooper's first day on duty, after relocating to the small town of Red Hill, rapidly turns into a nightmare. News of a prison break, involving convicted murderer Jimmy Conway, sends the local law enforcement officers - led by the town's ruling presence, Old Bill - into a panic and leads to a terrifying and bloody confrontation.",
+    "releaseDate": "2010-11-05",
+    "runtime": 97
+  },
+  {
+    "id": 68818,
+    "title": "Blackthorn",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Western"
+    ],
+    "overview": "In Bolivia, Butch Cassidy (now calling himself James Blackthorne) pines for one last sight of home, an adventure that aligns him with a young robber and makes the duo a target for gangs and lawmen alike.",
+    "releaseDate": "2011-08-31",
+    "runtime": 98
+  },
+  {
+    "id": 27349,
+    "title": "The Great Northfield Minnesota Raid",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "The gangs of Jesse James and Cole Younger join forces to rob the First National Bank in Northfield, Minnesota, but things do not go as planned.",
+    "releaseDate": "1972-05-12",
+    "runtime": 91
+  },
+  {
+    "id": 10620,
+    "title": "Once Upon a Time in China and America",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "So goes to the U.S. to open a martial arts school. Around this time, many Chinese people were sold off to U.S. railroad companies, and were brutally treated by the Americans under the harsh working conditions. Thus, the American workers' hatred towards the Chinese immigrants is high. As a result, So gets into trouble with the Americans and the mob, and calls Master Wong for help.",
+    "releaseDate": "1997-02-01",
+    "runtime": 102
+  },
+  {
+    "id": 87531,
+    "title": "The Sea of Grass",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "Elia Kazan directs Spencer Tracy and Katharine Hepburn in an epic western melodrama.",
+    "releaseDate": "1947-04-25",
+    "runtime": 123
+  },
+  {
+    "id": 41604,
+    "title": "Grayeagle",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A young Cheyenne warrior, who goes by the name Grayeagle, kidnaps the daughter of a grizzled frontier man John Colter who goes on an epic search for his daughter Beth, aided by a friendly native...",
+    "releaseDate": "1977-12-28",
+    "runtime": 104
+  },
+  {
+    "id": 71768,
+    "title": "The Guns Of Fort Petticoat",
+    "genres": [
+      "Western",
+      "Action",
+      "War"
+    ],
+    "overview": "Opposing his commanding officer's decision to attack a group of innocent Indians and wipe them out, Lt. Frank Hewitt leaves his post and heads home to Texas. He knows that the attack will send all of the tribes on the warpath and he wants to forewarn everyone. He gets a chilly reception back home however. With most of the men away having enlisted in the Confederate army Frank, a Union officer, is seen by the local women as a traitor. He convinces them of the danger that lies ahead and trains them to repel the attack that will eventually come.",
+    "releaseDate": "1957-04-01",
+    "runtime": 82
+  },
+  {
+    "id": 37348,
+    "title": "Monte Walsh",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Monte Walsh and Chet Rollins are long-time cowhands, working whatever ranch work comes their way, but \"nothing they can't do from a horse.\" Their lives are divided between months on the range and the occasional trip into town. Monte has a long-term relationship with prostitute Martine Bernard, while Chet has fallen under the spell of the widow who owns the hardware store. Camaraderie and competition with the other cowboys fill their days, until one of the hands, Shorty Austin, loses his job and gets involved in rustling and killing. Then Monte and Chet find that their lives on the range are inexorably redirected.",
+    "releaseDate": "2003-01-17",
+    "runtime": 117
+  },
+  {
+    "id": 43314,
+    "title": "A Lawless Street",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A Marshal must face unpleasant facts about his past when he attempts to run a criminal gang out of town.",
+    "releaseDate": "1955-11-15",
+    "runtime": 78
+  },
+  {
+    "id": 19989,
+    "title": "Aces 'N' Eights",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Already taking a gamble settling in the uncharted west, the peaceful settlers of a town destined for railroad greatness suddenly find themselves being ruthlessly gunned down. With no law and order to be found, justice falls onto the shoulders of an elderly rancher and an accomplished, but retired, gunslinger.",
+    "releaseDate": "2008-03-15",
+    "runtime": 86
+  },
+  {
+    "id": 40852,
+    "title": "American Bandits: Frank and Jesse James",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "After Jesse James is wounded by a bullet to the chest, Frank James splits the gang up and plans a rendezvous in four days time. With U.S.-Marshall Kane in hot pursuit, and betrayal within the outlaw band, the stage is set for a blazing and climactic shootout in the deserted town of 'Gila Wells'.",
+    "releaseDate": "2010-05-18",
+    "runtime": 88
+  },
+  {
+    "id": 55576,
+    "title": "Last Stand at Saber River",
+    "genres": [
+      "Western",
+      "Action",
+      "Drama"
+    ],
+    "overview": "As America recovers from the Civil War, one man tries to put the pieces of his life back together but finds himself fighting a new battle on the frontier. Cable is an embittered Confederate soldier who returns from the war to reclaim his Arizona homestead from rebel pioneers who sympathize with the Union war effort.",
+    "releaseDate": "1997-01-19",
+    "runtime": 0
+  },
+  {
+    "id": 57201,
+    "title": "The Lone Ranger",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "The Texas Rangers chase down a gang of outlaws led by Butch Cavendish, but the gang ambushes the Rangers, seemingly killing them all. One survivor is found, however, by an American Indian named Tonto, who nurses him back to health. The Ranger, donning a mask and riding a white stallion named Silver, teams up with Tonto to bring the unscrupulous gang and others of that ilk to justice.",
+    "releaseDate": "2013-07-03",
+    "runtime": 149
+  },
+  {
+    "id": 35381,
+    "title": "Crossfire Trail",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller",
+      "Western",
+      "Action"
+    ],
+    "overview": "Rafe Covington is as good as his word, and he's determined to keep his promise to a dying man that he'll look after the man's widow and Wyoming ranch. But the widow doubts the integrity of drifter Covington. And an unscrupulous land grabber and his gunmen are sizing up the ranch the way a spider eyes a fly.",
+    "releaseDate": "2001-01-21",
+    "runtime": 95
+  },
+  {
+    "id": 359010,
+    "title": "Ambush Trail",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "One of four western films made for PRC by bantam-weight Bob Steele, Ambush Trail stars Steele as cowpoke Curley Thompson. The villain of the piece intends to bankrupt all the local ranchers and grab up the surrounding property for himself. But with Curley involved, the bad guy and his minions don't have a chance. The screenplay, by D. W. Griffith alumnus Elmer Clifton, is a medley of western cliches, pausing every so often for a first-rate action sequence. Perennial sagebrush sidekick Sid Saylor provides negligible comedy relief.",
+    "releaseDate": "1946-02-17",
+    "runtime": 60
+  },
+  {
+    "id": 22765,
+    "title": "The Shadow Riders",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "After starring in \"The Sacketts\", Tom Selleck and Sam Elliott team up again but this time as Mac and Dal Traven, in a movie based on a classic Louis L'Amour novel. They are brothers, who meet up at the end of the Civil War fighting on opposite sides. They go home only to find their family in dire need and their sisters and brother kidnapped by ruthless raiders. They set out to rescue their family.",
+    "releaseDate": "1982-09-28",
+    "runtime": 96
+  },
+  {
+    "id": 77645,
+    "title": "The Redhead from Wyoming",
+    "genres": [
+      "Action",
+      "Romance",
+      "Western"
+    ],
+    "overview": "In Wyoming Territory, a range war is brewing between entrenched cattle barons and new settlers. Cattle king Reece Duncan is opposed by ambitious gambler Jim Averell...",
+    "releaseDate": "1953-01-08",
+    "runtime": 77
+  },
+  {
+    "id": 38807,
+    "title": "Badman's Territory",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "After some gun play with a posse, the James Gang head for Quinto in a section of land which is not a part of America. Anyone there is beyond the law so the town is populated with outlaws. Next to arrive is Sheriff Rowley, following his brother whom the Gang have brought in injured. Rowley has no authority and gets on well enough with the James boys but is soon involved in other local goings-on, including a move to vote for annexation with Oklahoma which would allow the law well and truly in.",
+    "releaseDate": "1946-01-04",
+    "runtime": 97
+  },
+  {
+    "id": 103168,
+    "title": "Apache Country",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A criminal gang provokes the local Apaches in order to divert the authorities' attention from their own activities.",
+    "releaseDate": "1952-05-30",
+    "runtime": 62
+  },
+  {
+    "id": 110674,
+    "title": "Apache Territory",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Logan Cates (Rory Calhoun) sets out to rescue a white woman captured by Apache Indians and prevent a war. On the way he is joined by a few civilians and a small band of soldiers at a water hole. They are ambushed and laid siege to by Apache. As their food and water supplies dwindle a storm arrives which enables Cates to put an escape plan into action.",
+    "releaseDate": "1958-09-01",
+    "runtime": 77
+  },
+  {
+    "id": 51859,
+    "title": "Trigun: Badlands Rumble",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy",
+      "Animation",
+      "Western"
+    ],
+    "overview": "In a quicksand surrounded town called Makka, rumors spread of a legendary robber named Gasback is after the town. To protect it, Mayor Kepler has hired bounty hunters. These hunters have been following Gasback from town to town in hopes of getting the bounty. Vash the Stampede is in town, along with Meryl and Milly, along with the female bounty hunter Ameria and Nicholas D. Wolfwood.",
+    "releaseDate": "2010-04-02",
+    "runtime": 95
+  },
+  {
+    "id": 28323,
+    "title": "I Will Fight No More Forever",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western",
+      "War"
+    ],
+    "overview": "Pursued by 2,000 US soldiers and cavalry, Chief Joseph leads his tribe of 800 Nez Perce on a 1,700 mile journey across the West and towards Canada. Based on the true story of the westward expansion of the United States and the military force used to displace Native Americans from their lands.",
+    "releaseDate": "1975-04-13",
+    "runtime": 106
+  },
+  {
+    "id": 42329,
+    "title": "The Valley of Gwangi",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A turn of the century wild west show struggling to make a living in Mexico comes into the possession of a tiny prehistoric horse. This leads to an expedition to the Forbidden Valley where they discover living dinosaurs. They capture one and take it back to be put on display, leading to inevitable mayhem.",
+    "releaseDate": "1969-07-24",
+    "runtime": 96
+  },
+  {
+    "id": 95410,
+    "title": "The Texican",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "Wanted north of the border, Jess Carlin resides safely in Mexico. Then he hears his brother was killed in a gunfight with another man. Knowning his brother never carried a gun he heads north to find his brother's killer. After battling bounty hunters he arrives in Rimrock, a town controlled by Luke Starr. Starr is the man he wants but he unable to find any evidence until he is given an item found by his brother's body.",
+    "releaseDate": "1966-11-01",
+    "runtime": 81
+  },
+  {
+    "id": 43700,
+    "title": "Big Money Rustlas",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "The Insane Clown Posse heads back to the Wild West in this prequel to BIG MONEY HUSTLAS. Nothing happens in the dusty town of Mud Bug without the approval of gambling magnate Big Baby Chips (Violent J), and the locals turn and run when his henchmen come out to play. But when swaggering sheriff Sugar Wolf (Shaggy 2 Dope) teaches the locals to fight back, Big Baby Chips and his gang head for the hills in a hail of gunfire.",
+    "releaseDate": "2010-08-14",
+    "runtime": 95
+  },
+  {
+    "id": 37316,
+    "title": "A Bullet for the General",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "El Chuncho's bandits rob arms from a train, intending to sell the weapons to Elias' revolutionaries. They are helped by one of the passengers, Bill Tate, and allow him to join them, unware he is an assassin working for the Mexican government.",
+    "releaseDate": "1966-12-06",
+    "runtime": 118
+  },
+  {
+    "id": 45007,
+    "title": "The Hunting Party",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "A ruthless rancher, and his gang, use extremely long range rifles to kill the men who kidnapped his infidel wife.",
+    "releaseDate": "1971-07-16",
+    "runtime": 111
+  },
+  {
+    "id": 17456,
+    "title": "BloodRayne: Deliverance",
+    "genres": [
+      "Action",
+      "Horror",
+      "Western"
+    ],
+    "overview": "Rayne, a half-human half-vampire warrior, is in the America's 1880's Wild West to stop the vampired Billy the Kid and his posse of vampire cowboys.",
+    "releaseDate": "2007-09-18",
+    "runtime": 99
+  },
+  {
+    "id": 65674,
+    "title": "A Town Called Hell",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "A group of Mexican revolutionaries murders a town priest and a number of his christian followers. Ten years later, a widow arrives in town intent to take revenge from her husband's killers.",
+    "releaseDate": "1971-10-27",
+    "runtime": 95
+  },
+  {
+    "id": 60438,
+    "title": "Boots and Saddles",
+    "genres": [
+      "Western",
+      "Action",
+      "Drama"
+    ],
+    "overview": "Young Englishman inherits ranch which he wants to sell, but Gene's gonna turn him into a real westerner instead. When new owner Spud arrives from England, Autry convinces him not to sell the ranch but to raise horses for the Army. When both Autry's and Neale's bids are the same, the Colonel calls for a race to decide the winner. But that night Neale has Autry's stable burned.",
+    "releaseDate": "1937-10-04",
+    "runtime": 58
+  },
+  {
+    "id": 44323,
+    "title": "Belle of the Yukon",
+    "genres": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Western",
+      "Music"
+    ],
+    "overview": "Left by a con man (Randolph Scott), a dancer (Gypsy Rose Lee) finds him in gold-rush Alaska running an honest casino/dance hall.",
+    "releaseDate": "1944-12-27",
+    "runtime": 83
+  },
+  {
+    "id": 43499,
+    "title": "Buffalo Bill",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "Scout William F. Cody (Joel McCrea) marries a U.S. senator's daughter (Maureen O'Hara), fights the Cheyenne and leads a Wild West show.",
+    "releaseDate": "1943-12-31",
+    "runtime": 90
+  },
+  {
+    "id": 101308,
+    "title": "Ride Beyond Vengeance",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "Jonas Trapp falls in love with the beautiful Jessie, a wealthy girl out of his humble class. Against the wishes of her snobbish aunt, she marries him, later faking a pregnancy to win her aunt's consent. But Jonas tires of living off of his wife's family, and eventually deserts her to become a buffalo hunter. 11 years later, with his self-made fortune, he sets out to return home, only to be set upon by three sadistic marauders, who steal his money and leave him for dead. Rescued by a farmer who nurses him back to health, Jonas becomes consumed by the desire for revenge. As fate would have it, all three men live close to Jonas' former home. Matters quickly get worse when Jonas reunites with his wife, only to discover that she is now engaged to Renne.",
+    "releaseDate": "1966-05-09",
+    "runtime": 101
+  },
+  {
+    "id": 44022,
+    "title": "Bandido!",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "American arms dealer Kennedy hopes to make a killing by selling to the \"regulares\" in the 1916 Mexican revolution. American mercenary Wilson favors the rebel faction headed by Escobar, and they plot to hijack Kennedy's arms; but Wilson also has his eye on Kennedy's wife. Raids, counter-raids, and escapes follow in a veritable hail of bullets.",
+    "releaseDate": "1956-09-01",
+    "runtime": 92
+  },
+  {
+    "id": 32142,
+    "title": "Barquero",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Jake Remy leads a gang of outlaw cutthroats making their escape toward Mexico from a successful robbery. Barring their way is a river--crossable only by means of a ferry barge. The barge operator, Travis, refuses to be bullied into providing transport for the gang and escapes across river with most of the local populace--leaving Remy and his gang behind, desperately seeking a way across. A river-wide stand-off begins between the gang and the townspeople, both groups of which have left people on the wrong side of the river.",
+    "releaseDate": "1970-09-03",
+    "runtime": 115
+  },
+  {
+    "id": 98250,
+    "title": "The Long Ride Home",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A man fights the law and the lawless in order to reunite with his wife and son in the 1860s west.",
+    "releaseDate": "2003-03-27",
+    "runtime": 87
+  },
+  {
+    "id": 95966,
+    "title": "Thomasine & Bushrod",
+    "genres": [
+      "Western",
+      "Crime",
+      "Action",
+      "Drama"
+    ],
+    "overview": "A rare blaxploitation classic starring Vonette McGee &amp; Max Julien, Thomasine &amp; Bushrod was intended as a counterpart to Bonnie and Clyde. This pair of thieves, who operate in the American south between 1911 and 1915, pattern themselves after Robin Hood and hold the White Establishment as (a 'modern-day') Sheriff of Nottingham. Here's the clincher-- Thomasine and Bushrod steal from rich, white capitalists, then give to Mexicans, Native Americans and poor whites.",
+    "releaseDate": "1974-04-10",
+    "runtime": 95
+  },
+  {
+    "id": 91322,
+    "title": "Good for Nothing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "GOOD FOR NOTHING is an adventurous romp set in the sweeping Old West from Mike Wallis in his directorial debut. Inspired by the Spaghetti Westerns and celebrating the Western genre with an interesting twist, the film follows an odd romance and the resulting emotional confusion of an outlaw who reluctantly develops strong feelings for a woman he has kidnapped.",
+    "releaseDate": "2011-01-28",
+    "runtime": 92
+  },
+  {
+    "id": 215379,
+    "title": "Young Ones",
+    "genres": [
+      "Western",
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ],
+    "overview": "In a future where water is scarce, a farmer defends his land and hopes to rejuvenate his parched soil. However, his daughter's boyfriend schemes to steal the land for himself.",
+    "releaseDate": "2014-06-28",
+    "runtime": 100
+  },
+  {
+    "id": 151933,
+    "title": "Dead in Tombstone",
+    "genres": [
+      "Western",
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "An outlaw named Guerrero Hernandez is shot in the back and killed whilst attempting to free his half-brother from a small-town prison. Making a deal with the devil, Hernandez returns from the dead to take his revenge.",
+    "releaseDate": "2013-10-01",
+    "runtime": 100
+  },
+  {
+    "id": 55472,
+    "title": "Colt .45",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Scott plays Steve Farrell, a Colt .45 salesman who has two of the prized guns stolen by Jason Brett (Zachary Scott). Armed with the guns, Brett begins a reign of terror, leading a gang of robbers and murderers.",
+    "releaseDate": "1950-07-20",
+    "runtime": 74
+  },
+  {
+    "id": 51649,
+    "title": "Colt Comrades",
+    "genres": [
+      "Action",
+      "Western",
+      "Adventure"
+    ],
+    "overview": "While oil drilling, Hoppy and California discover an underground well - a potential threat to Jebb Hardin's monopoly on water in the region.",
+    "releaseDate": "1943-06-18",
+    "runtime": 67
+  },
+  {
+    "id": 68097,
+    "title": "Mohawk",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "An artist working in a remote army post is juggling the storekeeper's daughter, his fiancée newly arrived from the east, and the Indian Chief's daughter. But when a vengeful settler manages to get the army and the braves at each other's throats his troubles really begin.",
+    "releaseDate": "1956-04-01",
+    "runtime": 79
+  },
+  {
+    "id": 27105,
+    "title": "Day of the Evil Gun",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Two men on a desperate search to save a woman only one of them could have!",
+    "releaseDate": "1968-03-01",
+    "runtime": 95
+  },
+  {
+    "id": 109500,
+    "title": "Dawn Rider",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A gripping story of vengeance and passion set in the American West. When the father of gunslinger John Mason (Slater) is shot to death by masked bandits, Mason sets out with guns blazing to track down those who killed him. During his quest, he finds himself involved in a grim love triangle when he falls for Alice, the determined and beautiful woman also adored by John’s best friend. Based on the timeless John Wayne adventure, Dawn Rider is a riveting saga of retribution, duty and valor in the American West.",
+    "releaseDate": "2012-05-29",
+    "runtime": 94
+  },
+  {
+    "id": 128606,
+    "title": "The Gun That Won the West",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "overview": "In the late 1880s, Colonel Carrington and his command are assigned the job of constructing a chain of forts in the Sious Indian territory of Wyoming. Carrington recruits former cavalry scouts Jim Bridger and \"Dakota Jack\" Gaines to lead the project. Bridger and Gaines are friendly with Sioux chief Red Cloud, and they feel a peace treaty with the Indians can be made. If an Indian-war breaks out, the cavalry is depending on getting a new type of Springfield rifle. Bridger, Gaines and Gaines wife, Maxine, arrive at the fort for the conference. Gaines, in a drunken fit, tries to intimidate the Indians unto signing a treaty. Chied Red Fox threatens war if his territory is invaded by any troops building forts.",
+    "releaseDate": "1955-09-01",
+    "runtime": 71
+  },
+  {
+    "id": 41608,
+    "title": "God Forgives... I Don't!",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "In this violent spaghetti western a murderous robber hijacks a payroll train, murders everyone aboard and then stashes his loot. A gunslinger learns about it and decides he wants the money for himself and so hatches an elaborate plot to get at it. He lures the crook into a rigged poker game, and afterward a gunfight ensues. The quick-drawing gunman makes short work of the robber, then teams up with an insurance agent to look for the hidden fortune. Unbeknownst to them, the robber had an ace up his sleeve...",
+    "releaseDate": "1967-10-31",
+    "runtime": 109
+  },
+  {
+    "id": 18450,
+    "title": "Zorro",
+    "genres": [
+      "Western",
+      "Comedy",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "A newly arrived governor finds his province under the control of the corrupt Colonel Huerta. To avoid assassination by Huerta, he pretends to be weak and indecisive so Huerta will believe he poses no threat. But secretly he masquerades as Zorro, and joins the monk Francisco and the beautiful aristocrat Hortensia in their fight for justice against Huerta and his soldiers.",
+    "releaseDate": "1975-03-06",
+    "runtime": 124
+  },
+  {
+    "id": 102949,
+    "title": "Alive or Preferably Dead",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Two brothers, Monty and Ted, will inherit $300,000 if they manage to live together for six months.",
+    "releaseDate": "1969-09-17",
+    "runtime": 101
+  },
+  {
+    "id": 63260,
+    "title": "The Return of Ringo",
+    "genres": [
+      "Drama",
+      "Action",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Once again billed as Montgomery Wood, Giuliano Gemma plays a civil war soldier who returns to his family land to find his family decimated, his property taken over by a family of Mexican bandits and his fiancee about to marry the Mexican gangster behind all this. Bent on revenge, he goes undercover disguised as a Mexican and discovers he has a daughter!",
+    "releaseDate": "1965-12-08",
+    "runtime": 95
+  },
+  {
+    "id": 56431,
+    "title": "A Pistol for Ringo",
+    "genres": [
+      "Western",
+      "Action",
+      "Drama"
+    ],
+    "overview": "Giuliano Gemma stars as a cool, cocky mercenary enlisted by a sheriff to infiltrate a ruthless gang of outlaws. Ennio Morricone provided the score to this early spaghetti western hit.",
+    "releaseDate": "1965-05-12",
+    "runtime": 98
+  },
+  {
+    "id": 129579,
+    "title": "Arizona Colt Returns",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "The rough and tough bounty hunter suddenly becomes the hunted when a $1,000 reward is put on his head for a stagecoach robbery he didn't commit in this action-packed sequel.",
+    "releaseDate": "1970-08-14",
+    "runtime": 0
+  },
+  {
+    "id": 95060,
+    "title": "Fort Massacre",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A cavalry troop finds itself under constant attack by Indians.",
+    "releaseDate": "1958-05-01",
+    "runtime": 80
+  },
+  {
+    "id": 42706,
+    "title": "Frank & Jesse",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "At the end of the Civil War, Frank and Jesse James and other former guerillas who rode with Quantrill and Bill Anderson take the oath of allegiance to the Union. Feeling oppressed by Chicago railroad investors, the James and Younger brothers, Bob and Charlie Ford, Clell Miller and Arch Clements take to robbing banks, trains and coaches, with Pinkerton sworn to bringing them to justice.",
+    "releaseDate": "1995-04-22",
+    "runtime": 105
+  },
+  {
+    "id": 52916,
+    "title": "Sabata",
+    "genres": [
+      "Action",
+      "Foreign",
+      "Western"
+    ],
+    "overview": "Several pillars of society have robbed an Army safe containing $100,000 so they can buy the land upon which the coming railroad will be built. But they haven't reckoned on the presence of the master gunslinger, Sabata.",
+    "releaseDate": "1969-09-16",
+    "runtime": 111
+  },
+  {
+    "id": 108789,
+    "title": "Hate Thy Neighbor",
+    "genres": [
+      "Western",
+      "Action",
+      "Drama"
+    ],
+    "overview": "Ken Dakota's search for the murderer of his brother, killed by bandit Gary Stevens, at the behest of land owner Chris Malone.  Dakota attempts to bring the men responsible for his brothers death to justice.",
+    "releaseDate": "1968-07-26",
+    "runtime": 86
+  },
+  {
+    "id": 48409,
+    "title": "The Hangman",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A marshal nicknamed \"The Hangman\" because of his track record in hunting down and capturing wanted criminals traces a robbery suspect to a small town. However, the man is known and liked in the town, and the citizens band together to try to help him avoid capture.",
+    "releaseDate": "1959-06-17",
+    "runtime": 87
+  },
+  {
+    "id": 49776,
+    "title": "Stay Away, Joe",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Joe Lightcloud persuades his Congressman to give him 20 heifers and a prize bull so he and his father, Charlie, can prove that the Navajos can successfully raise cattle on the reservation. If their experiment is successful, then the government will help all the Navajo people. But Joe's friend, Bronc Hoverty, accidentally barbecues the prize bull, while Joe sells the heifers to buy plumbing and other home improvements for his stepmother.",
+    "releaseDate": "1968-03-08",
+    "runtime": 102
+  },
+  {
+    "id": 11496,
+    "title": "They Call Me Renegade",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "While on his travel across the Southwestern United States, with his Jeep CJ Renegade and his chestnut colt named Joe Brown, Luke meets Matt, son of a friend of his, Moose, who is in jail. Moose asks Luke to take care of Matt, and to help him to take possession of a piece of land. So starts their travel, full of adventures...",
+    "releaseDate": "1987-10-30",
+    "runtime": 92
+  },
+  {
+    "id": 54164,
+    "title": "Man of the East",
+    "genres": [
+      "Comedy",
+      "Western",
+      "Action"
+    ],
+    "overview": "By his dying father's last wish Joe is sent to the Wild West to become a real guy. The dreamy young man despises guns and fights likes poems and prefers bicycles to horses. Now his three teachers footpads all of them shall teach him otherwise. This doesn't work until Joe has to defend himself against gunman Morton who's jealous of Joe's love to rancher Ohlsen's beautiful daughter.",
+    "releaseDate": "1972-09-28",
+    "runtime": 115
+  },
+  {
+    "id": 42703,
+    "title": "The Way West",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "In the mid-19th century, Senator William J. Tadlock leads a group of settlers overland in a quest to start a new settlement in the Western US. Tadlock is a highly principled and demanding taskmaster who is as hard on himself as he is on those who have joined his wagon train. He clashes with one of the new settlers, Lije Evans, who doesn't quite appreciate Tadlock's ways. Along the way, the families must face death and heartbreak and a sampling of frontier justice when one of them accidentally kills a young Indian boy.",
+    "releaseDate": "1967-05-24",
+    "runtime": 122
+  },
+  {
+    "id": 84905,
+    "title": "Somewhere in Sonora",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "John Bishop discovers a plot to rob a silver mine belonging to his girlfriend Mary's father and, to foil the evildoers, he joins them.",
+    "releaseDate": "1933-05-27",
+    "runtime": 59
+  },
+  {
+    "id": 44766,
+    "title": "The Law and Jake Wade",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Jake Wade breaks Cling Hollister out of jail to pay off an old debt, though it's clear there is some pretty deep hostility between them. They part, and Jake returns to his small-town marshal's job and his fiancée only to find he has been tracked there by Hollister. It seems they were once in a gang together and Jake knows where the proceeds of a bank hold-up are hidden. Hollister and his sidekicks make off into the hills, taking along the trussed-up marshal and his kidnapped bride-to-be to force the lawman to show them where the loot is.",
+    "releaseDate": "1958-06-06",
+    "runtime": 86
+  },
+  {
+    "id": 57258,
+    "title": "The Indian Fighter",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "overview": "A scout leading a wagon train through hostile Indian country unwittingly gets involved with a Sioux chief's daughter",
+    "releaseDate": "1955-12-21",
+    "runtime": 88
+  },
+  {
+    "id": 67659,
+    "title": "Guns for San Sebastian",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Leon Alastray is an outlaw who has been given sanctuary by Father John, whom he then escorts to the village of San Sebastian. The village is deserted, with its cowardly residents hiding in the hills from Indians, who regularly attack the village and steal all their supplies. When Father John is murdered, the villagers mistakenly think the outlaw is the priest. Alastray at first tells them he is not a priest, but they don't believe it, and an apparent miracle seems to prove they are correct. Eventually, he assists them in regaining their confidence and defending themselves.",
+    "releaseDate": "1968-03-20",
+    "runtime": 111
+  },
+  {
+    "id": 84906,
+    "title": "The Telegraph Trail",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A greedy businessman-turned-renegade foments an Indian uprising against the coming telegraph to perpetuate his economic stranglehold on the territory.",
+    "releaseDate": "1933-03-18",
+    "runtime": 54
+  },
+  {
+    "id": 16997,
+    "title": "The Man Who Came Back",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Framed for murder and left for dead, a local legend comes back to make the guilty pay as he seeks revenge on those who killed his family, in this traditional Western about one man who stood against injustice.",
+    "releaseDate": "2008-02-08",
+    "runtime": 122
+  },
+  {
+    "id": 128598,
+    "title": "Left for Dead",
+    "genres": [
+      "Western",
+      "Action",
+      "Horror"
+    ],
+    "overview": "Set in Mexico, Left For Dead is a bloody and sick dream ... A spaghetti western in terror. A desperate criminal will be caught in the ghost town of Amnesty alongside a vengeful demon ...",
+    "releaseDate": "2007-03-04",
+    "runtime": 84
+  },
+  {
+    "id": 32560,
+    "title": "Rio Conchos",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Two Army officers, an alcoholic ex-Confederate soldier and a womanizing Mexican travel to Mexico on a secret mission to prevent a megalomaniacal ex-Confederate colonel from selling a cache of stolen rifles to a band of murderous Apaches.",
+    "releaseDate": "1964-10-28",
+    "runtime": 107
+  },
+  {
+    "id": 55150,
+    "title": "Invitation to a Gunfighter",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "When Confederate soldier Matt Weaver returns to town after the Civil War, he finds that his home has been sold by town boss Sam Brewster. Brewster hires gunfighter Jules Gaspard d'Estaing to deal with Weaver, but d'Estaing's independent approach settles the town's problems in a very unorthodox manner.",
+    "releaseDate": "1964-10-14",
+    "runtime": 92
+  },
+  {
+    "id": 73832,
+    "title": "The Ugly Ones",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Escaped outlaw Jose Gomez returns to his home town pursued by bounty killer Luke Chilson. The towns people protect Gomez, unaware, at first, that he is now a changed and dangerous man.",
+    "releaseDate": "1966-11-04",
+    "runtime": 95
+  },
+  {
+    "id": 118443,
+    "title": "Nothing Too Good for a Cowboy",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western",
+      "Romance"
+    ],
+    "overview": "A group of young adults struggle to run the biggest cattle ranch in the world amidst World War II.",
+    "releaseDate": "1998-01-04",
+    "runtime": 92
+  },
+  {
+    "id": 69495,
+    "title": "Lone Rider",
+    "genres": [
+      "TV Movie",
+      "Action",
+      "Western"
+    ],
+    "overview": "Bobby Hattaway (Lou Diamond Phillips), an honored soldier, returns home after the American Civil War to find his father's (Stacy Keach) formerly prosperous ranch now dangerously in debt to the town's ruthless leader, and Bobby's childhood friend, Stu Croker (Vincent Spano). Bobby will now face off against his former friend to take control from Stu.",
+    "releaseDate": "2008-04-08",
+    "runtime": 82
+  },
+  {
+    "id": 90720,
+    "title": "The Hellbenders",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "The Civil War has ended, but not for Jonas, a ruthless Confederate officer who wants to continue the fight by reorganizing Confederate troops in the Southwest with the support of a large sum of stolen money. He devises an elaborate ruse to allow his small party to travel with minimal scrutiny through hostile territory, for the money is hidden in a coffin said to contain the body of his dead son. Jonas' other sons travel with him along with a hired \"widow\", as they proceed to what they hope to be a new start to the War between the States. However, while en route, they face severe, ongoing strife among themselves and successive threats from Union soldiers, a posse of cowboys, and an Indian war party.",
+    "releaseDate": "1967-02-02",
+    "runtime": 90
+  },
+  {
+    "id": 41468,
+    "title": "Last of the Comanches",
+    "genres": [
+      "Western",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "It's 1876 and all the Indians are at peace except the Comanches lead by Black Cloud. When Black Cloud wipes out a town, only six soldiers are left and they head for the nearest fort. In the desert they are reinforced by members of a stagecoach and find some water at a deserted mission. Pinned down by Black Cloud they send an Indian boy who was Black Cloud's prisoner on to the fort while they try to bargain with Black Cloud whom they learn is without water.",
+    "releaseDate": "1953-02-01",
+    "runtime": 85
+  },
+  {
+    "id": 82418,
+    "title": "Outlaw Justice",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "In the tradition of THE WILD BUNCH and THE MAGNIFICENT SEVEN comes this fast paced, action filled western with unforgettable performances by an all star cast: Kris Kristofferson, Willie Nelson, Travis Tritt and Waylon Jennings. All hell breaks loose in this riveting story when a group of former outlaws with bad attitudes teams up to catch a killer with murder and revenge on his mind. After Tobey(Jennings), a retired member of the group, is brutally gunned down by a former member and killer, Clinton Reese, our band of reformed gunslingers, Lee (Nelson, Tarence (Kristofferson), and Dalton (Tritt), sets out on Clinton's Trail. They are joined by Tobeys reluctatant young son Bryce (Willett).",
+    "releaseDate": "1999-01-24",
+    "runtime": 96
+  },
+  {
+    "id": 72471,
+    "title": "Thunder Over the Plains",
+    "genres": [
+      "Western",
+      "Action",
+      "War",
+      "Romance"
+    ],
+    "overview": "Set in 1869, after the Civil War, Texas had not yet been readmitted to the Union and carpetbaggers, hiding behind the legal protection of the Union Army of occupation, had taken over the state. Federal Captain Porter (Randolph Scott), a Texan, has to carry out orders against his own people. He brings in the rebel leader Ben Westman, (Charles McGraw), whom he knows is innocent of a murder that he is accused of. In trying to prove his innocence, Porter himself becomes a wanted man.",
+    "releaseDate": "1953-10-27",
+    "runtime": 82
+  },
+  {
+    "id": 95019,
+    "title": "The Hills Run Red",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "After the Civil War ends, two soldiers return home with a cache of stolen money. They are caught by Union troops. One escapes, but the other is sent to prison for five years. When he gets out and goes home, he finds that his wife has died in poverty because his partner kept all the money, and is now a major power in the area with an army of deadly gunmen to back him up.",
+    "releaseDate": "1966-09-09",
+    "runtime": 89
+  },
+  {
+    "id": 82970,
+    "title": "Ride Him, Cowboy",
+    "genres": [
+      "Action",
+      "Western",
+      "Romance"
+    ],
+    "overview": "John Drury saves Duke, a wild horse accused of murder, and trains him. When he discovers that the real murderer, a bad guy known as The Hawk, is the town's leading citizen, Drury arrested on a fraudulent charge.",
+    "releaseDate": "1932-08-27",
+    "runtime": 55
+  },
+  {
+    "id": 184129,
+    "title": "Return of the Bad Men",
+    "genres": [
+      "Drama",
+      "Western",
+      "Action"
+    ],
+    "overview": "The success of 1947's Badman's Territory prompted RKO Radio to assemble another \"outlaw rally,\" Return of the Badmen. Randolph Scott plays US marshal Vance, assigned to rid the Oklahoma Territory of outlaws. This proves to be quite a challenge, inasmuch as virtually every frontier bad guy has converged upon the territory. Led by the surly Sundance Kid (Robert Ryan), the rogue's gallery includes the Younger Brothers (Steve Brodie, Richard Powers, Robert Bray), the Daltons (Lex Barker, Walter Reed, Michael Harvey) and Billy the Kid (Dean White). For all the formidable villainy, the film's most fascinating conflict develops between the two heroines: feisty Cheyenne (Anne Jeffreys) and prim 'n' proper Madge Allen (Jacqueline White).",
+    "releaseDate": "1948-07-17",
+    "runtime": 90
+  },
+  {
+    "id": 95012,
+    "title": "The Iron Mistress",
+    "genres": [
+      "History",
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "Barely historical presentation of the life of Jim Bowie. Here he goes to New Orleans to sell lumber but falls in love with Judalon. To match his rivals he must become sophisticated and does so. By the time he sells the mill, starts a plantation and tries to wed Jedualon the woman has wed playboy Phillipe. Along the way to true wisdom he designs a special knife made from part of a meteorite.",
+    "releaseDate": "1952-11-19",
+    "runtime": 110
+  },
+  {
+    "id": 16926,
+    "title": "Prairie Fever",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A group of women contracted a strange fever and a former sheriff is responsible for taking them to the hospital in the nearest town, but in their way they will encounter a gang of murderers. His only hope is a woman whose beauty is matched only by his skill with weapons.",
+    "releaseDate": "2008-03-29",
+    "runtime": 81
+  },
+  {
+    "id": 98549,
+    "title": "The Legend of Hell's Gate: An American Conspiracy",
+    "genres": [
+      "Action",
+      "Adventure",
+      "History",
+      "Western"
+    ],
+    "overview": "In 1870s Texas, a ruthless bounty hunter and an Irish desperado flee the law with a young criminal claiming to possess a treasure more valuable than gold. Crossing paths with some of the West’s most notorious figures, the three outlaws fight for their lives in the pursuit of fame and fortune. Fueled by an ensemble cast and inspired by actual events, THE LEGEND OF HELL’S GATE blends legend and history into a Western spectacle that recounts a treacherous existence in post Civil War Texas.",
+    "releaseDate": "2011-03-03",
+    "runtime": 108
+  },
+  {
+    "id": 37294,
+    "title": "Station West",
+    "genres": [
+      "Romance",
+      "Western",
+      "Action",
+      "Mystery"
+    ],
+    "overview": "Dick Powell is a stranger in town battling Raymond Burr... with only Jane Greer on his side.",
+    "releaseDate": "1948-10-16",
+    "runtime": 87
+  },
+  {
+    "id": 44697,
+    "title": "Take a Hard Ride",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "After his cattle rancher boss dies, right-hand man Pike is given the job of returning $86,000 to some families who live across the border in Senora, Mexico. Honest Pike is joined on the trip through the wilderness by a dishonest gambler named Tyree",
+    "releaseDate": "1975-10-29",
+    "runtime": 103
+  },
+  {
+    "id": 67328,
+    "title": "The Gundown",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Seeking revenge and justice, Cole Brandt finds himself in the lawless town of Dead River where he is faced with one last bloody showdown for freedom in order to protect The Majestic Saloon and a beautiful woman.",
+    "releaseDate": "2011-09-12",
+    "runtime": 97
+  },
+  {
+    "id": 46562,
+    "title": "The Last Rites of Ransom Pride",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "When Juliette (Lizzy Caplan) sets out to bring her slain lover -- outlaw Ransom Pride -- home to Texas to be buried, she knows the journey won't be easy, but she has little idea of the dangers that lie ahead in this dark Western drama. The film's cast includes Scott Speedman as the murdered bad boy, Dwight Yoakam as a homicidal reverend, Kris Kristofferson as a rival outlaw, and Jason Priestley and W. Earl Brown as a pair of bounty hunters.",
+    "releaseDate": "2010-06-17",
+    "runtime": 83
+  },
+  {
+    "id": 86472,
+    "title": "A Long Ride from Hell",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Mike Sturges and his younger brother, Roy, are sentenced to Yuma Penitentiary on a trumped-up train robbery charge. Both endure cruel treatment before Mike escapes to extract revenge on their enemies.",
+    "releaseDate": "1968-04-05",
+    "runtime": 95
+  },
+  {
+    "id": 149690,
+    "title": "The Deserter",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A young cavalry officer finds his woman tortured by the Apaches and blames the Army for not properly protecting the outpost, so becomes a deserter and an avenger, stalking and killing Indians without warning.",
+    "releaseDate": "1970-12-04",
+    "runtime": 104
+  },
+  {
+    "id": 92690,
+    "title": "¡Mátalo!",
+    "genres": [
+      "Thriller",
+      "Western",
+      "Action",
+      "Drama"
+    ],
+    "overview": "A gang of cattle thieves rescue a criminal from the gallows, and later rob a stagecoach loaded with gold. When they get the loot, he is betrayed and left dying in the middle of the desert. In the escape they reach a mysterious ghost town, where they perceive there is something strange about ...",
+    "releaseDate": "1970-10-22",
+    "runtime": 100
+  },
+  {
+    "id": 73984,
+    "title": "Chino",
+    "genres": [
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "Chino Valdez is a loner horse breeder living in the old west. Partly a loner by choice, and partly because, being a 'half-breed', he finds himself unwelcome almost everywhere he goes. One day, a young runaway named Jimmy shows up at his door looking for work and a roof over his head. Reluctantly, Chino agrees to take him in and teach him the art of raising, breaking and breeding horses, until the pair finally begin to accept each other.",
+    "releaseDate": "1973-09-14",
+    "runtime": 98
+  },
+  {
+    "id": 107625,
+    "title": "The Proud Ones",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Robert Ryan plays an aging sheriff responsible for law and order in a frontier cattle town. Virginia Mayo plays his fiancee. As if handling wild cattle drovers isn't enough, a crooked casino operator from Ryan's past comes to town. An early scuffle in the casino leaves Ryan with vision problems that interfere with his duties. Jeffrey Hunter who came to town with a cattle drive encounters Ryan, who killed Hunter's father when Hunter was young. Feelings of animosity soon change as Hunter begins to sense Ryan is telling the truth about his father. What follows is a plot that continues to thicken to the inevitable showdown.",
+    "releaseDate": "1956-05-15",
+    "runtime": 94
+  },
+  {
+    "id": 50953,
+    "title": "The Great Scout & Cathouse Thursday",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "overview": "Sam Longwood, a frontiersman who has seen better days, spies the gold-mine partner, Jack Colby, who ran off with all the gold from a mine they were prospecting fifteen years earlier. He tells his other partners from that time, Joe Knox and Billy, and they confront Colby demanding not only the thousand dollars he took but an addition fifty-nine thousand for their trouble. After being thwarted in this attempt, they, and a would-be whore named Thursday, hatch a plan to kidnap Colby's wife, Nancy Sue, who is coincidently Sam's old flame, but find that Nancy Sue is not the sweet girl that Sam remembers.",
+    "releaseDate": "1976-06-23",
+    "runtime": 102
+  },
+  {
+    "id": 90015,
+    "title": "Bandidos",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "Renowned gunman Richard Martin is traveling on a train, held up by Billy Kane, a former student of Martin's. Kane spares Martin, but only after shooting his hands. Years later, Martin meets an escaped convict, wrongly convicted for the train robbery. Martin trains his new student and both men seek out Billy Kane.",
+    "releaseDate": "1967-10-15",
+    "runtime": 95
+  },
+  {
+    "id": 66055,
+    "title": "Shoot the Living and Pray for the Dead",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Dan Hogan and his gang have held up a bank for $100,000 in gold bars. They meet up at Jackal's Ranch, a weigh station for stage coaches. While waiting for the gold to arrive they encounter a stranger, John Webb, who wants half the gold in exchange for guiding them safely to Mexico. Reluctantly, Dan agrees and they set across the brutal desert for a race to the border with the Rangers hot on their tail. Is John who he says he is? Is he really after the gold or does he have an ulterior motive?",
+    "releaseDate": "1971-08-13",
+    "runtime": 90
+  },
+  {
+    "id": 79683,
+    "title": "Bad Man's River",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Robber Roy King loses his wife, Alicia, to revolutionary Montero. Despite their rivalry they collaborate in an attempt to rob the Mexican government of one million dollars.",
+    "releaseDate": "1971-12-03",
+    "runtime": 92
+  },
+  {
+    "id": 141978,
+    "title": "They Rode West",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "Dr. Allen Seward (Robert Francis) is assigned to a western cavalry post where his predecessors had been drunks and slackers. The post doesn't take kindly to him either, especially after he disregards regulations and tends to sick Indians on the malaria-infested reservation. The Indians break away from the reservation to move to a healthier higher ground, and when they join with the Comanches to besiege the fort, Seward is branded as a \"woodhawk\", the bird that turns against its own. Donna Reed is present as the niece of the post commander; Phil Carey is a cavalry captain that believes the only good Indian is a dead Indian, and May Wynn (who shared a screen debut with Francis in \"The Caine Mutiny)is the white girl raised by the Indians and married to the chief's son. Francis would make only two more films before being killed in a 1955 plane crash.",
+    "releaseDate": "1954-12-04",
+    "runtime": 84
+  },
+  {
+    "id": 130100,
+    "title": "The Brass Legend",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "During a ride with his new pony Sinoya, the young Clay Gibson by chance finds the secret housing of the multiple murderer Tris Hatten. He reports immediately to Sheriff Adams, who strongly recommends him not to tell anybody about it. Unfortunately Clay talks to his father nevertheless. He believes Adams just wanted fame and reward for himself and accuses him in the newspaper. Thereby he endangers his son, who's now targeted by a killer which Tris' girlfriend Winnie hired for revenge. Written by Tom Zoerner",
+    "releaseDate": "1956-12-01",
+    "runtime": 79
+  },
+  {
+    "id": 20893,
+    "title": "Shadowheart",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "James Conners comes home to the town of Legend, New Mexico in 1865 to avenge his fathers death against the ruthless Will Tunney. Along the way he re-captures his long lost love Mary Cooper. With the chance to take Will Tunney he must choose revenge or redemption.",
+    "releaseDate": "2009-08-04",
+    "runtime": 114
+  },
+  {
+    "id": 127475,
+    "title": "The Revengers",
+    "genres": [
+      "Action",
+      "Western",
+      "Crime"
+    ],
+    "overview": "The life of peaceful rancher John Benedict is torn apart when his family is massacred by a gang of marauding outlaws and his farm is destroyed. He assembles a team of mean, lawless convicts to act as his posse as he pursues the gang responsible for the deaths of his loved ones.",
+    "releaseDate": "1972-06-21",
+    "runtime": 106
+  },
+  {
+    "id": 134693,
+    "title": "Heathens and Thieves",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Lawmen, drifters, and hired guns converge at a Northern California ranch believing its Chinese owners possess stolen gold.  When two drifters hear rumors that a Chinese railroad worker has escaped with gold and now owns a remote ranch in the wilds of Northern California, the desperate men set a plan in motion to steal the gold for themselves. Saul, the youngest of the drifters, hopes to win the affections of Zhen and his beautiful wife, Kun Hua. Saul hires on as a farmhand, while his partner Bill lurks in the shadows and waits for the opportunity to strike. However, waves of worse men arrive seeking the stolen fortune, setting in motion a deadly multi-sided face-off of bluffs, gambles, and betrayals.  Heathens &amp; Thieves is a western crime drama set in an American era when the riches associated with the 1849 Gold Rush, the fallout of the Civil War, and the impact of Chinese immigration were fresh in people's minds.",
+    "releaseDate": "2012-08-01",
+    "runtime": 0
+  },
+  {
+    "id": 46443,
+    "title": "Django, Prepare a Coffin",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "A mysterious gunfighter named Django is employed by a local crooked political boss as a hangman to execute innocent locals framed by the boss, who wants their land. What the boss doesn't know is that Django isn't hanging the men at all, just making it look like he is, and using the men he saves from the gallows to build up his own \"gang\" in order to take revenge on the boss, who, with Django's former best friend, caused the death of his wife years before.",
+    "releaseDate": "1968-01-27",
+    "runtime": 92
+  },
+  {
+    "id": 43351,
+    "title": "Pony Express",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Buffalo Bill and Wild Bill Hickok join forces to establish a mail route that can get mail from St. Joseph, Missouri, to Sacramento, California, in ten days. Along the way they must battle bad weather, hostile Indians and outlaws intent on robbing the mail and shutting down the entire operation.",
+    "releaseDate": "1953-01-01",
+    "runtime": 101
+  },
+  {
+    "id": 20333,
+    "title": "The Last Outlaw",
+    "genres": [
+      "TV Movie",
+      "Action",
+      "Western"
+    ],
+    "overview": "The story follows a band of former Confederate soldiers who were part of a cavalry unit. Their commander, Graff (Rourke) had once been a heroic and staunch supporter of the southern cause, but after losing his family he became cold hearted and ruthless. His second in command is Eustis (Mulroney), whom Graff has trained on the strategies of leadership and combat command.",
+    "releaseDate": "1993-10-30",
+    "runtime": 93
+  },
+  {
+    "id": 37307,
+    "title": "Conagher",
+    "genres": [
+      "Action",
+      "Western",
+      "Romance"
+    ],
+    "overview": "Mrs. Evie Teale is struggling to stay alive while raising her two children alone on a remote homestead. Conn Conagher is a honest, hardworking cowboy. Their lives are intertwined as they fight the elements, indians, outlaws, and loneliness.",
+    "releaseDate": "1991-07-01",
+    "runtime": 94
+  },
+  {
+    "id": 42685,
+    "title": "The Stalking Moon",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "When an army scout retires to a farm in New Mexico he takes pity on a white woman and her half-breed son recently rescued from indians, and invites them to join him. He does this even knowing the child's father is a feared and murderous Apache and that sooner or later a showdown is almost inevitable.`",
+    "releaseDate": "1968-12-25",
+    "runtime": 109
+  },
+  {
+    "id": 112672,
+    "title": "Ambush at Cimarron Pass",
+    "genres": [
+      "Action",
+      "War",
+      "Western"
+    ],
+    "overview": "A small Army patrol unit and a couple of former Confederates reluctantly throw in their lot together after being attacked by a band of Native Americans.",
+    "releaseDate": "1958-03-01",
+    "runtime": 73
+  },
+  {
+    "id": 262514,
+    "title": "The Bodyguard",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "The setting is Central Asia during the Russian civil war. In the post-revolutionary twenties, when the power in European Russia was (officially) \"fully in the hands of the workers and peasants\", but the fight against the Basmachi rebels was in full swing. When a Red Army detachment captures Sultan Mazar, the brains behind the Bazmachi contingent, a decision is made to escort urgently the prisoner to the Bukhara province. The difficult mission is entrusted to a grizzled mountain trapper and conscientious revolutionary called Mirzo. His expertise is essential to traverse the precarious paths and steep mountain ridges along the way, impossible terrain for the inexperienced. A group consisting of Mirzo, his brother Kova, the Sultan, his daughter Zaranghis and slave Saifulla set off on this journey. They are forced to fight on the mountain ridges as well as negotiate the natural dangers and harsh elements.",
+    "releaseDate": "1979-01-01",
+    "runtime": 90
+  },
+  {
+    "id": 18688,
+    "title": "Charro!",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western"
+    ],
+    "overview": "Jess Wade is innocently accused of having stolen a cannon from the Mexican revolutionary forces. He tries to find the real culprits, a gang of criminals.",
+    "releaseDate": "1969-03-13",
+    "runtime": 98
+  },
+  {
+    "id": 82313,
+    "title": "Shoot First And Pray You Live",
+    "genres": [
+      "Adventure",
+      "Western",
+      "Action"
+    ],
+    "overview": "Tale of vengeance -- outlaw style -- as Red Pierre hunts down legendary gunman Bob McGurk to avenge the murder of his Mother and Father",
+    "releaseDate": "2008-12-04",
+    "runtime": 110
+  },
+  {
+    "id": 126415,
+    "title": "Pride and Vengeance",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "overview": "A Spanish army officer, Don Jose (Nero), stationed in Seville, meets and begins a relationship with a mysterious gypsy, Carmen (Aumont). After he discovers she has cheated on him with his Lieutenant, he kills the officer and flees the city with Carmen. He recovers from his wounds and is forced to begin the life of a bandit.",
+    "releaseDate": "1967-12-22",
+    "runtime": 100
+  },
+  {
+    "id": 91060,
+    "title": "Johnny Yuma",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "Infidelity, murder, and betrayal lies at the center of this violent Spaghetti western. A scheming wife does away with her husband, causing the man's heir to seek revenge. A number of double-crosses and bloody gun battles follow, eventually driving the woman to flee into the desert.",
+    "releaseDate": "1966-08-11",
+    "runtime": 100
+  },
+  {
+    "id": 77165,
+    "title": "And God Said to Cain",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Western",
+      "Action"
+    ],
+    "overview": "An innocent man sentenced to ten years in prison for a crime he did not commit, is released from jail, promising to seek revenge on the guilty.",
+    "releaseDate": "1970-02-05",
+    "runtime": 93
+  },
+  {
+    "id": 65586,
+    "title": "Davy Crockett, Indian Scout",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "It's 1848 and a wagon train with an Army escort is heading west through Indian territory, It's scout is Davy Crockett, nephew of his more famous namesake. There is spy amongst them informing the Indians. They survive the first Indian attack and then push on. They have a choice of two passes through the mountains. Learing of the pass to be defended by the Indians, they head for the other. But upon ariving, the Indians attack. Somehow they have been informed.",
+    "releaseDate": "1950-01-06",
+    "runtime": 71
+  },
+  {
+    "id": 362046,
+    "title": "4Got10",
+    "genres": [
+      "Western",
+      "Action",
+      "Thriller"
+    ],
+    "overview": "Brian Barnes (Johnny Messner) wakes up in the desert wounded and with no memory and no idea why he's surrounded by eight bodies, a van with four million in cash and a van full of cocaine. Brian is pursued by not only notorious drug lord Danny Perez (Danny Trejo) who desperately want his money back, and DEA Agent Rooker (Dolph Lundgren), but also a by the corrupt Sheriff Olson (Michael Pare) who will stop at nothing to get his hand on the new found fortune. On the run, Brian discovers the more he remembers the less he wants to know about who he really is.",
+    "releaseDate": "2015-09-11",
+    "runtime": 84
+  },
+  {
+    "id": 18447,
+    "title": "The Young Land",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "An American gunslinger kills a Mexican man in California immediately after the Mexican-American war. The killer is arrested and put on trial for murder with the Hispanic population waiting to learn of American justice.",
+    "releaseDate": "1959-05-01",
+    "runtime": 89
+  },
+  {
+    "id": 42326,
+    "title": "They Died with Their Boots On",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Young boy who sees his father gunned down kills the assassin. Years later, he has grown up to be a successful bounty hunter who is feared by many. And then one day he discovers secrets to his past...",
+    "releaseDate": "1978-04-20",
+    "runtime": 100
+  },
+  {
+    "id": 85648,
+    "title": "Showdown",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "Two men who have been friends since childhood find themselves on opposite ends of the law.",
+    "releaseDate": "1973-06-20",
+    "runtime": 99
+  },
+  {
+    "id": 60836,
+    "title": "Wild Times",
+    "genres": [
+      "Western",
+      "Drama",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "A sharpshooting saddle tramp (Hugh Cardiff) with a price on his head falls for the daughter (Libby) of a wealthy ranch owner. He vows to win enough money in shooting contests to win her father's approval, but when he returns years later, he finds she has married another man who is jealous of her affections. The husband (Vern) tries to have a murder warrant served on the drifter; shoots him in the back and hires a gambler to murder the man. None of these attempts on the drifter's life kills Cardiff. When the Libby leaves Vern, he goes gunning for the drifter, now the star of a Wild West show.",
+    "releaseDate": "1980-01-24",
+    "runtime": 195
+  },
+  {
+    "id": 42764,
+    "title": "Jonathan of the Bears",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A young boy witnesses his parents' murder. Later, as he grows up, he befriends a bear in the wilderness and the chief of a local Indian tribe, and he stays with the Indians, but makes an enemy of the chief's son. As he enters adulthood he sets out to find the men responsible for his parents' deaths",
+    "releaseDate": "1995-04-21",
+    "runtime": 115
+  },
+  {
+    "id": 22359,
+    "title": "Any Gun Can Play",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "Any Gun Can Play (Italian: Vado... l'ammazzo e torno) is a 1967 spaghetti western starring Gilbert Roland, Edd Byrnes and George Hilton. The film is directed by Enzo G. Castellari and features a score by Francesco De Masi and Alessandro Alessandroni. It follows a familiar pattern of protagonists searching for gold, double-crossing one another and a high body count. The three main characters continually change allegiances and get the upper hand only to be thwarted by fellow outlaws, mysterious insurance investigators and each other. In the opening scene one of the three outlaws is dressed very similar to Clint Eastwood's character in the \"Dollars\" trilogy, one is dressed as Lee Van Cleef's characters in those and other westerns, and one as Franco Nero's character Django.",
+    "releaseDate": "1967-09-26",
+    "runtime": 103
+  },
+  {
+    "id": 102288,
+    "title": "Johnny Reno",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "The townsfolk are set on lynching an accused killer held in the town lockup. But US Marshal Johnny Reno stands in their way.",
+    "releaseDate": "1966-03-09",
+    "runtime": 83
+  },
+  {
+    "id": 174751,
+    "title": "Jane Got a Gun",
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "After her outlaw husband returns home shot with eight bullets and barely alive, Jane reluctantly reaches out to an ex-lover who she hasn't seen in over ten years to help her defend her farm when the time comes that her husband's gang eventually tracks him down to finish the job.",
+    "releaseDate": "2016-01-01",
+    "runtime": 98
+  },
+  {
+    "id": 362703,
+    "title": "Diablo",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A young civil war veteran is forced on a desperate journey to save his kidnapped wife.",
+    "releaseDate": "2016-01-08",
+    "runtime": 83
+  },
+  {
+    "id": 95838,
+    "title": "Blood for a Silver Dollar",
+    "genres": [
+      "Western",
+      "Action",
+      "Romance"
+    ],
+    "overview": "Two brothers part company only to be reunited when one is hired to stop a thief who turns out to be his sibling.",
+    "releaseDate": "1965-08-08",
+    "runtime": 99
+  },
+  {
+    "id": 112570,
+    "title": "Wanted",
+    "genres": [
+      "Drama",
+      "Western",
+      "Romance",
+      "Action"
+    ],
+    "overview": "Giuliano Gemma, elected sheriff by his small town, is unjustly accused of murder and forced to flee. The man behind the false charge is a lurid figure who leads a band of cattle rustlers. Our hero tries to prove his innocence by getting rid of his enemies one by one. -From http://www.spaghetti-western.net",
+    "releaseDate": "1967-03-22",
+    "runtime": 104
+  },
+  {
+    "id": 41988,
+    "title": "DC Showcase: Jonah Hex",
+    "genres": [
+      "Animation",
+      "Action",
+      "Western"
+    ],
+    "overview": "When a ruthless brothel madame murders Jonah Hex's current quarry, the disfigured bounty hunter plans to make her pay.",
+    "releaseDate": "2010-07-27",
+    "runtime": 12
+  },
+  {
+    "id": 125673,
+    "title": "The Battle at Elderbush Gulch",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Two young girls are sent away to live with their uncle, which sets off a chain of events resulting in an Indian attack on the town",
+    "releaseDate": "1913-01-01",
+    "runtime": 29
+  },
+  {
+    "id": 73896,
+    "title": "Apache Drums",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A gambler is thrown out of a western town, but returns when the town is suddenly threatened by a band of marauding Apaches.",
+    "releaseDate": "1951-04-01",
+    "runtime": 75
+  },
+  {
+    "id": 109456,
+    "title": "Coffin Full of Dollars",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "There's a frontier feud on the border of Mexico. Outlaw Hagen's brothers have been killed by Nevada's Kid's family.",
+    "releaseDate": "1971-04-01",
+    "runtime": 91
+  },
+  {
+    "id": 79192,
+    "title": "Apache Vengeance",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "A woman tracks down the three men who raped her, helped by an Apache. Traveling through the Old West to her new home, young schoolteacher Alice McAndrew is abducted by five outlaws headed by robber Pudge Elliott. The thugs rape Alice before leaving her for dead, but she is rescued by Chatto, an Apache chief. He restores her health and aids her in her bloodthirsty quest for revenge. With her sanity wavering, will Alice be able to find the men who tortured her?",
+    "releaseDate": "1971-10-01",
+    "runtime": 86
+  },
+  {
+    "id": 52593,
+    "title": "Home in Oklahoma",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "In this Roy Rogers entry, featuring a song written by Oklahoma Governor Roy J. Turner (making him and Lousiania's Jimmie Davis and Texas' W.E. \"Pappy\" O'Daniel possibly the only state governors to write songs used in a western), Flying U ranch owner Sam Talbot is killed by a fall from a horse. St. Louis reporter Connie Edwards comes to check a rumor that he might have been murdered. She goes to Roy Rogers, editor of the local newspaper, and he takes her to the reading of Talbot's will. The ranch is left to Talbot's 12-year-old ward, Duke Lowery, much to the dismay of Talbot's niece, Jan Holloway. After some attempts on Duke's life, Roy finally proves that Jan, Steve McClory and coroner Jim Judnick had Talbot killed and are conspiring to do the same for Duke, making Jan the last heir.",
+    "releaseDate": "1946-10-18",
+    "runtime": 72
+  },
+  {
+    "id": 88949,
+    "title": "A Bullet for Sandoval",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "After his girlfriend dies in childbirth, Confederate deserter John Warner (George Hilton) travels to Mexico, where the woman's father, Don Pedro Sandoval (Ernest Borgnine), grudgingly hands over his child. But with no locals willing to provide milk, the baby dies. Rounding up a group of rebels, Warner goes on a rampage through northern Mexico, with the ultimate goal of taking down Sandoval in this gritty Western.",
+    "releaseDate": "1969-08-19",
+    "runtime": 105
+  },
+  {
+    "id": 43035,
+    "title": "Heller in Pink Tights",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance",
+      "Western"
+    ],
+    "overview": "Nineteenth century Wyoming: the wild West. Mild-mannered Tom Healy has a two-wagon theater troupe hounded by creditors because Angela, his leading lady and the object of his affection, constantly buys clothes. In Cheyenne, they meet with applause, so they hope to stay awhile: the theater owner likes Angela, and she keeps him on a string. She's also the object of the attentions of Mabry, a gunslinger who's owed money by the richest man in Bonanza. Complications arise and the troupe heads for Bonanza, through hostile Indian territory. Is the troupe doomed to a peripatetic life, is Mabry in danger, and does Tom stand a chance with Angela, a hellion in pink tights?",
+    "releaseDate": "1960-03-01",
+    "runtime": 100
+  },
+  {
+    "id": 333484,
+    "title": "The Magnificent Seven",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Western"
+    ],
+    "overview": "Seven gun men in the old west gradually come together to help a poor village against savage thieves.",
+    "releaseDate": "2016-09-14",
+    "runtime": 132
+  },
+  {
+    "id": 25182,
+    "title": "Love Finds A Home",
+    "genres": [
+      "Drama",
+      "Action",
+      "Western",
+      "Family"
+    ],
+    "overview": "In this sequel, Lillian has been adopted and it's several years later.  Annie, married and pregnant, visits her fellow doctor friend, Dr. Owen.  Dr Owen desperately wants a baby,  but seems unable to become pregnant. Lillian finds a love interest,  an assistant to her adoptive dad, the latter has become quite overprotective.",
+    "releaseDate": "2009-04-11",
+    "runtime": 88
+  },
+  {
+    "id": 87788,
+    "title": "The Legend of Nigger Charley",
+    "genres": [
+      "Western",
+      "Action",
+      "Crime"
+    ],
+    "overview": "A trio of runaway slaves evade authorities in the Old West.",
+    "releaseDate": "1972-03-16",
+    "runtime": 98
+  },
+  {
+    "id": 38048,
+    "title": "The Wild Stallion",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family",
+      "Western"
+    ],
+    "overview": "A story about two girls, CJ and Hanna. CJ lives on a ranch, Hanna comes to visit and decides to photograph wild horses for a school project",
+    "releaseDate": "2009-10-06",
+    "runtime": 0
+  },
+  {
+    "id": 27443,
+    "title": "Silver Lode",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Dan Ballard, a respected citizen in the western town of Silver Lode, has his wedding interrupted by four men led by Ned McCarthy, an old acquaintance who, as a US Marshal, arrests Ballard for the murder of his brother and the theft of $20,000. Ballard seeks to stall McCarthy while tracking down evidence that will prove his innocence.",
+    "releaseDate": "1954-07-23",
+    "runtime": 81
+  },
+  {
+    "id": 291356,
+    "title": "In a Valley of Violence",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Western",
+      "Action"
+    ],
+    "overview": "The story of a drifter named Paul who arrives in a small town seeking revenge on the thugs who murdered his friend. Sisters Mary Anne and Ellen, who run the town's hotel, help Paul in his quest for vengeance.",
+    "releaseDate": "2016-10-21",
+    "runtime": 104
+  },
+  {
+    "id": 187790,
+    "title": "Gunslinger",
+    "genres": [
+      "Action",
+      "Romance",
+      "Western"
+    ],
+    "overview": "After her husband is gunned down, Rose Hood takes his place as sheriff of a small Western town.",
+    "releaseDate": "1956-06-01",
+    "runtime": 71
+  },
+  {
+    "id": 164504,
+    "title": "Man of the Forest",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "Beasley, who is after Gayner's land, plans to kidnap his daughter. But Dale overhears their plan and kidnaps her himself. When Gayner arrives to retrieve his daughter, Beasley kills him and makes the Sheriff arrest Dale for the murder.",
+    "releaseDate": "1933-08-24",
+    "runtime": 62
+  },
+  {
+    "id": 315955,
+    "title": "Crazy Horse",
+    "genres": [
+      "TV Movie",
+      "War",
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "The legendary Native American chieftain refuses to go with his people peacefully to the reservation and starts a rebellion.",
+    "releaseDate": "1996-07-07",
+    "runtime": 90
+  },
+  {
+    "id": 425774,
+    "title": "The Legend of Ben Hall",
+    "genres": [
+      "Action",
+      "Drama",
+      "History",
+      "Western"
+    ],
+    "overview": "Ben Hall is drawn back into bushranging by the reappearance of his old friend John Gilbert. Reforming the gang, they soon become the most wanted men in Australian history.",
+    "releaseDate": "2016-12-01",
+    "runtime": 139
+  },
+  {
+    "id": 54050,
+    "title": "The Over-the-Hill Gang",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Western",
+      "TV Movie"
+    ],
+    "overview": "Classic comedic western, Captain Oren Hayes of the Texas Rangers takes a break to visit his daughter in a neighboring town. When he arrives he find's his daughter Hannah's husband Jeff is running for Mayor against a corrupt town boss, Nard Lundy. Lundy has no intention of allowing the free election of the honest Jeff Rose, so he has his henchmen beat them up. Hayes then calls for the help of some his old buddies in the Rangers. Upon arriving in town, they realize quickly that age has caught up with them and they must rely on their sheer wits to out-smart and defeat Lundy.",
+    "releaseDate": "1969-10-07",
+    "runtime": 75
+  },
+  {
+    "id": 184958,
+    "title": "The Miracle Rider",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "overview": "In 1930s Texas, following the murder of his father, Tom Morgan joins the Texas Rangers to avenge his father's death and to follow in his path as a proponent of Indian rights. His task as a Ranger is to stop the evil Zaroff and his gang, who are smuggling the elements for a powerful explosive from a mine on Indian land.",
+    "releaseDate": "1935-04-11",
+    "runtime": 306
+  },
+  {
+    "id": 48855,
+    "title": "Four of the Apocalypse",
+    "genres": [
+      "Western",
+      "Action",
+      "Foreign"
+    ],
+    "overview": "Four petty criminals, three men and a woman, wander through the trackless terrain of the Wild West Utah and are hounded by a sadistic bandit.",
+    "releaseDate": "1975-08-12",
+    "runtime": 87
+  },
+  {
+    "id": 16331,
+    "title": "The Jack Bull",
+    "genres": [
+      "TV Movie",
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "overview": "The Jack Bull tells the story of Myrl Redding, a Wyoming horse trader who clashes with Henry Ballard, a fellow rancher, after Ballard abuses two of Myrl's horses and their Crow Indian caretaker, Billy. When Judge Wilkins throws out Myrl's complaint, the war he wages to force Ballard to nurse the emaciated animals back to health escalates into a vigilante manhunt, murder and the possible defeat",
+    "releaseDate": "1999-04-17",
+    "runtime": 116
+  },
+  {
+    "id": 11842,
+    "title": "Red Sun",
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "overview": "An ancient Japanese sword is robbed by gangsters from the Japanese ambassador while he is traveling through west America. The embassador's bodyguard, a samurai, goes after them with the help of one of the gang leaders who was betrayed by his fellows.",
+    "releaseDate": "1971-09-15",
+    "runtime": 112
+  },
+  {
+    "id": 353491,
+    "title": "The Dark Tower",
+    "genres": [
+      "Action",
+      "Western",
+      "Science Fiction",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.",
+    "releaseDate": "2017-08-03",
+    "runtime": 95
+  }
+]

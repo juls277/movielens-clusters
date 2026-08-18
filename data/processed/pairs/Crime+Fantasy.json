@@ -1,0 +1,487 @@
+[
+  {
+    "id": 414,
+    "title": "Batman Forever",
+    "genres": [
+      "Action",
+      "Crime",
+      "Fantasy"
+    ],
+    "overview": "The Dark Knight of Gotham City confronts a dastardly duo: Two-Face and the Riddler. Formerly District Attorney Harvey Dent, Two-Face believes Batman caused the courtroom accident which left him disfigured on one side. And Edward Nygma, computer-genius and former employee of millionaire Bruce Wayne, is out to get the philanthropist; as The Riddler. Former circus acrobat Dick Grayson, his family killed by Two-Face, becomes Wayne's ward and Batman's new partner Robin.",
+    "releaseDate": "1995-06-16",
+    "runtime": 121
+  },
+  {
+    "id": 62488,
+    "title": "Destiny Turns on the Radio",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Fantasy"
+    ],
+    "overview": "Johnny Destiny burns into Las Vegas in his hot Plymouth RoadRunner, stopping only to pick up a stranger stranded in the desert. But then, things aren't always as they seem. Anything can happen in that town of many possibilities...especially since there's been some weird electrical disturbances. As the stranger, fresh out of prison, tries to put his life back together--to recover his money from an old bank heist and the girl he lost in doing the job--something keeps interfering with his plans. Is it fate...or just Destiny?",
+    "releaseDate": "1995-04-28",
+    "runtime": 0
+  },
+  {
+    "id": 854,
+    "title": "The Mask",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+    "releaseDate": "1994-07-29",
+    "runtime": 101
+  },
+  {
+    "id": 415,
+    "title": "Batman & Robin",
+    "genres": [
+      "Action",
+      "Crime",
+      "Fantasy"
+    ],
+    "overview": "Along with crime-fighting partner Robin and new recruit Batgirl, Batman battles the dual threat of frosty genius Mr. Freeze and homicidal horticulturalist Poison Ivy. Freeze plans to put Gotham City on ice, while Ivy tries to drive a wedge between the dynamic duo.",
+    "releaseDate": "1997-06-20",
+    "runtime": 125
+  },
+  {
+    "id": 9411,
+    "title": "Fallen",
+    "genres": [
+      "Thriller",
+      "Fantasy",
+      "Crime",
+      "Drama"
+    ],
+    "overview": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution the killings start again, and they are very similar to Reese's style.",
+    "releaseDate": "1998-01-16",
+    "runtime": 124
+  },
+  {
+    "id": 11135,
+    "title": "The Rescuers Down Under",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Crime",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "A lawless poacher wants to capture a majestic and rare golden eagle, so he kidnaps the boy who knows where to find the bird. Not to worry -- the Rescue Aid Society's top agents, heroic mice Miss Bianca and Bernard, fly to Australia to save the day. Accompanying the fearless duo are bumbling albatross Wilbur and local field operative Jake the Kangaroo Rat.",
+    "releaseDate": "1990-11-16",
+    "runtime": 77
+  },
+  {
+    "id": 20123,
+    "title": "Time of the Gypsies",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "overview": "In this luminous tale set in the former Yugoslavia, Perhan, an engaging young Romany with telekinetic powers, is seduced by the quick-cash world of petty crime that threatens to destroy him and those he loves.",
+    "releaseDate": "1988-12-21",
+    "runtime": 142
+  },
+  {
+    "id": 856,
+    "title": "Who Framed Roger Rabbit",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+    "releaseDate": "1988-06-21",
+    "runtime": 104
+  },
+  {
+    "id": 497,
+    "title": "The Green Mile",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Crime"
+    ],
+    "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cellblock's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+    "releaseDate": "1999-12-10",
+    "runtime": 189
+  },
+  {
+    "id": 9480,
+    "title": "Daredevil",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Crime",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "He dwells in a world of eternal night, but the blackness is filled with sounds and scents, tastes and textures that most cannot perceive. Although attorney Matt Murdock is blind, his other four senses function with superhuman sharpness. By day, Murdock represents the downtrodden. At night he is Daredevil, a masked vigilante stalking the dark streets of the city, a relentless avenger of justice.",
+    "releaseDate": "2003-02-14",
+    "runtime": 103
+  },
+  {
+    "id": 14262,
+    "title": "Desperate Living",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "A rich housewife enlists her maid's help to murder her husband; they go on the lam and end up in Mortville, a homeless community built into a garbage dump.",
+    "releaseDate": "1977-05-27",
+    "runtime": 90
+  },
+  {
+    "id": 9597,
+    "title": "Vidocq",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Thriller",
+      "Crime",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "overview": "Paris. 1830. In the heart of the town, Vidocq, a famous detective, disappeared as he fights the Alchemist, an assassin that he has been pursuing for a few months. His young biographer, Etienne Boisset, decides to have revenge on Vidocq's death and takes the investigation on...",
+    "releaseDate": "2001-09-12",
+    "runtime": 98
+  },
+  {
+    "id": 9470,
+    "title": "Kung Fu Hustle",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "overview": "Set in Canton, China in the 1940s, the story revolves in a town ruled by the Axe Gang, Sing who desperately wants to become a member. He stumbles into a slum ruled by eccentric landlords who turns out to be the greatest kung-fu masters in disguise. Sing's actions eventually cause the Axe Gang and the slumlords to engage in an explosive kung-fu battle. Only one side will win and only one hero will emerge as the greatest kung-fu master of all.",
+    "releaseDate": "2004-02-10",
+    "runtime": 99
+  },
+  {
+    "id": 4474,
+    "title": "My Super Ex-Girlfriend",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action",
+      "Comedy",
+      "Crime",
+      "Science Fiction"
+    ],
+    "overview": "When New York architect Matt Saunders dumps his new girlfriend Jenny Johnson - a smart, sexy and reluctant superhero known as G-Girl - she uses her powers to make his life a living hell!",
+    "releaseDate": "2006-06-20",
+    "runtime": 95
+  },
+  {
+    "id": 1427,
+    "title": "Perfume: The Story of a Murderer",
+    "genres": [
+      "Crime",
+      "Fantasy",
+      "Drama"
+    ],
+    "overview": "Jean-Baptiste Grenouille, born in the stench of 18th century Paris, develops a superior olfactory sense, which he uses to create the world's finest perfumes. However, his work takes a dark turn as he tries to preserve scents in the search for the ultimate perfume.",
+    "releaseDate": "2006-09-13",
+    "runtime": 147
+  },
+  {
+    "id": 9785,
+    "title": "The Invisible",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "After an attack leaves him in limbo -- invisible to the living and also near death -- a teenager discovers the only person who might be able help him is his attacker.",
+    "releaseDate": "2007-04-27",
+    "runtime": 102
+  },
+  {
+    "id": 32407,
+    "title": "Malice in Wonderland",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Crime",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "A modern take on the classic fairytale, Alice in Wonderland, set in South East England.An American law student in London. Knocked down by a black cab, she wakes with amnesia in a world that's a million miles from home - Wonderland. We follow her adventures as she's dragged through an underworld filled with twisted individuals and the lowest low-lifers, by the enigmatic cab driver, Whitey. She needs to find out who she is, where she's from and use what wits she has left to get back home in one piece. As her journey progresses she discovers nothing is what it seems, realizes that fate and life are terminally entwined, and finds true love lurking in the unlikeliest place.",
+    "releaseDate": "2009-01-01",
+    "runtime": 87
+  },
+  {
+    "id": 47327,
+    "title": "Drive Angry",
+    "genres": [
+      "Fantasy",
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "overview": "Milton is a hardened felon who has broken out of Hell, intent on finding the vicious cult who brutally murdered his daughter and kidnapped her baby. He joins forces with Piper, a sexy, tough-as-nails waitress with a 69 Charger, who's also seeking redemption of her own. Caught in a deadly race against time, Milton has three days to avoid capture, avenge his daughter's death, and save her baby before she's mercilessly sacrificed by the cult.",
+    "releaseDate": "2011-02-24",
+    "runtime": 105
+  },
+  {
+    "id": 57585,
+    "title": "Elephant White",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Fantasy",
+      "Crime"
+    ],
+    "overview": "An assassin is hired by a businessman to avenge the murder of his daughter by white slave traders in Thailand.",
+    "releaseDate": "2011-05-17",
+    "runtime": 91
+  },
+  {
+    "id": 54146,
+    "title": "Pitfall",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Crime",
+      "Science Fiction",
+      "Foreign"
+    ],
+    "overview": "A man wanders into a seemingly deserted town with his young son in search of work. But after a bit of bad luck, he joins the town's population of lost souls.",
+    "releaseDate": "1962-07-01",
+    "runtime": 97
+  },
+  {
+    "id": 49524,
+    "title": "R.I.P.D.",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "overview": "A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him. Based on the comic by Peter M. Lenkov.",
+    "releaseDate": "2013-07-18",
+    "runtime": 96
+  },
+  {
+    "id": 217923,
+    "title": "Young Detective Dee: Rise of the Sea Dragon",
+    "genres": [
+      "Action",
+      "Crime",
+      "Fantasy",
+      "Adventure"
+    ],
+    "overview": "A prequel to \"Detective Dee and the Mystery of the Phantom Flame\"",
+    "releaseDate": "2013-09-27",
+    "runtime": 133
+  },
+  {
+    "id": 1871,
+    "title": "Fantomas",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "Fantômas is a man of many disguises. He uses maquillage as a weapon. He can impersonate anyone using an array of masks and can create endless confusion by constantly changing his appearance.",
+    "releaseDate": "1964-11-04",
+    "runtime": 99
+  },
+  {
+    "id": 1870,
+    "title": "Fantomas Unleashed",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "In the second episode of the trilogy Fantômas kidnaps distinguished scientist professor Marchand with the aim to develop a super weapon that will enable him to menace the world. Fantômas is also planning to abduct a second scientist, professor Lefebvre.",
+    "releaseDate": "1965-12-07",
+    "runtime": 105
+  },
+  {
+    "id": 1875,
+    "title": "Fantomas vs. Scotland Yard",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "In the third and final episode of the trilogy, Fantômas imposes a head tax on the rich, threatening to kill those who do not comply.",
+    "releaseDate": "1967-03-16",
+    "runtime": 104
+  },
+  {
+    "id": 318007,
+    "title": "The Veil of Twilight",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Fantasy"
+    ],
+    "overview": "The investigation of a mysterious serial-killer in a mountain village, set in Norway in the mid 1300s.",
+    "releaseDate": "2014-10-10",
+    "runtime": 90
+  },
+  {
+    "id": 21775,
+    "title": "The Stone Council",
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "In France, the single translator Diane Siprien adopts an Asian baby named Liu-San in a foundation directed by Sybille Weber. Years later, a weird mark appears on the boy's chest and Diane and Liu share their dreadful nightmares. Diane is assigned for a three-day job in Germany and she leaves Liu with her friend Sybille. However, while going to the airport, Diane finds Liu hidden in the backseat and startles with an eagle flying toward the windshield, crashing her car. Liu falls into a coma and his digital recorder records the boy speaking in an unknown dialect. When Diane searches the translation and the origins of Liu, she is surrounded by mysterious murders. She discovers that the dialect is from the mystic Mongolian Tseven tribe and that Liu is a powerful Observer; further, he is in danger, threatened by sorcerers that need the boy for their Council of the Stone..",
+    "releaseDate": "2006-11-15",
+    "runtime": 102
+  },
+  {
+    "id": 297761,
+    "title": "Suicide Squad",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+    "releaseDate": "2016-08-02",
+    "runtime": 123
+  },
+  {
+    "id": 323792,
+    "title": "L.A. Slasher",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "overview": "Incensed by the tabloid culture which celebrates it, the L.A. Slasher publicly abducts a series of reality TV stars, while the media and general public in turn begin to question if society is better off without them. A biting, social satire about reality TV and the glorification of people who are famous for simply being famous, \"L.A. Slasher\" explores why it has become acceptable and even admirable for people to become influential and wealthy based on no merit or talent - purely through notoriety achieved through shameful behavior.",
+    "releaseDate": "2015-06-12",
+    "runtime": 86
+  },
+  {
+    "id": 325712,
+    "title": "Cool Cat Saves the Kids",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Music",
+      "Thriller"
+    ],
+    "overview": "Cool Cat is the coolest cat in town. All the kids love him. Except for the bully Butch, who hates Cool Cat for his coolness. He terrorizes Cool Cat, his friends and family with threats, taunting, and the internet. Can Cool Cat face his fears and defeat the bully Derrick.",
+    "releaseDate": "2015-02-01",
+    "runtime": 72
+  },
+  {
+    "id": 68555,
+    "title": "Death Note Relight 2: L's Successors",
+    "genres": [
+      "TV Movie",
+      "Thriller",
+      "Animation",
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "overview": "After the events of the first movie Yagami Light faces two new adversaries as he is trying to create a perfect world without crime or criminals. This movie continues the first tv special and is a summary of the last 12 episodes of the tv anime",
+    "releaseDate": "2009-10-07",
+    "runtime": 130
+  },
+  {
+    "id": 197772,
+    "title": "Back in Crime",
+    "genres": [
+      "Crime",
+      "Fantasy"
+    ],
+    "overview": "Inspector Richard Kemp never got around to putting the handcuffs around the Eardrum Slasher, a dangerous serial killer whose rampage began 20 years before. When Hélène, a psychologist, witnesses the Slasher’s latest crime and offers to testify, Kemp falls in love with her at first sight. In a mysterious turn of event, Kemp is suddenly transported back in time to the site of the Eardrum Slasher’s first murder, he realizes that this could provide a second chance to catch the killer...",
+    "releaseDate": "2013-06-05",
+    "runtime": 102
+  },
+  {
+    "id": 220447,
+    "title": "Black Butler",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Crime",
+      "Drama"
+    ],
+    "overview": "Set in the year 2020, Shiori Genbo (Ayame Gouriki) runs the large corporation Funtom. Shiori is also a descendant of prestigious noble family Phantomhive of England. As a descendant of the noble family Phantomhive, Shiori solves difficult cases which are ordered by the queen. In order to take revenge, Shiori makes a deal with Butler Sebastian (Hiro Mizushima). Their deal involves Butler Sebastian protecting Shiori until her revenge is fulfilled and then Sebastian will consume her spirit.",
+    "releaseDate": "2014-01-18",
+    "runtime": 119
+  },
+  {
+    "id": 316015,
+    "title": "My Life as a Dead Girl",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Fantasy"
+    ],
+    "overview": "When runaway teenager Chelsea is mistakenly killed by her friend Brittany's pimp, Brittany returns to what remains of the family Chelsea left years ago. Brittany's doing her best to get by under her assumed identity, until the truth begins to emerge. Then the vengeful pimp shows up.",
+    "releaseDate": "2015-01-01",
+    "runtime": 84
+  },
+  {
+    "id": 357851,
+    "title": "Let Me Make You a Martyr",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Drama",
+      "Crime",
+      "Thriller",
+      "Fantasy"
+    ],
+    "overview": "A cerebral revenge film about two adopted siblings who fall in love, and hatch a plan to kill their abusive father.",
+    "releaseDate": "2016-07-22",
+    "runtime": 85
+  },
+  {
+    "id": 232943,
+    "title": "Diabolical Pickpocket",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Crime"
+    ],
+    "overview": "A pickpocket manages to escape the police through a series of fantastic tricks.",
+    "releaseDate": "1908-01-01",
+    "runtime": 4
+  }
+]

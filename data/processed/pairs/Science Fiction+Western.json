@@ -1,0 +1,211 @@
+[
+  {
+    "id": 2362,
+    "title": "Westworld",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Horror",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "In a futuristic resort, wealthy patrons can visit recreations of different time periods and experience their wildest fantasies with life-like robots. But when Richard Benjamin opts for the wild west, he gets more than he bargained for when a gunslinger robot goes berserk.",
+    "releaseDate": "1973-10-22",
+    "runtime": 88
+  },
+  {
+    "id": 8487,
+    "title": "Wild Wild West",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Science Fiction",
+      "Western"
+    ],
+    "overview": "Legless Southern inventor Dr. Arliss Loveless plans to rekindle the Civil War by assassinating President U.S. Grant. Only two men can stop him: gunfighter James West and master-of-disguise and inventor Artemus Gordon. The two must team up to thwart Loveless' plans.",
+    "releaseDate": "1999-06-29",
+    "runtime": 106
+  },
+  {
+    "id": 32014,
+    "title": "Timerider: The Adventure of Lyle Swann",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Western"
+    ],
+    "overview": "Lyle Swann is a successful off-road racer who mistakenly gets sent back in time 100 years. When a band of outlaws robs Swann of his motorcycle, he's forced to outfox the gangsters and give in to the seductions of a gorgeous local lady. With only his smarts and a map from an Exxon station, Lyle must try to make it out of the Old West alive and find a way back to modern times.",
+    "releaseDate": "1982-12-11",
+    "runtime": 94
+  },
+  {
+    "id": 23356,
+    "title": "Purgatory",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Western",
+      "Science Fiction"
+    ],
+    "overview": "An outlaw band flees a posse and rides into Refuge, a small town where no one carries a gun, drinks, or swears. The town is actually Purgatory, and the peaceful inhabitants are all famous dead outlaws and criminals such as Doc Holiday and Wild Bill Hickok who must redeem themselves before gaining admittance to Heaven...or screw up and go to Hell.",
+    "releaseDate": "1999-01-10",
+    "runtime": 94
+  },
+  {
+    "id": 37511,
+    "title": "Stingray Sam",
+    "genres": [
+      "Comedy",
+      "Western",
+      "Science Fiction",
+      "Music"
+    ],
+    "overview": "A dangerous mission reunites Stingray Sam with his long lost accomplice, The Quasar Kid. Follow these two space-convicts as they earn their freedom in exchange for the rescue of a young girl who is being held captive by the genetically designed figurehead of a very wealthy planet.",
+    "releaseDate": "2009-01-20",
+    "runtime": 61
+  },
+  {
+    "id": 49849,
+    "title": "Cowboys & Aliens",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A stranger stumbles into the desert town of Absolution with no memory of his past and a futuristic shackle around his wrist. With the help of mysterious beauty Ella and the iron-fisted Colonel Dolarhyde, he finds himself leading an unlikely posse of cowboys, outlaws, and Apache warriors against a common enemy from beyond this world in an epic showdown for survival.",
+    "releaseDate": "2011-07-29",
+    "runtime": 119
+  },
+  {
+    "id": 3149,
+    "title": "Jesse James Meets Frankenstein's Daughter",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Science Fiction",
+      "Western"
+    ],
+    "overview": "Dr. Frankenstein's Granddaughter Maria, and her brother assistant Rudolph, moved to the old west because the lightning storms there are more frequent and intense, which allows them to work on the experiments of their grandfather. But the experiments are failing and Rudolph's been secretly killing the corpses afterwards. Meanwhile, the Lopez family leaves the town because of the evil going on there",
+    "releaseDate": "1966-04-09",
+    "runtime": 83
+  },
+  {
+    "id": 51859,
+    "title": "Trigun: Badlands Rumble",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Comedy",
+      "Animation",
+      "Western"
+    ],
+    "overview": "In a quicksand surrounded town called Makka, rumors spread of a legendary robber named Gasback is after the town. To protect it, Mayor Kepler has hired bounty hunters. These hunters have been following Gasback from town to town in hopes of getting the bounty. Vash the Stampede is in town, along with Meryl and Milly, along with the female bounty hunter Ameria and Nicholas D. Wolfwood.",
+    "releaseDate": "2010-04-02",
+    "runtime": 95
+  },
+  {
+    "id": 42329,
+    "title": "The Valley of Gwangi",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Thriller",
+      "Western"
+    ],
+    "overview": "A turn of the century wild west show struggling to make a living in Mexico comes into the possession of a tiny prehistoric horse. This leads to an expedition to the Forbidden Valley where they discover living dinosaurs. They capture one and take it back to be put on display, leading to inevitable mayhem.",
+    "releaseDate": "1969-07-24",
+    "runtime": 96
+  },
+  {
+    "id": 215379,
+    "title": "Young Ones",
+    "genres": [
+      "Western",
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ],
+    "overview": "In a future where water is scarce, a farmer defends his land and hopes to rejuvenate his parched soil. However, his daughter's boyfriend schemes to steal the land for himself.",
+    "releaseDate": "2014-06-28",
+    "runtime": 100
+  },
+  {
+    "id": 49050,
+    "title": "Oblivion",
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Western",
+      "Comedy"
+    ],
+    "overview": "The alien outlaw, Redeye, murders the town sheriff and then he and his gang terrorize the town. It's up to the sheriff's son, an empath, and his native american sidekick, to rescue the town and exact revenge for his father's murder.",
+    "releaseDate": "1994-06-06",
+    "runtime": 94
+  },
+  {
+    "id": 108181,
+    "title": "The Beast of Hollow Mountain",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Western"
+    ],
+    "overview": "An American cowboy living in Mexico discovers his cattle is being eaten by a giant prehistoric dinosaur.",
+    "releaseDate": "1956-08-01",
+    "runtime": 81
+  },
+  {
+    "id": 102444,
+    "title": "Welcome to Blood City",
+    "genres": [
+      "Science Fiction",
+      "Western"
+    ],
+    "overview": "",
+    "releaseDate": "1977-08-23",
+    "runtime": 96
+  },
+  {
+    "id": 344656,
+    "title": "Enemy Empire",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Science Fiction",
+      "Western"
+    ],
+    "overview": "Sol, a bold fugitive lost in a dangerous post-apocalyptic desert world, searches for a missing woman named Catherine and her illusive captor, the Nomad King. With enemies at every turn, Sol's only chance of finding Catherine is with the help of a rogue and mysterious wanderer, Cleo.",
+    "releaseDate": "2013-12-27",
+    "runtime": 97
+  },
+  {
+    "id": 353491,
+    "title": "The Dark Tower",
+    "genres": [
+      "Action",
+      "Western",
+      "Science Fiction",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "The last Gunslinger, Roland Deschain, has been locked in an eternal battle with Walter O’Dim, also known as the Man in Black, determined to prevent him from toppling the Dark Tower, which holds the universe together. With the fate of the worlds at stake, good and evil will collide in the ultimate battle as only Roland can defend the Tower from the Man in Black.",
+    "releaseDate": "2017-08-03",
+    "runtime": 95
+  },
+  {
+    "id": 36139,
+    "title": "High Plains Invaders",
+    "genres": [
+      "Western",
+      "Science Fiction"
+    ],
+    "overview": "It's the Old Western times and an outlaw named Sam Phoenix (James Marsters, Angel) is about get hanged. But just before the noose tightens, the town is besieged by a lethal alien invader with a laser-shooting stingray and a crazy Sarlacc mouth. The townsfolk scramble but get promptly smoked, save for a handful of survivors led by Phoenix.",
+    "releaseDate": "2009-08-30",
+    "runtime": 87
+  }
+]

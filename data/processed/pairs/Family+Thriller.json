@@ -1,0 +1,560 @@
+[
+  {
+    "id": 6499,
+    "title": "Turbo: A Power Rangers Movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "The legendary Power Rangers must stop the evil space pirate Divatox from releasing the powerful Maligore from his volcanic imprisonment on the island of Muranthias, where only the kindly wizard Lerigot has the key to release him. The hope of victory lies in the Ranger's incredible new Turbo powers and powerful Turbo Zords.",
+    "releaseDate": "1997-03-27",
+    "runtime": 99
+  },
+  {
+    "id": 11904,
+    "title": "Young Sherlock Holmes",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Family",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "Sherlock Holmes and Dr. Watson meet as boys in an English Boarding school. Holmes is known for his deductive ability even as a youth, amazing his classmates with his abilities. When they discover a plot to murder a series of British business men by an Egyptian cult, they move to stop it.",
+    "releaseDate": "1985-12-04",
+    "runtime": 109
+  },
+  {
+    "id": 26156,
+    "title": "Hiding Out",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "A very successful stock broker is called to court to testify against a mob boss who was into some inside trading. Andrew Morenski must become Max Hauser and go back to high school for protection from the mob.",
+    "releaseDate": "1987-11-06",
+    "runtime": 98
+  },
+  {
+    "id": 6951,
+    "title": "Turner & Hooch",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Crime",
+      "Family"
+    ],
+    "overview": "Scott Turner has 3 days left in the local police department before he moves to a bigger city to get some \"real\" cases, not just misdemeanors. Then Amos Reed is murdered, and Scott Turner sets himself on the case. The closest thing to a witness in the case is Amos Reed's dog, Hooch, which Scott Turner has to take care of if it's going to avoid being \"put to sleep\".",
+    "releaseDate": "1989-07-28",
+    "runtime": 100
+  },
+  {
+    "id": 15028,
+    "title": "Clockstoppers",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "Until now, Zak Gibbs' greatest challenge has been to find a way to buy a car. But when he discovers an odd wristwatch amidst his father's various inventions and slips it on -- something very strange happens. The world around him seems to come to a stop, everything and everybody frozen in time. Zak quickly learns how to manipulate the device and he and his quick-witted and beautiful new friend, Francesca, start to have some real fun.",
+    "releaseDate": "2002-03-17",
+    "runtime": 94
+  },
+  {
+    "id": 42795,
+    "title": "The Moon-Spinners",
+    "genres": [
+      "Mystery",
+      "Family",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "Young English girl Nikky and her aunt arrive at the Moon-Spinners, a hotel on Crete, to a less than enthusiastic welcome. The coolness of the owner is only out-done by the surliness of her brother Stratos, recently back from London. But then there is nice English lad Mark to make friends with, at least until Stratos and his pal take a shot at him one night. When Nikky helps him hide she finds the Greeks are after her too.",
+    "releaseDate": "1964-01-01",
+    "runtime": 118
+  },
+  {
+    "id": 11890,
+    "title": "Oscar",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Family"
+    ],
+    "overview": "Angelo \"Snaps\" Provolone made his dying father a promise on his deathbed: he would leave the world of crime and become an honest businessman. Despite having no experience in making money in a legal fashion, Snaps sets about to keep his promise.",
+    "releaseDate": "1991-04-26",
+    "runtime": 109
+  },
+  {
+    "id": 10756,
+    "title": "The Haunted Mansion",
+    "genres": [
+      "Thriller",
+      "Fantasy",
+      "Comedy",
+      "Family",
+      "Mystery"
+    ],
+    "overview": "Workaholic Jim Evers and his wife/business partner, Sara get a call one night from mansion owner, Edward Gracey wants to sell his house. Once the Evers family arrive at the mansion a butler takes them to dine with Gracey. Gracey takes one look at Sara and he thinks she's his lost lover.",
+    "releaseDate": "2003-11-25",
+    "runtime": 87
+  },
+  {
+    "id": 15081,
+    "title": "The Three Lives of Thomasina",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Thriller",
+      "Science Fiction",
+      "Mystery",
+      "Family"
+    ],
+    "overview": "Thomasina is the pet cat of Mary McDhui, the daughter of Scottish veterinarian Andrew McDhui. When Thomasina falls ill, McDhui declares that the pet should be put down. But when Mary and her father try to bury the cat, Lori MacGregor (Susan Hampshire), who is said to be a witch, shows up and attempts to steal it.",
+    "releaseDate": "1963-12-11",
+    "runtime": 97
+  },
+  {
+    "id": 11052,
+    "title": "Yu-Gi-Oh! The Movie",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "After the conclusion of the Battle City Tournament, deep below the sands of Egypt, an ancient evil has awakened. Anubis, who was defeated centuries ago by Yugi’s mysterious alter ego – the ancient Pharaoh – has returned for revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.",
+    "releaseDate": "2004-08-13",
+    "runtime": 90
+  },
+  {
+    "id": 17421,
+    "title": "G.I. Joe: The Movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Thriller",
+      "Science Fiction",
+      "Family"
+    ],
+    "overview": "G.I. Joe faces a new enemy as an ancient society of snake people known as Cobra-La try to forcefully take back the earth from those who drove them underground eons ago.",
+    "releaseDate": "1987-08-01",
+    "runtime": 93
+  },
+  {
+    "id": 11508,
+    "title": "Addams Family Reunion",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Thriller",
+      "TV Movie"
+    ],
+    "overview": "The Addams Family goes on a search for their relatives. Gomez and Morticia are horrified to discover that Grandpa and Grandma Addams have a disease that is slowly turning them \"normal\". The only chance they have of a cure is to find a family member hoping that they know a home remedy.",
+    "releaseDate": "1998-09-22",
+    "runtime": 91
+  },
+  {
+    "id": 10022,
+    "title": "The Pacifier",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "Disgraced Navy SEAL Shane Wolfe is handed a new assignment: Protect the five Plummer kids from enemies of their recently deceased father -- a government scientist whose top-secret experiment remains hidden in the kids' house.",
+    "releaseDate": "2005-03-04",
+    "runtime": 95
+  },
+  {
+    "id": 48232,
+    "title": "Twin Sitters",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "An evil business executive (played by George Lazenby), is releasing dangerous toxins and the Barbarian Brothers set out to stop his evil work.",
+    "releaseDate": "1994-10-01",
+    "runtime": 93
+  },
+  {
+    "id": 14043,
+    "title": "Nancy Drew",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Family",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "Intrepid teenage private eye Nancy Drew heads to Tinseltown with her father to investigate the unsolved murder of a movie star in this old-fashioned whodunit based on Carolyn Keene's popular series of books for young adults. But can the small-town girl cut through the Hollywood hype to solve the case?",
+    "releaseDate": "2007-06-15",
+    "runtime": 99
+  },
+  {
+    "id": 2274,
+    "title": "The Seeker: The Dark Is Rising",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "A boy's life is turned upside down when he learns that he is the last of a group of immortal warriors who have dedicated their lives to fighting the forces of the dark.",
+    "releaseDate": "2007-10-05",
+    "runtime": 94
+  },
+  {
+    "id": 13836,
+    "title": "Race to Witch Mountain",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Science Fiction",
+      "Thriller",
+      "Action"
+    ],
+    "overview": "A taxi driver gets more than he bargained for when he picks up two teen runaways. Not only does the pair possess supernatural powers, but they're also trying desperately to escape people who have made them their targets.",
+    "releaseDate": "2009-03-12",
+    "runtime": 98
+  },
+  {
+    "id": 36278,
+    "title": "Top Dog",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "With his cop companion shot and killed by terrorists, Reno The Dog pairs up with tough cop Jake in thwarting the criminal organization.",
+    "releaseDate": "1995-04-28",
+    "runtime": 86
+  },
+  {
+    "id": 33116,
+    "title": "Godspeed",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "Joseph McKelheer and Cory Knauf (The Hamiltons, The Violent Kind) star in this intense thriller set in the lingering light of the Alaskan midnight sun. Charlie Shepard, a modern day faith healer with a small flock of believers, is stunned when his family is brutally murdered.  Six months later a young, mysterious girl (Courtney Halverson) appears and becomes the link to his family's killing and the murderers themselves, ultimately leading to violent consequences for all.",
+    "releaseDate": "2009-01-01",
+    "runtime": 99
+  },
+  {
+    "id": 29694,
+    "title": "One of Our Dinosaurs Is Missing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "Escaping from China with a microfilm of the formula for the mysterious \"Lotus X\", Lord Southmere, a Queen's Messenger, is chased by a group of Chinese spies.",
+    "releaseDate": "1975-07-09",
+    "runtime": 100
+  },
+  {
+    "id": 35691,
+    "title": "Letters to God",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "A young boy fighting cancer writes letters to God, touching lives in his neighborhood and inspiring hope among everyone he comes in contact. An unsuspecting substitute postman, with a troubled life of his own, becomes entangled in the boy's journey and his family by reading the letters. They inspire him to seek a better life for himself and his own son he's lost through his alcohol addiction.",
+    "releaseDate": "2010-04-09",
+    "runtime": 110
+  },
+  {
+    "id": 56744,
+    "title": "Murder in Greenwich",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Family",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "The story of Martha Moxley, 15 year old girl murdered in Greenwich in the 1970's, her murder going unsolved for 25 years.",
+    "releaseDate": "2002-11-15",
+    "runtime": 89
+  },
+  {
+    "id": 20270,
+    "title": "The Prodigy",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "\"The Prodigy\" tells the story of small-time enforcer Truman Fisher's vicious conflict with a sadistic assassin who has chosen the unwilling Truman to be his successor. The assassin, who goes by the alias Rains and whose exploits have become the source of legend among Truman's underworld colleagues, drives Truman, through the pressure of constant violence and grief, to understand his own capacity for both bloodshed and compassion. Ultimately this reveals to Truman that he as with all of us, must find our place in this world or as Rains would say \"our place in this grand design.\" This action begins quickly as Truman meets with a turncoat from a rival gang. This tense showdown erupts quickly into mayhem, when Rains makes his unexpected entrance. In the wake of the ensuing bloodbath, Truman is forced to reevaluate his own role in the small, violent world he inhabits, suddenly aware that there are larger powers at work which he does not understand...",
+    "releaseDate": "2005-01-01",
+    "runtime": 120
+  },
+  {
+    "id": 60949,
+    "title": "Toys in the Attic",
+    "genres": [
+      "Thriller",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "In an attic full of discarded junk, a pretty doll called Buttercup lives in an old trunk together with her friends, the marionette Prince Charming, lazy Teddy Bear and the plasticine creature Schubert. When Buttercup is snatched and taken off to the Land of Evil, her pals set out to rescue her.",
+    "releaseDate": "2009-04-04",
+    "runtime": 75
+  },
+  {
+    "id": 65257,
+    "title": "Longshot",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "Teen Alex Taylor and his older brother Jack live in L.A. where Jack is a personal fitness trainer. Jack had an affair with Mitzi Price, a very powerful business man's wife. Her husband, Laszlo Price, then blackmails Jack into going to New York City to get information from Rachel Montgomery, about who she is selling her company to. Jack brings Alex with him to make sure that he will be safe. Jack and Rachel fall in love while Alex falls in love Rachel's daughter Kelly. Eventually Jack tells Rachel why he was sent to New York, and the two work together to bring Laszlo Price down. Rachel needs to have two million dollars in order to not sell her company. Alex wins the money in a halftime contest at a basketball game. They provide information about Laszlo Price to the police, and he is arrested.",
+    "releaseDate": "2001-10-25",
+    "runtime": 93
+  },
+  {
+    "id": 20558,
+    "title": "Scooby-Doo! in Where's My Mummy?",
+    "genres": [
+      "Animation",
+      "Thriller",
+      "Family"
+    ],
+    "overview": "Scooby-Doo and the Mystery Inc. gang become involved in a supernatural mystery in Egypt.",
+    "releaseDate": "2005-11-24",
+    "runtime": 75
+  },
+  {
+    "id": 12903,
+    "title": "Scooby-Doo! and the Goblin King",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Thriller",
+      "Family"
+    ],
+    "overview": "Scooby-Doo and Shaggy must go into the underworld ruled by the Goblin King in order to stop a mortal named The Amazing Krudsky who wants power and is a threat to their pals, Fred, Velma and Daphne.",
+    "releaseDate": "2008-01-01",
+    "runtime": 75
+  },
+  {
+    "id": 42971,
+    "title": "Mrs. Ashboro's Cat",
+    "genres": [
+      "Thriller",
+      "Family"
+    ],
+    "overview": "Wes Merritt and his daughter Natalie (14) get more than they bargained for when they buy an old house that was formerly inhabited by the nice old Mrs. Ashboro and her pet cat, Margaret. When strange things start happening in the house, all fingers point to the presence of Margaret, who died the same day as Mrs. Ashboro. But why has she come back to haunt them?",
+    "releaseDate": "2003-01-01",
+    "runtime": 90
+  },
+  {
+    "id": 55951,
+    "title": "Aadhavan",
+    "genres": [
+      "Thriller",
+      "Action",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "overview": "Aadhavan (Tamil: ஆதவன்) is a 2009 Tamil action thriller, directed by K. S. Ravikumar and written by Ramesh Khanna. The film features Surya Sivakumar in the title role along with Nayantara in lead roles and Murali, Vadivelu, Anand Babu, Ramesh Khanna, B. Saroja Devi, Rahul Dev, Sayaji Shinde in its supporting cast. The music is composed by Harris Jayaraj. The film, simultaneously dubbed into Telugu as Ghatikudu, was released on October 17, 2009 during Diwali. This film was Malayalam actor Murali's last film before his death in August 2009.",
+    "releaseDate": "2009-10-17",
+    "runtime": 135
+  },
+  {
+    "id": 330421,
+    "title": "Papanasam",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "A cinephile tries to protect his family by hiding a heat-of-the-moment murder committed by his daughter by taking cues from the films he has watched. With the victim the son of a cop, can he get away with it?",
+    "releaseDate": "2015-07-03",
+    "runtime": 181
+  },
+  {
+    "id": 261817,
+    "title": "Gabriel",
+    "genres": [
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "Convinced that reuniting with his old girlfriend will bring his dreams to fruition, Gabriel risks it all in a desperate and increasingly obsessive pursuit.",
+    "releaseDate": "2014-04-17",
+    "runtime": 88
+  },
+  {
+    "id": 44133,
+    "title": "Turning Point",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Family",
+      "Foreign",
+      "Thriller"
+    ],
+    "overview": "Laughing (MICHAEL TSE) is formally a police undercover. However due to a drug trafficking case, Inspector Pan (FELIX WONG) is hot on his trails. Before Laughing becomes a police undercover, he works under triad leader Yi (ANTHONY WONG). Yi treats Laughing as his own brother, however to protect his territory and illegal businesses, Yi instructed Laughing to join the police force and act as his undercover. Laughing is a high-flyer in the police academy. However he never got a chance to join the force because he is specially picked by Inspector Xian (YUEN BIAO) to be an undercover in the underworld syndicate. Hence Laughing becomes a “double-undercover”. Yi is happy that Laughing is allocated to the triad of his rival (FRANCIS NG). To make his situation worse, Laughing falls in love with the triad leader’s sister, Karen. Justice, brotherhood and love, what will Laughing decide on? His decision will be a turning point in his life.",
+    "releaseDate": "2009-08-13",
+    "runtime": 78
+  },
+  {
+    "id": 339060,
+    "title": "The Cokeville Miracle",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "History",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "On May 9, 1986, a small ranching community in Wyoming experiences a divine intervention when a couple detonates a bomb inside a crowded classroom.",
+    "releaseDate": "2015-06-05",
+    "runtime": 94
+  },
+  {
+    "id": 101806,
+    "title": "The Mad Doctor",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Horror",
+      "Thriller"
+    ],
+    "overview": "A dark and stormy night. Pluto is spirited away to the spooky mansion of an evil genius for a mad transplant scheme to put his head on the body of a chicken. Mickey gives chase, but find himself threatened severely by the house and its denizens.",
+    "releaseDate": "1933-01-21",
+    "runtime": 7
+  },
+  {
+    "id": 26381,
+    "title": "Christmas Town",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Family"
+    ],
+    "overview": "A week before Christmas Liza McCann visit her estranged father who strangely lives in a town decked out for the holidays and is full of Christmas spirit. Strange events immediately occur when they arrive challenging everything Liza had once believed in.",
+    "releaseDate": "2008-12-09",
+    "runtime": 90
+  },
+  {
+    "id": 210320,
+    "title": "Science Fiction",
+    "genres": [
+      "Adventure",
+      "Thriller",
+      "Family",
+      "Science Fiction"
+    ],
+    "overview": "Nine-year old Andreas Decker is the new kid in town. He tells his class that he has lived all over the world on account of his parents being top scientific researchers. Yet classmate Vero finds Andreas's workaholic parents really weird. She suggests to spy on them. When Andreas overhears their conversation about conquering the world and becoming leaders, their can only be one conclusion for the baffled children: Andreas's parents are aliens.",
+    "releaseDate": "2002-09-28",
+    "runtime": 90
+  },
+  {
+    "id": 325712,
+    "title": "Cool Cat Saves the Kids",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Music",
+      "Thriller"
+    ],
+    "overview": "Cool Cat is the coolest cat in town. All the kids love him. Except for the bully Butch, who hates Cool Cat for his coolness. He terrorizes Cool Cat, his friends and family with threats, taunting, and the internet. Can Cool Cat face his fears and defeat the bully Derrick.",
+    "releaseDate": "2015-02-01",
+    "runtime": 72
+  },
+  {
+    "id": 63654,
+    "title": "Ko",
+    "genres": [
+      "Action",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "The movie opens with a scene of a bank robbery in progress. The actions of the robbers during the gateway is photographed by Ashwin (Jeeva). After a chase, the injured Ashwin loses his camera to the robbers but managed to retrieve the memory card. His brave actions are broadcasted in the local TV channels and earns him praises from his colleagues and media friends.",
+    "releaseDate": "2011-04-22",
+    "runtime": 160
+  },
+  {
+    "id": 25778,
+    "title": "Felicity: An American Girl Adventure",
+    "genres": [
+      "Action",
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "overview": "Pre-American Revolution Virginian girl whose love for the outdoors leads to the friendship of a lifetime. Felicity loves horses, and though her parents plead with her to remain indoors, she years to ride the open plains. When Felicity comes into contact with a beautiful mare which has suffered at the hands of its callous owner, she takes it upon herself to care for the creature.",
+    "releaseDate": "2005-11-29",
+    "runtime": 86
+  },
+  {
+    "id": 45891,
+    "title": "The Ten Lives of Titanics the Cat",
+    "genres": [
+      "Drama",
+      "Action",
+      "Thriller",
+      "Mystery",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "Liv is an eleven year-old Olso girl who begins to notice strange events unfolding on the ground level of her apartment building. When Liv and her best friend Thomas venture downstairs to get to the bottom of the mystery, they discover an aged photograph of two girls and a cat. Suddenly, the cat comes bounding out of the photograph, prompting young Liv to fall unconscious. She starts experiencing vivid  visions. Could it be that someone is trying to tell Liv something, and are these events tied to a strange catastrophe that unfolded on these same grounds nearly one hundred years ago? Despite the fact that few adults seem to believe her incredible story, an elderly neighbor living upstairs may just have the information that will allow Liv and Thomas to unlock the truth behind the strange events unfolding all around them.",
+    "releaseDate": "2007-10-31",
+    "runtime": 74
+  }
+]

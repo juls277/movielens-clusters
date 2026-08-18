@@ -1,0 +1,800 @@
+[
+  {
+    "id": 2102,
+    "title": "Solar Crisis",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Science Fiction",
+      "Foreign"
+    ],
+    "overview": "A huge solar flare is predicted to fry the Earth. Astronauts aboard the spaceship Helios must go to the Sun to drop a bomb equipped with an Artificial Intelligence (Freddy) and a Japanese pilot (as a back up if the Artificial Intelligence fail) at the right time so the flare will point somewhere else.",
+    "releaseDate": "1990-07-14",
+    "runtime": 112
+  },
+  {
+    "id": 4628,
+    "title": "Enigma",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Foreign"
+    ],
+    "overview": "Five highly-trained KGB agents are sent to the west to assassinate several Soviet dissidents. In order to stop the diabolical plot, an American agent must infiltrate Soviet intelligence and obtain information from a Russian computer.",
+    "releaseDate": "1983-01-28",
+    "runtime": 122
+  },
+  {
+    "id": 71714,
+    "title": "Lucía, Lucía",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Crime",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Lucia, an children's book author, tells the story of her husband's disappearance. One day on their way to Brazil he just disappears. She goes to the police, gets a ransom note, and makes friends with the old dude downstairs and the young dude upstairs as she tries to find him. Things take a bit of a twist as she realized the kidnapping may not be as simple as it seems on the surface.",
+    "releaseDate": "2003-01-17",
+    "runtime": 110
+  },
+  {
+    "id": 58995,
+    "title": "Night Crossing",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "Two men want to escape from East Germany (under Communist rule) but they will only go if they can take their families with them. Based on a true story.",
+    "releaseDate": "1982-02-05",
+    "runtime": 107
+  },
+  {
+    "id": 23305,
+    "title": "The Warrior",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Action",
+      "Foreign"
+    ],
+    "overview": "In feudal India, a warrior (Khan) who renounces his role as the longtime enforcer to a local lord becomes the prey in a murderous hunt through the Himalayan mountains.",
+    "releaseDate": "2001-09-23",
+    "runtime": 86
+  },
+  {
+    "id": 17811,
+    "title": "The Legend II",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Foreign"
+    ],
+    "overview": "The hero Fong Sai Yuk becomes involved in the secret brotherhood \"The Red Flower\", who are trying to overthrow the Manchurian emperor and re-establishing the Ming dynasty. The social upheaval is combined with Sai Yuk's personal moral conflict about how to conform to the rigid regime of the brotherhood and on top of that sort out his difficult love life, saddled with two presumptive wives.",
+    "releaseDate": "1993-07-30",
+    "runtime": 95
+  },
+  {
+    "id": 11373,
+    "title": "Strawberries in the Supermarket",
+    "genres": [
+      "Comedy",
+      "Foreign",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "Ex-soldier storms supermarket and takes all cashiers captive because one of them insulted his grandmother.",
+    "releaseDate": "2003-02-06",
+    "runtime": 90
+  },
+  {
+    "id": 37232,
+    "title": "Travellers and Magicians",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Foreign"
+    ],
+    "overview": "A young government official, named Dondup, who is smitten with America (he even has a denim gho) dreams of escaping there while stuck in a beautiful but isolated village. He hopes to connect in the U.S. with a visa out of the country. He misses the one bus out of town to Thimphu, however, and is forced to hitchhike and walk along the Lateral Road to the west, accompanied by an apple seller, a Buddhist monk with his ornate, dragon-headed dramyin, a drunk, a widowed rice paper maker, and his beautiful daughter, Sonam.",
+    "releaseDate": "2003-09-09",
+    "runtime": 108
+  },
+  {
+    "id": 41380,
+    "title": "The Prodigal Son",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Foreign"
+    ],
+    "overview": "A rich man's son (Yuen Biao) believes himself to be the best kung fu fighter in Canton. Unfortunately, his father, anxious for his son's safety, bribes all his opponents to lose. After a humiliating defeat at the hands of an actor in a traveling theatre company, the son resolves to find a better teacher. Furious kung fu battles and slapstick comedy.",
+    "releaseDate": "1981-11-10",
+    "runtime": 100
+  },
+  {
+    "id": 25795,
+    "title": "Thieves",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Foreign",
+      "Romance"
+    ],
+    "overview": "The main character is a nameless boy (Juan Jose Ballesta) who was taught to steal wallets by his absent mother. He is able to do the trick effortlessly, using his \"earnings\" to survive while he looks for his mom. As he runs into an antique store owner, he might have found a trace that will lead to her. First, however, he will have to pull off a few \"jobs\" for the store owner, and he can't do it alone: enter a nameless girl (Maria Valverde) who gets to learn all the secret techniques the young boy has been using all his life.",
+    "releaseDate": "2007-08-08",
+    "runtime": 105
+  },
+  {
+    "id": 38140,
+    "title": "To Rob a Thief",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Foreign"
+    ],
+    "overview": "Emilio, a Colombian con man, arrives in LA with two weeks to complete his plan to rob a former colleague, Claudio Silvestrini, who's made a fortune using infomercials to peddle snake oil to Latin immigrants. Emilio's friend Alejandro, who sells pirated DVDs, has assembled a team of amateurs, who, as Alejandro says, will go unnoticed because they're immigrants. The team must gain entry to Silvestrini's well-guarded mansion, steal two keys to access a vault, and then get the money off the property. A father and his tomboy daughter, a nervous Cuban actor, a techie, and a muscle man make up the team, plus Alejandro has been courting Silvestrini's nanny. Will they be enough?",
+    "releaseDate": "2007-08-31",
+    "runtime": 98
+  },
+  {
+    "id": 33104,
+    "title": "Don",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime",
+      "Foreign",
+      "Thriller"
+    ],
+    "overview": "A ruthless gangster named Don is killed during a scuffle with the police. Since only DSP DeSilva knows of this incident, he recruits another person named Vijay who is a spitting image of Don. Vijay is planted in Don's place in Don's gang and DeSilva has a plan to nab the entire gang in this way. But when DeSilva dies during a raid, the secret that Vijay is not Don is also buried with him.",
+    "releaseDate": "1978-04-20",
+    "runtime": 166
+  },
+  {
+    "id": 50936,
+    "title": "Moon Warriors",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Foreign",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A kind-hearted fisherman, content with simple life, is reluctantly drawn into helping a noble emperor regain his throne from his evil brother.",
+    "releaseDate": "1992-12-19",
+    "runtime": 83
+  },
+  {
+    "id": 20311,
+    "title": "Love the Beast",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Documentary",
+      "Foreign",
+      "Mystery",
+      "Thriller"
+    ],
+    "overview": "What if you were a Hollywood movie star with an obsession for cars and racing? Eric Bana is such a star!",
+    "releaseDate": "2009-03-12",
+    "runtime": 92
+  },
+  {
+    "id": 105347,
+    "title": "How Tasty Was My Little Frenchman",
+    "genres": [
+      "Comedy",
+      "Foreign",
+      "Adventure"
+    ],
+    "overview": "In 1594 in Brazil, the Tupinambás Indians are friends of the Frenches and their enemies are the Tupiniquins, friends of the Portugueses. A Frenchman (Arduíno Colassanti) is captured by the Tupinambás, and in spite of his trial to convince them that he is French, they believe he is Portuguese. The Frenchman becomes their slave, and maritally lives with Seboipepe (Ana Maria Magalhães). *Contains Spoilers* Later, he uses powder in the cannons that the Portuguese left behind to defeat the Tupiniquins in a battle. In order to celebrate the victory, the Indians decide to eat him.",
+    "releaseDate": "1971-06-01",
+    "runtime": 84
+  },
+  {
+    "id": 27442,
+    "title": "Senseless",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Foreign",
+      "Horror",
+      "Thriller"
+    ],
+    "overview": "Elliott Gast (Jason Behr) is quickly climbing the corporate ladder of international commerce, negotiating deals to generate large fortunes for giant corporations. His success makes him the target for political extremists who kidnap him and broadcast his imprisonment and mutilation over the internet as macabre reality show and fundraiser.",
+    "releaseDate": "2008-01-01",
+    "runtime": 87
+  },
+  {
+    "id": 37438,
+    "title": "Road, Movie",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Foreign"
+    ],
+    "overview": "A young man's journey across the mythic Indian landscape becomes a life changing odyssey.",
+    "releaseDate": "2009-09-18",
+    "runtime": 95
+  },
+  {
+    "id": 52445,
+    "title": "Soo",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Foreign"
+    ],
+    "overview": "Tae-soo tries to steal from a gang. The gang catches Tae-Soo's brother, Tae-Jin, instead. The incident causes the brothers to separate. Tae-Soo becomes a mob fixer and an assassin. Tae-Jin becomes a police detective. When a call brings the brothers together, they get ready for brotherly bonding, but Tae-Jin gets killed. Tae-Soo decides to get revenge on his brother's killer.",
+    "releaseDate": "2007-03-22",
+    "runtime": 122
+  },
+  {
+    "id": 44963,
+    "title": "Shogun's Ninja",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Foreign"
+    ],
+    "overview": "In the middle of the 16th century, Hideyoshi, a power hungry warlord sets out to destroy the Momochi clan. He sends his war commander in search of the clan's hidden gold only to find that two daggers are the key to the hiding place of the treasured gold. Spanning decades, the quest for the missing daggers takes Shiranui through war and ancient tradition.",
+    "releaseDate": "1980-11-15",
+    "runtime": 117
+  },
+  {
+    "id": 8931,
+    "title": "The Bastards",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Foreign",
+      "Thriller"
+    ],
+    "overview": "A 24 hour period in the lives of Fausto and Jesus, two undocumented Mexican day-laborers in L.A. Each day another task, each day the same pressure to find money. They go about their daily routine, standing on the corner at the Home Improvement Store waiting for work to come. Today, the job they are given is well paid compared to their poor usual wages.",
+    "releaseDate": "2008-05-20",
+    "runtime": 90
+  },
+  {
+    "id": 58069,
+    "title": "May 18",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Foreign"
+    ],
+    "overview": "The citizens of Gwangju lead a relatively peaceful life, until one day the military takes over the city, accusing the residents of conspiracy and claiming that they are communist sympathisers preparing a revolution against the current government. Seeing as the soldiers beat defenceless people, mainly students, to death, the citizens are in for retaliation and form a militia.",
+    "releaseDate": "2007-07-25",
+    "runtime": 118
+  },
+  {
+    "id": 31680,
+    "title": "Prisoner 701: Sasori",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Foreign"
+    ],
+    "overview": "When a band of assassins invade the home of their target Hei Tai they find only his lovely, innocent, bride-to-be, Nami and force upon her a cruel dilemma: either she kills her fiancee’s sister or they kill her fiancee. Trapped, and unable to confide in the person she loves most, Nami kills her fiancee’s sister and is sent to prison where she survives only by becoming as ruthless as those around her. Trained to fight by a fellow inmate, Nami develops the skills and strength to escape and sets out on a quest for revenge. After killing two of the assassins she’s reunited with Hei Tai who’s still unaware she killed his sister. As their love is rekindled Nami decides to abandon her crusade of vengeance when the remaining assassin finds them and tells Hei Tai what Nami did. Nami realizes she can never rest until she finds and defeats the assassins’ employer, but now her beloved’s torn between helping her and his own personal desire for revenge.",
+    "releaseDate": "2008-01-01",
+    "runtime": 101
+  },
+  {
+    "id": 58790,
+    "title": "Blood Tide",
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Action",
+      "Foreign"
+    ],
+    "overview": "An adventurer hunting for treasure in Greece accidentally frees a monster that forces local villagers to sacrifice virgins",
+    "releaseDate": "1982-09-01",
+    "runtime": 82
+  },
+  {
+    "id": 53031,
+    "title": "Living Free",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "When Elsa's three mischievious cubs begin wreaking havok on the nearby villages, Joy and her husband are forced to move them hundreds of miles to a game preserve.",
+    "releaseDate": "1972-12-16",
+    "runtime": 90
+  },
+  {
+    "id": 64272,
+    "title": "War of the Shaolin Temple",
+    "genres": [
+      "Foreign",
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "overview": "Set during the Sung Dynasty, patriotic monks of the Shaolin Temple fight against foreign invasion.",
+    "releaseDate": "1980-09-14",
+    "runtime": 89
+  },
+  {
+    "id": 149961,
+    "title": "The Sentimental Swordsman",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Foreign"
+    ],
+    "overview": "Due to his own extreme ideals, famed swordsman Li has lost everyone dear to him. After his life is saved by a rival swordsman, Li's overwhelming pride means he forsakes the woman he loves and lets her marry his saviour. Li's only comfort is alcohol and the simple life he has now accepted. On one such journey, the lonely swordsman befriends the exceptionally skilled, yet secretive Fei who has his own pressures to contend with. The person behind Li's troubles proves to be elusive, though all the clues seem to point to the legendary 'Plum Blossom Bandit', a disguised figure whose identity has long proved elusive to the martial world.",
+    "releaseDate": "1977-10-14",
+    "runtime": 101
+  },
+  {
+    "id": 72440,
+    "title": "Once Upon a Warrior",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Family",
+      "Foreign"
+    ],
+    "overview": "In a teardrop-shaped land called Sangarashtra, a 9-year-old girl with special healing powers tries to save her homeland from the tyranny of an evil queen with the help of a blind swordsman.",
+    "releaseDate": "2011-01-14",
+    "runtime": 138
+  },
+  {
+    "id": 38281,
+    "title": "Atomic Rulers",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Foreign",
+      "Adventure"
+    ],
+    "overview": "Super criminals are planning to infiltrate Earth with mass nuclear destruction! Only Starman can defend civilization by thwarting evil!",
+    "releaseDate": "1965-01-01",
+    "runtime": 83
+  },
+  {
+    "id": 107891,
+    "title": "Ambush",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Foreign"
+    ],
+    "overview": "An officer of the law and his father are framed for a robbery they did not commit. With only his father's sword at the scene and the man nowhere to be found the officer flees in order to discover who really stole the jewels so that he may clear the family name.",
+    "releaseDate": "1973-01-05",
+    "runtime": 97
+  },
+  {
+    "id": 55069,
+    "title": "The Delivery",
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Action",
+      "Thriller",
+      "Foreign"
+    ],
+    "overview": "Sometimes the easiest jobs get a little complicated",
+    "releaseDate": "1999-09-16",
+    "runtime": 99
+  },
+  {
+    "id": 137769,
+    "title": "The Magic Crystal",
+    "genres": [
+      "Family",
+      "Adventure",
+      "Foreign",
+      "Animation",
+      "Comedy"
+    ],
+    "overview": "A magic crystal causes double the number of gifts Santa can deliver all over the world and this makes for many happy gezinnetjes. His criminal assistant Basil however has a diabolical plan: he wants to steal the crystal so as to gain control over the minds of the children. The brave boy Yotan act to prevent and concocts a plan.",
+    "releaseDate": "2011-11-18",
+    "runtime": 80
+  },
+  {
+    "id": 112054,
+    "title": "Beyond Justice",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Foreign"
+    ],
+    "overview": "A woman's ex-husband, who is the son of an Arab chieftain, kidnaps their teenage son and brings him back to Morocco, where the boy is to be made the leader of the tribe. The child's mother hires a mercenary to get her son and bring him back to her.",
+    "releaseDate": "1992-12-02",
+    "runtime": 113
+  },
+  {
+    "id": 90720,
+    "title": "The Hellbenders",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "The Civil War has ended, but not for Jonas, a ruthless Confederate officer who wants to continue the fight by reorganizing Confederate troops in the Southwest with the support of a large sum of stolen money. He devises an elaborate ruse to allow his small party to travel with minimal scrutiny through hostile territory, for the money is hidden in a coffin said to contain the body of his dead son. Jonas' other sons travel with him along with a hired \"widow\", as they proceed to what they hope to be a new start to the War between the States. However, while en route, they face severe, ongoing strife among themselves and successive threats from Union soldiers, a posse of cowboys, and an Indian war party.",
+    "releaseDate": "1967-02-02",
+    "runtime": 90
+  },
+  {
+    "id": 98223,
+    "title": "From the Orient with Fury",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Foreign"
+    ],
+    "overview": "A scientist who has invented a weapon capable of disintegrating solid matter is kidnapped by a criminal gang, which intends to sell the scientist and his weapon to the highest bidder. A secret agent and the scientist's daughter set out to track down the kidnappers and rescue the scientist.",
+    "releaseDate": "1965-09-24",
+    "runtime": 94
+  },
+  {
+    "id": 117098,
+    "title": "Cloudburst",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Foreign"
+    ],
+    "overview": "When Dot (Brenda Fricker)'s granddaughter puts her into a nursing home, Stella (Olympia Dukakis) stages a breakout, and takes Dot to Canada so they can get married. They pick up a hitchhiker along the way.",
+    "releaseDate": "2011-09-23",
+    "runtime": 93
+  },
+  {
+    "id": 37789,
+    "title": "R.O.D - Read or Die",
+    "genres": [
+      "Science Fiction",
+      "Animation",
+      "Foreign",
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "overview": "A young female agent with a powerful psionic power over paper must stop a plot for world destruction.",
+    "releaseDate": "2001-05-23",
+    "runtime": 99
+  },
+  {
+    "id": 55853,
+    "title": "Gang of Four",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Foreign",
+      "Mystery"
+    ],
+    "overview": "Four inseparable high-school seniors gain from each other the courage to face the harsh realities of their rapidly approaching adulthood.",
+    "releaseDate": "1989-02-08",
+    "runtime": 160
+  },
+  {
+    "id": 94052,
+    "title": "Azazel",
+    "genres": [
+      "Mystery",
+      "Adventure",
+      "Action",
+      "Foreign",
+      "Drama"
+    ],
+    "overview": "Based on Boris Akunin's novel 'Azazel' (English title 'The Winter Queen') set in Moscow in 1876. The novel started a long series quite popular in Russia. In 'Azazel' a young police officer - Erast Fandorin - investigates an odd suicide of some rich young man and finds a complex conspiracy, trying to take over most European countries - from Britain to Ottoman Empire - with the best intentions, of course.",
+    "releaseDate": "2002-03-10",
+    "runtime": 208
+  },
+  {
+    "id": 50341,
+    "title": "The Divine Weapon",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Foreign",
+      "History"
+    ],
+    "overview": "During the reign of King Sejong, Joseon Dynasty was the embodiment of the perfect state. To the Ming China, the aspiring imperial power, Joseon presented an obstacle to territorial expansion. The Ming China demanded submission and interfered with internal affairs of Joseon. All the while keeping Joseon in check with the constant threat of the northern barbarians. Disgusted by the Chinese interference, King Sejong secretly develops the 'Phantom Arrowslinger,' a weapon he intends to use to take back Joseon's land and supremacy - but When Chinese spies discover the plan, the Chinese emperor attempts to disrupt the development with force, setting off a chain reaction of violence.",
+    "releaseDate": "2008-09-04",
+    "runtime": 134
+  },
+  {
+    "id": 67337,
+    "title": "Killer Darts",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Foreign"
+    ],
+    "overview": "They brutally killed his wife, wiped out dozens of his innocent people, and burnt his entire village down to a charbroiled crisp. Now, master Liou Wen-lung (Fang Mien) is out for revenge. Armed with a near-invincible sword style and a pack of killer darts, he heads out to settle a 10-year old grudge with the cold-blooded evildoers. Joining him is his son (Yueh Hua), an orphan named Yu Sien (Chin Ping) and his trusty servant.",
+    "releaseDate": "1968-05-09",
+    "runtime": 87
+  },
+  {
+    "id": 32149,
+    "title": "Once Upon a Time",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Foreign"
+    ],
+    "overview": "The film is a heist comedy set in 1940s Korea, and stars Park Yong-woo and Lee Bo-young as a con artist and jazz singer who each plot to steal a valuable diamond from the Japanese authorities.",
+    "releaseDate": "2008-01-31",
+    "runtime": 110
+  },
+  {
+    "id": 55765,
+    "title": "Righteous Ties",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Foreign"
+    ],
+    "overview": "An eccentric but faithful mafia, Chi-sung is sent to prison for his part in a gang fight. But when his parents are attacked by a rival mob and his own people take no action, he realizes that a decade of loyalty towards the gang has become futile. Determined to confront his own boss, he finds a way to escape from prison with his fellow inmates. Meanwhile, his friend Joo-joong is given the task to stop Chi-sung, forcing him to choose between the bond of friendship and loyalty towards the gang.",
+    "releaseDate": "2006-10-19",
+    "runtime": 126
+  },
+  {
+    "id": 33106,
+    "title": "Silver Medalist",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Foreign"
+    ],
+    "overview": "An action-adventure story focused on the lives of express deliverymen, traffic cops and lonely beauties.",
+    "releaseDate": "2009-01-20",
+    "runtime": 99
+  },
+  {
+    "id": 84106,
+    "title": "Captains of the Sands",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Foreign"
+    ],
+    "overview": "About the life and adventures of a gang of abandoned street kids known as \"Capitães da Areia\" (Captains of the Sands), in Salvador, Bahia, during the 1950s.",
+    "releaseDate": "2011-10-07",
+    "runtime": 96
+  },
+  {
+    "id": 22359,
+    "title": "Any Gun Can Play",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Western",
+      "Foreign"
+    ],
+    "overview": "Any Gun Can Play (Italian: Vado... l'ammazzo e torno) is a 1967 spaghetti western starring Gilbert Roland, Edd Byrnes and George Hilton. The film is directed by Enzo G. Castellari and features a score by Francesco De Masi and Alessandro Alessandroni. It follows a familiar pattern of protagonists searching for gold, double-crossing one another and a high body count. The three main characters continually change allegiances and get the upper hand only to be thwarted by fellow outlaws, mysterious insurance investigators and each other. In the opening scene one of the three outlaws is dressed very similar to Clint Eastwood's character in the \"Dollars\" trilogy, one is dressed as Lee Van Cleef's characters in those and other westerns, and one as Franco Nero's character Django.",
+    "releaseDate": "1967-09-26",
+    "runtime": 103
+  },
+  {
+    "id": 17223,
+    "title": "Two Tigers",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Foreign",
+      "Thriller"
+    ],
+    "overview": "No overview found.",
+    "releaseDate": "2007-02-14",
+    "runtime": 0
+  },
+  {
+    "id": 48242,
+    "title": "Hundra",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Foreign"
+    ],
+    "overview": "Born in a tribe of fierce warrior women, Hundra has been raised to despise the influence of men. An archer, fighter and sword fighter, Hundra is superior to any male. Hundra finds her family slain and takes a vow of revenge until one day she meets her match.",
+    "releaseDate": "1983-01-01",
+    "runtime": 109
+  },
+  {
+    "id": 48180,
+    "title": "Amazons",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "Foreign"
+    ],
+    "overview": "An epic from the dark ages about the legendary lost tribe of warrior women! The girls fly into danger, come up against fierce tribes, fall prey to sorcery, put to rest a family rivalry of centuries past and battle to victory!",
+    "releaseDate": "1986-10-26",
+    "runtime": 87
+  },
+  {
+    "id": 48449,
+    "title": "The Pocket-knife",
+    "genres": [
+      "Foreign",
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Drama"
+    ],
+    "overview": "Mees has a problem. By accident he took his best friend's pocket knife home with him. Unfortunately he is too late to return it as the next day Tom moves house. All that Mees knows is that Tom has gone to Flevoland. His parents are tied up in their own lives and have no room for little Mees' problems. His mother is a world-famous singer and it seems Mees sees her more on TV than in real life. His father is under a lot of pressure acting as a housekeeper and as secretary for his popular wife. So little Mees must search alone for his friend..... Written by kabouter",
+    "releaseDate": "1992-10-15",
+    "runtime": 90
+  },
+  {
+    "id": 186881,
+    "title": "Treasure Hunters",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Foreign"
+    ],
+    "overview": "Fu Sheng and his real-life brother star as friends who are searching for a treasure that a Shaolin priest (Gordon Liu), a villainous traitor (Wang Lung Wei) and his sister (Yang Ching Ching) are also trying to find.",
+    "releaseDate": "1981-07-09",
+    "runtime": 104
+  },
+  {
+    "id": 31184,
+    "title": "The Accidental Gangster and the Mistaken Courtesean",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Foreign"
+    ],
+    "overview": "Korea, 1724. Once upon a time in the Choson Dynasty, Chun-doong falls in love at first sight with a beautiful woman whilst in the middle of a fight.When she is delivered by accident to Chun-doong's tavern to work as a maid, he is the happiest man in the land until she is snatched away by her rightful owner.He vows to get her back, but alone he is no match for Man-deuk.",
+    "releaseDate": "2008-12-03",
+    "runtime": 103
+  },
+  {
+    "id": 187422,
+    "title": "Call to Arms",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Foreign"
+    ],
+    "overview": "The aggressive and dangerous Chin empire occupies the put-upon Chao kingdom while the hero-filled Wei empire is paralysed by an indecisive ruler.",
+    "releaseDate": "1973-01-18",
+    "runtime": 84
+  },
+  {
+    "id": 25843,
+    "title": "Karas: The Prophecy",
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Science Fiction",
+      "Foreign",
+      "Action",
+      "Adventure"
+    ],
+    "overview": "In a Japanese city haunted by nature spirits and demons, a secret war is raging between the renegade demon Eko and a spectral warrior known as the Karas. Eko has mechanized himself and his followers to defend against the unearthly fury of the Karas; in addition to an armored humanoid form, the Karas can transform into any of various heavily armed and armored vehicles. Eko and his followers prefer to live in the material realm in human form, but to continue doing so they must feed on the fluids of human bodies. Their periodic feasts result in massacres that leave only a single traumatized survivor; these \"inexplicable\" tragedies are the obsession of a marginalized police inspector whose daughter was the survivor of one such massacre. Opposing Eko are the renegade demon Nue, who also lives in the material world in human form but refuses to drink blood or take a mechanized form, and Otoha, a former human who is summoned by the mysterious Yurine to become the new Karas",
+    "releaseDate": "2005-05-25",
+    "runtime": 90
+  },
+  {
+    "id": 64784,
+    "title": "Gestalt",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Comedy",
+      "Foreign"
+    ],
+    "overview": "Oliver is a young priest of that Vasaria order, and a devout servant of his church. He has grown up with legends of a god who dwells on G, a distant island so forbidden that even speaking its name brings certain damnation! When Oliver saves the mute girl Ohiri from slavery, their destinies become intertwined and they set out on a perilous journey to G. Actually a silenced sorceress from the forbidden island, Ohiri is involved in a deadly game of survival that brings her and Oliver face to face with treacherous dark elves, powerful elementals, and a quest filled with plot twists, magic, and wonder.",
+    "releaseDate": "1997-01-22",
+    "runtime": 60
+  },
+  {
+    "id": 83876,
+    "title": "The Avenging Eagle",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Foreign"
+    ],
+    "overview": "Eagle Chief Yoh Xi-hung raises orphans to be his personal killers. One such is Chik Ming-sing who now wants to put his killer life behind him. When the Eagle Clan come after him, a stranger called Cheuk comes to his assistance It turns out that Cheuk is the son of a family who were robbed and murdered by the Eagles. Now they will team up to destroy the evil clan.",
+    "releaseDate": "1978-09-13",
+    "runtime": 90
+  },
+  {
+    "id": 57278,
+    "title": "The Hexer",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Foreign",
+      "Science Fiction"
+    ],
+    "overview": "The TV series and the film were loosely based on Andrzej Sapkowski's book series The Witcher (Wiedźmin).",
+    "releaseDate": "2001-11-09",
+    "runtime": 130
+  },
+  {
+    "id": 39751,
+    "title": "Drunken Monkey",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Foreign"
+    ],
+    "overview": "China, the early 1930's: martial arts master Wen Biao discovers that his brother has been using their security company for illegal activities. A confrontation between the brothers leaves Web Biao missing and presumed dead.",
+    "releaseDate": "2002-12-06",
+    "runtime": 97
+  },
+  {
+    "id": 42247,
+    "title": "Treasure Raiders",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Foreign"
+    ],
+    "overview": "Michael, an American professor teaching history at Moscow University, finances his passion for treasure hunting with competitive street racing. His racing nemesis Wolf becomes his ally as they both embark on a quest to search for a famous ancient Russian treasure.",
+    "releaseDate": "2007-04-20",
+    "runtime": 95
+  },
+  {
+    "id": 32388,
+    "title": "Golden Swallow",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Foreign"
+    ],
+    "overview": "Golden Swallow revolves around the further adventures of its title character. This time around, she is forced into violence when a figure from her mysterious past goes on a killing rampage while leaving evidence that holds her responsible. Golden Swallow also makes room for a love triangle involving a mad, but righteous, swordsman named Silver Roc and a gentle warrior named Golden Whip. The three team up to conquer the evil forces of the martial world, but their joint venture only lasts so long, due to the two men's egos. Ultimately, a duel to the death is planned between them, leaving Golden Swallow caught between two men, both of whom she admires.",
+    "releaseDate": "1968-04-03",
+    "runtime": 89
+  }
+]

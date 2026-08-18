@@ -1,0 +1,322 @@
+[
+  {
+    "id": 9425,
+    "title": "Soldier",
+    "genres": [
+      "Action",
+      "War",
+      "Science Fiction"
+    ],
+    "overview": "Sergeant Todd is a veteran soldier for an elite group of the armed forces. After being defeated by a new breed of genetically engineered soldiers, he is dumped on a waste planet and left for dead. He soon interacts with a group of crash survivors who lead out a peaceful existence. The peace is broken as the new soldiers land on the planet to eliminate the colony, which Sergeant Todd must defend.",
+    "releaseDate": "1998-10-23",
+    "runtime": 99
+  },
+  {
+    "id": 5491,
+    "title": "Battlefield Earth",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "In the year 3000, man is no match for the Psychlos, a greedy, manipulative race of aliens on a quest for ultimate profit. Led by the powerful Terl, the Psychlos are stripping Earth clean of its natural resources, using the broken remnants of humanity as slaves. What is left of the human race has descended into a near primitive state. After being captured, it is up to Tyler to save mankind.",
+    "releaseDate": "2000-05-10",
+    "runtime": 118
+  },
+  {
+    "id": 13995,
+    "title": "Captain America",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America.\" Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
+    "releaseDate": "1990-12-14",
+    "runtime": 97
+  },
+  {
+    "id": 26508,
+    "title": "The War Game",
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "War",
+      "Documentary",
+      "TV Movie"
+    ],
+    "overview": "The War Game is a fictional, worst-case-scenario docudrama about nuclear war and its aftermath in and around a typical English city. Although it won an Oscar for Best Documentary, it is fiction. It was intended as an hour-long program to air on BBC 1, but it was deemed too intense and violent to broadcast. It went to theatrical distribution as a feature film instead. Low-budget and shot on location, it strives for and achieves convincing and unflinching realism.",
+    "releaseDate": "1965-11-01",
+    "runtime": 48
+  },
+  {
+    "id": 58589,
+    "title": "Metal Gear Solid: Philanthropy",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "METAL GEAR SOLID PHILANTHROPY is a movie inspired by the Hideo Kojima’s videogame series “Metal Gear Solid”. It is not a Hollywood-style production, better a fan movie made out of the passion of some fans, non profit and no budget. The movie has been released on September 27th, 2009, for free.",
+    "releaseDate": "2009-09-27",
+    "runtime": 69
+  },
+  {
+    "id": 28426,
+    "title": "Invisible Agent",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "The Invisible Man's grandson uses his secret formula to spy on Nazi Germany in this comedy-thriller.",
+    "releaseDate": "1942-07-31",
+    "runtime": 81
+  },
+  {
+    "id": 55863,
+    "title": "On the Double",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction",
+      "War",
+      "Foreign"
+    ],
+    "overview": "American GI Ernie Williams, admittedly weak-kneed, has an uncanny resemblance to British Colonel MacKenzie. Williams, also a master of imitation and disguise, is asked to impersonate the Colonel, ostensibly to allow the Colonel to make a secret trip East. What Williams is not told is that the Colonel has recently been a target of assassins. After the Colonel's plane goes down, the plan changes and Williams maintains the disguise to confuse the Nazis about D-Day.",
+    "releaseDate": "1961-05-19",
+    "runtime": 92
+  },
+  {
+    "id": 262475,
+    "title": "G.I. Joe: The Revenge of Cobra",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Action",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "Destro has created a Weather Dominator machine that can control the power of nature anywhere on earth. The G.I. Joe team stops Cobra Commander from using its destructive power, but during the battle, the machine is blown into three pieces and weather everywhere is thrown into chaos. G.I. Joe is in a race against time to recover the pieces first, so that they can stop the devastating weather and prevent Cobra from ruling the world!",
+    "releaseDate": "1984-09-10",
+    "runtime": 150
+  },
+  {
+    "id": 17790,
+    "title": "Zone Troopers",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "American soldiers, led by The Sarge, are stuck behind Nazi enemy lines. As they make their way across the Italian countryside, they come across an alien spaceship that has crash-landed in the woods. The alien pilot is dead, but one of the ship's passengers is on the loose. As the GIs hunt down the alien by splitting into smaller groups, they're not only tracked by the Nazis, but also a whole host of other aliens come to save their stranded party.",
+    "releaseDate": "1985-10-01",
+    "runtime": 86
+  },
+  {
+    "id": 28524,
+    "title": "Princess of Mars",
+    "genres": [
+      "Fantasy",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "Based on the novel by Edgar Rice Burroughs, a US soldier finds himself inexplicably transported to Mars in the midst of a war between two alien races.",
+    "releaseDate": "2009-12-29",
+    "runtime": 93
+  },
+  {
+    "id": 42712,
+    "title": "The X from Outer Space",
+    "genres": [
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "The spaceship AAB-Gamma is dispatched from FAFC headquarters in Japan to make a landing on the planet Mars and investigate reports of UFOs in the area. As they near the red planet, they encounter a mysterious UFO that coats the ship's hull with unusual spores. Taking one of the specimens back to earth, it soon develops and grows into a giant chicken-lizard-alien monster that tramples Japan.",
+    "releaseDate": "1967-03-25",
+    "runtime": 89
+  },
+  {
+    "id": 60747,
+    "title": "Red Dawn",
+    "genres": [
+      "War",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "overview": "A city in Washington state awakens to the surreal sight of foreign paratroopers dropping from the sky - shockingly, the U.S. has been invaded and their hometown is the initial target. Quickly and without warning, the citizens find themselves prisoners and their town under enemy occupation. Determined to fight back, a group of young patriots seek refuge in the surrounding woods, training and reorganizing themselves into a guerrilla group of fighters. Taking inspiration from their high school mascot, they call themselves the Wolverines, banding together to protect one another, liberate their town from its captors, and take back their freedom.",
+    "releaseDate": "2012-11-21",
+    "runtime": 93
+  },
+  {
+    "id": 54919,
+    "title": "The Gladiators",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "Some time in the future, East and West have stopped maintaining standing armies and nuclear weapons. Instead, to settle their differences they pit different teams of crack combat specialists against each other.",
+    "releaseDate": "1969-06-25",
+    "runtime": 102
+  },
+  {
+    "id": 343070,
+    "title": "Flight World War II",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "International Flight 42 is on course, when all of a sudden a massive and weird storm crops up around the plane. This sends the plane back in time to the year 1940- smack dab in the middle of WWII! Now, the crew and passengers must not only find a way back to their time, but fight off the Axis powers.",
+    "releaseDate": "2015-06-02",
+    "runtime": 90
+  },
+  {
+    "id": 39229,
+    "title": "Mobile Suit Gundam II: Soldiers of Sorrow",
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Drama",
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "overview": "After managing to survive attacks by Zeon's Char Aznable and Garma Zabi, the crew of Federation warship White Base and its mobile suits battle Zeon forces (Ramba Ral, Ma Kube, Tri-Stars, Boone) through Asia, Europe, and the Atlantic Ocean if they are to reach Earth Federation's headquarters alive. During that process many of its crewmembers like Amuro Ray, Bright Noah, Kai Shinden, Sayla Mass, Mirai Yashima, Fraw Bow, and Hayato Kobayashi must overcome their fears, losses, immaturities, and insecurities in order to survive.",
+    "releaseDate": "1981-07-11",
+    "runtime": 139
+  },
+  {
+    "id": 39230,
+    "title": "Mobile Suit Gundam III: Encounters in Space",
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "overview": "Amuro Ray and the rest of the White Base crew, now denominated the 13th Autonomous Corps, return to outer space to support the rest of the Earth Federation forces for the decisive battle against the Duchy of Zeon's forces.",
+    "releaseDate": "1982-03-13",
+    "runtime": 144
+  },
+  {
+    "id": 185354,
+    "title": "The War of the Worlds: Next Century",
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "War"
+    ],
+    "overview": "Film opens on December 18, 1999, just a few days before the dawn of the new century. A local reporter, Iron Idem, announces that the Martians have landed. Shortly after that his program loses its independence: he is given the script telling the crowds how to welcome the invaders.",
+    "releaseDate": "1981-09-29",
+    "runtime": 96
+  },
+  {
+    "id": 277098,
+    "title": "Battle Fairy Yukikaze",
+    "genres": [
+      "Science Fiction",
+      "Animation",
+      "Action",
+      "War"
+    ],
+    "overview": "Thirty-three years ago, an alien force known as the \"JAM\" invaded Earth through a dimensional portal over Antarctica. Earth's forces managed to drive the JAM away to a distant planet designated as \"Fairy\". While the majority of Earth's population is unaware of the JAM's presence, the war continues on Fairy, where Rei Fukai is an SAF (Special Air Force) pilot assigned to pilot \"Yukikaze\"—an advanced reconnaissance fighter plane equipped with a near-sentient A.I. that detects the presence of the JAM within its path.",
+    "releaseDate": "2002-05-12",
+    "runtime": 185
+  },
+  {
+    "id": 80520,
+    "title": "Second Nature",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Science Fiction",
+      "Thriller",
+      "War"
+    ],
+    "overview": "Everything is not as it seems for a man who recovers from a plane crash in which his family is killed. After plastic surgery and rehabilitation, he determines that he worked for a secret agency for which he was an assassin. His former boss puts him back to work to assassinate a political leader, but when he proves unable to pull the trigger, it is he who becomes the target for assassins. As he avoids capture, the story unfolds about his true past and the reason why he has a tattoo of \"chilly willy\" inside his lip.",
+    "releaseDate": "2003-06-22",
+    "runtime": 90
+  },
+  {
+    "id": 49426,
+    "title": "The Fog",
+    "genres": [
+      "Drama",
+      "War",
+      "Science Fiction"
+    ],
+    "overview": "Present time. A squad of young soldiers of the Russian army during the march-throw splits from the main group. In order to save time, they decide to cut the path, but get into the strange fog, which transfers them to the past, right into the World War the Second. Boys, who saw fight only in the movies, and imagined it on the training field, get into the heart of the real WAR. Real courage, real fear, real love and hate, and real DEATH. No time to ask questions. Survive and fight for your country!",
+    "releaseDate": "2010-05-09",
+    "runtime": 151
+  },
+  {
+    "id": 256608,
+    "title": "Embassy",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "Young couple living in the old house suddenly discover an elevator which takes them directly to year 1939.",
+    "releaseDate": "2013-10-18",
+    "runtime": 105
+  },
+  {
+    "id": 107170,
+    "title": "Ghost Recon: Alpha",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller",
+      "War"
+    ],
+    "overview": "Ghost Recon: Alpha sees a team led by Ghost Leader infiltrate a trade at a Russian depot between a general and a mysterious other figure.",
+    "releaseDate": "2012-05-03",
+    "runtime": 24
+  },
+  {
+    "id": 281338,
+    "title": "War for the Planet of the Apes",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.",
+    "releaseDate": "2017-07-11",
+    "runtime": 140
+  },
+  {
+    "id": 51424,
+    "title": "Tomorrow I'll Wake Up and Scald Myself with Tea",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "Former Nazi Klaus Abard survives to the 1990s by taking anti-ageing pills. He plans to use a time travel trip to return to Germany in 1944 and present Hitler with a hydrogen bomb, so that he can win the war. Unfortunately the pilot, woman-chasing Karel Bures, dies on the morning of the trip and his earnest twin brother Jan impersonates him, without knowing about the plot. The plot goes wrong when they lose the bomb and land near Hitler's bunker in 1941, at a time that the Nazis sense victory. Bures, with two of the plotters, escape capture by the Nazis and make it back to the time machine. Bures programs the machine to return one day before they left, because he figures he can then save his brother and foil the plot.",
+    "releaseDate": "1977-06-01",
+    "runtime": 93
+  },
+  {
+    "id": 463800,
+    "title": "Firebase",
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "War"
+    ],
+    "overview": "Set during the Vietnam war, Firebase follows American soldier Hines through an ever-deepening web of science fiction madness.",
+    "releaseDate": "2017-06-28",
+    "runtime": 27
+  }
+]

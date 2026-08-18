@@ -1,0 +1,986 @@
+[
+  {
+    "id": 10020,
+    "title": "Beauty and the Beast",
+    "genres": [
+      "Romance",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+    "releaseDate": "1991-11-13",
+    "runtime": 84
+  },
+  {
+    "id": 11962,
+    "title": "Joe's Apartment",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Music"
+    ],
+    "overview": "A nice guy has just moved to New York and discovers that he must share his run-down apartment with a couple thousand singing, dancing cockroaches.",
+    "releaseDate": "1996-07-26",
+    "runtime": 78
+  },
+  {
+    "id": 12335,
+    "title": "Bedknobs and Broomsticks",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "overview": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster (Eglantine Price). The children's initial fears disappear when they find out she is in fact a trainee witch.",
+    "releaseDate": "1971-10-07",
+    "runtime": 117
+  },
+  {
+    "id": 6116,
+    "title": "Spice World",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Music"
+    ],
+    "overview": "The film follows the Spice Girls and their entourage (mostly fictional characters) - manager Clifford, his assistant Deborah, filmmaker Piers (who is trying to shoot a documentary on \"the real Spice Girls\") and others in their everyday life.",
+    "releaseDate": "1997-12-19",
+    "runtime": 93
+  },
+  {
+    "id": 6970,
+    "title": "Welcome to Woop Woop",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Fantasy",
+      "Adventure"
+    ],
+    "overview": "A con artist escapes a deal gone wrong in New York and winds up in the Aussie outback in a strange town whose inhabitants are an oddball collection of misfits.",
+    "releaseDate": "1998-08-13",
+    "runtime": 106
+  },
+  {
+    "id": 10693,
+    "title": "Peter Pan",
+    "genres": [
+      "Animation",
+      "Music",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "Leaving the safety of their nursery behind, Wendy, Michael and John follow Peter Pan to a magical world where childhood lasts forever. But while in Neverland, the kids must face Captain Hook and foil his attempts to get rid of Peter for good.",
+    "releaseDate": "1953-02-05",
+    "runtime": 77
+  },
+  {
+    "id": 16081,
+    "title": "Doctor Dolittle",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Get ready for the wildest adventure of a lifetime in the most ambitious production ever brought to film. Earning a 1967 Academy Award nomination for Best Picture, this dazzling fantasy turns both ordinary and exotic animals into talking, dancing and singing sensations! Rex Harrison is unforgettable in this inspiring adaptation of Hugh Lofting's classic stories.Step into the English country home of the good doctor as he performs remarkable treatments on the wildest variety of patients you could imagine. Discover his secret cures and watch with wide-eyed excitement as he and his four-legged, fine-feathered friends charm their way into your heart!",
+    "releaseDate": "1967-12-19",
+    "runtime": 152
+  },
+  {
+    "id": 12105,
+    "title": "Yellow Submarine",
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "The Blue Meanies take over Pepperland, draining it of all its color and music, firing anti-music missiles, bonking people with green apples, and turning the inhabitants to stone by way of the pointed finger of a giant blue glove. As the only survivor, the Lord Admiral escapes in the yellow submarine and goes to Liverpool to enlist the help of the Beatles.",
+    "releaseDate": "1968-07-17",
+    "runtime": 90
+  },
+  {
+    "id": 17889,
+    "title": "Anchors Aweigh",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Two sailors, Joe (Kelly) and Clarence (Sinatra) have four days shore leave in spend their shore leave trying to get a girl for Clarence. Clarence has his eye on a girl with musical aspirations, and before Joe can stop him, promises to get her an audition with José Iturbi. But the trouble really starts when Joe realizes he's falling for his buddy's girl.",
+    "releaseDate": "1945-07-14",
+    "runtime": 143
+  },
+  {
+    "id": 19933,
+    "title": "The Brave Little Toaster",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "overview": "A group of dated appliances find themselves stranded in a summer home that their family had just sold decide to, a la The Incredible Journey, seek their young 8 year old \"master\". Children's film which on the surface is a frivolous fantasy, but with a dark subtext of abandonment, obsolescence, and loneliness.",
+    "releaseDate": "1987-07-09",
+    "runtime": 90
+  },
+  {
+    "id": 33743,
+    "title": "The 5,000 Fingers of Dr. T.",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Young Bart Collins lives with his widowed mother Heloise. The major blight on Bart's existence is the hated piano lessons he is forced to endure under the tutelage of the autocratic Dr. Terwilliker. Bart feels that his mother has fallen under Terwilliker's sinister influence, and gripes to visiting plumber August Zabladowski, without much result. While grimly hammering away at his lessons, Bart dozes off and enters a fantastical musical dream.",
+    "releaseDate": "1953-07-01",
+    "runtime": 89
+  },
+  {
+    "id": 27327,
+    "title": "Phantom of the Paradise",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Music",
+      "Thriller"
+    ],
+    "overview": "Rock Opera version of Phantom Of The Opera with elements of Faust. Record producer Swan steals both the music and the girl (Phoenix) from composer Leach. Disfigured Leach plans revenge on Swan and his rock palace, The Paradise, and becomes The Phantom. Leach signs contract with Swan to complete rock opera based on the life of Faust for Phoenix. Double crossed by Swan who hires heavy metal singer Beef, Leach exacts his vengeance.",
+    "releaseDate": "1974-10-31",
+    "runtime": 92
+  },
+  {
+    "id": 15668,
+    "title": "Xanadu",
+    "genres": [
+      "Fantasy",
+      "Music",
+      "Romance"
+    ],
+    "overview": "A beautiful muse inspires an artist and his older friend to convert a dilapidated auditorium into a lavish rollerskating club.",
+    "releaseDate": "1980-08-08",
+    "runtime": 96
+  },
+  {
+    "id": 24961,
+    "title": "The Wiz",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "A Thanksgiving dinner brings a host of family together in a Harlem apartment, where a 24-year-old schoolteacher named Dorothy Gale (Diana Ross) lives with her Aunt Em (Theresa Merritt) and Uncle Henry (Stanley Greene). Extremely introverted, she has, as Aunt Em teases her, \"never been south of 125th Street\", and refuses to move out and on with her life.",
+    "releaseDate": "1978-10-24",
+    "runtime": 134
+  },
+  {
+    "id": 42017,
+    "title": "Absolute Beginners",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "overview": "A musical adaptation of Colin MacInnes' novel about life in late 1950s London. Nineteen-year-old photographer Colin is hopelessly in love with model Crepe Suzette, but her relationships are strictly connected with her progress in the fashion world. So Colin gets involved with a pop promoter and tries to crack the big time. Meanwhile, racial tension is brewing in Colin's Notting Hill housing estate...",
+    "releaseDate": "1986-01-01",
+    "runtime": 108
+  },
+  {
+    "id": 41426,
+    "title": "Jubilee",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Queen Elizabeth I visits late twentieth-century Britain to find a depressing landscape where life has changed since her time.",
+    "releaseDate": "1978-02-01",
+    "runtime": 106
+  },
+  {
+    "id": 40423,
+    "title": "Black Orpheus",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Young lovers Orfeu and Eurydice run through the favelas of Rio during Carnaval, on the lam from a hitman dressed like Death and Orfeu's vengeful fiancée Mira and passing between moments of fantasy and stark reality. This impressionistic retelling of the Greek legend of Orpheus and Eurydice introduced bossa nova to the world with its soundtrack by young Brazilian composers Luiz Bonfá and Antonio Carlos Jobim.",
+    "releaseDate": "1959-01-01",
+    "runtime": 100
+  },
+  {
+    "id": 11708,
+    "title": "Chitty Chitty Bang Bang",
+    "genres": [
+      "Music",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "An eccentric professor invents wacky machinery, but can't seem to make ends meet. When he invents a revolutionary car, a foreign government becomes interested in it, and resorts to skulduggery to get their hands on it.",
+    "releaseDate": "1968-12-16",
+    "runtime": 144
+  },
+  {
+    "id": 44864,
+    "title": "The Magic Flute",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "overview": "The Queen of the Night enlists a handsome prince named Tamino to rescue her beautiful kidnapped daughter, Princess Pamina, in this screen adaptation of the beloved Mozart opera. Aided by the lovelorn bird hunter Papageno and a magical flute that holds the power to change the hearts of men, young Tamino embarks on a quest for true love, leading to the evil Sarastro's temple where Pamina is held captive.",
+    "releaseDate": "1975-01-01",
+    "runtime": 134
+  },
+  {
+    "id": 18283,
+    "title": "Brigadoon",
+    "genres": [
+      "Music",
+      "Romance",
+      "Fantasy"
+    ],
+    "overview": "Americans Jeff and Tommy, hunting in Scotland, stumble upon a village - Brigadoon. They soon learn that the town appears once every 100 years in order to preserve its peace and special beauty. The citizens go to bed at night and when they wake up, it's 100 years later. Tommy falls in love with a beautiful young woman, Fiona, and is torn between staying or going back to his hectic life in New York.",
+    "releaseDate": "1954-09-08",
+    "runtime": 108
+  },
+  {
+    "id": 49069,
+    "title": "The Apple",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Science Fiction",
+      "Music"
+    ],
+    "overview": "Musical set in the 'future', e.g. 1994. A young couple enters the world of the music industry, but also the world of drugs.",
+    "releaseDate": "1980-11-21",
+    "runtime": 90
+  },
+  {
+    "id": 41253,
+    "title": "Damn Yankees!",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Film adaptation of the George Abbott Broadway musical about a Washington Senators fan who makes a pact with the Devil to help his baseball team win the league pennant.",
+    "releaseDate": "1958-07-23",
+    "runtime": 111
+  },
+  {
+    "id": 37627,
+    "title": "The Little Prince",
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Family",
+      "Music"
+    ],
+    "overview": "Based on the story by Antoine deSaint-Exupery, this magical musical fable begins as a pilot (Richard Kiley) makes a forced landing on the barren Sahara Desert. He is befriended by a \"little\" prince from the planet Asteroid B-612. In the days that follow, the pilot learns of the small boy's history and planet-hopping journeys in which he met a King, a businessman, an historian, and a general. It isn't until he comes to Earth that the Little Prince learns the secrets of the importance of life from a Fox (Gene Wilder), a Snake (Bob Fosse), and the pilot.",
+    "releaseDate": "1974-11-06",
+    "runtime": 88
+  },
+  {
+    "id": 13192,
+    "title": "Moonwalker",
+    "genres": [
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "A movie that starts out with the \"Man in the Mirror\" music video, it then changes to a montage of video clips of Michael's career. Next comes a parody of his Bad video by children, and then Michael is chased by fans in a fantasy sequence. 2 more videos are shown, and then a movie in which Michael plays a hero with magical powers. In it he is chased by drug dealer Mr. Big and saves three children. Videos included in the movie are \"Smooth Criminal\" and \"Come Together\".",
+    "releaseDate": "1988-10-29",
+    "runtime": 93
+  },
+  {
+    "id": 37209,
+    "title": "The Saddest Music in the World",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "In Depression-era Winnipeg, a legless beer baroness hosts a contest for the saddest music in the world, offering a grand prize of $25,000. Contestants flock in from around the globe. Representing America is Chester Kent, a theatre producer who thinks he's an American despite being Canadian; representing Serbia is his brother, Gavrilo the Great, who is succumbing to madness over the death of his son; and representing Canada is their father, a pathetic drunkard. As the competition builds toward its climax, these estranged characters are brought together to express their deep feelings of pain and ultimately give in to treachery.",
+    "releaseDate": "2003-09-17",
+    "runtime": 100
+  },
+  {
+    "id": 42622,
+    "title": "Finian's Rainbow",
+    "genres": [
+      "Music",
+      "Romance",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "An Irishman, Finian, and his daughter Sharon, arrive in Rainbow Valley, a Southern town of tobacco sharecroppers in the state of Missitucky. The town has its own resident dreamer, Woody, who thinks that he might be able to put the town on the map by crossing mint with tobacco so that it'll grow mentholated. Finian's came to town because he's stolen a leprechaun's crock of gold and plans to plant it in the ground. But trouble arrives in the form of Og the leprechaun, who has followed Finian and wants his gold. Meanwhile, the bigoted Senator Billboard Rawkins, in an effort to stop progress in his state in the form of a new dam and hydroelectric system, plans to take the remaining parcel of land needed to stop the project. But the government's geologists reveal the Senator that gold has been detected on the property! Rawkins and his men confront the sharecroppers to seize their land using as an excuse an obscure law making it a felony for blacks and whites to live together.",
+    "releaseDate": "1968-10-09",
+    "runtime": 141
+  },
+  {
+    "id": 27645,
+    "title": "200 Motels",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Documentary",
+      "Science Fiction",
+      "Music"
+    ],
+    "overview": "\"Touring makes you crazy,\" Frank Zappa says, explaining that the idea for this film came to him while the Mothers of Invention were touring. The story, interspersed with performances by the Mothers and the Royal Symphony Orchestra, is a tale of life on the road. The band members' main concerns are the search for groupies and the desire to get paid.",
+    "releaseDate": "1971-11-10",
+    "runtime": 98
+  },
+  {
+    "id": 3933,
+    "title": "Corpse Bride",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Animation",
+      "Music"
+    ],
+    "overview": "Set in a 19th-century european village, this stop-motion animation feature follows the story of Victor, a young man whisked away to the underworld and wed to a mysterious corpse bride, while his real bride Victoria waits bereft in the land of the living.",
+    "releaseDate": "2005-09-09",
+    "runtime": 77
+  },
+  {
+    "id": 59964,
+    "title": "Cabin in the Sky",
+    "genres": [
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Chronic gambler and carouser \"Little\" Joe Jackson is shot by Domino Johnson at Jim Henry's gambling club over an outstanding gambling debt. Little Joe's wife, the God-fearing Petunia Jackson, prays not only for her husband's mortal life, but also his eternal soul as she's afraid that if he dies now, he, despite not being an evil man, won't make it into heaven. As Little Joe is close to death, he is visited by agents of both the Lord and of Lucifer. They make a deal with him: they will give him six months to atone for the errors of his human life. Once back on Earth, he won't remember the deal but both the Lord and Lucifer will be watching over him, trying to get him to see things their way. As both sides try to get Little Joe's soul, they figure that some of the most powerful tools they have at their disposal are the women in Little Joe's life: Petunia on behalf of the Lord, and Georgia Brown, a gold-digging floozy, on behalf of Lucifer.",
+    "releaseDate": "1943-04-09",
+    "runtime": 98
+  },
+  {
+    "id": 34127,
+    "title": "Wonder Man",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Fantasy"
+    ],
+    "overview": "Boisterous nightclub entertainer Buzzy Bellew was the witness to a murder committed by gangster Ten Grand Jackson. One night, two of Jackson's thugs kill Buzzy and dump his body in the lake at Prospect Park in Brooklyn. Buzzy comes back as a ghost and summons his bookworm twin, Edwin Dingle, to Prospect Park so that he can help the police nail Jackson.",
+    "releaseDate": "1945-01-01",
+    "runtime": 98
+  },
+  {
+    "id": 42464,
+    "title": "O Lucky Man!",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "overview": "This sprawling, surrealist musical serves as an allegory for the pitfalls of capitalism, as it follows the adventures of a young coffee salesman in Europe. Many actors play multiple roles, giving the film a stagy tone.",
+    "releaseDate": "1973-03-25",
+    "runtime": 183
+  },
+  {
+    "id": 44502,
+    "title": "The Piano Tuner of Earthquakes",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Drama",
+      "Music"
+    ],
+    "overview": "Dark fairytale about a demonic doctor who abducts a beautiful opera singer with designs on transforming her into a mechanical nightingale.",
+    "releaseDate": "2005-09-09",
+    "runtime": 99
+  },
+  {
+    "id": 13501,
+    "title": "The Good Night",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Gary, a musician, is trapped in an unhappy relationship with his live-in lover, Dora. He becomes enthralled with a beautiful seductress who enters his dreams, and tries to control his dream-state so he can spend more and more time with her. When Gary sees his mystery woman's face on a bus billboard, he discovers she is real, and fate brings him an opportunity to meet her.",
+    "releaseDate": "2007-01-25",
+    "runtime": 93
+  },
+  {
+    "id": 6477,
+    "title": "Alvin and the Chipmunks",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Family",
+      "Fantasy",
+      "Animation"
+    ],
+    "overview": "A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.",
+    "releaseDate": "2007-12-13",
+    "runtime": 92
+  },
+  {
+    "id": 42884,
+    "title": "Cinderella",
+    "genres": [
+      "TV Movie",
+      "Family",
+      "Fantasy",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Updated version of the classic Rodgers and Hammerstein musical of the classic fairy-tale, with an all-star, multi-racial cast.",
+    "releaseDate": "1997-11-02",
+    "runtime": 88
+  },
+  {
+    "id": 20421,
+    "title": "Rock-A-Doodle",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Chanticleer is a foolhardy farm rooster who believes his crows can actually make the sun come up and shine. When the sun rises one morning without Chanticleer's crow, he leaves the farm in disgrace and runs off to become a rock 'n' roll singer. But in his absence, a sinister, sunshine-hating owl prepares to take over.",
+    "releaseDate": "1991-08-02",
+    "runtime": 77
+  },
+  {
+    "id": 18974,
+    "title": "The 3 Worlds of Gulliver",
+    "genres": [
+      "Music",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "overview": "Doctor Gulliver is poor, so nothing - not even his charming fiancée Elisabeth - keeps him in the town he lives. He signs on to a ship to India, but in a storm he's washed off the ship and ends up on an island, which is inhibitated by very tiny people. After he managed to convince them he's harmless and is accepted as one of their citizens, their king wants to use him in war against a people of giants. Compared to them, even Gulliver is a gnome.",
+    "releaseDate": "1960-11-30",
+    "runtime": 100
+  },
+  {
+    "id": 44334,
+    "title": "The Tales of Hoffmann",
+    "genres": [
+      "Fantasy",
+      "Music",
+      "Romance",
+      "Adventure"
+    ],
+    "overview": "Hoffmann is a lovelorn young man in Nuremberg who is watching his latest love, Stella, dance in the ballet. In the interval he goes to the tavern where he tells his friends the tales of the three major loves of his life. Each story forms a separate act of this filmic version of the Offenbach opera.",
+    "releaseDate": "1951-04-04",
+    "runtime": 128
+  },
+  {
+    "id": 23398,
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Pop sensations Alvin, Simon and Theodore end up in the care of Dave Seville's twenty-something nephew Toby. The boys must put aside music super stardom to return to school, and are tasked with saving the school's music program by winning the $25,000 prize in a battle of the bands. But the Chipmunks unexpectedly meet their match in three singing chipmunks known as The Chipettes - Brittany, Eleanor and Jeanette. Romantic and musical sparks are ignited when the Chipmunks and Chipettes square off.",
+    "releaseDate": "2009-12-21",
+    "runtime": 88
+  },
+  {
+    "id": 5590,
+    "title": "Donkey Skin",
+    "genres": [
+      "Music",
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "A fairy godmother helps a princess disguise herself so she won't have to marry her father.",
+    "releaseDate": "1970-12-20",
+    "runtime": 90
+  },
+  {
+    "id": 15552,
+    "title": "Cirque du Soleil: Varekai",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Icarus (Anton Chelnokov) is the main character of Varekai, who falls to the ground, breaking his legs as he does. He is suddenly in a strange, new world full of creatures he has never seen before. \"Parachuted into the shadows of a magical forest, a kaleidoscopic world populated by fantastical creatures, this young man sets off on an adventure both absurd and extraordinary.",
+    "releaseDate": "2003-10-07",
+    "runtime": 0
+  },
+  {
+    "id": 73191,
+    "title": "The Nutcracker",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "On Christmas Eve, a little girl named Marie (Cohen) falls asleep after a party at her home and dreams herself into a fantastic world where toys become larger than life. She meets up with the Nutcracker Prince (Culkin) who defends her from the Mouse King.",
+    "releaseDate": "1993-11-24",
+    "runtime": 93
+  },
+  {
+    "id": 47310,
+    "title": "Invitation to the Dance",
+    "genres": [
+      "Music",
+      "Animation",
+      "Fantasy"
+    ],
+    "overview": "Three completely different stories are told through dance.",
+    "releaseDate": "1956-05-22",
+    "runtime": 93
+  },
+  {
+    "id": 90395,
+    "title": "Just Imagine",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Music",
+      "Science Fiction"
+    ],
+    "overview": "New York, 1980: airplanes have replaced cars, numbers have replaced names, pills have replaced food, government-arranged marriages have replaced love, and test tube babies have replaced ... well, you get the idea. Scientists revive a man struck by lightning in 1930; he is rechristened \"Single O\". He is befriended by J-21, who can't marry the girl of his dreams because he isn't \"distinguished\" enough -- until he is chosen for a 4-month expedition to Mars by a renegade scientist. The Mars J-21, his friend, and stowaway Single O visit is full of scantily clad women doing Busby Berkeley-style dance numbers and worshiping a fat middle-aged man.",
+    "releaseDate": "1930-11-23",
+    "runtime": 113
+  },
+  {
+    "id": 55301,
+    "title": "Alvin and the Chipmunks: Chipwrecked",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Family",
+      "Music",
+      "Animation"
+    ],
+    "overview": "Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.",
+    "releaseDate": "2011-12-14",
+    "runtime": 87
+  },
+  {
+    "id": 181649,
+    "title": "Chu Chin Chow",
+    "genres": [
+      "Music",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "Musical retelling of the \"Ali Baba and the 40 Thieves\" Arabian Nights tale.",
+    "releaseDate": "1934-05-01",
+    "runtime": 103
+  },
+  {
+    "id": 201676,
+    "title": "My Little Pony: Equestria Girls",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Via a magic mirror, Twilight Sparkle travels into an alternate universe in order to recover a crown that was stolen from the Crystal Empire. Upon her arrival she is horrified to learn that she has turned into a human.",
+    "releaseDate": "2013-06-15",
+    "runtime": 72
+  },
+  {
+    "id": 34461,
+    "title": "Alice's Adventures in Wonderland",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "An all-star cast highlights this vibrant musical adaptation of Lewis Carroll's immortal tale. One day, plucky young Alice follows a white rabbit down a hole and discovers a world of bizarre characters.",
+    "releaseDate": "1972-01-01",
+    "runtime": 101
+  },
+  {
+    "id": 180048,
+    "title": "Amen",
+    "genres": [
+      "Fantasy",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Solomon, who belongs to a band, is in love with Soshanna, who hails from an upper class family. The story spells how Solomon manages to win over all the obstacles to marry Soshanna.",
+    "releaseDate": "2013-03-21",
+    "runtime": 165
+  },
+  {
+    "id": 71316,
+    "title": "Nutcracker: The Motion Picture",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "The colorful holiday classic is finally brought to the big screen, designed by famed children's story author and artist Maurice Sendak, and written for the first time to be as close as possible to the original story. A lavish, exciting and heart-warming celebration of dance, of music, and of life. Based upon the Pacific Northwest Ballet's original production.",
+    "releaseDate": "1986-11-26",
+    "runtime": 89
+  },
+  {
+    "id": 60629,
+    "title": "A Smoky Mountain Christmas",
+    "genres": [
+      "Music",
+      "Fantasy"
+    ],
+    "overview": "A country/western singer on a trip through the Tennessee mountains runs into a reclusive backwoodsman--and a witch.",
+    "releaseDate": "1986-12-14",
+    "runtime": 94
+  },
+  {
+    "id": 224141,
+    "title": "Into the Woods",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Music"
+    ],
+    "overview": "In a woods filled with magic and fairy tale characters, a baker and his wife set out to end the curse put on them by their neighbor, a spiteful witch.",
+    "releaseDate": "2014-12-25",
+    "runtime": 125
+  },
+  {
+    "id": 241287,
+    "title": "Tropico",
+    "genres": [
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "\"Tropico\" is a musical short film by Lana Del Rey, based on the classic biblical story of Adam and Eve. Using music from her 'Paradise' EP, the film is an exploration of redemption in modern LA; the land of gods and monsters.",
+    "releaseDate": "2013-12-05",
+    "runtime": 27
+  },
+  {
+    "id": 67298,
+    "title": "Lisztomania",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "A send-up of the bawdy life of Romantic composer/piano virtuoso Franz Liszt, with ubiquitous phallic imagery and a good portion of the film devoted to Liszt's \"friendship\" with fellow composer Richard Wagner. The film begins during the time when Franz would give piano performance to a crowd of shrieking teenage fans while maintaining affairs with his (multiple!) mistresses. He eventually seeks Princess Carolyne of St. Petersburg (at her invitation), elopes, and, after their marriage is forbidden by the Pope, he embraces the monastic life as an abbé.",
+    "releaseDate": "1975-10-10",
+    "runtime": 103
+  },
+  {
+    "id": 90582,
+    "title": "Tales from Muppetland: The Frog Prince",
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Music"
+    ],
+    "overview": "A retelling of the classic fairy tale of The Frog Prince featuring Kermit the Frog as the narrator, Kermit's nephew Robin as the Frog Prince, Sir Robin, and Sweetums, among others.",
+    "releaseDate": "1971-05-12",
+    "runtime": 50
+  },
+  {
+    "id": 81294,
+    "title": "Rudolph the Red-Nosed Reindeer",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "The rare original version of the classic underdog holiday story by ace animator Max Fleischer.",
+    "releaseDate": "1948-01-01",
+    "runtime": 8
+  },
+  {
+    "id": 302429,
+    "title": "Strange Magic",
+    "genres": [
+      "Music",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "A love potion works its devious charms on fairies, elves and the swamp-dwelling Bog King as they all try to possess the potion for themselves.",
+    "releaseDate": "2015-01-23",
+    "runtime": 99
+  },
+  {
+    "id": 51560,
+    "title": "Oz",
+    "genres": [
+      "Music",
+      "Fantasy",
+      "Comedy"
+    ],
+    "overview": "In this 1976 Australian made retelling of The Wizard of Oz, two teens are dancing at a rural gathering when the girl Dorothy (Joy Dunstan) is knocked unconscious.  In her delirium, she imagines she is hitchhiking to attend the final concert of a rock star known as \"The Wizard\" (Graham Matters).  All the characters from the classic children's tale appear on her journey, transformed into modern-day Australian characters.  The Scarecrow is a somewhat dim-witted surfer-lad (in Australian lingo, a \"surfie\"), a cowardly biker is, of course, the Cowardly Lion, and so on.  This musical is not designed for younger children, and is instead suitable for mature teens and young adults.",
+    "releaseDate": "1976-07-29",
+    "runtime": 100
+  },
+  {
+    "id": 273106,
+    "title": "Peter Pan",
+    "genres": [
+      "Music",
+      "Family",
+      "Fantasy",
+      "TV Movie"
+    ],
+    "overview": "Broadway musical adaptation of the fabled children's story.",
+    "releaseDate": "2000-10-10",
+    "runtime": 104
+  },
+  {
+    "id": 248417,
+    "title": "Patch Town",
+    "genres": [
+      "Music",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "overview": "Patch Town, inspired by the award-winning short film of the same name.  After years in a loving home, Jon, a toy, was forgotten, deserted and ultimately betrayed by his adoptive mother. He returns to live a sad life as a worker on the line; a life of factory work and oppression in a place where hundreds of cabbage babies are born every day. The thankless task of shucking, picking, and processing these newborns to go out into the world and to their new mothers has taken its toll on Jon. With each new birth, Jon slips deeper into sadness, lamenting the days when life was good and he was loved.",
+    "releaseDate": "2014-01-04",
+    "runtime": 85
+  },
+  {
+    "id": 266639,
+    "title": "Jem and the Holograms",
+    "genres": [
+      "Drama",
+      "Music",
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "In a hyper-linked social media age, an orphaned teenage girl, Jerrica Jem Benton, becomes an online recording sensation, and she and her sisters embark on a music-driven scavenger hunt - one that sends them on an adventure across Los Angeles - in an attempt to unlock a final message left by her father.",
+    "releaseDate": "2015-10-22",
+    "runtime": 119
+  },
+  {
+    "id": 257253,
+    "title": "Le Rossignol",
+    "genres": [
+      "Fantasy",
+      "Music",
+      "TV Movie"
+    ],
+    "overview": "Le Rossignol is a Russian conte lyrique in three acts by Igor Stravinsky. The libretto, based on the tale of The Nightingale by Hans Christian Andersen, was written by the composer and Stepan Mitussov.",
+    "releaseDate": "2005-04-16",
+    "runtime": 50
+  },
+  {
+    "id": 65656,
+    "title": "Beauties of the Night",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Romance",
+      "Fantasy"
+    ],
+    "overview": "A young composer has vivid dreams of the past that reflect, yet conflict with his waking life.",
+    "releaseDate": "1952-11-14",
+    "runtime": 87
+  },
+  {
+    "id": 325712,
+    "title": "Cool Cat Saves the Kids",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Music",
+      "Thriller"
+    ],
+    "overview": "Cool Cat is the coolest cat in town. All the kids love him. Except for the bully Butch, who hates Cool Cat for his coolness. He terrorizes Cool Cat, his friends and family with threats, taunting, and the internet. Can Cool Cat face his fears and defeat the bully Derrick.",
+    "releaseDate": "2015-02-01",
+    "runtime": 72
+  },
+  {
+    "id": 108639,
+    "title": "Blush",
+    "genres": [
+      "Drama",
+      "Music",
+      "Fantasy",
+      "Romance"
+    ],
+    "overview": "In 2004 Wim Vandekeybus shot a 52-minute feature based on his successful performance Blush.  Carried by the music of David Eugene Edwards and Woven Hand and with texts by the Flemish author Peter Verhelst, Blush is a dazzling voyage swinging between the heavenly landscapes of Corsica and the slummiest depths of Brussels.  It is an exploration of the savage subconscious, of mythical forests, of conflicting instincts, of imagination, where the body has reasons unknown to the mind. In dance sequences of attraction, confrontation and repulsion the performers take on animal metamorphoses…",
+    "releaseDate": "2005-12-07",
+    "runtime": 55
+  },
+  {
+    "id": 85904,
+    "title": "The Inner Scar",
+    "genres": [
+      "Music",
+      "Drama",
+      "Fantasy"
+    ],
+    "overview": "A collage of dreams. Garrel made a name for himself with this film as a new Jean Vigo. With Nico (Velvet Underground).  A poetic and painterly film that has been described as 'a collage of dreams'. The film was shot without a script, but Garrel had already thought up the eventual title ('the scar inside'). This title was an obsession for him, every shot had to be an expression of 'the scar inside'. Apart from Garrel himself and actor Pierre Clementi, Garrel's former partner Nico, member of the legendary Velvet Underground, played a role in the film. Another important role was for the landscape. Garrel, 23 when he made the film, was compared with Jean Vigo because of his age and talent. La cicatrice intérieure even led Claude Mauriac to call him the Rimbaud of film. (from https://www.iffr.com/en/films/la-cicatrice-int-rieure/)",
+    "releaseDate": "1972-02-02",
+    "runtime": 60
+  },
+  {
+    "id": 271124,
+    "title": "Woodenhead",
+    "genres": [
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "An innocent rubbish tip assistant, Gert, is given the task of escorting a beautiful mute \"princess\", Plum, on a perilous journey to meet her prospective husband. Their journey is fraught with danger, challenges, romance and discovery. In surreal action, they encounter a menagerie of characters and animals in far-flung corners of New Zealand.",
+    "releaseDate": "2003-07-18",
+    "runtime": 90
+  },
+  {
+    "id": 46632,
+    "title": "Long Live Ghosts!",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Music",
+      "Fantasy"
+    ],
+    "overview": "A trespassing gang of boys encounter a ghost in the ruins of a castle. When they rescue the ghost who is caught in a trapset, they become allies in a fight to prevent ruins from being turned into mushroom farm by the city authorities.",
+    "releaseDate": "1977-11-01",
+    "runtime": 85
+  },
+  {
+    "id": 22750,
+    "title": "The Blood of Jesus",
+    "genres": [
+      "Music",
+      "Drama",
+      "Fantasy"
+    ],
+    "overview": "Razz accidentally shoots his wife Martha when his hunting rifle drops on the floor and discharges. The church congregation gathers at Martha’s bedside to pray for her recovery, and during this period an angel arrives to take Martha’s spirit from her body, but she is tempted by the slick Judas Green, who is an agent for Satan.",
+    "releaseDate": "1941-04-26",
+    "runtime": 57
+  },
+  {
+    "id": 63859,
+    "title": "Pufnstuf",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Jimmy (Jack Wild) ventures to Living Island with his magical, talking flute, Freddy. Once there, he befriends many of the island's inhabitants, but the evil Witchiepoo (Billie Hayes) is determined to steal Freddy the flute away from the boy to impress the visiting witches council and win the Witch of the Year Award.",
+    "releaseDate": "1970-05-03",
+    "runtime": 94
+  },
+  {
+    "id": 223046,
+    "title": "Really Rosie",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Really Rosie is a musical with a book and lyrics by Maurice Sendak and music by Carole King. The musical is based on Sendak's books \"Chicken Soup with Rice\", \"Pierre\", \"One was Johnny\", \"Aligators All Around\" (Which comprise the 1962 book \"The Nutshell Library\"), and \"The Sign on Rosie's Door\". Sendak based the story on a demonstrative little girl who used to sing and dance on the stoop of her building, whom he observed while he was a little boy growing up in Brooklyn.",
+    "releaseDate": "1975-02-19",
+    "runtime": 27
+  },
+  {
+    "id": 407655,
+    "title": "A Cinderella Story: If the Shoe Fits",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "A contemporary musical version of the classic Cinderella story in which the servant step daughter hope to compete in a musical competition for a famous pop star.",
+    "releaseDate": "2016-08-02",
+    "runtime": 92
+  },
+  {
+    "id": 61736,
+    "title": "The Ice Princess",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Music",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "This is another variation of the Cinderella story: the bright and beautiful Ella lives in the household of a lord since her mother died. She's unhappy because the lord's daughters treat her like their servant. The country is in problems, because the prince is a dreamer and doesn't realize that his chancellor abuses his power. When the day nears the prince is forced by law to find a wife, a celebration on a frozen lake is arranged. Ella manages to skate on the lake for him too, hiding her identity. The prince falls in love with her, so he tries to find her. His chancellor attempts to hinder them, since he knows about Ella's critical thoughts.",
+    "releaseDate": "1996-12-12",
+    "runtime": 60
+  },
+  {
+    "id": 212470,
+    "title": "Monster High: 13 Wishes",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music",
+      "Animation"
+    ],
+    "overview": "It’s a new school year at Monster High™, and the little sister of Clawdeen Wolf™, Howleen, is determined to be more fangtastic than ever.  Her dream of popularity turns out to be easier than anyone imagined when she stumbles upon a genie named Gigi Grant™ who grants her not 3, but 13 Wishes!  But the ghouls quickly learn to be s-careful what you wish for because each wish comes with a dark side, and soon the student disem-body of Monster High™ is turned upside-down!  Join Frankie Stein™, Clawdeen Wolf™, Draculaura™ and the rest of their creeperiffic ghoulfriends as they journey deep inside the magic lantern to save the very soul of Monster High™… while flashing their killer style every step of the way!",
+    "releaseDate": "2013-10-08",
+    "runtime": 73
+  },
+  {
+    "id": 64847,
+    "title": "Belladonna of Sadness",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "A peasant woman is banished from her village and makes a deal with the devil to gain magical powers.",
+    "releaseDate": "1973-01-01",
+    "runtime": 89
+  },
+  {
+    "id": 194040,
+    "title": "An Awful Symphony",
+    "genres": [
+      "Music",
+      "Comedy",
+      "Fantasy"
+    ],
+    "overview": "By the time this short subject came out, Segundo de Chomon had bested Georges Méliès at his own game. His camera magic was as fully developed as Méliès. His sense of humor was sharper and his scenes had invaded the real world. Many of the shots of this split-reel short about a bizarre group of tramp musicians who disappear into and out of drums, beach umbrellas and whatnots are shot in the street and the others are on stages decorated to look realistic.",
+    "releaseDate": "1909-01-01",
+    "runtime": 3
+  }
+]

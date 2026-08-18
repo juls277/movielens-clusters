@@ -1,0 +1,144 @@
+[
+  {
+    "id": 16646,
+    "title": "Russian Ark",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Fantasy",
+      "History"
+    ],
+    "overview": "A French marquis (Sergei Dreiden) wanders through a vast labyrinth of corridors, theaters and ballrooms at a reception for a Persian ambassador.",
+    "releaseDate": "2002-05-22",
+    "runtime": 99
+  },
+  {
+    "id": 3084,
+    "title": "Wuthering Heights",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "History",
+      "Romance"
+    ],
+    "overview": "The Earnshaws are Yorkshire farmers during the early 19th Century. One day, Mr. Earnshaw returns from a trip to the city, bringing with him a ragged little boy called Heathcliff. Earnshaw's son, Hindley, resents the child, but Heathcliff becomes companion and soulmate to Hindley's sister, Catherine. After her parents die, Cathy and Heathcliff grow up wild and free on the Moors and despite the continued enmity between Hindley and Heathcliff they're happy -- until Cathy meets Edgar Linton, the son of a wealthy neighbor.",
+    "releaseDate": "1939-04-13",
+    "runtime": 104
+  },
+  {
+    "id": 14449,
+    "title": "The Banquet",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action",
+      "History"
+    ],
+    "overview": "907 AD, the Tang Dynasty in China. The movie is set in an empire in chaos. The Emperor, the Empress, the Crown Prince, the Minister and the General all have their own enemies.",
+    "releaseDate": "2006-09-14",
+    "runtime": 131
+  },
+  {
+    "id": 12580,
+    "title": "Izo",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "History",
+      "Horror"
+    ],
+    "overview": "Izo is an assassin in the service of a Tosa lord and Imperial supporter. After killing dozens of the Shogun's men, Izo is captured and crucified. Instead of being extinguished, his rage propels him through the space-time continuum to present-day Tokyo. Here Izo transforms himself into a new, improved killing machine.",
+    "releaseDate": "2004-08-21",
+    "runtime": 128
+  },
+  {
+    "id": 29932,
+    "title": "Hanussen",
+    "genres": [
+      "Science Fiction",
+      "History",
+      "Drama",
+      "Fantasy"
+    ],
+    "overview": "A man's story parallels Hitler's rise. Austrian Klaus Schneider, wounded in World War I, recovers in the care of Dr. Emil Bettleheim. Bettleheim discovers that Schneider possesses powers of empathy and of clairvoyance, such that could aid suicidal patients. After the war, with one friend as his manager and another as his lover, Schneider changes his name to Eric Jan Hanussen and goes to Berlin, as a hypnotist and clairvoyant performing in halls and theaters. He always speaks the truth, which brings him to the attention of powerful Nazis. He predicts their rise (good propaganda for them) and their violence (not so good). He's in pain and at risk. What is Hanussen's future?",
+    "releaseDate": "1988-05-20",
+    "runtime": 140
+  },
+  {
+    "id": 10852,
+    "title": "Kung Fu Cult Master",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "History",
+      "Science Fiction"
+    ],
+    "overview": "A wild and rollicking martial arts fantasy extravaganza that features prized swords and swordsmen, a crazy monk attached to a rolling boulder, serious clan and cult rivalries, and lots of magic and flying.",
+    "releaseDate": "1993-12-18",
+    "runtime": 99
+  },
+  {
+    "id": 105001,
+    "title": "Iceman",
+    "genres": [
+      "Adventure",
+      "History",
+      "Action",
+      "Science Fiction",
+      "Comedy",
+      "Fantasy"
+    ],
+    "overview": "In the Ming Dynasty, there lives four orphans, Ying, Sao, Yuanlong and Niehu. Raised in Taoyuan Village, the four are as closed as brothers. Their exceptional martial arts skills allows them to reach the highest rank within the imperial guards. After the four successfully killed the Japanese troop leader, the Emperor orders Ying to escort the Golden Wheel of Time from Sindu (now India) back to the capital, which is said to have the power of time travel and foresee into the future.  Now in 2013, Squire Tang, funded by a mysterious financer, digs up three ancient icemen from the outskirt of China; they are Ying, Sao and Niehu. As he is transferring the icemen to Hong Kong for further studies, the vehicle involves in a traffic accident which, unexpectedly, defrosts Ying...",
+    "releaseDate": "2014-04-17",
+    "runtime": 103
+  },
+  {
+    "id": 293238,
+    "title": "Labyrinth",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "History"
+    ],
+    "overview": "She inherits a house in the South of France from an aunt she has never met; she is haunted by dreams of a woman from the past, whom she does not know; and now she stumbles upon an archaeological find that will bear witness to a genocide committed 800 years ago on European soil, which will lead Alice Tanner to the secrets of the Holy Grail.",
+    "releaseDate": "2012-11-24",
+    "runtime": 180
+  },
+  {
+    "id": 57983,
+    "title": "The Jester's Tale",
+    "genres": [
+      "History",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "overview": "An anti-war black comedy set during the Thirty Years' War. The film combines live action with animation to suggest the artistic style of the engraver Matthäus Merian.",
+    "releaseDate": "1964-05-05",
+    "runtime": 82
+  },
+  {
+    "id": 69471,
+    "title": "Lecture 21",
+    "genres": [
+      "Fantasy",
+      "History"
+    ],
+    "overview": "A student takes a bizarre trip through the Italian Alps after being inspired by a professor's lecture on Beethoven's \"Ode to Joy\" from his Ninth Symphony.",
+    "releaseDate": "2008-01-01",
+    "runtime": 92
+  },
+  {
+    "id": 2286,
+    "title": "Crusade in Jeans",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "History"
+    ],
+    "overview": "Dolf a 15 year old boy is sent back in time by a timemachine. Accidentally he is sent back to the Middle Ages. He is rescued by children who are part of a childrens' crusade, on their way to rescue Jeruzalem. During the trip Dolf finds out the danger is not coming from outside the crusade, but from within.",
+    "releaseDate": "2006-11-15",
+    "runtime": 125
+  }
+]

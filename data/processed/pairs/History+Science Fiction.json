@@ -1,0 +1,56 @@
+[
+  {
+    "id": 29932,
+    "title": "Hanussen",
+    "genres": [
+      "Science Fiction",
+      "History",
+      "Drama",
+      "Fantasy"
+    ],
+    "overview": "A man's story parallels Hitler's rise. Austrian Klaus Schneider, wounded in World War I, recovers in the care of Dr. Emil Bettleheim. Bettleheim discovers that Schneider possesses powers of empathy and of clairvoyance, such that could aid suicidal patients. After the war, with one friend as his manager and another as his lover, Schneider changes his name to Eric Jan Hanussen and goes to Berlin, as a hypnotist and clairvoyant performing in halls and theaters. He always speaks the truth, which brings him to the attention of powerful Nazis. He predicts their rise (good propaganda for them) and their violence (not so good). He's in pain and at risk. What is Hanussen's future?",
+    "releaseDate": "1988-05-20",
+    "runtime": 140
+  },
+  {
+    "id": 10852,
+    "title": "Kung Fu Cult Master",
+    "genres": [
+      "Fantasy",
+      "Action",
+      "History",
+      "Science Fiction"
+    ],
+    "overview": "A wild and rollicking martial arts fantasy extravaganza that features prized swords and swordsmen, a crazy monk attached to a rolling boulder, serious clan and cult rivalries, and lots of magic and flying.",
+    "releaseDate": "1993-12-18",
+    "runtime": 99
+  },
+  {
+    "id": 105001,
+    "title": "Iceman",
+    "genres": [
+      "Adventure",
+      "History",
+      "Action",
+      "Science Fiction",
+      "Comedy",
+      "Fantasy"
+    ],
+    "overview": "In the Ming Dynasty, there lives four orphans, Ying, Sao, Yuanlong and Niehu. Raised in Taoyuan Village, the four are as closed as brothers. Their exceptional martial arts skills allows them to reach the highest rank within the imperial guards. After the four successfully killed the Japanese troop leader, the Emperor orders Ying to escort the Golden Wheel of Time from Sindu (now India) back to the capital, which is said to have the power of time travel and foresee into the future.  Now in 2013, Squire Tang, funded by a mysterious financer, digs up three ancient icemen from the outskirt of China; they are Ying, Sao and Niehu. As he is transferring the icemen to Hong Kong for further studies, the vehicle involves in a traffic accident which, unexpectedly, defrosts Ying...",
+    "releaseDate": "2014-04-17",
+    "runtime": 103
+  },
+  {
+    "id": 395560,
+    "title": "Capsule",
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "overview": "Guy is an experienced British fighter pilot who is in command of Britain's first manned mission to space. He has trained for this for three years at the height of the Cold War and now he is alone in space with a malfunctioning capsule. He has limited contact with the UK, some unusual communication with the US and some unorthodox communication with Roscosmos deep in Soviet Russia. Who will help him? Will he make the right choice?",
+    "releaseDate": "2015-12-23",
+    "runtime": 91
+  }
+]

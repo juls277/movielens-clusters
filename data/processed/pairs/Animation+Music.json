@@ -1,0 +1,834 @@
+[
+  {
+    "id": 10020,
+    "title": "Beauty and the Beast",
+    "genres": [
+      "Romance",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+    "releaseDate": "1991-11-13",
+    "runtime": 84
+  },
+  {
+    "id": 81310,
+    "title": "Winnie the Pooh and the Blustery Day",
+    "genres": [
+      "Animation",
+      "Family",
+      "Music"
+    ],
+    "overview": "Winnie the Pooh and his friends experience high winds, heavy rains, and a flood in Hundred Acre Wood.",
+    "releaseDate": "1968-12-20",
+    "runtime": 25
+  },
+  {
+    "id": 15947,
+    "title": "The Three Caballeros",
+    "genres": [
+      "Animation",
+      "Family",
+      "Music"
+    ],
+    "overview": "For Donald's birthday he receives a box with three gifts inside. The gifts, a movie projector, a pop-up book, and a pinata, each take Donald on wild adventures through Mexico and South America.",
+    "releaseDate": "1944-07-21",
+    "runtime": 71
+  },
+  {
+    "id": 12335,
+    "title": "Bedknobs and Broomsticks",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "overview": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster (Eglantine Price). The children's initial fears disappear when they find out she is in fact a trainee witch.",
+    "releaseDate": "1971-10-07",
+    "runtime": 117
+  },
+  {
+    "id": 756,
+    "title": "Fantasia",
+    "genres": [
+      "Animation",
+      "Family",
+      "Music"
+    ],
+    "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+    "releaseDate": "1940-11-13",
+    "runtime": 124
+  },
+  {
+    "id": 24662,
+    "title": "Cats Don't Dance",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "overview": "Danny, an ambitious singing/dancing cat, goes to Hollywood and overcomes several obstacles to fulfill his dream of becoming a movie star.",
+    "releaseDate": "1997-03-26",
+    "runtime": 75
+  },
+  {
+    "id": 10693,
+    "title": "Peter Pan",
+    "genres": [
+      "Animation",
+      "Music",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "overview": "Leaving the safety of their nursery behind, Wendy, Michael and John follow Peter Pan to a magical world where childhood lasts forever. But while in Neverland, the kids must face Captain Hook and foil his attempts to get rid of Peter for good.",
+    "releaseDate": "1953-02-05",
+    "runtime": 77
+  },
+  {
+    "id": 9837,
+    "title": "The Prince of Egypt",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Family",
+      "Music"
+    ],
+    "overview": "This is the extraordinary tale of two brothers named Moses and Ramses, one born of royal blood, and one an orphan with a secret past. Growing up the best of friends, they share a strong bond of free-spirited youth and good-natured rivalry. But the truth will ultimately set them at odds, as one becomes the ruler of the most powerful empire on earth, and the other the chosen leader of his people! Their final confrontation will forever change their lives and the world.",
+    "releaseDate": "1998-12-15",
+    "runtime": 99
+  },
+  {
+    "id": 9473,
+    "title": "South Park: Bigger, Longer & Uncut",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Music"
+    ],
+    "overview": "When the four boys see an R-rated movie featuring Canadians Terrance and Philip, they are pronounced \"corrupted\", and their parents pressure the United States to wage war against Canada.",
+    "releaseDate": "1999-06-30",
+    "runtime": 81
+  },
+  {
+    "id": 12105,
+    "title": "Yellow Submarine",
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "The Blue Meanies take over Pepperland, draining it of all its color and music, firing anti-music missiles, bonking people with green apples, and turning the inhabitants to stone by way of the pointed finger of a giant blue glove. As the only survivor, the Lord Admiral escapes in the yellow submarine and goes to Liverpool to enlist the help of the Beatles.",
+    "releaseDate": "1968-07-17",
+    "runtime": 90
+  },
+  {
+    "id": 49948,
+    "title": "Fantasia 2000",
+    "genres": [
+      "Animation",
+      "Family",
+      "Music"
+    ],
+    "overview": "Blending lively music and brilliant animation, this sequel to the original 'Fantasia' restores 'The Sorcerer's Apprentice' and adds seven new shorts.",
+    "releaseDate": "1999-12-17",
+    "runtime": 74
+  },
+  {
+    "id": 29204,
+    "title": "American Pop",
+    "genres": [
+      "Animation",
+      "Music"
+    ],
+    "overview": "American Pop is an American animated film that tells the story of four generations of a Russian Jewish immigrant family of musicians whose careers parallel the history of American popular music.",
+    "releaseDate": "1981-02-13",
+    "runtime": 96
+  },
+  {
+    "id": 46929,
+    "title": "Fun & Fancy Free",
+    "genres": [
+      "Animation",
+      "Family",
+      "Music"
+    ],
+    "overview": "Jiminy Cricket hosts two Disney animated shorts: \"Bongo,\" about a circus bear escaping to the wild, and \"Mickey and the Beanstalk,\" a take on the famous fairy tale.",
+    "releaseDate": "1947-09-27",
+    "runtime": 73
+  },
+  {
+    "id": 20343,
+    "title": "Make Mine Music",
+    "genres": [
+      "Animation",
+      "Family",
+      "Music"
+    ],
+    "overview": "In the tradition of Fantasia, Make Mine Music is a glorious collection of nine musically charged animated shorts featuring such fun-filled favorites as \"Peter And The Wolf\", narrated by the beloved voice behind Winnie The Pooh. In addition, you'll enjoy such classic cartoon hits as \"Casey At The Bat,\" \"The Whale Who Wanted To Sing At The Met\" and \"Johnnie Fedora And Alice Bluebonnet.\"",
+    "releaseDate": "1946-04-26",
+    "runtime": 75
+  },
+  {
+    "id": 13757,
+    "title": "Melody Time",
+    "genres": [
+      "Music",
+      "Family",
+      "Animation"
+    ],
+    "overview": "Melody Time is an animated feature produced by Walt Disney and released to theatres by RKO Radio Pictures. Made up of several sequences set to popular music and folk music, the film is, like Make Mine Music before it, the contemporary version of Fantasia.",
+    "releaseDate": "1948-05-27",
+    "runtime": 72
+  },
+  {
+    "id": 19933,
+    "title": "The Brave Little Toaster",
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "overview": "A group of dated appliances find themselves stranded in a summer home that their family had just sold decide to, a la The Incredible Journey, seek their young 8 year old \"master\". Children's film which on the surface is a frivolous fantasy, but with a dark subtext of abandonment, obsolescence, and loneliness.",
+    "releaseDate": "1987-07-09",
+    "runtime": 90
+  },
+  {
+    "id": 32328,
+    "title": "Gay Purr-ee",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Music",
+      "Romance",
+      "Family"
+    ],
+    "overview": "Mouser Jaone Tom and housecat Mewsette are living in the French country side, but Mewsette wants to experience the refinement and excitement of the Paris living. But upon arrival she falls into the clutches of Meowrice. Jaune Tom and his friend Robespierre set off to Paris to find her.",
+    "releaseDate": "1962-10-24",
+    "runtime": 85
+  },
+  {
+    "id": 24034,
+    "title": "Teacher's Pet",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family",
+      "Music"
+    ],
+    "overview": "Spot (Lane) is a dog who can talk and read. Posing as a human, he sneaks into school with his master Leonard (Flemming). Educational adventures ensue",
+    "releaseDate": "2004-01-16",
+    "runtime": 74
+  },
+  {
+    "id": 3989,
+    "title": "Team America: World Police",
+    "genres": [
+      "Music",
+      "Adventure",
+      "Animation",
+      "Action",
+      "Comedy"
+    ],
+    "overview": "Team America World Police follows an international police force dedicated to maintaining global stability. Learning that dictator Kim Jong il is out to destroy the world, the team recruits Broadway star Gary Johnston to go undercover. With the help of Team America, Gary manages to uncover the plan to destroy the world. Will Team America be able to save it in time? It stars… Samuel L Jackson, Tim Robbins, Sean Penn, Michael Moore, Helen Hunt, Matt Damon, Susan Sarandon, George Clooney, Danny Glover, Ethan Hawke, Alec Baldwin… or does it?",
+    "releaseDate": "2004-10-10",
+    "runtime": 98
+  },
+  {
+    "id": 11049,
+    "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+    "genres": [
+      "Science Fiction",
+      "Music",
+      "Animation"
+    ],
+    "overview": "A sci-fi anime House-musical movie collaboration between Daft Punk--and their music--and designer Leiji Matsumoto. During the recording of their DISCOVERY album and using the themes of sci-fi celebrity, decadence and space travel, Daft Punk--with help from Cedric Hervet--wrote the story and inspired seasoned Japanese animators to symbiotically create this stunning space musical.",
+    "releaseDate": "2003-05-18",
+    "runtime": 68
+  },
+  {
+    "id": 3933,
+    "title": "Corpse Bride",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Animation",
+      "Music"
+    ],
+    "overview": "Set in a 19th-century european village, this stop-motion animation feature follows the story of Victor, a young man whisked away to the underworld and wed to a mysterious corpse bride, while his real bride Victoria waits bereft in the land of the living.",
+    "releaseDate": "2005-09-09",
+    "runtime": 77
+  },
+  {
+    "id": 6477,
+    "title": "Alvin and the Chipmunks",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Family",
+      "Fantasy",
+      "Animation"
+    ],
+    "overview": "A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.",
+    "releaseDate": "2007-12-13",
+    "runtime": 92
+  },
+  {
+    "id": 20421,
+    "title": "Rock-A-Doodle",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Chanticleer is a foolhardy farm rooster who believes his crows can actually make the sun come up and shine. When the sun rises one morning without Chanticleer's crow, he leaves the farm in disgrace and runs off to become a rock 'n' roll singer. But in his absence, a sinister, sunshine-hating owl prepares to take over.",
+    "releaseDate": "1991-08-02",
+    "runtime": 77
+  },
+  {
+    "id": 20529,
+    "title": "Sita Sings the Blues",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "overview": "The movie is about Sita, the Hindu Goddess from the epic \"The Ramayana\", who accompanies Lord Rama on a 14 year exile in forest. Sita is abducted by Ravana, the ruler of Lanka. This movie tells the story of Rama and Sita, along-with a biographical account of the director's relationship with her husband. It intersperses events from the Ramayana, light-hearted but knowledgeable discussion of historical background by a trio of Indian shadow puppets, musical interludes voiced with archival tracks by Annette Hanshaw and scenes from the artist's own life. The ancient mythological and modern biographical plot are parallel tales, sharing numerous themes.",
+    "releaseDate": "2008-02-11",
+    "runtime": 82
+  },
+  {
+    "id": 44685,
+    "title": "Love Hina Spring Special - I Wish Your Dream",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Animation",
+      "Music"
+    ],
+    "overview": "The tests have come, and Keitaro can only hope to succeed. However, in the final stretch, he fails miserably and daydreams through the test. Assuming that he has failed, he runs away, so the rest of the cast hunts him down on a remote desert island to bring him back.",
+    "releaseDate": "2001-03-31",
+    "runtime": 48
+  },
+  {
+    "id": 33857,
+    "title": "Bye-Bye Bin Laden",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Music"
+    ],
+    "overview": "The Bushes and the Bin Ladens battle on national television with dueling series aimed at boosting their popularity with the masses in this animated musical satire with a cast of characters\n that includes Osama Bin Laden, Mullah Omar and Jenna Bush. While Bin Laden waffles on format, the Bushes come up with a surefire winner: \"The George and Jenna Comedy Hour,\" where dancing crucifixes and patriotic hot pants are the order of the day.",
+    "releaseDate": "2009-01-01",
+    "runtime": 0
+  },
+  {
+    "id": 10198,
+    "title": "The Princess and the Frog",
+    "genres": [
+      "Romance",
+      "Family",
+      "Animation",
+      "Music"
+    ],
+    "overview": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to do face the same problem after she kisses him.",
+    "releaseDate": "2009-12-08",
+    "runtime": 97
+  },
+  {
+    "id": 23398,
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Pop sensations Alvin, Simon and Theodore end up in the care of Dave Seville's twenty-something nephew Toby. The boys must put aside music super stardom to return to school, and are tasked with saving the school's music program by winning the $25,000 prize in a battle of the bands. But the Chipmunks unexpectedly meet their match in three singing chipmunks known as The Chipettes - Brittany, Eleanor and Jeanette. Romantic and musical sparks are ignited when the Chipmunks and Chipettes square off.",
+    "releaseDate": "2009-12-21",
+    "runtime": 88
+  },
+  {
+    "id": 14518,
+    "title": "Peter & the Wolf",
+    "genres": [
+      "Animation",
+      "Family",
+      "Music"
+    ],
+    "overview": "An animated retelling set to Prokofiev's suite. Peter is a slight lad, solitary, locked out of the woods by his protective grandfather",
+    "releaseDate": "2006-09-23",
+    "runtime": 32
+  },
+  {
+    "id": 47310,
+    "title": "Invitation to the Dance",
+    "genres": [
+      "Music",
+      "Animation",
+      "Fantasy"
+    ],
+    "overview": "Three completely different stories are told through dance.",
+    "releaseDate": "1956-05-22",
+    "runtime": 93
+  },
+  {
+    "id": 108213,
+    "title": "King of Jazz",
+    "genres": [
+      "Music",
+      "Animation"
+    ],
+    "overview": "This revue presents its numbers around the orchestra leader Paul Whiteman, besides that it shows in it's final number that the European popular music are the roots of American popular music, called Jazz.",
+    "releaseDate": "1930-04-20",
+    "runtime": 98
+  },
+  {
+    "id": 55301,
+    "title": "Alvin and the Chipmunks: Chipwrecked",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Family",
+      "Music",
+      "Animation"
+    ],
+    "overview": "Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.",
+    "releaseDate": "2011-12-14",
+    "runtime": 87
+  },
+  {
+    "id": 63498,
+    "title": "Chico & Rita",
+    "genres": [
+      "Animation",
+      "Music",
+      "Romance"
+    ],
+    "overview": "Chico is a young piano player with big dreams. Rita is a beautiful singer with an extraordinary voice. Music and romantic desire unites them, but their journey - in the tradition of the Latin ballad, the bolero - brings heartache and torment.",
+    "releaseDate": "2010-11-19",
+    "runtime": 94
+  },
+  {
+    "id": 98096,
+    "title": "Live Music",
+    "genres": [
+      "Animation",
+      "Music"
+    ],
+    "overview": "An animated musical about a Rock n' Roll Guitar that falls in love to the wrong song but ends up with the Violin of his dreams.",
+    "releaseDate": "2009-11-20",
+    "runtime": 6
+  },
+  {
+    "id": 201676,
+    "title": "My Little Pony: Equestria Girls",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Via a magic mirror, Twilight Sparkle travels into an alternate universe in order to recover a crown that was stolen from the Crystal Empire. Upon her arrival she is horrified to learn that she has turned into a human.",
+    "releaseDate": "2013-06-15",
+    "runtime": 72
+  },
+  {
+    "id": 59981,
+    "title": "Legends of Oz: Dorothy's Return",
+    "genres": [
+      "Animation",
+      "Music",
+      "Family"
+    ],
+    "overview": "Dorothy wakes up in post-tornado Kansas, only to be whisked back to Oz to try to save her old friends the Scarecrow, the Lion, the Tin Man and Glinda from a devious new villain, the Jester. Wiser the owl, Marshal Mallow, China Princess and Tugg the tugboat join Dorothy on her latest magical journey through the colorful landscape of Oz to restore order and happiness to Emerald City.",
+    "releaseDate": "2013-06-13",
+    "runtime": 88
+  },
+  {
+    "id": 81424,
+    "title": "The Cat Came Back",
+    "genres": [
+      "Music",
+      "Animation",
+      "Comedy"
+    ],
+    "overview": "Taken From the Wikipedia entry \"The Cat Came Back is a 1988 animated film by Canadian director Cordell Barker, produced by fellow award-winning Winnipeg animator Richard Condie. Based on the children's song The Cat Came Back, it concerns the increasingly desperate and lonely man named Mr. Johnson, an old man who attempts to rid himself of a small, yet extremely destructive, yellow cat that will not leave his home. The attempts to get rid of the cat become more comical, and the cat becomes increasingly destructive, until Mr. Johnson resorts to an explosive solution. The result is a twist ending playing on the end of the children's song, with the cat's nine lives bedeviling Mr. Johnson for eternity.\"",
+    "releaseDate": "1988-06-22",
+    "runtime": 7
+  },
+  {
+    "id": 145337,
+    "title": "Rock the Boat",
+    "genres": [
+      "Music",
+      "Animation"
+    ],
+    "overview": "An illustration of a traditional French Canadian song in the form of progressing cutouts and still pictures.",
+    "releaseDate": "1944-12-31",
+    "runtime": 4
+  },
+  {
+    "id": 246213,
+    "title": "Fiddle-de-dee",
+    "genres": [
+      "Music",
+      "Animation"
+    ],
+    "overview": "A film fantasy of dancing music and dancing color. Listen to the Mocking Bird played by an oldtime fiddler, brilliant patterns ripple, flow, flicker and blend. A Norman McLaren painting on film, translates sound into sight.",
+    "releaseDate": "1947-01-01",
+    "runtime": 3
+  },
+  {
+    "id": 128679,
+    "title": "Begone Dull Care",
+    "genres": [
+      "Music",
+      "Animation"
+    ],
+    "overview": "Begone Dull Care shines with his masterful use of scratching and painting on film stock. In Begone Dull Care, McLaren adds complexity to Lye’s compositions, emphasising sound/visual synchronisation and generating depth on his mobile canvas. The film gives warmth and movement to compositions resembling a constantly morphing Jackson Pollock painting, yet never fails to remind us of its very calculated aesthetics when it suddenly adapts to the score’s slower movements and shifts from expressionistic and oversaturated explosions to minimalist vertical lines that vibrate accordingly to Oscar Peterson’s piano. (cont. http://sensesofcinema.com/2005/cteq/begone_dull_care/)",
+    "releaseDate": "1949-01-01",
+    "runtime": 8
+  },
+  {
+    "id": 43477,
+    "title": "Shinbone Alley",
+    "genres": [
+      "Animation",
+      "Music"
+    ],
+    "overview": "Join the fun and laugh along with the \"misadventures\" of Archy the cockroach, a poet in his former life now having to jump on his typewriter keys to peck out his poems. Archie adores the huge-eyed, blonde, hip-swaying Mehitabel the Cat, and along with a colorful cast of characters, they embark on an animated, musical treat the whole family will love!",
+    "releaseDate": "1970-06-26",
+    "runtime": 85
+  },
+  {
+    "id": 59298,
+    "title": "The Perfect World of Kai",
+    "genres": [
+      "Music",
+      "Animation",
+      "Drama"
+    ],
+    "overview": "Amamiya Shu transfers to Moriwaki elementary filled with hope and ambition. But it doesn't take long before he gets picked on by the class bullies, and gets involved in a dare to play the mysterious piano in the forest. Igniting his meeting with an equally enigmatic child that goes by the name of Ichinose Kai, who seems to be the only one capable getting sound out of the thought to be broken piano. [from AnimeNewsNetwork]",
+    "releaseDate": "2007-07-21",
+    "runtime": 101
+  },
+  {
+    "id": 81294,
+    "title": "Rudolph the Red-Nosed Reindeer",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "The rare original version of the classic underdog holiday story by ace animator Max Fleischer.",
+    "releaseDate": "1948-01-01",
+    "runtime": 8
+  },
+  {
+    "id": 302429,
+    "title": "Strange Magic",
+    "genres": [
+      "Music",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "overview": "A love potion works its devious charms on fairies, elves and the swamp-dwelling Bog King as they all try to possess the potion for themselves.",
+    "releaseDate": "2015-01-23",
+    "runtime": 99
+  },
+  {
+    "id": 136215,
+    "title": "Barbie and the Rockers: Out Of This World",
+    "genres": [
+      "Animation",
+      "Music",
+      "TV Movie"
+    ],
+    "overview": "Barbie and her band, The Rockers preform a charity concert in outer space.",
+    "releaseDate": "1987-01-01",
+    "runtime": 25
+  },
+  {
+    "id": 16366,
+    "title": "Joseph: King of Dreams",
+    "genres": [
+      "Music",
+      "Family",
+      "Animation"
+    ],
+    "overview": "In this animated retelling of the story from the Bible's Book of Genesis, Joseph's gift of dream interpretation and his brilliantly colored coat inspires jealousy in his brothers.",
+    "releaseDate": "2000-11-07",
+    "runtime": 74
+  },
+  {
+    "id": 306464,
+    "title": "Family Guy Presents: Seth and Alex's almost live comedy show",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Music"
+    ],
+    "overview": "A commercial-free variety special starring Seth MacFarlane and his \"Family Guy\" co-star Alex Borstein. The half-hour special will highlight the duo's subversive and unique comedic sensibilities and feature original animation, live-action performances of \"Family Guy's\" most memorable musical numbers, comedy sketches and surprise celebrity guests.",
+    "releaseDate": "2009-11-08",
+    "runtime": 30
+  },
+  {
+    "id": 292177,
+    "title": "My Little Pony: Equestria Girls - Rainbow Rocks",
+    "genres": [
+      "Family",
+      "Animation",
+      "Music"
+    ],
+    "overview": "Music rules and rainbows rock as Twilight Sparkle and pals compete for the top spot in the Canterlot High \"Mane Event\" talent show. The girls must rock their way to the top, and outshine rival Adagio Dazzle and her band The Dazzlings, to restore harmony back to Canterlot High.",
+    "releaseDate": "2014-09-27",
+    "runtime": 75
+  },
+  {
+    "id": 349158,
+    "title": "My Little Pony: Equestria Girls - Friendship Games",
+    "genres": [
+      "Animation",
+      "Music"
+    ],
+    "overview": "Canterlot High meets its rival school, Crystal Prep Academy, in a competition that’s a long-standing tradition – The Friendship Games. Sunset Shimmer is tasked with keeping magic out of the games to avoid the appearance of impropriety while she and her friends compete against Crystal Prep’s top students led by someone with an equal amount of interest in Equestrian magic – this world’s TWILIGHT SPARKLE.",
+    "releaseDate": "2015-09-26",
+    "runtime": 72
+  },
+  {
+    "id": 73901,
+    "title": "Wakko's Wish",
+    "genres": [
+      "Animation",
+      "Music",
+      "Comedy"
+    ],
+    "overview": "Steven Spielberg Presents Animaniacs: Wakko's Wish, usually referred to as Wakko's Wish is a 1999 American direct-to-video animated tragicomedy film based on the Warner Bros. 1993-98 animated series, Animaniacs, and also the swan song to the series. The film relocates all the Animaniacs characters to a quasi-medieval fairy tale world and portrays their race to find the wishing star that will grant them a wish. While the film was released during the Christmas season, the holiday is not a factor in its plot, though the events do take place during winter.",
+    "releaseDate": "1999-12-20",
+    "runtime": 80
+  },
+  {
+    "id": 36748,
+    "title": "Raggedy Ann & Andy: A Musical Adventure",
+    "genres": [
+      "Music",
+      "Animation",
+      "Family"
+    ],
+    "overview": "Raggedy Ann and Andy leave their playroom to rescue Babette, a beautiful French doll kidnapped by a pirate.",
+    "releaseDate": "1977-04-01",
+    "runtime": 84
+  },
+  {
+    "id": 69019,
+    "title": "The Amazing Mr. Bickford",
+    "genres": [
+      "Animation",
+      "Music"
+    ],
+    "overview": "Several pieces of Frank Zappa's music are set against clay animation by Bruce Bickford.",
+    "releaseDate": "1987-01-01",
+    "runtime": 52
+  },
+  {
+    "id": 85787,
+    "title": "Swan Lake",
+    "genres": [
+      "Music",
+      "Animation"
+    ],
+    "overview": "The hero, Prince Siegfried, is out riding one day with his friends when he spies amidst swans on a lake a particularly eye-catching one with a crown on its head, the familiar Princess ...",
+    "releaseDate": "1981-03-13",
+    "runtime": 75
+  },
+  {
+    "id": 51298,
+    "title": "Disney's Very Merry Christmas Sing Along Songs",
+    "genres": [
+      "Music",
+      "Animation"
+    ],
+    "overview": "Get ready to celebrate this warm and wonderful time of year, and sing along with the Christmas carols you love best! Plus, join in a jolly chorus of new holiday sing alongs - featuring your favorite Disney characters! Learning the lyrics is easy and fun, because the words appear right on the screen. Whether you're having a party, starting a brand-new family tradition or simply getting into the Yuletide spirit, Disney's Very Merry Christmas Sing Along Songs brings the gift of music and laughter home for the holidays!",
+    "releaseDate": "2002-11-05",
+    "runtime": 54
+  },
+  {
+    "id": 261410,
+    "title": "VeggieTales: God Wants Me to Forgive Them!?!",
+    "genres": [
+      "Music",
+      "Animation"
+    ],
+    "overview": "Discover with the Veggies the real reasons God wants us to forgive in this VeggieTales classic! Featured stories include The Grapes of Wrath and Larry's Lagoon.",
+    "releaseDate": "1994-10-01",
+    "runtime": 30
+  },
+  {
+    "id": 314601,
+    "title": "VeggieTales: The End of Silliness? More Really Silly Songs!",
+    "genres": [
+      "Music",
+      "Family",
+      "Animation"
+    ],
+    "overview": "Archibald Asparagus has cancelled 'Silly Songs with Larry'! A despondent Larry the Cucumber drowns his sorrows at Jimmy Gourd's ice cream parlor. Will Archibald give Larry his job back? How much ice cream can Larry eat before getting a headache? Is this the end of...Silly Songs with Larry?",
+    "releaseDate": "1998-01-01",
+    "runtime": 30
+  },
+  {
+    "id": 223046,
+    "title": "Really Rosie",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "Really Rosie is a musical with a book and lyrics by Maurice Sendak and music by Carole King. The musical is based on Sendak's books \"Chicken Soup with Rice\", \"Pierre\", \"One was Johnny\", \"Aligators All Around\" (Which comprise the 1962 book \"The Nutshell Library\"), and \"The Sign on Rosie's Door\". Sendak based the story on a demonstrative little girl who used to sing and dance on the stoop of her building, whom he observed while he was a little boy growing up in Brooklyn.",
+    "releaseDate": "1975-02-19",
+    "runtime": 27
+  },
+  {
+    "id": 355111,
+    "title": "Barbie in Rock 'N Royals",
+    "genres": [
+      "Animation",
+      "Music",
+      "Family"
+    ],
+    "overview": "In this upbeat musical, Barbie stars as Princess Courtney, a modern princess whose world is turned upside down when she switches places with Erika, a famous rockstar. Two very different worlds collide when a mix-up sends Princess Courtney to Camp Pop and Erika, to Camp Royalty. While the leaders of the rival camps try to correct the mix-up, both Courtney and Erika learn to adjust to the different worlds and have fun while making new, unexpected friends. When the girls learn both camps are at risk of shutting down, they must embrace their differences, find their true voices, and come together for an epic sing-off that shows anything is possible when you dare to dream big!",
+    "releaseDate": "2015-08-13",
+    "runtime": 84
+  },
+  {
+    "id": 285814,
+    "title": "The Butterfly Ball",
+    "genres": [
+      "Music",
+      "Animation"
+    ],
+    "overview": "Excessive drug use during the '60s and '70s led to all sorts of execrable behaviour from addled musicians who were psychedelically deluded into thinking that making overblown rock operas was a really good idea. While the Beatles’ ill advised Magical Mystery Tour fiasco is likely the worst of these self-indulgent, extremely un-rock and roll epics, having members of Deep Purple convene to record a soundtrack for a kiddie animated cartoon narrated by Vincent Price should also be placed in the “ideas that sound best while tripping on acid” folder. But me, I’m still ready for my flashback. (from: http://www.boxofficeprophets.com/hyde/wishlist2003.asp)",
+    "releaseDate": "1977-04-01",
+    "runtime": 85
+  },
+  {
+    "id": 335797,
+    "title": "Sing",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Music"
+    ],
+    "overview": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+    "releaseDate": "2016-11-23",
+    "runtime": 108
+  },
+  {
+    "id": 212470,
+    "title": "Monster High: 13 Wishes",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music",
+      "Animation"
+    ],
+    "overview": "It’s a new school year at Monster High™, and the little sister of Clawdeen Wolf™, Howleen, is determined to be more fangtastic than ever.  Her dream of popularity turns out to be easier than anyone imagined when she stumbles upon a genie named Gigi Grant™ who grants her not 3, but 13 Wishes!  But the ghouls quickly learn to be s-careful what you wish for because each wish comes with a dark side, and soon the student disem-body of Monster High™ is turned upside-down!  Join Frankie Stein™, Clawdeen Wolf™, Draculaura™ and the rest of their creeperiffic ghoulfriends as they journey deep inside the magic lantern to save the very soul of Monster High™… while flashing their killer style every step of the way!",
+    "releaseDate": "2013-10-08",
+    "runtime": 73
+  },
+  {
+    "id": 333667,
+    "title": "Rock Dog",
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "overview": "When a radio falls from the sky into the hands of a wide-eyed Tibetan Mastiff, he leaves home to fulfill his dream of becoming a musician, setting into motion a series of completely unexpected events.",
+    "releaseDate": "2016-07-08",
+    "runtime": 90
+  },
+  {
+    "id": 41313,
+    "title": "The Tune",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Music"
+    ],
+    "overview": "Del is a song writer for the obnoxious Mr. Mega, and in love with Didi, Mega's secretary. His quest to write a hit tune brings him to the wacky world of Flooby Nooby, where he just might learn to write songs from the heart.",
+    "releaseDate": "1992-09-04",
+    "runtime": 69
+  },
+  {
+    "id": 328407,
+    "title": "Metalocalypse: The Doomstar Requiem",
+    "genres": [
+      "Animation",
+      "Music",
+      "Comedy",
+      "Drama"
+    ],
+    "overview": "While Toki and Abigail remain in the clutches of Magnus Hammersmith and the Metal Masked Assassin, the remaining members of Dethklok carry on with their lives while pretending not to care. But as their guilt mounts and their fans become increasingly restless with Toki's absence, they realize that they must find a way to rescue their brother.",
+    "releaseDate": "2013-10-27",
+    "runtime": 60
+  },
+  {
+    "id": 64847,
+    "title": "Belladonna of Sadness",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Music"
+    ],
+    "overview": "A peasant woman is banished from her village and makes a deal with the devil to gain magical powers.",
+    "releaseDate": "1973-01-01",
+    "runtime": 89
+  },
+  {
+    "id": 41017,
+    "title": "Gauche the Cellist",
+    "genres": [
+      "Animation",
+      "Music"
+    ],
+    "overview": "Gauche is a diligent but mediocre cellist who plays for a small town orchestra and the local cinema in the early 20th century. He struggles during rehearsals and is often berated by his conductor during preparations for an upcoming performance of Beethoven's Sixth Symphony (the Pastoral Symphony).Over the course of four nights, Gauche is visited at his mill house home by talking animals as he is practicing.",
+    "releaseDate": "1982-01-23",
+    "runtime": 63
+  },
+  {
+    "id": 10840,
+    "title": "On Your Mark",
+    "genres": [
+      "Music",
+      "Animation",
+      "Science Fiction"
+    ],
+    "overview": "This animated short by Miyazaki was created as a music video for the song \"On Your Mark\" by Japanese duo Chage &amp; Aska. The narrative is non-linear with no dialog and loosely follws the song lyrics and chorus. The video feels like a very compressed version of an epic Miyazaki film. The story follows two police men in a futuristic setting in their repeated attempts at rescuing a mysterious winged girl.",
+    "releaseDate": "1995-07-15",
+    "runtime": 7
+  }
+]

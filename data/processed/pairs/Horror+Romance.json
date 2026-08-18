@@ -1,0 +1,1445 @@
+[
+  {
+    "id": 9095,
+    "title": "Mary Reilly",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "A housemaid falls in love with Dr. Jekyll and his darkly mysterious counterpart, Mr. Hyde.",
+    "releaseDate": "1996-02-23",
+    "runtime": 104
+  },
+  {
+    "id": 12158,
+    "title": "Vampire in Brooklyn",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Maximillian, the lone survivor of a race of vampires, comes to Brooklyn in search of a way to live past the next full moon. His ticket to survival is Rita, a NYPD detective who doesn't know she's half vampire -- and Maximillian will do whatever's necessary to put her under his spell.",
+    "releaseDate": "1995-10-26",
+    "runtime": 100
+  },
+  {
+    "id": 628,
+    "title": "Interview with the Vampire",
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+    "releaseDate": "1994-11-11",
+    "runtime": 123
+  },
+  {
+    "id": 3036,
+    "title": "Mary Shelley's Frankenstein",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "Based on Mary Shelley's novel, \"Frankenstein\" tells the story of Victor Frankenstein, a promising young doctor who, devastated by the death of his mother during childbirth, becomes obsessed with bringing the dead back to life. His experiments lead to the creation of a monster, which Frankenstein has put together with the remains of corpses. It's not long before Frankenstein regrets his actions.",
+    "releaseDate": "1994-11-04",
+    "runtime": 123
+  },
+  {
+    "id": 6114,
+    "title": "Dracula",
+    "genres": [
+      "Romance",
+      "Horror"
+    ],
+    "overview": "When Dracula leaves the captive Jonathan Harker and Transylvania for London in search of Mina Harker -- the spitting image of Dracula's long-dead wife, Elisabeta -- obsessed vampire hunter Dr. Van Helsing sets out to end the madness.",
+    "releaseDate": "1992-11-13",
+    "runtime": 128
+  },
+  {
+    "id": 10998,
+    "title": "Fatal Attraction",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Thriller",
+      "Horror",
+      "Mystery"
+    ],
+    "overview": "A married man's one night stand comes back to haunt him when that lover begins to stalk him and his family.",
+    "releaseDate": "1987-09-11",
+    "runtime": 119
+  },
+  {
+    "id": 11654,
+    "title": "The Hunger",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "Miriam and John are an elegant couple with a dark secret: they are vampires. Feeding on human blood, Miriam has lived for over 2000 years. She gave her lover the gift of eternal life and together they hunt. But John begins aging rapidly, he seeks the help of Dr. Sarah Roberts. Miriam is immediately drawn to Sarah, desiring her as her next immortal companion...",
+    "releaseDate": "1983-04-29",
+    "runtime": 97
+  },
+  {
+    "id": 49096,
+    "title": "Empire of Passion",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A young man has an affair with an older woman. He is very jealous of her husband and decides that they should kill him. One night, after the husband had plenty of sake to drink and was in bed, they strangle him and dump his body down a well. To avert any suspicions, she pretends her husband has gone off to Tokyo to work. For three years the wife and her lover secretly see each other. Finally, suspicions become very strong and people begin to gossip. To make matters worse, her husband's ghost begins to haunt her and the law arrives to investigate her husband's disappearance.",
+    "releaseDate": "1978-01-01",
+    "runtime": 105
+  },
+  {
+    "id": 33828,
+    "title": "Criminal Lovers",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "After a perverted impulse drives them to kill, Alice and her boyfriend, Luc, drag the body into the woods, only to find themselves hopelessly lost – much like the fairy-tale plight of Hansel and Gretel. Starving and with no hope of being found, they chance upon a dilapidated cottage where a hulking man takes them prisoner and proceeds to feed Luc's sexual appetite.",
+    "releaseDate": "1999-08-17",
+    "runtime": 96
+  },
+  {
+    "id": 15855,
+    "title": "Phantom of the Opera",
+    "genres": [
+      "Music",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Pit violinist Claudin hopelessly loves rising operatic soprano Christine Dubois (as do baritone Anatole and police inspector Raoul) and secretly aids her career. But Claudin loses both his touch and his job, murders a rascally music publisher in a fit of madness, and has his face etched with acid. Soon, mysterious crimes plague the Paris Opera House, blamed on a legendary \"phantom\".",
+    "releaseDate": "1943-08-27",
+    "runtime": 92
+  },
+  {
+    "id": 51521,
+    "title": "My Demon Lover",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Denny has yet again been left by her thug boyfriend Chip. It seems as if she is doomed to be stuck with awful guys, this time she has to choose between nerdy Charles and the strange Kaz, who turns into a monster when sexually aroused.",
+    "releaseDate": "1987-04-24",
+    "runtime": 90
+  },
+  {
+    "id": 44414,
+    "title": "Liebestraum",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery",
+      "Romance"
+    ],
+    "overview": "A man returns to his hometown and a series of dark secrets are revealed.",
+    "releaseDate": "1991-09-13",
+    "runtime": 112
+  },
+  {
+    "id": 43715,
+    "title": "The Deadly Mantis",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "The calving of an Arctic iceberg releases a giant praying mantis, trapped in suspended animation since prehistoric times. It first attacks military outposts to eat their occupants, then makes its way to the warmer latitudes of Washington and New York. A paleontologist works together with military units to try to kill it. (copied from IMDB)",
+    "releaseDate": "1957-05-01",
+    "runtime": 79
+  },
+  {
+    "id": 40814,
+    "title": "Crimes of Passion",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Thriller",
+      "Horror",
+      "Crime"
+    ],
+    "overview": "Joanna Crane lives a double life. During the day she works as fashion designer but during the night she is the high class prostitute China Blue. As she is accused for industrial spying, Bobby Grady is hired to shadow her. However, they fall in love.  Meanwhile a psychopathic preacher starts stalking her.",
+    "releaseDate": "1984-10-19",
+    "runtime": 112
+  },
+  {
+    "id": 10894,
+    "title": "May",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "Psychological horror about a lonely young woman traumatized by a difficult childhood, and her increasingly desperate attempts to connect with the people around her.",
+    "releaseDate": "2002-01-13",
+    "runtime": 93
+  },
+  {
+    "id": 35139,
+    "title": "Teenagers from Outer Space",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Science Fiction",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "A young alien falls for a pretty teenage Earth girl and they team up to try to stop the plans of his invading cohorts, who intend to use Earth as a food-breeding ground for giant lobsters from their planet.",
+    "releaseDate": "1959-06-01",
+    "runtime": 86
+  },
+  {
+    "id": 80047,
+    "title": "Rowing with the Wind",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "In the summer of 1816, Percy Shelley, his mistress Mary, and her stepsister Claire visit Lord Byron at Lake Geneva. Byron challenges each to write a horror story, and Mary begins her novel, Frankenstein. She imagines the monster becoming real, and for the next six years, as tragedy befalls those around her, she believes the personification of her imagination is the cause. Against this backdrop, Claire has Byron's baby then is estranged from him and barred from her daughter. Byron and Percy continue their friendship, the one self-centered and decadent, the other wildly idealistic. The Shelleys take up residence near Pisa.",
+    "releaseDate": "1988-01-01",
+    "runtime": 126
+  },
+  {
+    "id": 33521,
+    "title": "Dracula",
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Romanticized adaptation of Bram Stoker's 1897 classic. Set in 1913 England, the bloodsucking, but handsome, charming and seductive, Count Dracula seeks an immortal bride.",
+    "releaseDate": "1979-07-20",
+    "runtime": 109
+  },
+  {
+    "id": 9616,
+    "title": "The Order",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "For centuries, a secret Order of priests has existed within the Church. A renegade priest, Father Alex Bernier, is sent to Rome to investigate the mysterious death of one of the Order's most revered members. Following a series of strangely similar killings, Bernier launches an investigation that forces him to confront unimaginable evil.",
+    "releaseDate": "2003-09-05",
+    "runtime": 102
+  },
+  {
+    "id": 19064,
+    "title": "Once Bitten",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "Mark wants to lose his virginity, but his girlfriend wants to wait. Unfortunately for both of them, a 400-year-old vampire Countess needs to turn a virgin into a vampire before Halloween in order to preserve her own youthful appearance, and when she finds Mark, she turns his life upside-down.",
+    "releaseDate": "1985-11-15",
+    "runtime": 94
+  },
+  {
+    "id": 39916,
+    "title": "Contamination",
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A former astronaut helps a government agent and a police detective track the source of mysterious alien pod spores, filled with lethal flesh-dissolving acid, to a South American coffee plantation controlled by alien pod clones.",
+    "releaseDate": "1980-08-02",
+    "runtime": 95
+  },
+  {
+    "id": 31685,
+    "title": "The Hunchback of Notre Dame",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Horror"
+    ],
+    "overview": "King Louis XI is a wise and old king and Frollo is the Chief Justice. Frollo gazes on the gypsy girl, Esmeralda, in the church during Fool's Day and sends Quasimodo to catch her. Quasimodo, with the girl, is captured by Phoebus, Captain of the Guards, who frees the girl. The courts sentence Quasimodo to be flogged, and the only one who will give him water while he is tied in the square is Esmeralda. Later, at a party of nobles, Esmeralda again meets both Frollo, who is bewitched by her, and Phoebus. When Phoebus is stabbed to death, Esmeralda is accused of the murder, convicted by the court and sentenced to hang. Clopin, King of the Beggars; Gringoire, Esmeralda's husband; and Quasimodo, the bellringer, all try different ways to save her from the gallows.",
+    "releaseDate": "1939-12-29",
+    "runtime": 116
+  },
+  {
+    "id": 27503,
+    "title": "The Unknown",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Lon Chaney is carnival knife thrower Alonzo the Armless and Joan Crawford is the scantily clad carnival girl he hopes to marry.",
+    "releaseDate": "1927-06-04",
+    "runtime": 63
+  },
+  {
+    "id": 28046,
+    "title": "The Ghoul",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Horror",
+      "Action",
+      "Mystery"
+    ],
+    "overview": "British Egyptologist Professor Morlant finds a magic jewel in the tomb of an Oriental idol. This talisman is supposed to grant immortality to those who are buried with it. So Morlant arranges to have it put into his grave upon his demise. And woe to those who might double-cross him, for Morlant's spirit will arise to wreak vengeance on his betrayers...",
+    "releaseDate": "1933-08-01",
+    "runtime": 77
+  },
+  {
+    "id": 71943,
+    "title": "House of Dark Shadows",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "The story of vampire Barnabas Collins, the possible cure offered by Dr. Julia Hoffman, and his search for love amidst the horror.",
+    "releaseDate": "1970-09-09",
+    "runtime": 97
+  },
+  {
+    "id": 18966,
+    "title": "Love at First Bite",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Horror"
+    ],
+    "overview": "Dracula and Renefield relocate to 70's era New York in search of Cindy Sondheim (the reincarnation of Dracula's one true love, Mina Harker). \"Trouble adjusting\" is a wild understatement for the Count as he battles Cindy's psychiatrist, Jeffrey Rosenberg (a descendant of Van Helsing who changed his name for professional reasons?), who may almost certainly, possibly, may be in love with Cindy too.",
+    "releaseDate": "1979-04-26",
+    "runtime": 96
+  },
+  {
+    "id": 29140,
+    "title": "The Fourth Man",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Thriller",
+      "Horror"
+    ],
+    "overview": "An alcoholic writer begins having visions apparently warning him of impending danger. After he delivers a lecture, he begins an affair with a woman from the audience. The visions intensify, however, and begin to threaten his relationship with the woman, since it may be her the visions are warning against.",
+    "releaseDate": "1983-03-23",
+    "runtime": 102
+  },
+  {
+    "id": 59051,
+    "title": "Dark Angel: The Ascent",
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Chaesed away by her father , an idealistic she-devil heads for the world above to begin serving her own brand of justice.",
+    "releaseDate": "1994-08-31",
+    "runtime": 81
+  },
+  {
+    "id": 16973,
+    "title": "Love Object",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "The twisted tale of Kenneth, socially insecure technical writer who forms an obsessive relationship with \"Nikki\", an anatomically accurate silicone sex doll he orders over the Internet.",
+    "releaseDate": "2003-04-05",
+    "runtime": 88
+  },
+  {
+    "id": 69234,
+    "title": "The Phantom of the Opera",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Music",
+      "Romance",
+      "TV Movie"
+    ],
+    "overview": "Count de Chagnie has discovered Christine's singing talent on a market place and sent her to his friend Carriere, the director of the Parisian opera. However just when she arrives Carriere's dismissed. His arrogant successor refuses to let a woman of low birth sing in his opera, but graciously employs Christine as gadrobiere for his wife Charlotta, who's installed as first singer. He also fights the phantom, an unknown guy who lives since many years in the catacombs below the opera and was granted privileges by Carriere. However the phantom knows how to defend himself and at the same time helps Christine to her career.",
+    "releaseDate": "1990-03-18",
+    "runtime": 168
+  },
+  {
+    "id": 9976,
+    "title": "Satan's Little Helper",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Comedy"
+    ],
+    "overview": "A naïve young boy unknowingly becomes the pawn of a serial killer.",
+    "releaseDate": "2004-01-01",
+    "runtime": 100
+  },
+  {
+    "id": 10017,
+    "title": "The Wraith",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Horror",
+      "Action",
+      "Crime"
+    ],
+    "overview": "Packard Walsh and his motorized gang control and terrorize an Arizona desert town where they force drivers to drag-race so they can 'win' their vehicles. After Walsh beats the decent teenager Jamie Hankins to death after finding him with his girlfriend, a mysterious power creates Jake Kesey, an extremely cool motor-biker who has a car which is invincible. Jake befriends Jamie's girlfriend Keri Johnson, takes Jamie's sweet brother Bill under his wing and manages what Sheriff Loomis couldn't; eliminate Packard's criminal gang the hard way...",
+    "releaseDate": "1986-11-21",
+    "runtime": 93
+  },
+  {
+    "id": 54111,
+    "title": "Whispering Corridors 2: Memento Mori",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "The film revolves around the relationship between two high school students, Yoo Shi-Eun and Min Hyo-Shin. As the two girls become romantically involved, their taboo friendship causes them to be marginalized by the other students. Unable to cope with the social pressures of having a lover of the same gender, Shi-Eun tries to distance herself from the increasingly dependent Hyo-Shin.",
+    "releaseDate": "1999-12-24",
+    "runtime": 98
+  },
+  {
+    "id": 10075,
+    "title": "Blood and Chocolate",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A young teenage werewolf is torn between honoring her family's secret and her love for a man.",
+    "releaseDate": "2007-01-26",
+    "runtime": 98
+  },
+  {
+    "id": 50153,
+    "title": "The Man from Planet X",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "While watching for a planet that may collide with earth, scientists stationed in Scotland are approached by a visitor from outer space.",
+    "releaseDate": "1951-04-27",
+    "runtime": 70
+  },
+  {
+    "id": 10288,
+    "title": "Fido",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "overview": "Timmy Robinson's best friend in the whole wide world is a six-foot tall rotting zombie named Fido. But when Fido eats the next-door neighbor, Mom and Dad hit the roof, and Timmy has to go to the ends of the earth to keep Fido a part of the family. A boy-and-his-dog movie for grown ups, \"Fido\" will rip your heart out.",
+    "releaseDate": "2006-09-07",
+    "runtime": 91
+  },
+  {
+    "id": 28260,
+    "title": "Return of the Living Dead 3",
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Romance",
+      "Horror"
+    ],
+    "overview": "Colonel Reynolds and his group of government scientists continue their work on re-animating the dead for military use. His son Curt uses a stolen security pass to sneak in with his thrill-seeking girlfriend Julie, with shocking, deadly results!",
+    "releaseDate": "1993-10-01",
+    "runtime": 97
+  },
+  {
+    "id": 28435,
+    "title": "Murders in the Rue Morgue",
+    "genres": [
+      "Romance",
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "overview": "In 19th Century Paris, the maniacal Dr. Mirakle abducts young women and injects them with ape blood in an attempt to prove ape-human kinship. He constantly meets failure as the abducted women die. Medical student Pierre Dupin discovers what Mirakle is doing too late to prevent the abduction of his girlfriend Camille. Now he desperately tries to enlist the help of the police to get her back.",
+    "releaseDate": "1932-02-21",
+    "runtime": 61
+  },
+  {
+    "id": 126754,
+    "title": "The Forgotten One",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Mystery",
+      "Romance"
+    ],
+    "overview": "A man moves into a house that is supposedly haunted. Although he is attracted to his pretty next-door neighbor, he finds himself being seduced by the spirit of a woman who had been killed in his house 100 years previously.",
+    "releaseDate": "1989-09-27",
+    "runtime": 98
+  },
+  {
+    "id": 9050,
+    "title": "A Chinese Ghost Story II",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Horror",
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "Several years after his beloved Nieh has gone, Ning is innocently put into jail. Luckily, he meets a scholar, Elder Chu Kot, in the prison who finally helps him escape. Ning then meets a young witty monk Autumn. They become friends and live in an abandoned villa together. The villa is horrific, yet they choose to stay for a while. Later that night, some ghosts suddenly appear and attack; two parties fight heavily. But after clarifications, Ning and Autumn find that \"the ghosts\" are humans in disguise, who intend to save their leader from imprisonment but not hurting innocence. Among them, Ning finds someone who looks identical to Nieh, and considers she is the reincarnated Nieh. A real giant zombie has seen all these in behind and is ready to ambush...",
+    "releaseDate": "1990-07-13",
+    "runtime": 104
+  },
+  {
+    "id": 16137,
+    "title": "Fear(s) of the Dark",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance"
+    ],
+    "overview": "Several scary black-and-white animated segments in different styles appeal to our fear(s) of the dark.",
+    "releaseDate": "2008-01-01",
+    "runtime": 85
+  },
+  {
+    "id": 43303,
+    "title": "Nora Roberts' Tribute",
+    "genres": [
+      "TV Movie",
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A former child star buys her grandmother's house to rescue it from ruin but her hope for serenity is soon eclipsed by haunting dreams of her famous grandmother, who died of a supposed overdose in the house more than 30 years ago.",
+    "releaseDate": "2009-04-11",
+    "runtime": 88
+  },
+  {
+    "id": 23966,
+    "title": "Deadgirl",
+    "genres": [
+      "Romance",
+      "Horror",
+      "Thriller"
+    ],
+    "overview": "When high school misfits Rickie and JT decide to ditch school and find themselves lost in the crumbling facility of a nearby abandoned hospital, they come face-to-face with a gruesome discovery: a body of a woman stripped naked, chained to a table and covered in plastic and soon realize she is anything but dead. Quickly the boys find themselves embarking on a twisted yet poignant journey testing the limits of their friendship, and forces both to decide just how far they're willing to stretch their understanding of right and wrong.",
+    "releaseDate": "2008-09-06",
+    "runtime": 101
+  },
+  {
+    "id": 110899,
+    "title": "Zigeunerweisen",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller",
+      "Mystery",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Zigeunerweisen s a 1980 independent Japanese film directed by Seijun Suzuki and based on Hyakken Uchida's novel, Disk of Sarasate. It takes its title from a gramophone recording of Pablo de Sarasate's violin composition, Zigeunerweisen, which features prominently in the story. The film makes the first part of Suzuki's Taishō Roman Trilogy, followed by Kagero-za (1981) and Yumeji (1991), surrealistic psychological dramas and ghost stories linked by style, themes and the Taishō period (1912-1926) setting.",
+    "releaseDate": "1980-04-01",
+    "runtime": 144
+  },
+  {
+    "id": 39563,
+    "title": "The Eclipse",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Michael Farr (Hinds) is a widower living in a misty Irish seaside town who is struggling to adjust to his new role as the sole caretaker of his two children. Still reeling from the death of his wife, he has been plagued by terrifying apparitions. When he volunteers at a local literary festival, he finds himself drawn to Lena Morelle (Hjejle), an empathetic author of supernatural fiction (Hjelje). While Lena tries to help Michael with the mystery of his nightmarish visions, she must contend with problems of her own—she’s being jealously pursued by a self-obsessed novelist (Quinn), her one-time lover. As the three adults’ lives converge, the turbulence of the phantom world will soon have nothing on that of the living.",
+    "releaseDate": "2009-04-24",
+    "runtime": 88
+  },
+  {
+    "id": 148636,
+    "title": "The Hunchback",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Horror"
+    ],
+    "overview": "Based on the novel, a young gypsy becomes a Minister's obsession in 1483. Only the bell ringer and her husband and the court of miracles can save her.",
+    "releaseDate": "1997-03-16",
+    "runtime": 98
+  },
+  {
+    "id": 71701,
+    "title": "The Damned",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Science Fiction"
+    ],
+    "overview": "An American tourist, a youth gang leader, and his troubled sister find themselves trapped in a top secret government facility experimenting on children.",
+    "releaseDate": "1963-05-19",
+    "runtime": 87
+  },
+  {
+    "id": 44886,
+    "title": "You and I",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Comedy",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "In Paris, Ariane and Lena are sisters. Ariane writes photo novellas for the magazine \"Toi et Moi.\" She's emotional and her long-time boyfriend, Farid, has her in a state because he won't propose, won't ask her to live with him, and often is unavailable. Lena is a cellist, quiet and circumspect in life and in her playing. She lives without passion with her boyfriend François; they're talking about having a baby.",
+    "releaseDate": "2006-03-08",
+    "runtime": 90
+  },
+  {
+    "id": 52587,
+    "title": "We Are the Night",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "One night, 18 year old Lena is bitten by Louise, leader of a female vampire trio that are as deadly as they are beautiful. Her newfound vampiric lifestyle is a blessing and a curse at the same time. At first, she enjoys the limitless freedom, the luxury, the parties. But soon the murderous blood lust of her comrades in arms proves too much for her, and she falls dangerously in love with Tom, a young undercover cop. When she resolves to turn her back on the bloodsucking band of sisters, Louise fury knows no bounds. Lena will have to choose between immortal love and immortal life.",
+    "releaseDate": "2010-10-28",
+    "runtime": 100
+  },
+  {
+    "id": 28723,
+    "title": "Diary of a Cannibal",
+    "genres": [
+      "Horror",
+      "Crime",
+      "Romance"
+    ],
+    "overview": "They met on the Internet. They fell in love. They drove to the desert and stopped at an abandoned warehouse. They wandered inside. Inside they found unspeakable horror. Only one of them survived the ordeal of CANNIBAL. From a hospital bed, an injured Noelle tells shocked police detectives a tale of cannibal terror. In recounting her ordeal, the detectives learn of an even more awful truth behind the actions of this tragic couple. Horror master Ulli Lommel's depraved tale of a modern-day CANNIBAL is based on the real-life case of a man who murdered and consumed his lover -- liver and all! -- in a strange act of consensual love. In Lommel's film of the events, two star-crossed lovers enter a world where madness rules and even a loved one can transform into a flesh-eating cannibal.",
+    "releaseDate": "2007-04-24",
+    "runtime": 81
+  },
+  {
+    "id": 27588,
+    "title": "Forget Me Not",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "It's graduation weekend, and Sandy Channing, the popular class president of her small-town high school, should be enjoying the time of her life. But when her friends start disappearing, Sandy discovers they have unwittingly awakened the vengeful spirit of a girl they wronged long ago. Fighting for her sanity, Sandy must unlock a dark secret from her own past before it's too late.",
+    "releaseDate": "2009-10-22",
+    "runtime": 103
+  },
+  {
+    "id": 36228,
+    "title": "Genesis",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "A sculptor is traumatized by the death of his wife in a car accident. He builds a sculpture in her memory. As the lifelike sculpture begins to bleed through the cracks of clay, the sculptor's flesh mutates and crumbles away...",
+    "releaseDate": "1998-01-01",
+    "runtime": 30
+  },
+  {
+    "id": 105531,
+    "title": "Jack & Diane",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Jack and Diane, two teenage girls, meet in New York City and spend the night kissing ferociously. Diane's charming innocence quickly begins to open Jack's tough skinned heart. But, when Jack discovers that Diane is leaving the country in a week she tries to push her away. Diane must struggle to keep their love alive while hiding the secret that her newly awakened sexual desire is giving her werewolf-like visions.",
+    "releaseDate": "2012-11-02",
+    "runtime": 110
+  },
+  {
+    "id": 73935,
+    "title": "Vamps",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Horror"
+    ],
+    "overview": "The modern-day story focuses on two beautiful young vampires who are living the good nightlife in New York until love enters the picture and each has to make a choice that will jeopardize their immortality.",
+    "releaseDate": "2012-08-25",
+    "runtime": 93
+  },
+  {
+    "id": 82654,
+    "title": "Warm Bodies",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "After a zombie becomes involved with the girlfriend of one of his victims, their romance sets in motion a sequence of events that might transform the entire lifeless world.",
+    "releaseDate": "2013-01-31",
+    "runtime": 97
+  },
+  {
+    "id": 36172,
+    "title": "Negative Happy Chain Saw Edge",
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Horror",
+      "Action",
+      "Comedy",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "One day, apathetic high school student Yosuke meets a beautiful girl named Eri. Eri does battle every night with an indestructible, chainsaw-wielding maniac, “Chainsaw Man”. As Yosuke and Eri bond, he eventually joins the fight. Features CG effects by the talents behind the “Death Note” series. Based on the best-selling novel by Tatsuhiko Takimoto.",
+    "releaseDate": "2008-01-19",
+    "runtime": 109
+  },
+  {
+    "id": 43023,
+    "title": "Konga",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "Dr.Decker comes back from Africa after a year, presumed dead. During that year, he came across a way of growing plants and animals to an enormous size. He brings back a baby chimpanzee to test out his theory. As he has many enemies at home, he decides to use his chimp, 'Konga' to 'get rid of them'. Then Konga grows to gigantic proportions and reaks havoc all over the city of London!!",
+    "releaseDate": "1961-01-01",
+    "runtime": 90
+  },
+  {
+    "id": 84391,
+    "title": "My Sucky Teen Romance",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "On 17-year-old Kate's last weekend in town, she and her friends plan to spend it together at SpaceCON– the local science fiction convention they attend every year. At the convention Kate meets Paul, a recently turned teen-vampire (who is also dressed as one). But when Kate tries to make a move on him, he accidentally bites her in the neck. Kate and her friends soon discover Paul is not the only vampire at the convention, and it is up to them to stop the vampires and find a way to turn Kate back before it is too late.",
+    "releaseDate": "2011-03-15",
+    "runtime": 77
+  },
+  {
+    "id": 139933,
+    "title": "Kiss of the Damned",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Beautiful vampire Djuna tries to resist the advances of the handsome, human screenwriter Paolo, but eventually gives in to their passion. When her seductive and highly volatile sister Mimi unexpectedly comes to visit, she threatens Djuna's new relationship, and the whole vampire community becomes endangered.",
+    "releaseDate": "2012-11-07",
+    "runtime": 95
+  },
+  {
+    "id": 35862,
+    "title": "Wedding Trough",
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A mad farmer falls in love with his pig and has mutant piglets with it. When the \"piglets\" prefer their mother over him, he hangs them all and the sow kills herself.",
+    "releaseDate": "1975-01-01",
+    "runtime": 80
+  },
+  {
+    "id": 135812,
+    "title": "Dracula 3D",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "When Englishman Jonathan Harker visits the exotic castle of Count Dracula, he is entranced by the mysterious aristocrat. But upon learning that the count has sinister designs on his wife, Mina, Harker seeks help from vampire slayer Van Helsing.",
+    "releaseDate": "2012-11-09",
+    "runtime": 109
+  },
+  {
+    "id": 95730,
+    "title": "Lisa",
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Because her overprotective mother (Cheryl Ladd) won't allow her to date, 14-year-old Lisa (Staci Keanan) creates a rich fantasy life. She calls random men and seduces them anonymously. But now she may have picked the wrong man. Richard (D.W. Moffett) is Lisa's most charming target yet, but he's also the Candlelight Killer, who murders beautiful young women. Jeffrey Tambor co-stars in this seductive thriller.",
+    "releaseDate": "1989-08-26",
+    "runtime": 95
+  },
+  {
+    "id": 216374,
+    "title": "I Will Follow You Into the Dark",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "A woman reeling from the death of her parents becomes attached to an alluring man whose sudden disappearance sends her and her friends into a haunted high-rise to find him.",
+    "releaseDate": "2012-12-20",
+    "runtime": 107
+  },
+  {
+    "id": 29565,
+    "title": "The Night of the Hunted",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "A woman is taken to a mysterious clinic whose patients have a mental disorder in which their memories and identities are disintegrating as a result of a strange environmental accident.",
+    "releaseDate": "1980-08-20",
+    "runtime": 87
+  },
+  {
+    "id": 29128,
+    "title": "Lips of Blood",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Frederick sees a photograph of a ruined seaside castle, which triggers a strange childhood memory. He then goes on a strange quest, aided by four female vampires, to find the castle and the beautiful woman who lives there.",
+    "releaseDate": "1975-05-17",
+    "runtime": 88
+  },
+  {
+    "id": 85620,
+    "title": "Blood and Roses",
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Young Carmilla is jealous of her friend's engagement, and her obsession leads her to the tomb of a female vampire. The vampire possesses her and leads her to kill and terrorise the inhabitants of the estate. But is it all in her mind, or is she really under the control of an ancient vampire ancestor?",
+    "releaseDate": "1960-09-14",
+    "runtime": 87
+  },
+  {
+    "id": 132263,
+    "title": "The Ghost Goes West",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "An American businessman's family convinces him to buy a Scottish castle and disassemble it to ship it to America brick by brick, where it will be put it back together. The castle though is not the only part of the deal, with it goes the several-hundred year old ghost who haunts it.",
+    "releaseDate": "1935-12-17",
+    "runtime": 95
+  },
+  {
+    "id": 244566,
+    "title": "Life After Beth",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Horror"
+    ],
+    "overview": "Zach is devastated by the unexpected death of his girlfriend, Beth. When she mysteriously returns, he gets a second chance at love. Soon his whole world turns upside down...",
+    "releaseDate": "2014-08-15",
+    "runtime": 90
+  },
+  {
+    "id": 47553,
+    "title": "Twice-Told Tales",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "3 horror stories based on the writings of Nathaniel Hawthorne. In the 1st story titled \"Dr. Heidegger's Experiment\", Heidegger attempts to restore the youth of three elderly friends. In \"Rappaccini's Daughter\", a demented father is innoculating his daughter with poison so she may never leave her garden of poisonous plants. In the final story \"The House of the Seven Gables\", The Pyncheon family suffers from a hundred year old curse and while in the midst of arguing over inheritance, the Pyncheon brother kills his sister.",
+    "releaseDate": "1963-09-01",
+    "runtime": 120
+  },
+  {
+    "id": 104866,
+    "title": "Play Motel",
+    "genres": [
+      "Romance",
+      "Horror",
+      "Thriller"
+    ],
+    "overview": "The motel has a special room designed for sexual activities. It also has a habit of photographing sex act engines and extorting the parties concerned. One day a mysterious killer with black gloves up and the situation is changing.",
+    "releaseDate": "1979-01-01",
+    "runtime": 87
+  },
+  {
+    "id": 252171,
+    "title": "A Girl Walks Home Alone at Night",
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "overview": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire.",
+    "releaseDate": "2014-01-19",
+    "runtime": 99
+  },
+  {
+    "id": 29077,
+    "title": "The Bride",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Sting is Doctor Frankenstein in this remake of the old classic film Bride of Frankenstein. After years of research, the doctor finally succeeds in creating the perfect woman, who gets the name \"Eva\".",
+    "releaseDate": "1985-08-16",
+    "runtime": 114
+  },
+  {
+    "id": 71945,
+    "title": "Night of Dark Shadows",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller",
+      "Mystery",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "A painter and his wife move into a home and find themselves plagued by ghosts and spirits of his ancestors that used to be witches.",
+    "releaseDate": "1971-08-04",
+    "runtime": 95
+  },
+  {
+    "id": 84718,
+    "title": "Mystery of Edwin Drood",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance"
+    ],
+    "overview": "An opium-addicted choirmaster develops an obsession for a beautiful young girl and will not stop short of murder in order to have her.",
+    "releaseDate": "1935-02-04",
+    "runtime": 87
+  },
+  {
+    "id": 95820,
+    "title": "Love Bites",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Comedy"
+    ],
+    "overview": "Story about a vampire who falls in love with a woman and tries to \"re-humanize\" himself in order to be with her.",
+    "releaseDate": "1993-01-01",
+    "runtime": 98
+  },
+  {
+    "id": 104729,
+    "title": "Midnight",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "A teenage girl runs away from home because police officer/stepfather puts the moves on her. Hitchhiking to California, she's picked up by two guys who are also traveling cross-country. Along the way, they decide to camp out in the woods and run across a family of Satanists who keep their dead mother in the attic.",
+    "releaseDate": "1982-12-31",
+    "runtime": 91
+  },
+  {
+    "id": 105114,
+    "title": "So Sweet, So Dead",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "A serial killer is on the loose. His victims are unfaithful wives and he always leaves compromising photographs at the crime scene.",
+    "releaseDate": "1972-07-18",
+    "runtime": 89
+  },
+  {
+    "id": 66164,
+    "title": "Little Deaths",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "Composed of three disturbingly sensual and terrifying short narratives, unified by the twin themes of sex and death.",
+    "releaseDate": "2011-02-25",
+    "runtime": 90
+  },
+  {
+    "id": 241855,
+    "title": "Spring",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Science Fiction"
+    ],
+    "overview": "A young man in a personal tailspin flees the US to Italy, where he sparks up a romance with a woman harboring a dark, primordial secret.",
+    "releaseDate": "2014-03-20",
+    "runtime": 109
+  },
+  {
+    "id": 286971,
+    "title": "Innocence",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Adventure",
+      "Romance",
+      "Horror",
+      "Fantasy"
+    ],
+    "overview": "After losing her mother in a tragic accident, Beckett Warner realizes that her troubles may be far worse—her school is run by a coven of beautiful women who perpetuate their youth by drinking the blood of virgins.",
+    "releaseDate": "2014-09-05",
+    "runtime": 96
+  },
+  {
+    "id": 70349,
+    "title": "Beauty and the Beast",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Julie, the youngest daughter of a bankrupt merchant, sacrifices her life in order to save her father. She goes to an enchanted castle in the woods and meets Netvor, a bird-like monster. As Netvor begins to fall in love with Julie, he must suppress his beastly urge to kill her.",
+    "releaseDate": "1978-03-01",
+    "runtime": 83
+  },
+  {
+    "id": 156329,
+    "title": "The Mad Genius",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A crippled puppeteer rescues an abused young boy and turns the boy into a great ballet dancer. Complications ensue when, as a young man, the dancer falls in love with a young woman the puppeteer is also in love with.",
+    "releaseDate": "1931-11-07",
+    "runtime": 81
+  },
+  {
+    "id": 28325,
+    "title": "Emmanuelle Around the World",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Famous undercover journalist Emanuelle teams with her friend Cora Norman to uncover a white slave ring.",
+    "releaseDate": "1977-09-16",
+    "runtime": 102
+  },
+  {
+    "id": 110980,
+    "title": "The Mad Monster",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "A reporter's (Johnny Downs) girlfriend's (Anne Nagel) father (George Zucco) injects a farmhand with wolf blood.",
+    "releaseDate": "1942-05-15",
+    "runtime": 77
+  },
+  {
+    "id": 35564,
+    "title": "The Midnight Hour",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Phil, Melissa, Mitch, Mary, and Vinnie are high school friends, who unwittingly raise the dead on Halloween night. Once the dead have returned, Pitchford Cove will never be the same again....or will it?",
+    "releaseDate": "1985-11-01",
+    "runtime": 94
+  },
+  {
+    "id": 139357,
+    "title": "Pizza",
+    "genres": [
+      "Thriller",
+      "Comedy",
+      "Romance",
+      "Horror"
+    ],
+    "overview": "The story is about how around a pizza delivery boy lands in a mysterious circumstance and how it works a dramatic change in his life. A very different thriller which will make you sweat.",
+    "releaseDate": "2012-10-19",
+    "runtime": 127
+  },
+  {
+    "id": 31003,
+    "title": "Modern Vampires",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "A vampire hunter in southern California discovers that his son has been murdered by a gang of the undead and thus goes on a quest for revenge.",
+    "releaseDate": "1998-10-19",
+    "runtime": 91
+  },
+  {
+    "id": 56608,
+    "title": "Darkness Falls",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "With his pregnant wife at death's door after a car crash, desperate husband John Barrett invades the home of Mark Driscoll and his rich, neglected wife Sally. He holds the couple hostage in order to understand the events that led to his wife ending up in a coma.",
+    "releaseDate": "1999-08-27",
+    "runtime": 90
+  },
+  {
+    "id": 41771,
+    "title": "Tale of a Vampire",
+    "genres": [
+      "Romance",
+      "Horror",
+      "Drama"
+    ],
+    "overview": "Alex (Julian Sands) is a lonely, centuries old vampire wandering the streets of London. The only woman he ever loved was lost to him centuries ago...but there's a new woman in his life, a woman named Ann who bears an extraordinary resemblance to Virginia, the young girl Alex once loved. Ann has recently lost a love of her own to a fiery car crash, and lives deep in her own gray depression. After an anonymous letter leads her to a new job in an occult library, Ann begins a slow, hesitant courtship with Alex, whom she finds both attractive and a little spooky. Alex, confused and jaded (and also unable to refrain from imagining himself feeding on Ann) holds her at arms length. But the fears and emotions of Alex and Ann are not the only complications in their relationship. There's another man stalking them both...a man named Edgar, who was once married to Virginia and has been looking for Alex for a very long time.",
+    "releaseDate": "1992-01-01",
+    "runtime": 93
+  },
+  {
+    "id": 116997,
+    "title": "Ghost of Love",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "overview": "After witnessing the brutal murder of an elderly lady, a man has an encounter with a bizarre woman who claims to be an old lover of his... A lover who apparently committed suicide years ago.",
+    "releaseDate": "1981-04-03",
+    "runtime": 96
+  },
+  {
+    "id": 314405,
+    "title": "Tale of Tales",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "A fantasy film with horror elements, \"The Tale of Tales\" is loosely inspired by the 17th century collection of fairy tales of the same name by Italian writer Giambattista Basile.",
+    "releaseDate": "2015-05-14",
+    "runtime": 125
+  },
+  {
+    "id": 104232,
+    "title": "Nesting",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "When a thirty-something couple set aside the home furnishings catalogue and decide to rekindle their relationship, they return to their old neighborhood and end up squatting illegally in their twenty-something lives.",
+    "releaseDate": "2012-05-11",
+    "runtime": 93
+  },
+  {
+    "id": 323694,
+    "title": "Nina Forever",
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Romance"
+    ],
+    "overview": "Holly loves Rob and tries to help him through his grief – even if it means contending with his dead girlfriend Nina, who comes back, bloody and broken, every time they make love",
+    "releaseDate": "2015-03-14",
+    "runtime": 98
+  },
+  {
+    "id": 284063,
+    "title": "Mourning Grave",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "In-Soo (Kang Ha-Neul) has a special gift to see ghosts and has become isolated from other students because of this. He transfers to a high school in a rural area outside of Seoul. There, In-Soo meets a female ghost (Kim So-Eun) at the high school and forms a friendship with her.  Meanwhile, classmates disappear one by one.",
+    "releaseDate": "2014-07-03",
+    "runtime": 90
+  },
+  {
+    "id": 241174,
+    "title": "Beloved Enemy",
+    "genres": [
+      "Romance",
+      "Mystery",
+      "Action",
+      "Horror"
+    ],
+    "overview": "Jwala Prasad is to marry the girl of his dreams. On the day of the marriage, she is dressed all in red, as is the tradition in India. Just before the wedding she slips off to meet her real lover. When Jwala finds out, be is so enraged at he turns into a monster and kills both the to-be bride and her male friend. The saga does not end here, and this monster continues to terrorize the region, first abducting brides dressed in red just before the wedding procession stops at a Mandir (temple).",
+    "releaseDate": "1979-05-22",
+    "runtime": 154
+  },
+  {
+    "id": 348929,
+    "title": "You're Killing Me",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Horror"
+    ],
+    "overview": "Joe just told his boyfriend, George, that he is a serial killer. George thinks that his boyfriend, Joe, is hilarious... and he just saw Patricia Arquette at Target!!! In the horror/comedy hybrid, 'You're Killing Me', we take a look at the life and death consequences of dating in the age of incessant chatter. Joe and George meet just as Joe is coming out to himself as someone who loves to kill. George, on the other hand, can't decide which wig to wear for his next YouTube video. As George's friends start disappearing, one by one, he must face the undeniable fact that Gretchen might not be coming back with crushed ice for his party #YouDontNeedIceForChardonnay.",
+    "releaseDate": "2015-07-15",
+    "runtime": 88
+  },
+  {
+    "id": 47331,
+    "title": "Black Kiss",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance"
+    ],
+    "overview": "Asuka is an aspiring model who moves to Tokyo to pursue her career. She moves into a small apartment with a friend of a friend, Kasumi. A bizarre murder occurs in the hotel across the street. The body was mutilated and repositioned into a lurid work of art. After this, a string of murders start happening all around the two girls, as if some crazed serial killer was following them. At the scene of each crime, the perpetrator leaves a black lip print, and is subsequently dubbed \"The Black Kiss.",
+    "releaseDate": "2004-10-01",
+    "runtime": 133
+  },
+  {
+    "id": 92499,
+    "title": "Spellbound",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Comedy"
+    ],
+    "overview": "A magician meets a weird girl and offers her to work together in his magic show. It's only until a year later that he starts to know her personally and develops a feeling towards her despite her own problems.",
+    "releaseDate": "2011-12-01",
+    "runtime": 114
+  },
+  {
+    "id": 58431,
+    "title": "Pride and Prejudice and Zombies",
+    "genres": [
+      "Romance",
+      "Horror",
+      "Comedy",
+      "Thriller"
+    ],
+    "overview": "A zombie outbreak has fallen upon the land in this reimagining of Jane Austen’s classic tale of the tangled relationships between lovers from different social classes in 19th century England. Feisty heroine Elizabeth Bennet (Lily James) is a master of martial arts and weaponry and the handsome Mr. Darcy (Sam Riley) is a fierce zombie killer, yet the epitome of upper class prejudice. As the zombie outbreak intensifies, they must swallow their pride and join forces on the blood-soaked battlefield in order to conquer the undead once and for all.",
+    "releaseDate": "2016-02-04",
+    "runtime": 108
+  },
+  {
+    "id": 289190,
+    "title": "Felt",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Horror"
+    ],
+    "overview": "A women creates an alter ego in hopes of overcoming the trauma inflicted by men in her life",
+    "releaseDate": "2014-09-18",
+    "runtime": 80
+  },
+  {
+    "id": 3025,
+    "title": "The Two Faces of Dr. Jekyll",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Romance"
+    ],
+    "overview": "After a series of scientific experiments directed towards freeing the inner man and controlling human personalities, the kindly, generous Dr Henry Jekyll succeeds in freeing his own alter ego, Edward Hyde, a sadistic, evil creature whose pleasure is murder.",
+    "releaseDate": "1960-10-24",
+    "runtime": 88
+  },
+  {
+    "id": 49496,
+    "title": "Aashiq Banaya Aapne",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller",
+      "Science Fiction",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Karan (Sonu Sood) loves Sneha (Tanushree Dutta), but is too much of an introvert to ever express his feelings to her. Although Karan's feelings are evident to many, he is content in just seeing Sneha smile, and never gathers the courage to tell her how he feels. Vicky (Emraan Hashmi) tries to talk him out of his relationship with Sneha, but Vicky assures him that this time, he is really in love with Sneha. Karan's childhood friend. Very different from Karan, Vicky is an extrovert and a notorious flirt. All three lives change when Vicky joins Karan and Sneha in college, and Sneha begins feeling drawn towards Vicky. Karan feels he has lost the only woman he has ever loved but knows he cannot do anything about it. However, life goes on, and the three of them share a special bond of friendship. The closeness between Vicky and Sneha cross all boundaries, and just as everything seems set between the two, one eventful night shatters their bond.",
+    "releaseDate": "2005-09-02",
+    "runtime": 0
+  },
+  {
+    "id": 376311,
+    "title": "Little Dead Rotting Hood",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "The residents of a small town discover that something more sinister than killer wolves is lurking in the backwoods: first the wolves start turning up dead...then people.",
+    "releaseDate": "2016-01-05",
+    "runtime": 90
+  },
+  {
+    "id": 298165,
+    "title": "He Took His Skin Off for Me",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Romance"
+    ],
+    "overview": "A simple, domestic love story about a man who takes his skin off for his girlfriend, and why it probably wasn't the best idea...",
+    "releaseDate": "2014-10-18",
+    "runtime": 11
+  },
+  {
+    "id": 61689,
+    "title": "Thirst",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "overview": "The descendant of Elizabeth Bathory is abducted by a cult of self-proclaimed supermen who achieve this state of superiority by drinking from the \"blood cows\" (read: people) kept at the \"dairy farm\", and they try to get her to join them.",
+    "releaseDate": "1979-09-28",
+    "runtime": 95
+  },
+  {
+    "id": 374052,
+    "title": "The Love Witch",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "Elaine, a beautiful young witch, is determined to find a man to love her. In her gothic Victorian apartment she makes spells and potions, and then picks up men and seduces them. However her spells work too well, and she ends up with a string of hapless victims. When she finally meets the man of her dreams, her desperation to be loved will drive her to the brink of insanity and murder.",
+    "releaseDate": "2016-11-11",
+    "runtime": 120
+  },
+  {
+    "id": 113649,
+    "title": "Be with Me",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Thriller",
+      "Romance"
+    ],
+    "overview": "Seo-hee, Nam-hee and Lan. These three girls happen to read their tarot cards. Tarot cards tell them once-in-a-life-time opportunities will be coming to each of them simply by holding tarot cards and chanting magic spells. And the magic spells are nothing but their own names! Once their names are said, very special events begin to unfold.",
+    "releaseDate": "2010-06-10",
+    "runtime": 100
+  },
+  {
+    "id": 73043,
+    "title": "Kaidan",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance",
+      "Foreign"
+    ],
+    "overview": "Japan, 250 years ago. Soetsu is a moneylender who is killed by the cruel samurai Shinzaemon. His body is dumped in the Kasenega-Fuchi river. According to legend, all who drown in the river will never surface again. 20 Years later, Shinkichi, the handsome son of Shinzaemon, coincidentally meets Toyoshiga, the daughter of Soetsu. They fall in love. It is a doomed love, as the spirit of Soetsu is far from dead",
+    "releaseDate": "2007-08-04",
+    "runtime": 115
+  },
+  {
+    "id": 362409,
+    "title": "Trash Fire",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A man forced to confront his past when he and his girlfriend end up entangled in a web of lies.",
+    "releaseDate": "2016-11-03",
+    "runtime": 91
+  },
+  {
+    "id": 51122,
+    "title": "Make-Out with Violence",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ],
+    "overview": "A genre-bending tale of a boy trying to fulfill his unrequited love for a girl who has risen from the dead. It tells the story of twin brothers Patrick and Carol Darling, newly graduated from high school and struggling to come to terms with the mysterious disappearance of their friend, the bright and beautiful Wendy Hearst. When a drive through the countryside surrounding their suburban community leads to the discovery of Wendy's mysteriously animated corpse, the boys secretly transport the un-dead Wendy to an empty house in hopes of somehow bringing her back to life. As the sweltering summer pushes on, they must maintain the appearance of normalcy for their friends and family as they search for ways to revive the Wendy they once knew, or, failing that, to satisfy their own quests for love amongst the living and the dead.",
+    "releaseDate": "2008-04-12",
+    "runtime": 105
+  },
+  {
+    "id": 33045,
+    "title": "Parasite Eve",
+    "genres": [
+      "Romance",
+      "Horror",
+      "Science Fiction",
+      "Thriller",
+      "Drama"
+    ],
+    "overview": "Toshiaki Nagashima is a biologist who is doing major research on mitochondria. When his beautiful young wife is tragically involved in a car accident which leaves her brain dead, in desperation he steals her liver from her body in order to recieve the mitochondria from it to resurrect his wife from the dead. The killer mitochondria takes the form of his assistant.",
+    "releaseDate": "1997-01-01",
+    "runtime": 120
+  },
+  {
+    "id": 41301,
+    "title": "Nature of the Beast",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "overview": "Julia and Rich are about to get married, but Rich has a hairy secret. Will Julia still marry him when she finds out about the monster \"inside\"?",
+    "releaseDate": "2007-10-21",
+    "runtime": 90
+  },
+  {
+    "id": 43312,
+    "title": "The She-Creature",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Horror"
+    ],
+    "overview": "A mysterious hypnotist (Chester Morris) reverts his beautiful assistant (Marla English) back into the form of a prehistoric sea monster that she was in a past life.",
+    "releaseDate": "1956-08-01",
+    "runtime": 77
+  }
+]
