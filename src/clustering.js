@@ -172,6 +172,12 @@ async function main() {
     totalMovies
   } = await createClusters();
 
+   saveClusters(
+    singleClusters,
+    pairClusters
+  );
+
+
 
   //original 20 before partitioning
   const originalGenreCounts = {};
