@@ -69,6 +69,24 @@ async function main() {
     console.log(selectedPairs[i], "->", clusterResults[i].length);
   }
 
+  const candidateMovies = clusterResults.flat();
+  console.log("Candidate movies before deduplication:", candidateMovies.length);
+
+  //remove dupes
+  const uniqueMoviesMap = new Map();
+
+  for (const movie of candidateMovies){
+    uniqueMoviesMap.set(movie.id, movie);
+
+  }
+
+  //covert back to normal arr
+  const uniqueCandidateMovies = [
+    ...uniqueMoviesMap.values()
+  ];
+
+  console.log("candidates after dedup: ", uniqueCandidateMovies.length);
+
 
   
 }
