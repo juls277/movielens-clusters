@@ -44,6 +44,29 @@ function createGenrePairs(genres){
   return pairs;
 }
 
+function getTopSeeds(userHistory){
+  const last20 = userHistory.slice(-20);
+
+  const filtered = last20.filter((item)=>{
+    return item.timeSpent > 5 && item.timeSpent < 600;
+  })
+
+  filtered.sort((a,b)=>{
+    return b.timeSpent - a.timeSpent;
+  })
+
+  const topSeeds = filtered.slice(0,10);
+
+  return topSeeds;
+}
+
+function getClusterForSeed(seed){
+  if (seed.genres.length ===1 ){
+    return [seed.genres[0]];
+  }
+
+  return createGenrePairs(seed.genres);
+}
 //main client logic
 async function main() {
 
@@ -91,36 +114,80 @@ async function main() {
   //hard coded user history for now 
 
   const userHistory = [];
-  const viewedMovie1 = uniqueCandidateMovies[2];
-  const viewedMovie2 = uniqueCandidateMovies[10];
-  const viewedMovie3 = uniqueCandidateMovies[25];
+  
+  for (let i =0; i< uniqueCandidateMovies.length; i++){
+    userHistory.push({
+      id: uniqueCandidateMovies[i].id,
+      title:uniqueCandidateMovies[i].title,
+      genres:uniqueCandidateMovies[i].genres,
+      timeSpent: Math.floor(Math.random() * 596) + 5
 
-  userHistory.push({
-  id: viewedMovie1.id,
-  title: viewedMovie1.title,
-  genres: viewedMovie1.genres,
-  timeSpent: 80
+    })
+  };
+
+ // console.log("history", userHistory);
+ const seeds = getTopSeeds(userHistory);
+ console.log("topseeds", seeds);
+
+ for (seed of seeds){
+  console.log(seed.title, "->", seed.genres);
+ }
+const seedClusters = [];
+for (seed of seeds){
+  const clusters = getClusterForSeed(seed);
+  seedClusters.push(...clusters);
+}
+
+const uniqueSeedClusters = [...new Set(seedClusters)];
+console.log(uniqueSeedClusters);
+
+const seedRequests = uniqueSeedClusters.map((cluster) => {
+  const type = cluster.includes("+") ? "pair" : "single";
+
+  return getCluster(type, cluster);
 });
 
-userHistory.push({
-  id: viewedMovie2.id,
-  title: viewedMovie2.title,
-  genres: viewedMovie2.genres,
-  timeSpent: 40
-});
-
-userHistory.push({
-  id: viewedMovie3.id,
-  title: viewedMovie3.title,
-  genres: viewedMovie3.genres,
-  timeSpent: 120
-});
-  console.log("history", userHistory);
+const seedClusterResults =
+  await Promise.all(seedRequests);
 
 
+  console.log(
+  "Seed clusters received:",
+  seedClusterResults.length
+);
+
+for (let i = 0; i < uniqueSeedClusters.length; i++) {
+  console.log(
+    uniqueSeedClusters[i],
+    "->",
+    seedClusterResults[i].length,
+    "movies"
+  );
+}
+
+const seedCandidateMovies = seedClusterResults.flat();
+console.log(
+  "Seed candidate movies before deduplication:",
+  seedCandidateMovies.length
+);
+
+//remove dupes 
+const seedCandidateMap = new Map();
+for (movie of seedCandidateMovies) {
+  seedCandidateMap.set(movie.id, movie);
+}
+
+//back to array 
+const uniqueSeedCandidates = [...seedCandidateMap.values()];
+
+console.log(
+  "Seed candidate movies after deduplication:",
+  uniqueSeedCandidates.length
+);
 
   
 }
+
 
 
 //start client
