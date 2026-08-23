@@ -86,6 +86,37 @@ async function main() {
   ];
 
   console.log("candidates after dedup: ", uniqueCandidateMovies.length);
+  console.log("first 5", uniqueCandidateMovies.slice(0,5));
+
+  //hard coded user history for now 
+
+  const userHistory = [];
+  const viewedMovie1 = uniqueCandidateMovies[2];
+  const viewedMovie2 = uniqueCandidateMovies[10];
+  const viewedMovie3 = uniqueCandidateMovies[25];
+
+  userHistory.push({
+  id: viewedMovie1.id,
+  title: viewedMovie1.title,
+  genres: viewedMovie1.genres,
+  timeSpent: 80
+});
+
+userHistory.push({
+  id: viewedMovie2.id,
+  title: viewedMovie2.title,
+  genres: viewedMovie2.genres,
+  timeSpent: 40
+});
+
+userHistory.push({
+  id: viewedMovie3.id,
+  title: viewedMovie3.title,
+  genres: viewedMovie3.genres,
+  timeSpent: 120
+});
+  console.log("history", userHistory);
+
 
 
   
