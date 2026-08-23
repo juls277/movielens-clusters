@@ -1,4 +1,4 @@
-//request cluster from server
+//http helpers
 
 async function getCluster(type, clusterName) {
 
@@ -31,6 +31,22 @@ async function getCluster(type, clusterName) {
   return movies;
 }
 
+async function fetchClusters(clusterNames){
+  const requests = clusterNames.map((cluster) => {
+
+    const type = cluster.includes("+")
+      ? "pair"
+      : "single";
+
+    return getCluster(type, cluster);
+  });
+const results = await Promise.all(requests);
+
+return results;
+}
+
+//CLUSTER-SELECTION HELPERS
+
 function createGenrePairs(genres){
   const pairs = [];
 
@@ -42,6 +58,42 @@ function createGenrePairs(genres){
     }
   }
   return pairs;
+}
+
+function getClusterForSeed(seed){
+  if (seed.genres.length ===1 ){
+    return [seed.genres[0]];
+  }
+
+  return createGenrePairs(seed.genres);
+}
+
+function getUniqueClustersFromSeeds(seeds){
+  const seedClusters = [];
+  for (const seed of seeds){
+  const clusters = getClusterForSeed(seed);
+  seedClusters.push(...clusters);
+}
+
+const uniqueSeedClusters = [...new Set(seedClusters)];
+return uniqueSeedClusters;
+
+}
+
+//USER-HISTORY HELPERS
+
+function createFakeUserHistory(movies){
+  const history = [];
+  for (const movie of movies){
+  history.push({
+  id: movie.id,
+  title: movie.title,
+  genres: movie.genres,
+  timeSpent: Math.floor(Math.random() * 596) + 5
+  });
+  }
+
+  return history;
 }
 
 function getTopSeeds(userHistory){
@@ -60,14 +112,40 @@ function getTopSeeds(userHistory){
   return topSeeds;
 }
 
-function getClusterForSeed(seed){
-  if (seed.genres.length ===1 ){
-    return [seed.genres[0]];
-  }
 
-  return createGenrePairs(seed.genres);
+
+
+//REMOVE DUPLICATES 
+
+function removeDuplicates(movies){
+  const candidateItems = movies.flat();
+  const uniqueItemsMap = new Map();
+
+  for (const movie of candidateItems){
+    uniqueItemsMap.set(movie.id, movie)
+  }
+ const uniqueCandidatesArr = [...uniqueItemsMap.values()];
+
+ return uniqueCandidatesArr;
 }
-//main client logic
+
+
+
+//DEBUGGING
+function printClusterSizes(clusterNames, clusterResults) {
+
+  for (let i = 0; i < clusterNames.length; i++) {
+
+    console.log(
+      clusterNames[i],
+      "->",
+      clusterResults[i].length,
+      "movies"
+    );
+  }
+}
+
+//MAIN
 async function main() {
 
   
@@ -78,107 +156,44 @@ async function main() {
   const selectedPairs = createGenrePairs(selectedGenres);
   console.log(selectedPairs);
 
-  const requests = selectedPairs.map((pair)=>{
-    return getCluster("pair", pair);
-  })
+  const clusterResults = await fetchClusters(selectedPairs);
 
-  console.log(requests.length);
-
-  const clusterResults = await Promise.all(requests);
-
-  console.log(clusterResults.length);
-
-  for (let i = 0; i<selectedPairs.length; i++){
-    console.log(selectedPairs[i], "->", clusterResults[i].length);
-  }
-
-  const candidateMovies = clusterResults.flat();
-  console.log("Candidate movies before deduplication:", candidateMovies.length);
-
-  //remove dupes
-  const uniqueMoviesMap = new Map();
-
-  for (const movie of candidateMovies){
-    uniqueMoviesMap.set(movie.id, movie);
-
-  }
-
-  //covert back to normal arr
-  const uniqueCandidateMovies = [
-    ...uniqueMoviesMap.values()
-  ];
+ printClusterSizes(
+  selectedPairs,
+  clusterResults
+);
+ 
+  const uniqueCandidateMovies = removeDuplicates(clusterResults);
 
   console.log("candidates after dedup: ", uniqueCandidateMovies.length);
   console.log("first 5", uniqueCandidateMovies.slice(0,5));
 
   //hard coded user history for now 
 
-  const userHistory = [];
   
-  for (let i =0; i< uniqueCandidateMovies.length; i++){
-    userHistory.push({
-      id: uniqueCandidateMovies[i].id,
-      title:uniqueCandidateMovies[i].title,
-      genres:uniqueCandidateMovies[i].genres,
-      timeSpent: Math.floor(Math.random() * 596) + 5
-
-    })
-  };
+  const userHistory = createFakeUserHistory(uniqueCandidateMovies);
 
  // console.log("history", userHistory);
- const seeds = getTopSeeds(userHistory);
- console.log("topseeds", seeds);
+  const seeds = getTopSeeds(userHistory);
+  console.log("topseeds", seeds);
 
- for (seed of seeds){
+ for (const seed of seeds){
   console.log(seed.title, "->", seed.genres);
  }
-const seedClusters = [];
-for (seed of seeds){
-  const clusters = getClusterForSeed(seed);
-  seedClusters.push(...clusters);
-}
 
-const uniqueSeedClusters = [...new Set(seedClusters)];
-console.log(uniqueSeedClusters);
+ const uniqueSeedClusters = getUniqueClustersFromSeeds(seeds);
 
-const seedRequests = uniqueSeedClusters.map((cluster) => {
-  const type = cluster.includes("+") ? "pair" : "single";
-
-  return getCluster(type, cluster);
-});
 
 const seedClusterResults =
-  await Promise.all(seedRequests);
+  await fetchClusters(uniqueSeedClusters);
 
-
-  console.log(
-  "Seed clusters received:",
-  seedClusterResults.length
+printClusterSizes(
+  uniqueSeedClusters,
+  seedClusterResults
 );
 
-for (let i = 0; i < uniqueSeedClusters.length; i++) {
-  console.log(
-    uniqueSeedClusters[i],
-    "->",
-    seedClusterResults[i].length,
-    "movies"
-  );
-}
 
-const seedCandidateMovies = seedClusterResults.flat();
-console.log(
-  "Seed candidate movies before deduplication:",
-  seedCandidateMovies.length
-);
-
-//remove dupes 
-const seedCandidateMap = new Map();
-for (movie of seedCandidateMovies) {
-  seedCandidateMap.set(movie.id, movie);
-}
-
-//back to array 
-const uniqueSeedCandidates = [...seedCandidateMap.values()];
+const uniqueSeedCandidates = removeDuplicates(seedClusterResults);
 
 console.log(
   "Seed candidate movies after deduplication:",
