@@ -17,7 +17,10 @@ import {
 } from "./ui.js";
 
 
-
+function handleMovieClick(movie) {
+  startMovieView(movie);
+  showMovieDetails(movie);
+}
 
 
 
@@ -122,8 +125,9 @@ async function main(selectedGenres) {
   );
 
   displayMovies(
-    uniqueCandidateMovies
-  );
+  uniqueCandidateMovies,
+  handleMovieClick
+);
   
 
  
