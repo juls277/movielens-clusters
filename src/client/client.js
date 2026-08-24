@@ -1,84 +1,11 @@
-//http helpers
+import { fetchClusters } from "./api.js";
+import { getCluster } from "./api.js";
+import { createGenrePairs } from "./clusters.js";
+import { getUniqueClustersFromSeeds } from "./clusters.js";
 
-async function getCluster(type, clusterName) {
-
-  
-  // work correctly inside the URL
-  const encodedName = encodeURIComponent(clusterName);
-
-  const url =
-    `http://localhost:3000/cluster/${type}/${encodedName}`;
-
-  console.log("Requesting cluster:");
-  console.log(clusterName);
-
-  console.log("URL:");
-  console.log(url);
-
-  // Send HTTP request
-  const response = await fetch(url);
-
-  // Check whether server returned an error
-  if (!response.ok) {
-    throw new Error(
-      `Server returned ${response.status}: ${response.statusText}`
-    );
-  }
-
-  // Convert received JSON into JavaScript objects
-  const movies = await response.json();
-
-  return movies;
-}
-
-async function fetchClusters(clusterNames){
-  const requests = clusterNames.map((cluster) => {
-
-    const type = cluster.includes("+")
-      ? "pair"
-      : "single";
-
-    return getCluster(type, cluster);
-  });
-const results = await Promise.all(requests);
-
-return results;
-}
 
 //CLUSTER-SELECTION HELPERS
 
-function createGenrePairs(genres){
-  const pairs = [];
-
-  for (let i=0; i< genres.length; i++){
-    for (let j=i+1; j<genres.length; j++){
-      const pair = [genres[i], genres[j]].sort().join("+");
-      pairs.push(pair);
-
-    }
-  }
-  return pairs;
-}
-
-function getClusterForSeed(seed){
-  if (seed.genres.length ===1 ){
-    return [seed.genres[0]];
-  }
-
-  return createGenrePairs(seed.genres);
-}
-
-function getUniqueClustersFromSeeds(seeds){
-  const seedClusters = [];
-  for (const seed of seeds){
-  const clusters = getClusterForSeed(seed);
-  seedClusters.push(...clusters);
-}
-
-const uniqueSeedClusters = [...new Set(seedClusters)];
-return uniqueSeedClusters;
-
-}
 
 
 
