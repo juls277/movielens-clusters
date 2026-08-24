@@ -316,6 +316,26 @@ console.log(
 
 }
 
+function displayRecommendations(recommendations) {
+  const container =
+    document.getElementById("recommendationsContainer");
+
+  container.innerHTML = "";
+
+  for (const recommendation of recommendations) {
+    const item =
+      document.createElement("div");
+
+    item.innerHTML = `
+      <h3>${recommendation.title}</h3>
+      <p>${recommendation.genres.join(", ")}</p>
+      <p>Score: ${recommendation.score.toFixed(3)}</p>
+    `;
+
+    container.appendChild(item);
+  }
+}
+
 
 // RS HELPER
 async function generateRecommendationsFromHistory(){
@@ -367,10 +387,7 @@ async function generateRecommendationsFromHistory(){
     10
   );
 
-  console.log(
-  "Recommendations from real history:",
-  recommendations
-);
+ displayRecommendations(recommendations);
 
 
 }
