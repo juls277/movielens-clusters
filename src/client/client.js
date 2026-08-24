@@ -80,21 +80,7 @@ return uniqueSeedClusters;
 
 }
 
-//USER-HISTORY HELPERS
 
-function createFakeUserHistory(movies){
-  const history = [];
-  for (const movie of movies){
-  history.push({
-  id: movie.id,
-  title: movie.title,
-  genres: movie.genres,
-  timeSpent: 10
-  });
-  }
-
-  return history;
-}
 
 function getTopSeeds(userHistory){
   const last20 = userHistory.slice(-20);
@@ -408,86 +394,36 @@ async function generateRecommendationsFromHistory(){
 
 //MAIN
 async function main(selectedGenres) {
-
-  
-
-  
-  console.log("Selected genres", selectedGenres);
-  const selectedPairs = createGenrePairs(selectedGenres);
-  console.log(selectedPairs);
-
-  const clusterResults = await fetchClusters(selectedPairs);
-
- printClusterSizes(
-  selectedPairs,
-  clusterResults
-);
- 
-  const uniqueCandidateMovies = removeDuplicates(clusterResults);
-
-
-  displayMovies(uniqueCandidateMovies);
-
-  console.log("candidates after dedup: ", uniqueCandidateMovies.length);
-  console.log("first 5", uniqueCandidateMovies.slice(0,5));
-
-  
-
-  //temporarily stop for nor
-  return;
-
-  //hard coded user history for now 
-
-  
-  const userHistory = createFakeUserHistory(uniqueCandidateMovies);
-
- // console.log("history", userHistory);
-  const seeds = getTopSeeds(userHistory);
-  console.log("topseeds", seeds);
-
- for (const seed of seeds){
-  console.log(seed.title, "->", seed.genres);
- }
-
- const uniqueSeedClusters = getUniqueClustersFromSeeds(seeds);
-
-
-const seedClusterResults =
-  await fetchClusters(uniqueSeedClusters);
-
-printClusterSizes(
-  uniqueSeedClusters,
-  seedClusterResults
-);
-
-
-const uniqueSeedCandidates = removeDuplicates(seedClusterResults);
-
-console.log(
-  "Seed candidate movies after deduplication:",
-  uniqueSeedCandidates.length
-);
-
-const unwatchedCandidates = removeWatchedMovies(uniqueSeedCandidates, userHistory);
-
-const rankedCandidates =
-  rankCandidates(
-    unwatchedCandidates,
-    seeds
+ console.log(
+    "Selected genres",
+    selectedGenres
   );
 
- 
-const recommendations =
-  getTopNRecommendations(
-    rankedCandidates,
-    10
+  const selectedPairs =
+    createGenrePairs(selectedGenres);
+
+  const clusterResults =
+    await fetchClusters(selectedPairs);
+
+  printClusterSizes(
+    selectedPairs,
+    clusterResults
   );
 
-console.log(
-  "Top recommendations:",
-  recommendations
-);
+  const uniqueCandidateMovies =
+    removeDuplicates(clusterResults);
 
+  console.log(
+    "candidates after dedup:",
+    uniqueCandidateMovies.length
+  );
+
+  displayMovies(
+    uniqueCandidateMovies
+  );
+  
+
+ 
   
 }
 
