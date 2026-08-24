@@ -234,6 +234,42 @@ function printClusterSizes(clusterNames, clusterResults) {
   }
 }
 
+//USER-HISTORY STATE 
+
+let currentMovie = null;
+let movieOpenedAt = null;
+
+//USER HISTORY HELPERS 
+
+function saveHistoryItem(movie, timeSpent){
+  const storedHistory = localStorage.getItem("movieHistory");
+
+  //parse into js arr 
+  const history = storedHistory ? JSON.parse(storedHistory) : [];
+
+   history.push({
+    id: movie.id,
+    title: movie.title,
+    genres: movie.genres,
+    timeSpent: timeSpent
+  });
+
+  localStorage.setItem(
+    "movieHistory",
+    JSON.stringify(history)
+  );
+}
+
+function loadUserHistory() {
+  const storedHistory =
+    localStorage.getItem("movieHistory");
+
+  const history = storedHistory
+    ? JSON.parse(storedHistory)
+    : [];
+
+  return history;
+}
 //UI helpers 
 
 function displayMovies(movies){
@@ -250,6 +286,17 @@ function displayMovies(movies){
 }
 
 function showMovieDetails(movie) {
+
+  if (currentMovie!=null){
+    const now = Date.now();
+    const timeSpent = Math.floor((now - movieOpenedAt) / 1000);
+
+    saveHistoryItem(currentMovie, timeSpent);
+  }
+
+  currentMovie = movie; 
+  movieOpenedAt = Date.now();
+
   const details = document.getElementById("movieDetails");
 
   details.innerHTML = `
@@ -257,6 +304,16 @@ function showMovieDetails(movie) {
   <p>${movie.genres.join(", ")}</p>
   <p>${movie.overview}</p>
 `;
+
+//remove later 
+
+console.log(
+  "Stored history:",
+  loadUserHistory()
+);
+
+// RS HELPER
+
 
 }
 
@@ -284,6 +341,8 @@ async function main(selectedGenres) {
 
   console.log("candidates after dedup: ", uniqueCandidateMovies.length);
   console.log("first 5", uniqueCandidateMovies.slice(0,5));
+
+  
 
   //temporarily stop for nor
   return;
