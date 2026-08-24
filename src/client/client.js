@@ -2,9 +2,10 @@ import { fetchClusters } from "./api.js";
 import { getCluster } from "./api.js";
 import { createGenrePairs } from "./clusters.js";
 import { getUniqueClustersFromSeeds } from "./clusters.js";
+import { saveCurrentMovieView, loadUserHistory, startMovieView } from "./history.js";
 
 
-//CLUSTER-SELECTION HELPERS
+
 
 
 
@@ -147,61 +148,11 @@ function printClusterSizes(clusterNames, clusterResults) {
   }
 }
 
-//USER-HISTORY STATE 
 
-let currentMovie = null;
-let movieOpenedAt = null;
 
 //USER HISTORY HELPERS 
 
-function saveHistoryItem(movie, timeSpent){
-  const storedHistory = localStorage.getItem("movieHistory");
 
-  //parse into js arr 
-  const history = storedHistory ? JSON.parse(storedHistory) : [];
-
-   history.push({
-    id: movie.id,
-    title: movie.title,
-    genres: movie.genres,
-    timeSpent: timeSpent
-  });
-
-  localStorage.setItem(
-    "movieHistory",
-    JSON.stringify(history)
-  );
-}
-
-function loadUserHistory() {
-  const storedHistory =
-    localStorage.getItem("movieHistory");
-
-  const history = storedHistory
-    ? JSON.parse(storedHistory)
-    : [];
-
-  return history;
-}
-
-function saveCurrentMovieView() {
-  if (currentMovie === null || movieOpenedAt === null) {
-    return;
-  }
-
-  const now = Date.now();
-
-  const timeSpent =
-    Math.floor((now - movieOpenedAt) / 1000);
-
-  saveHistoryItem(
-    currentMovie,
-    timeSpent
-  );
-
-  currentMovie = null;
-  movieOpenedAt = null;
-}
 //UI helpers 
 
 function displayMovies(movies){
@@ -262,6 +213,7 @@ function displayRecommendations(recommendations) {
     container.appendChild(item);
   }
 }
+
 
 
 // RS HELPER
