@@ -141,6 +141,23 @@ function removeWatchedMovies(candidates, userHistory){
   
 }
 
+//similarity 
+
+function genreSimilarity(genresA, genresB){
+  const setA = new Set(genresA);
+  const setB = new Set(genresB);
+
+  const intersection = [...setA].filter((genre)=>setB.has(genre));
+
+ const union = new Set ([...setA, ...setB]);
+
+ const similarity = intersection.length / union.size;
+
+ return similarity; 
+
+
+}
+
 //DEBUGGING
 function printClusterSizes(clusterNames, clusterResults) {
 
@@ -211,6 +228,11 @@ console.log(
 );
 
 const unwatchedCandidates = removeWatchedMovies(uniqueSeedCandidates, userHistory);
+
+genreSimilarity(
+  ["Drama", "Romance"],
+  ["Drama", "Romance", "Comedy"]
+);
   
 }
 
