@@ -243,8 +243,21 @@ function displayMovies(movies){
   for (const movie of moviesToDisplay) {
     const movieButton = document.createElement("button");
     movieButton.textContent = movie.title;
+
+    movieButton.addEventListener("click", () => {showMovieDetails(movie);});
     container.appendChild(movieButton);
 }
+}
+
+function showMovieDetails(movie) {
+  const details = document.getElementById("movieDetails");
+
+  details.innerHTML = `
+  <h3>${movie.title}</h3>
+  <p>${movie.genres.join(", ")}</p>
+  <p>${movie.overview}</p>
+`;
+
 }
 
 //MAIN
