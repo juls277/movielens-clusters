@@ -158,6 +158,68 @@ function genreSimilarity(genresA, genresB){
 
 }
 
+function scoreCandidate(candidate, seeds) {
+
+   if (seeds.length === 0) {
+    return 0;
+  }
+
+
+  let weightedSimilaritySum = 0;
+  let totalWeight = 0;
+
+  for (const seed of seeds) {
+
+    const similarity = genreSimilarity(
+      candidate.genres,
+      seed.genres
+    );
+
+    const weight = Math.log(
+      1 + seed.timeSpent
+    );
+
+    weightedSimilaritySum +=
+      weight * similarity;
+
+    totalWeight += weight;
+  }
+
+  const score =
+    weightedSimilaritySum / totalWeight;
+
+  return score;
+}
+
+function rankCandidates(candidates, seeds){
+  const scoredCandidates = candidates.map((movie)=>{
+    return {
+      movie: movie,
+      score: scoreCandidate(movie, seeds)
+    };
+  })
+
+   scoredCandidates.sort((a, b) => {
+    return b.score - a.score;
+  });
+
+  return scoredCandidates;
+}
+
+function getTopNRecommendations(rankedCandidates, limit){
+  const top = rankedCandidates.slice(0,limit);
+
+  const recommendations = top.map((item)=> {
+    return {
+      id: item.movie.id,
+      title: item.movie.title,
+      genres: item.movie.genres,
+      score: item.score
+    }
+  });
+  return recommendations;
+}
+
 //DEBUGGING
 function printClusterSizes(clusterNames, clusterResults) {
 
@@ -229,10 +291,24 @@ console.log(
 
 const unwatchedCandidates = removeWatchedMovies(uniqueSeedCandidates, userHistory);
 
-genreSimilarity(
-  ["Drama", "Romance"],
-  ["Drama", "Romance", "Comedy"]
+const rankedCandidates =
+  rankCandidates(
+    unwatchedCandidates,
+    seeds
+  );
+
+ 
+const recommendations =
+  getTopNRecommendations(
+    rankedCandidates,
+    10
+  );
+
+console.log(
+  "Top recommendations:",
+  recommendations
 );
+
   
 }
 
