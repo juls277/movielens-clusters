@@ -312,7 +312,65 @@ console.log(
   loadUserHistory()
 );
 
+
+
+}
+
+
 // RS HELPER
+async function generateRecommendationsFromHistory(){
+  const userHistory = loadUserHistory();
+
+   if (userHistory.length === 0) {
+    console.log("No user history yet");
+    return;
+  }
+
+  //seed items
+  const seeds = getTopSeeds(userHistory);
+
+  console.log("Seeds from real history", seeds);
+
+  //get new clusters based on seed movies 
+
+  const uniqueSeedClusters =
+  getUniqueClustersFromSeeds(seeds);
+
+  //fetch these clusters 
+
+  const seedClusterResults =
+  await fetchClusters(uniqueSeedClusters);
+
+  //dedup clusters
+
+  const uniqueSeedCandidates =
+  removeDuplicates(seedClusterResults);
+
+  //remove what user has seen already 
+
+  const unwatchedCandidates =
+  removeWatchedMovies(
+    uniqueSeedCandidates,
+    userHistory
+  );
+
+  const rankedCandidates =
+  rankCandidates(
+    unwatchedCandidates,
+    seeds
+  );
+
+  //get recom-s
+  const recommendations =
+  getTopNRecommendations(
+    rankedCandidates,
+    10
+  );
+
+  console.log(
+  "Recommendations from real history:",
+  recommendations
+);
 
 
 }
@@ -402,6 +460,7 @@ console.log(
   
 }
 
+//BUTTONS 
 const loadMoviesButton = document.getElementById('loadMoviesButton');
 
 
@@ -427,6 +486,17 @@ loadMoviesButton.addEventListener("click", ()=> {
   });
 
   
+});
+
+const recommendButton = document.getElementById('recommendButton');
+recommendButton.addEventListener('click', ()=>{
+  generateRecommendationsFromHistory()
+    .catch((error) => {
+      console.error(
+        "Recommendation failed:",
+        error
+      );
+    });
 });
 
 
