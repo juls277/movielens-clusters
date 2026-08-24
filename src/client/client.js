@@ -135,7 +135,7 @@ function removeWatchedMovies(candidates, userHistory){
   const watchedIds = new Set (
     userHistory.map((item)=>item.id)
 );
-  const unwatchedCandidates = candidates.filter((movie)=> { return !watchedIds.has(movie);})
+  const unwatchedCandidates = candidates.filter((movie)=> { return !watchedIds.has(movie.id);})
   return unwatchedCandidates;
    
   
@@ -234,13 +234,25 @@ function printClusterSizes(clusterNames, clusterResults) {
   }
 }
 
+//UI helpers 
+
+function displayMovies(movies){
+  const container = document.getElementById("moviesContainer");
+  container.innerHTML="";
+  const moviesToDisplay = movies.slice(0, 50);
+  for (const movie of moviesToDisplay) {
+    const movieButton = document.createElement("button");
+    movieButton.textContent = movie.title;
+    container.appendChild(movieButton);
+}
+}
+
 //MAIN
-async function main() {
+async function main(selectedGenres) {
 
   
 
-  //hardcoded for now: 
-  const selectedGenres = ["Drama", "Romance", "Thriller"];
+  
   console.log("Selected genres", selectedGenres);
   const selectedPairs = createGenrePairs(selectedGenres);
   console.log(selectedPairs);
@@ -254,8 +266,14 @@ async function main() {
  
   const uniqueCandidateMovies = removeDuplicates(clusterResults);
 
+
+  displayMovies(uniqueCandidateMovies);
+
   console.log("candidates after dedup: ", uniqueCandidateMovies.length);
   console.log("first 5", uniqueCandidateMovies.slice(0,5));
+
+  //temporarily stop for nor
+  return;
 
   //hard coded user history for now 
 
@@ -312,15 +330,34 @@ console.log(
   
 }
 
+const loadMoviesButton = document.getElementById('loadMoviesButton');
+
+
+loadMoviesButton.addEventListener("click", ()=> {
+  console.log("Load movies clicked");
+
+  const checkedGenres = document.querySelectorAll('input[type="checkbox"]:checked');
+
+  const selectedGenres = [...checkedGenres].map((checkbox) => {
+      return checkbox.value;
+    });
+
+   console.log(
+    "Selected genres:",
+    selectedGenres
+  );
+
+   main(selectedGenres).catch((error) => {
+    console.error(
+      "Client failed:",
+      error
+    );
+  });
+
+  
+});
+
 
 
 //start client
 
-main().catch((error) => {
-
-  console.error(
-    "Client failed:",
-    error
-  );
-
-});
