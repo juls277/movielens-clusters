@@ -270,6 +270,25 @@ function loadUserHistory() {
 
   return history;
 }
+
+function saveCurrentMovieView() {
+  if (currentMovie === null || movieOpenedAt === null) {
+    return;
+  }
+
+  const now = Date.now();
+
+  const timeSpent =
+    Math.floor((now - movieOpenedAt) / 1000);
+
+  saveHistoryItem(
+    currentMovie,
+    timeSpent
+  );
+
+  currentMovie = null;
+  movieOpenedAt = null;
+}
 //UI helpers 
 
 function displayMovies(movies){
@@ -287,12 +306,7 @@ function displayMovies(movies){
 
 function showMovieDetails(movie) {
 
-  if (currentMovie!=null){
-    const now = Date.now();
-    const timeSpent = Math.floor((now - movieOpenedAt) / 1000);
-
-    saveHistoryItem(currentMovie, timeSpent);
-  }
+ saveCurrentMovieView();
 
   currentMovie = movie; 
   movieOpenedAt = Date.now();
@@ -516,7 +530,9 @@ recommendButton.addEventListener('click', ()=>{
     });
 });
 
+//ON CLOSE/REFRESH 
 
-
-//start client
+window.addEventListener("pagehide", () => {
+  saveCurrentMovieView();
+});
 
