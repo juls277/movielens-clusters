@@ -89,7 +89,7 @@ function createFakeUserHistory(movies){
   id: movie.id,
   title: movie.title,
   genres: movie.genres,
-  timeSpent: Math.floor(Math.random() * 596) + 5
+  timeSpent: 10
   });
   }
 
@@ -129,7 +129,17 @@ function removeDuplicates(movies){
  return uniqueCandidatesArr;
 }
 
+//filtering 
 
+function removeWatchedMovies(candidates, userHistory){
+  const watchedIds = new Set (
+    userHistory.map((item)=>item.id)
+);
+  const unwatchedCandidates = candidates.filter((movie)=> { return !watchedIds.has(movie);})
+  return unwatchedCandidates;
+   
+  
+}
 
 //DEBUGGING
 function printClusterSizes(clusterNames, clusterResults) {
@@ -200,6 +210,7 @@ console.log(
   uniqueSeedCandidates.length
 );
 
+const unwatchedCandidates = removeWatchedMovies(uniqueSeedCandidates, userHistory);
   
 }
 
