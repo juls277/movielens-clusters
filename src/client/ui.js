@@ -1,27 +1,24 @@
-export function displayMovies(movies, onMovieClick) {
-  const container =
-    document.getElementById("moviesContainer");
+const MOVIES_PER_PAGE = 50;
 
-  container.innerHTML = "";
+let currentMoviePage = 0;
 
-  const moviesToDisplay =
-    movies.slice(0, 50);
+export function displayMovies(
+  movies,
+  onMovieClick
+) {
+  currentMoviePage = 0;
 
-  for (const movie of moviesToDisplay) {
-    const movieButton =
-      document.createElement("button");
+  renderMoviePage(
+    movies,
+    currentMoviePage,
+    onMovieClick
+  );
 
-    movieButton.textContent =
-      movie.title;
-
-    movieButton.addEventListener("click", () => {
-      onMovieClick(movie);
-    });
-
-    container.appendChild(movieButton);
-  }
+   renderPagination(
+    movies,
+    onMovieClick
+  );
 }
-
 export function showMovieDetails(movie) {
 
   
@@ -78,4 +75,103 @@ export function displayGenreOptions(genres) {
 
     container.appendChild(label);
   }
+}
+
+function renderMoviePage(movies, page, onMovieClick){
+    const container = document.getElementById("moviesContainer");
+
+    container.innerHTML="";
+
+    const start =
+    page * MOVIES_PER_PAGE;
+
+    const end =
+    start + MOVIES_PER_PAGE;
+
+    const moviesToDisplay = movies.slice(start,end);
+
+     for (const movie of moviesToDisplay) {
+    const movieButton =
+      document.createElement("button");
+
+    movieButton.textContent =
+      movie.title;
+
+    movieButton.addEventListener("click", () => {
+      onMovieClick(movie);
+    });
+
+    container.appendChild(movieButton);
+  }
+}
+
+function renderPagination(
+  movies,
+  onMovieClick
+) {
+  const container =
+    document.getElementById("paginationContainer");
+
+  container.innerHTML = "";
+
+  const totalPages =
+    Math.ceil(
+      movies.length / MOVIES_PER_PAGE
+    );
+
+  const previousButton =
+    document.createElement("button");
+
+  previousButton.textContent = "Previous";
+
+  previousButton.disabled =
+    currentMoviePage === 0;
+
+  previousButton.addEventListener("click", () => {
+    currentMoviePage--;
+
+    renderMoviePage(
+      movies,
+      currentMoviePage,
+      onMovieClick
+    );
+
+    renderPagination(
+      movies,
+      onMovieClick
+    );
+  });
+
+  const pageInfo =
+    document.createElement("span");
+
+  pageInfo.textContent =
+    ` Page ${currentMoviePage + 1} of ${totalPages} `;
+
+  const nextButton =
+    document.createElement("button");
+
+  nextButton.textContent = "Next";
+
+  nextButton.disabled =
+    currentMoviePage >= totalPages - 1;
+
+  nextButton.addEventListener("click", () => {
+    currentMoviePage++;
+
+    renderMoviePage(
+      movies,
+      currentMoviePage,
+      onMovieClick
+    );
+
+    renderPagination(
+      movies,
+      onMovieClick
+    );
+  });
+
+  container.appendChild(previousButton);
+  container.appendChild(pageInfo);
+  container.appendChild(nextButton);
 }
