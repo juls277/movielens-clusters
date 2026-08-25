@@ -13,9 +13,15 @@ import {
 import {
   displayMovies,
   showMovieDetails,
-  displayRecommendations
+  displayRecommendations, displayGenreOptions
 } from "./ui.js";
+import {
+  AVAILABLE_GENRES
+} from "./clusters.js";
 
+
+// render genres immediately when page loads
+displayGenreOptions(AVAILABLE_GENRES);
 
 function handleMovieClick(movie) {
   startMovieView(movie);

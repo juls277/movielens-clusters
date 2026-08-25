@@ -24,7 +24,7 @@ export function displayMovies(movies, onMovieClick) {
 
 export function showMovieDetails(movie) {
 
-  startMovieView(movie);
+  
 
   const details = document.getElementById("movieDetails");
 
@@ -34,12 +34,6 @@ export function showMovieDetails(movie) {
   <p>${movie.overview}</p>
 `;
 
-//remove later 
-
-console.log(
-  "Stored history:",
-  loadUserHistory()
-);
 
 
 
@@ -65,3 +59,23 @@ export function displayRecommendations(recommendations) {
   }
 }
 
+export function displayGenreOptions(genres) {
+  const container =
+    document.getElementById("genresContainer");
+
+  for (const genre of genres) {
+    const label =
+      document.createElement("label");
+
+    const checkbox =
+      document.createElement("input");
+
+    checkbox.type = "checkbox";
+    checkbox.value = genre;
+
+    label.appendChild(checkbox);
+    label.append(` ${genre} `);
+
+    container.appendChild(label);
+  }
+}

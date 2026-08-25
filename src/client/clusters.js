@@ -11,6 +11,29 @@ export function createGenrePairs(genres){
   return pairs;
 }
 
+export const AVAILABLE_GENRES = [
+  "Action",
+  "Adventure",
+  "Animation",
+  "Comedy",
+  "Crime",
+  "Documentary",
+  "Drama",
+  "Family",
+  "Fantasy",
+  "Foreign",
+  "History",
+  "Horror",
+  "Music",
+  "Mystery",
+  "Romance",
+  "Science Fiction",
+  "TV Movie",
+  "Thriller",
+  "War",
+  "Western"
+];
+
 function getClusterForSeed(seed){
   if (seed.genres.length ===1 ){
     return [seed.genres[0]];
