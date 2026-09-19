@@ -51,4 +51,13 @@ comedyRecord.writeUInt32LE(comedyBytes.length, 0);
 comedyBytes.copy(comedyRecord, 4);
 
 const records = [actionRecord, comedyRecord];
+
+//2 records of the same size 
 console.log(records.length, records[0].length, records[1].length);
+
+const chosenIndex = 1;
+const chosenRecord = records[chosenIndex];
+const length = chosenRecord.readUInt32LE(0);
+const result = JSON.parse(chosenRecord.subarray(4, 4+length).toString("utf8"));
+
+console.log("Recovered IDs:", result.length, result.slice(0, 5));
