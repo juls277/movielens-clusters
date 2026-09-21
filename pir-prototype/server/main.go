@@ -2,6 +2,7 @@ package main
 
 import (
 	"flag"
+	"io"
 	"log"
 
 	"movielens-clusters/pir-prototype/fullpir"
@@ -180,6 +181,93 @@ func main() {
 			return
 		}
 	})
+	//	HANDLE QUERY
+
+	mux.HandleFunc("/query", func(
+		writer http.ResponseWriter,
+		request *http.Request,
+	) {
+		if request.Method != http.MethodPost {
+			http.Error(
+				writer,
+				"POST required",
+				http.StatusMethodNotAllowed,
+			)
+			return
+		}
+		//column count
+		queryRows := params.M
+
+		//round to multiple of 3
+		if queryRows%3 != 0 {
+			queryRows += 3 - queryRows%3
+		}
+
+		//limit request size
+		maxQueryBytes := int64(queryRows * 4)
+		request.Body = http.MaxBytesReader(
+			writer,
+			request.Body,
+			maxQueryBytes,
+		)
+
+		//bytes into matrix
+		queryMatrix, err := fullpir.ReadMatrix(
+			request.Body,
+			queryRows,
+			1,
+		)
+		if err != nil {
+			http.Error(
+				writer,
+				"invalid PIR query",
+				http.StatusBadRequest,
+			)
+			return
+		}
+
+		var extra [1]byte
+		count, readErr := request.Body.Read(extra[:])
+
+		if count != 0 || readErr != io.EOF {
+			http.Error(
+				writer,
+				"unexpected query bytes",
+				http.StatusBadRequest,
+			)
+			return
+		}
+
+		//convert matrix into simple type msg
+
+		query := pir.MakeMsg(queryMatrix)
+		queries := pir.MakeMsgSlice(query)
+
+		answer := scheme.Answer(
+			database,
+			queries,
+			pir.MakeState(),
+			sharedState,
+			params,
+		)
+
+		writer.Header().Set(
+			"Content-Type",
+			"application/octet-stream",
+		)
+
+		answerMatrix := answer.Data[0]
+
+		if err := fullpir.WriteMatrix(
+			writer,
+			answerMatrix,
+		); err != nil {
+			log.Print(err)
+			return
+		}
+		log.Print("answered one private cluster query")
+	})
+
 	log.Printf("listening on http://%s", *address)
 	//start server
 	if err := http.ListenAndServe(*address, mux); err != nil {
