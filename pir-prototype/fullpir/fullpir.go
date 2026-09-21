@@ -8,13 +8,14 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
+	"io"
 	"os"
 	"path/filepath"
 	"sort"
 	"strings"
-)
 
-const BlockBytes = 32
+	"github.com/ahenzinger/simplepir/pir"
+)
 
 type Catalog struct {
 	Names      []string `json:"names"`
@@ -23,7 +24,7 @@ type Catalog struct {
 }
 
 // movie contains the fields that will be privately retrieved.
-type movie struct {
+type Movie struct {
 	ID     int64    `json:"id"`
 	Genres []string `json:"genres"`
 }
@@ -55,7 +56,7 @@ func LoadClusters(root string) (Catalog, [][]byte, error) {
 		}
 	}
 
-	// The order determines the PIR index of every cluster.
+	// order to determive pir index of every cluster
 	sort.Strings(names)
 
 	if len(names) < 2 {
@@ -65,29 +66,25 @@ func LoadClusters(root string) (Catalog, [][]byte, error) {
 		)
 	}
 
-	// Each element will contain one compressed complete cluster.
+	// one compressed cluster
 	compressed := make([][]byte, len(names))
 
-	// We need the largest size so all records can be padded equally.
+	// get the largest size for equal padding
 	maxLength := 0
 
 	for index, name := range names {
-		// Convert "single/Drama" into:
-		// "../data/processed/single/Drama.json".
+
 		path := filepath.Join(
 			root,
 			filepath.FromSlash(name)+".json",
 		)
 
-		// Read the original complete cluster file.
 		rawJSON, err := os.ReadFile(path)
 		if err != nil {
 			return Catalog{}, nil, err
 		}
 
-		// Decode every movie in this cluster.
-		// Go keeps ID and genres and ignores unrelated source fields.
-		var movies []movie
+		var movies []Movie
 
 		if err := json.Unmarshal(rawJSON, &movies); err != nil {
 			return Catalog{}, nil, fmt.Errorf(
@@ -111,7 +108,6 @@ func LoadClusters(root string) (Catalog, [][]byte, error) {
 			return Catalog{}, nil, err
 		}
 
-		// Closing finishes the gzip stream.
 		if err := gzipWriter.Close(); err != nil {
 			return Catalog{}, nil, err
 		}
@@ -124,10 +120,9 @@ func LoadClusters(root string) (Catalog, [][]byte, error) {
 		}
 	}
 
-	// Create a fingerprint for this data and database layout.
 	digest := sha256.New()
 
-	// If we later change the layout, we change this string.
+	// layout changes here
 	digest.Write([]byte("simplepir-column-layout-v2"))
 
 	for index, name := range names {
@@ -140,7 +135,6 @@ func LoadClusters(root string) (Catalog, [][]byte, error) {
 		digest.Write(compressed[index])
 	}
 
-	// Convert the fingerprint into a hexadecimal string.
 	version := hex.EncodeToString(digest.Sum(nil))
 
 	// Every record begins with a four-byte compressed-data length.
@@ -173,4 +167,122 @@ func LoadClusters(root string) (Catalog, [][]byte, error) {
 	}
 
 	return catalog, records, nil
+}
+
+func Parameters(count int) (pir.Params, pir.DBinfo, uint64, error) {
+	scheme := pir.SimplePIR{}
+
+	params := scheme.PickParamsGivenDimensions(
+		1,             //one db row
+		uint64(count), //one column for every cluster
+		1<<10,         //1024, the LWE secret dimension
+		32,            //use 32-bit modus
+	)
+	// l = rows, m = cols
+	slots := params.L * params.M
+
+	database := pir.SetupDB(slots, 8, &params)
+	info := database.Info
+
+	if params.L != 1 ||
+		params.M != uint64(count) ||
+		params.P <= 255 ||
+		info.Ne != 1 ||
+		info.Packing != 1 {
+		return params, info, slots, fmt.Errorf(
+			"unsupported SimplePIR byte layout",
+		)
+	}
+
+	return params, info, slots, nil
+}
+
+func WriteMatrix(writer io.Writer, matrix *pir.Matrix) error {
+	valueCount := matrix.Rows * matrix.Cols
+	//alloc 4 bytes per value
+	data := make([]byte, valueCount*4)
+
+	for row := uint64(0); row < matrix.Rows; row++ {
+		for column := uint64(0); column < matrix.Cols; column++ {
+			position := row*matrix.Cols + column
+			bytePosition := position * 4
+			value := matrix.Get(row, column)
+			binary.LittleEndian.PutUint32(
+				data[bytePosition:bytePosition+4],
+				uint32(value),
+			)
+		}
+	}
+
+	_, err := writer.Write(data)
+	return err
+}
+
+// / convert receives bytes back into matrix
+func ReadMatrix(
+	reader io.Reader,
+	rows uint64,
+	columns uint64,
+) (*pir.Matrix, error) {
+	byteCount := rows * columns * 4
+	data := make([]byte, byteCount)
+	if _, err := io.ReadFull(reader, data); err != nil {
+		return nil, err
+	}
+	matrix := pir.MatrixNew(rows, columns)
+	for row := uint64(0); row < rows; row++ {
+		for column := uint64(0); column < columns; column++ {
+			position := row*columns + column
+			bytePosition := position * 4
+
+			value := binary.LittleEndian.Uint32(
+				data[bytePosition : bytePosition+4],
+			)
+			matrix.Set(
+				uint64(value),
+				row,
+				column,
+			)
+		}
+	}
+
+	return matrix, nil
+}
+
+// DECODE ONE FULL PADDED RECORD
+func DecodeRecord(record []byte) ([]Movie, error) {
+	//ensure length exists
+	if len(record) < 4 {
+		return nil, fmt.Errorf("record is too short")
+	}
+
+	compressedLength := int(
+		binary.LittleEndian.Uint32(record[:4]),
+	)
+
+	if compressedLength > len(record)-4 {
+		return nil, fmt.Errorf("invalid compressed length")
+	}
+
+	compressedData := record[4 : 4+compressedLength]
+
+	gzipReader, err := gzip.NewReader(
+		bytes.NewReader(compressedData),
+	)
+	if err != nil {
+		return nil, err
+	}
+	defer gzipReader.Close()
+
+	clusterJSON, err := io.ReadAll(gzipReader)
+	if err != nil {
+		return nil, err
+	}
+
+	var movies []Movie
+
+	if err := json.Unmarshal(clusterJSON, &movies); err != nil {
+		return nil, err
+	}
+	return movies, nil
 }
