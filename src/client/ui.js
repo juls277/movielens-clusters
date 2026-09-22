@@ -26,9 +26,8 @@ export function showMovieDetails(movie) {
   const details = document.getElementById("movieDetails");
 
   details.innerHTML = `
-  <h3>${movie.title}</h3>
+  <h3>Movie ID: ${movie.id}</h3>
   <p>${movie.genres.join(", ")}</p>
-  <p>${movie.overview}</p>
 `;
 
 
@@ -47,7 +46,7 @@ export function displayRecommendations(recommendations) {
       document.createElement("div");
 
     item.innerHTML = `
-      <h3>${recommendation.title}</h3>
+      <h3>Movie ID: ${recommendation.id}</h3>
       <p>${recommendation.genres.join(", ")}</p>
       <p>Score: ${recommendation.score.toFixed(3)}</p>
     `;
@@ -95,7 +94,7 @@ function renderMoviePage(movies, page, onMovieClick){
       document.createElement("button");
 
     movieButton.textContent =
-      movie.title;
+      `Movie ${movie.id}`;
 
     movieButton.addEventListener("click", () => {
       onMovieClick(movie);

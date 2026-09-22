@@ -114,7 +114,6 @@ export function getTopNRecommendations(rankedCandidates, limit){
   const recommendations = top.map((item)=> {
     return {
       id: item.movie.id,
-      title: item.movie.title,
       genres: item.movie.genres,
       score: item.score
     }

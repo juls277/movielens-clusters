@@ -9,7 +9,6 @@ function saveHistoryItem(movie, timeSpent){
 
    history.push({
     id: movie.id,
-    title: movie.title,
     genres: movie.genres,
     timeSpent: timeSpent
   });
