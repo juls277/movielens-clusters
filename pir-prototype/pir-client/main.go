@@ -21,7 +21,7 @@ func main() {
 	address := flag.String(
 		"listen",
 		"127.0.0.1:3002",
-		"local UI server address",
+		"local PIR client address",
 	)
 	cacheDir := flag.String(
 		"cache-dir",
@@ -89,7 +89,7 @@ func main() {
 	mux.Handle("/", http.FileServer(http.Dir(*uiDir)))
 
 	log.Printf("serving browser UI from %s", *uiDir)
-	log.Printf("local UI server listening on http://%s", *address)
+	log.Printf("local PIR client listening on http://%s", *address)
 	if err := http.ListenAndServe(*address, mux); err != nil {
 		log.Fatal(err)
 	}
