@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"flag"
 	"io"
 	"log"
@@ -203,38 +204,38 @@ func main() {
 			queryRows += 3 - queryRows%3
 		}
 
-		//limit request size
-		maxQueryBytes := int64(queryRows * 4)
+		// Limit the body to one byte beyond the expected size so oversized
+		// requests can be detected without accepting unbounded input.
+		expectedQueryBytes := int(queryRows * 4)
 		request.Body = http.MaxBytesReader(
 			writer,
 			request.Body,
-			maxQueryBytes,
+			int64(expectedQueryBytes+1),
 		)
 
-		//bytes into matrix
+		queryBytes, err := io.ReadAll(request.Body)
+		if err != nil || len(queryBytes) != expectedQueryBytes {
+			http.Error(writer, "invalid PIR query size", http.StatusBadRequest)
+			return
+		}
+
+		queryDigest := sha256.Sum256(queryBytes)
+		querySHA256 := hex.EncodeToString(queryDigest[:])
+		log.Printf(
+			"REMOTE SERVER received binary PIR query bytes=%d first32=%s sha256=%s",
+			len(queryBytes),
+			previewHex(queryBytes),
+			querySHA256,
+		)
+
+		// Convert the binary query into the matrix expected by SimplePIR.
 		queryMatrix, err := fullpir.ReadMatrix(
-			request.Body,
+			bytes.NewReader(queryBytes),
 			queryRows,
 			1,
 		)
 		if err != nil {
-			http.Error(
-				writer,
-				"invalid PIR query",
-				http.StatusBadRequest,
-			)
-			return
-		}
-
-		var extra [1]byte
-		count, readErr := request.Body.Read(extra[:])
-
-		if count != 0 || readErr != io.EOF {
-			http.Error(
-				writer,
-				"unexpected query bytes",
-				http.StatusBadRequest,
-			)
+			http.Error(writer, "invalid PIR query", http.StatusBadRequest)
 			return
 		}
 
@@ -251,21 +252,25 @@ func main() {
 			params,
 		)
 
-		writer.Header().Set(
-			"Content-Type",
-			"application/octet-stream",
-		)
-
 		answerMatrix := answer.Data[0]
-
-		if err := fullpir.WriteMatrix(
-			writer,
-			answerMatrix,
-		); err != nil {
+		var answerBody bytes.Buffer
+		if err := fullpir.WriteMatrix(&answerBody, answerMatrix); err != nil {
 			log.Print(err)
 			return
 		}
-		log.Print("answered one private cluster query")
+		answerBytes := answerBody.Bytes()
+
+		log.Printf(
+			"REMOTE SERVER generated encoded answer bytes=%d first32=%s",
+			len(answerBytes),
+			previewHex(answerBytes),
+		)
+
+		writer.Header().Set("Content-Type", "application/octet-stream")
+		writer.Header().Set("X-PIR-Query-SHA256", querySHA256)
+		if _, err := writer.Write(answerBytes); err != nil {
+			log.Print(err)
+		}
 	})
 
 	log.Printf("listening on http://%s", *address)
@@ -274,4 +279,11 @@ func main() {
 		log.Fatal(err)
 	}
 
+}
+func previewHex(data []byte) string {
+	limit := 32
+	if len(data) < limit {
+		limit = len(data)
+	}
+	return hex.EncodeToString(data[:limit])
 }
