@@ -111,14 +111,15 @@ async function main(selectedGenres) {
     selectedGenres
   );
 
-  const selectedPairs =
-    createGenrePairs(selectedGenres);
+  const selectedClusters = selectedGenres.length === 1
+    ? selectedGenres
+    : createGenrePairs(selectedGenres);
 
   const clusterResults =
-    await fetchClusters(selectedPairs);
+    await fetchClusters(selectedClusters);
 
   printClusterSizes(
-    selectedPairs,
+    selectedClusters,
     clusterResults
   );
 
@@ -140,11 +141,21 @@ async function main(selectedGenres) {
   
 }
 
+function waitForPaint() {
+  return new Promise((resolve) => {
+    requestAnimationFrame(() => {
+      requestAnimationFrame(resolve);
+    });
+  });
+}
+
 //BUTTONS 
 const loadMoviesButton = document.getElementById('loadMoviesButton');
 
 
-loadMoviesButton.addEventListener("click", ()=> {
+loadMoviesButton.addEventListener("click", async () => {
+  const startedAt = performance.now();
+
   console.log("Load movies clicked");
 
   const checkedGenres = document.querySelectorAll('input[type="checkbox"]:checked');
@@ -158,12 +169,22 @@ loadMoviesButton.addEventListener("click", ()=> {
     selectedGenres
   );
 
-   main(selectedGenres).catch((error) => {
+  try {
+    await main(selectedGenres);
+
+    // DOM changes are synchronous, but the user does not see them until paint.
+    await waitForPaint();
+
+    const responseTime = performance.now() - startedAt;
+    console.log(
+      `Click-to-display response time: ${responseTime.toFixed(1)} ms`
+    );
+  } catch (error) {
     console.error(
       "Client failed:",
       error
     );
-  });
+  }
 
   
 });
@@ -184,4 +205,3 @@ recommendButton.addEventListener('click', ()=>{
 window.addEventListener("pagehide", () => {
   saveCurrentMovieView();
 });
-
